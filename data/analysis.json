@@ -1,53 +1,52 @@
 {
-  "date": "August 08, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Open water swim at Carlsbad went well -- 1.4mi with TSS 24 and controlled HR 114. This is solid swim volume and execution. However, you had two swims yesterday (OWS + pool 1.7mi), which is unusual and not on your scheduled plan that called for a rest day Friday.",
-  "todayRecommendation": "Complete the scheduled 90-minute outdoor ride in aero on the QR Kilo at Z2. This is a critical session -- your back needs progressive exposure to the aero position after the bike fit, and you're 71 days out from a 112-mile ride. Do not skip this.",
-  "weekProgress": "Week 3 of 13 is at 82% of target TSS (343/420), but Saturday's 90-minute ride will bring you close or over target with Sunday's 6-mile run remaining. The week structure looks solid if you execute today's ride.",
-  "keyInsight": "Your run is tracking well (10mi session on Aug 4, solid placement at Oregon), but bike volume is the current limiter -- only 1 brick completed and bike readiness is rated 64/100 with 71 days to race.",
+  "date": "August 09, 2026",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "65-mile ride at 153 TSS is solid long-bike work for this phase of the build. Average HR of 128 suggests controlled effort in the Z2 range. This is exactly the kind of back-to-back bike volume (following Wednesday's brick) the week was designed to deliver -- your back needs progressive exposure to long aero time before Sacramento.",
+  "todayRecommendation": "Complete the planned 6-mile long run at walk/run 9:1 protocol. Note hip status carefully after yesterday's 65-mile ride -- this is the first back-to-back long bike + long run sequence in the Sacramento block, so watch for any association between the bike load and hip/back feedback today.",
+  "weekProgress": "Week 3 of 13 is already at 496 TSS vs. 420 target (118% complete). Yesterday's 65-mile ride delivered the planned long-bike volume. Today's 6-mile run closes out the week -- you're ahead of target, not behind.",
+  "keyInsight": "Run readiness is the strongest discipline at 97/100, but nutrition execution at 60/100 is now the largest race-day risk -- you need a structured carb/hydration log started immediately.",
   "alerts": [
-    "Bike fit validation under long-duration load is incomplete -- today's 90min ride is essential",
-    "Only 1 brick workout completed in this build (scheduled 2 total) -- brick execution needs attention",
-    "Nutrition tracking is still absent (60/100 readiness score) -- no carb/hydration log exists yet",
-    "Last night's sleep score dropped to 69 with low REM (29min) -- monitor fatigue closely today"
+    "No structured nutrition log exists yet -- Oregon fade at miles 10-13 was caused by missing 130g carbs, and Sacramento run is twice the distance",
+    "Sleep score dropped to 69 on Aug 8 after the long ride -- watch recovery quality heading into next week"
   ],
   "positives": [
-    "10-mile run on Aug 4 at TSS 108 shows strong run endurance building appropriately",
-    "Swim consistency is excellent -- 4 swim sessions in 7 days with controlled HR and good volume",
-    "7-day average sleep score is 75/100 with stable RHR (54-56) indicating adequate recovery baseline"
+    "10-mile run on Aug 4 (108 TSS) demonstrates race-distance exposure is building appropriately",
+    "Back-to-back bike volume (Wed brick + Sat long ride) executed as planned -- exactly what the week called for",
+    "7-day average sleep score of 81/100 with consistent RHR of 54 shows good baseline recovery capacity"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (bike 64/100, run 97/100, nutrition 60/100)",
-    "Last 7 days training log (6 swim sessions, 10mi run Aug 4)",
-    "Garmin sleep data (last night 69 score, 29min REM, 7-day avg 75)",
-    "Week TSS tracking (343/420, 82% complete)"
+    "Readiness engine (run 97/100, nutrition 60/100)",
+    "Yesterday's ride: 65mi, 153 TSS, HR 128",
+    "7-day sleep data (avg score 81, RHR 54)",
+    "Weekly TSS 496/420 (118% complete)",
+    "Last 7 days training log (1 brick, 2 swims, 3 runs, 2 bikes)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "7 days of complete training and sleep data available, but nutrition execution is not tracked yet, and bike fit validation under race-duration load remains incomplete with only 3 weeks into a 13-week build."
+    "reason": "Sleep, TSS, and activity data are complete for the past 7 days, but no structured nutrition log exists yet and HRV is not tracked -- limits ability to assess fueling execution and autonomic recovery trends."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, stable) -- monitoring progressive run load",
-    "Active race (Ironman California Oct 18, 71 days out)",
-    "Bike fit completed post-Oregon to address back/foot pain",
+    "Hip history (Perthes, right hip)",
     "Walk/run 9:1 protocol",
-    "Age 54, TRT managed"
+    "Oregon lesson: zero run calories caused fade",
+    "Professional bike fit completed",
+    "Sacramento race Oct 18 (70 days out)"
   ],
   "race_implications": [
-    "Bike readiness (64/100) is the current limiter for a 6:37 target -- 90min+ rides must become consistent",
-    "Nutrition tracking gap (60/100) is a race-day risk -- Oregon's run fade from missing 130g carbs cannot repeat",
-    "Run endurance is tracking well (97/100) but needs brick validation to confirm run-off-bike execution"
+    "Run discipline is tracking well (97/100), but the marathon is 2.6x longer than your longest run -- progressive distance build is critical",
+    "Nutrition execution gap (60/100) is a direct race-day limiter -- Oregon proved that missing calories collapse the run, and Sacramento is a full marathon",
+    "Back-to-back bike exposure (65mi after brick) is building the aero endurance needed for the 112-mile flat course"
   ],
   "recommended_adjustments": [
-    "Execute today's 90-minute ride in full aero position and log any back/hip discomfort -- this validates the bike fit under progressive load",
-    "Start a structured nutrition log this week -- track carb/hydration/sodium intake on at least one long ride and one long run to build race-day protocol",
-    "Prioritize the second brick workout in the next 2 weeks -- run-off-bike execution needs validation before taper"
+    "Start a structured nutrition log immediately -- track carbs, hydration, and sodium for every brick and long run from this point forward",
+    "After today's 6-mile run, document hip/back status in detail -- this is the first back-to-back long bike + long run, so note any associations",
+    "If sleep quality drops below 75 for two consecutive nights next week, add a short nap or move one workout to recovery intensity"
   ],
-  "generatedAt": "2026-08-08",
-  "daysToRace": 71,
+  "generatedAt": "2026-08-09",
+  "daysToRace": 70,
   "currentWeek": 3,
   "weekPhase": "Base"
 }
