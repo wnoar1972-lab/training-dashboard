@@ -4,10 +4,10 @@
   "race_type": "full_distance_triathlon",
   "current_week": 3,
   "total_weeks": 13,
-  "overall_score": 79,
+  "overall_score": 80,
   "overall_status": "On track",
   "overall_confidence": "low",
-  "strongest_positive_factor": "run (97/100): Race-distance exposure: longest run session is 10.0mi (38% of race distance).",
+  "strongest_positive_factor": "run (100/100): Volume: 656 TSS in the last 28 days vs. an expected ~588 for week 3.",
   "largest_limiter": "nutrition (60/100): No structured nutrition log (carb/hydration/sodium execution) exists yet.",
   "next_action": "Start logging carbohydrate/hydration execution on key sessions -- there's currently no evidence to score this from.",
   "weights_used": {
@@ -42,15 +42,15 @@
       "confidence": "low-moderate"
     },
     "run": {
-      "score": 97,
+      "score": 100,
       "status": "Strong",
-      "top_factor": "Race-distance exposure: longest run session is 10.0mi (38% of race distance).",
-      "top_limiter": "Volume: 551 TSS in the last 28 days vs. an expected ~588 for week 3.",
+      "top_factor": "Volume: 656 TSS in the last 28 days vs. an expected ~588 for week 3.",
+      "top_limiter": "Race-distance exposure: longest run session is 10.2mi (39% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 9,
-      "weeks_observed": 2,
-      "confidence": "low"
+      "sessions_in_window": 10,
+      "weeks_observed": 3,
+      "confidence": "low-moderate"
     },
     "recovery": {
       "score": 82,
