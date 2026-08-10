@@ -2,47 +2,48 @@
   "date": "August 10, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Solid 10.2mi long run at 144 HR, generating 105 TSS -- you're executing the volume prescribed for week 4 of the build. This was the longest run of the build so far and you held consistent HR across the distance. Hip status not documented, but the fact you completed the distance without flagging pain is a good sign.",
-  "todayRecommendation": "Execute today's double: ROUVY 75min at NP 140-148w, then easy 4mi run at walk/run 9:1. Keep the bike power disciplined in the target range -- this is aerobic conditioning, not a test. The run should feel genuinely easy after yesterday's 10-miler.",
-  "weekProgress": "Week 4 of 13 starts today with 0 of 480 TSS complete. This is normal -- the weekly target is back-loaded toward Wednesday's brick, Saturday's 50-mile ride, and Sunday's 8-mile run. You're on schedule.",
-  "keyInsight": "You just completed back-to-back 10-mile runs (Aug 4 and Aug 9) without documented hip issues -- this is your first sustained multi-week run volume test in the build and so far it's holding.",
+  "yesterdayAnalysis": "10.2 mile long run completed at 105 TSS with HR 144 -- solid work that aligns with the week 4 build phase. This represents your second consecutive Sunday with double-digit mileage, which is appropriate progressive loading 69 days out from Sacramento. No pain or mechanical notes logged, which is the outcome we need to see consistently.",
+  "todayRecommendation": "Execute the scheduled ROUVY 75 min at NP 140-148w followed by the easy 4mi run with walk/run 9:1 protocol. This is your first brick of the week -- treat the bike power targets as mandatory and the run as pure recovery effort to groove the transition.",
+  "weekProgress": "Week 4 of 13 is 0% complete at 0/480 TSS, which is normal for Monday morning. With the brick today, swim/run Tuesday, another brick Wednesday, and the 50mi outdoor ride Saturday plus 8mi run Sunday, the back-loaded structure should hit target without issue.",
+  "keyInsight": "Run volume and consistency are carrying this build right now at 98/100 readiness, but nutrition execution remains the single largest race-day liability at 60/100 with no structured log in place yet.",
   "alerts": [
-    "No structured nutrition log exists yet -- carb/hydration/sodium execution during long sessions is still unvalidated with 69 days to race",
-    "SpO2 dropped to 91% last night (Aug 10) -- watch for pattern if it repeats"
+    "No structured nutrition log exists 69 days from race day -- carb/hydration/sodium execution during long rides and runs must be documented starting this week",
+    "Saturday's 50mi outdoor ride is the first real test of the post-fit bike position under race-duration load -- any pain or position issues need immediate documentation"
   ],
   "positives": [
-    "Back-to-back 10-mile runs at consistent 144 HR show run durability is building",
-    "Sleep score averaging 82/100 over the last 7 days with good consistency (5 of 7 nights \u226580)",
-    "You're coming into week 4 fresh after Sunday's long run -- rested heart rate holding steady at 53-54"
+    "10.2mi run yesterday executed with no reported pain or issues -- hip and back holding up under progressive load",
+    "Sleep quality averaging 82/100 over 7 days with consistent RHR ~54 -- recovery capacity is strong",
+    "TSS accumulation last 7 days (545) exceeded weekly target, demonstrating work capacity is present"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 8,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: run 98/100, bike 72/100, swim 69/100, recovery 82/100",
-    "Last 7 days training log: 545 TSS across 7 activities",
-    "Garmin sleep: 7-day avg 82/100, RHR 54, SpO2 94% avg",
-    "Yesterday's run: 10.2mi, 105 TSS, 144 HR"
+    "Readiness engine (run 98/100, overall 78/100)",
+    "Last 7 days training data showing 545 accumulated TSS",
+    "Garmin sleep data (7-day avg 82/100, RHR 54)",
+    "Yesterday's 10.2mi run at 105 TSS",
+    "Week 4 scheduled plan showing 480 TSS target"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Run volume and sleep data are consistent over 7 days, but hip status is not systematically documented post-workout, nutrition execution is untracked, and no HRV baseline exists to validate recovery state objectively."
+    "reason": "Strong data on run/bike/swim execution and sleep quality over 4 weeks of build, but no HRV tracking, no nutrition log, and Saturday's 50mi ride will be the first real validation of the new bike fit under race-relevant duration."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, right) -- back-to-back run days flagged as risk factor",
+    "Hip history (Perthes, right hip) -- monitoring progressive run loading",
     "Walk/run 9:1 protocol on all runs",
-    "Professional bike fit completed before this build",
-    "Age 54, TRT managed",
-    "Sacramento IM 69 days out"
+    "Post-fit bike position not yet validated under long-duration load",
+    "Nutrition execution failure at Oregon 70.3 (130g carbs missing, run fade)",
+    "69 days to IM California Sacramento"
   ],
   "race_implications": [
-    "Run durability at 10+ miles is tracking well for the 26.2mi target -- volume progression is appropriate",
-    "Bike fit validation under load starts this week (50mi Saturday) -- this is the first real test of whether the Oregon pain issues are resolved",
-    "Nutrition execution gap is the largest race-day risk right now -- 60/100 readiness score means you still don't have a validated fueling plan with 10 weeks to go"
+    "Run fitness trajectory supports the 4:45 marathon target if nutrition execution is fixed and bike position holds up",
+    "Nutrition remains the highest-probability failure mode for Sacramento -- without a structured log and practice, the Oregon fade will repeat",
+    "Saturday's 50mi ride is a critical validation point -- any position-related pain signals a bike fit problem that must be resolved before the taper"
   ],
   "recommended_adjustments": [
-    "Document hip status explicitly after every run (pain yes/no, location, intensity 1-10) -- you need data to spot associations before they become problems",
-    "Start logging nutrition on all rides/runs \u226575 minutes this week -- carbs per hour, hydration volume, sodium intake, and gut tolerance notes",
-    "After Saturday's 50-mile ride, document back and foot status specifically -- this is the bike fit validation checkpoint"
+    "Start logging nutrition today: document carb intake (grams), hydration (oz), and sodium (mg) for every workout over 60 minutes -- use a simple spreadsheet or TrainingPeaks notes field",
+    "On Saturday's 50mi ride, execute race nutrition protocol exactly as planned for Sacramento and document what you consumed, when, and any GI or energy issues",
+    "After Sunday's 8mi run, log hip/back/foot status explicitly in workout notes -- 'no issues' counts as data we need to see"
   ],
   "generatedAt": "2026-08-10",
   "daysToRace": 69,
