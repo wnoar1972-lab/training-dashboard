@@ -240,5 +240,38 @@
     "avgHR": 144.0,
     "distance": 16335.4,
     "duration": 5883.0
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 6.0,
+    "np": 0,
+    "avgHR": 122.0,
+    "distance": 1623.9,
+    "duration": 612.0
+  },
+  {
+    "date": "2026-08-10",
+    "title": "ROUVY - IRONMAN Jacksonville (First 42km",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 31.0,
+    "np": 0,
+    "avgHR": 112.0,
+    "distance": 42000.0,
+    "duration": 5218.0
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 34.0,
+    "np": 0,
+    "avgHR": 117.0,
+    "distance": 2971.8,
+    "duration": 4201.0
   }
 ]
