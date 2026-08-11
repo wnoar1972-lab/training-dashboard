@@ -4,19 +4,18 @@
   "race_type": "full_distance_triathlon",
   "current_week": 4,
   "total_weeks": 13,
-  "overall_score": 80,
+  "overall_score": 81,
   "overall_status": "On track",
   "overall_confidence": "low",
   "strongest_positive_factor": "run (98/100): Volume: 662 TSS in the last 28 days vs. an expected ~672 for week 4.",
-  "largest_limiter": "nutrition (60/100): No structured nutrition log (carb/hydration/sodium execution) exists yet.",
-  "next_action": "Start logging carbohydrate/hydration execution on key sessions -- there's currently no evidence to score this from.",
+  "largest_limiter": "equipment (60/100): No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.",
+  "next_action": "Log equipment checks and maintenance -- there's currently no evidence to score this from.",
   "weights_used": {
-    "swim": 0.2,
-    "bike": 0.3,
-    "run": 0.25,
-    "recovery": 0.15,
-    "nutrition": 0.05,
-    "equipment": 0.05
+    "swim": 0.21,
+    "bike": 0.31,
+    "run": 0.26,
+    "recovery": 0.16,
+    "equipment": 0.06
   },
   "scores": {
     "swim": {
@@ -62,16 +61,6 @@
       "nights_in_window": 29,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
-    },
-    "nutrition": {
-      "score": 60,
-      "status": "Needs attention",
-      "top_factor": "No data source implemented yet.",
-      "top_limiter": "No structured nutrition log (carb/hydration/sodium execution) exists yet.",
-      "trend": "insufficient data",
-      "evidence_window_days": null,
-      "confidence": "low",
-      "note": "Nutrition has no structured tracking yet -- this is a neutral placeholder, not a measured score."
     },
     "equipment": {
       "score": 60,

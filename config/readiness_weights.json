@@ -2,12 +2,11 @@
   "calculation_version": "1.0.0",
   "weights_by_race_type": {
     "full_distance_triathlon": {
-      "swim": 0.20,
-      "bike": 0.30,
-      "run": 0.25,
-      "recovery": 0.15,
-      "nutrition": 0.05,
-      "equipment": 0.05
+      "swim": 0.21,
+      "bike": 0.31,
+      "run": 0.26,
+      "recovery": 0.16,
+      "equipment": 0.06
     }
   },
   "default_race_type": "full_distance_triathlon",
