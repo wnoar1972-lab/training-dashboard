@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 4,
@@ -7,7 +7,7 @@
   "overall_score": 81,
   "overall_status": "On track",
   "overall_confidence": "low",
-  "strongest_positive_factor": "run (98/100): Volume: 662 TSS in the last 28 days vs. an expected ~672 for week 4.",
+  "strongest_positive_factor": "run (100/100): Volume: 821 TSS in the last 28 days vs. an expected ~672 for week 4.",
   "largest_limiter": "equipment (60/100): No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.",
   "next_action": "Log equipment checks and maintenance -- there's currently no evidence to score this from.",
   "weights_used": {
@@ -41,20 +41,20 @@
       "confidence": "low-moderate"
     },
     "run": {
-      "score": 98,
+      "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 662 TSS in the last 28 days vs. an expected ~672 for week 4.",
-      "top_limiter": "Race-distance exposure: longest run session is 10.2mi (39% of race distance).",
+      "top_factor": "Volume: 821 TSS in the last 28 days vs. an expected ~672 for week 4.",
+      "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 11,
+      "sessions_in_window": 12,
       "weeks_observed": 3,
       "confidence": "low-moderate"
     },
     "recovery": {
       "score": 82,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.5 bpm, 0.1 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_factor": "Resting HR is 54.6 bpm, 0.1 bpm vs. the all-time baseline of 54.5 bpm.",
       "top_limiter": "7-day-avg sleep score is 73/100.",
       "trend": "stable",
       "evidence_window_days": 28,

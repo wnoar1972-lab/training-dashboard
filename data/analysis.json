@@ -1,54 +1,52 @@
 {
-  "date": "August 11, 2026",
+  "date": "August 12, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "Monday's brick session was incomplete -- you logged a 1-mile run (TSS 6) instead of the scheduled 4-mile easy run after the ROUVY ride. The bike portion (26.1mi, TSS 31, NP likely below target) was shorter than the 75-minute prescription and power data suggests you rode below the 140-148w target range. This is the first brick week and execution matters -- partial completions now set a bad precedent.",
-  "todayRecommendation": "Complete today's full session: 3,000m pool swim with 4x200 steady effort, then Run Club with strict walk/run 9:1 protocol. Yesterday's short run means you need to hit the prescribed distance today -- no shortcuts.",
-  "weekProgress": "Week 4 of 13 is 15% complete (71 of 480 TSS) with 5 days remaining. You're behind schedule due to Monday's incomplete brick -- the missing 3 miles and undertargeted bike power cost you ~40-50 TSS. The week is recoverable if you execute Wed-Sun as written, but there's no margin left for skipped sessions.",
-  "keyInsight": "You cut Monday's brick short by 3 miles and rode below prescribed power -- in the first brick-focused week of a 13-week build, incomplete execution is a red flag for race readiness discipline.",
+  "yesterdayAnalysis": "You ran 12 miles at 150 HR and swam 1.8 miles Tuesday -- but today is Wednesday and the schedule calls for a brick (90 min ride + 30 min run), not yesterday's long run. You either ran out of sequence or logged the wrong date. The 12-miler was solid work (159 TSS) but it wasn't on the plan for Tuesday, which was supposed to be a pool swim and Run Club.",
+  "todayRecommendation": "Execute today's scheduled brick exactly as written: 90 min outdoor ride at NP 140-148w in aero, then immediately transition to 30 min run at 11:00/mi walk/run 9:1. This is aero conditioning and race-pace rehearsal -- both are critical and non-negotiable at week 4.",
+  "weekProgress": "Week 4 of 13: You're at 230 of 480 TSS (48%) with 4 days remaining, but the schedule is scrambled -- yesterday's 12-mile run wasn't on the plan. If you skip today's brick to compensate, you'll miss critical race-specific work. The long ride Saturday and 8-mile run Sunday will push TSS over target, but sequencing matters more than volume right now.",
+  "keyInsight": "You're running sessions out of order or logging dates incorrectly -- this derails brick timing, recovery spacing, and hip-load progression, all of which matter more than raw TSS at this stage.",
   "alerts": [
-    "Monday brick incomplete: 1mi run logged vs 4mi prescribed",
-    "Monday bike power likely below 140-148w target (TSS 31 for 26mi suggests ~120-130w)",
-    "Last night sleep: 5.5h, score 65, REM only 27min -- inadequate recovery heading into swim + Run Club",
-    "2 nights in last 7 days below 92% SpO2 (91% both nights)"
+    "Yesterday's 12-mile run was not on Tuesday's schedule (swim + Run Club was planned)",
+    "Sleep score dropped to 65 on Aug 11 (5.5h duration, 27 min REM) -- likely fatigue or stress",
+    "Two nights last week showed SpO2 below 92% (Aug 10, Aug 11) -- monitor for pattern",
+    "If you ran Tuesday's long run early, today's brick + Thursday's run + Sunday's 8-miler = 3 runs in 6 days with insufficient recovery spacing"
   ],
   "positives": [
-    "Sunday 10.2mi run (TSS 105) executed well -- strong effort at HR 144 avg",
-    "Saturday 65mi ride (TSS 153) was solid volume at steady HR 128",
-    "Pool swim yesterday (1.8mi, TSS 34) on schedule and consistent"
+    "The 12-mile run itself was strong: 159 TSS at 150 HR shows solid aerobic capacity",
+    "65-mile outdoor ride Aug 8 (153 TSS) was executed well and on schedule",
+    "Swim volume is consistent: 1.7-1.8 miles across multiple sessions last week"
   ],
   "recoveryScore": 5,
-  "trainingLoadStatus": "Optimal",
+  "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (run 98/100, bike 74/100, swim 74/100, nutrition 60/100)",
-    "Garmin sleep data (last night 5.5h, score 65)",
-    "Intervals.icu planned vs actual (Monday brick incomplete)",
-    "Last 7 days TSS distribution",
-    "SpO2 trend (2 nights at 91%)"
+    "Readiness engine (run 100/100, overall 81/100)",
+    "Garmin sleep scores (7-day avg 77, Aug 11 score 65)",
+    "Last 7 days activity log from Intervals.icu",
+    "Week 4 scheduled sessions vs actual logged dates"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "7 days of sleep and training data are available, but no structured nutrition log exists yet (readiness engine flags this at 60/100) and HRV data is not provided, limiting full recovery assessment."
+    "reason": "Sleep and activity data are complete for 7 days, but the mismatch between scheduled and logged sessions creates uncertainty about whether you're following the plan or logging dates incorrectly -- no HRV or equipment log data limits precision."
   },
   "athlete_context_considered": [
+    "Hip history (Perthes) -- back-to-back run days are a known risk",
+    "Active race: Ironman California in 67 days",
     "Walk/run 9:1 protocol on all runs",
-    "Week 4 of 13 build toward IM Sacramento (68 days out)",
-    "First brick week in build (execution patterns set now)",
-    "Hip history (Perthes) -- monitoring back-to-back run days",
-    "Professional bike fit completed (post-Oregon lesson applied)"
+    "Bike fit recently completed -- long outdoor rides now test position under load"
   ],
   "race_implications": [
-    "Incomplete brick sessions now = incomplete race-day readiness in October -- you cannot afford to shortcut the two scheduled brick rehearsals",
-    "Riding below 140-148w target suggests either effort discipline or power-meter calibration needs attention before Saturday's 50mi post-fit ride",
-    "5.5h sleep before a double-session day risks accumulating fatigue that will show up in Week 5-6 when volume increases"
+    "Brick discipline is non-negotiable for Sacramento -- skipping today's session would leave only 1 brick in 4 weeks of build",
+    "Running out of sequence disrupts hip-load progression and increases injury risk before the critical long-run block weeks 6-10",
+    "Race-pace rehearsal at 11:00/mi walk/run is the entire point of today's brick run -- missing it delays calibration you need for the marathon"
   ],
   "recommended_adjustments": [
-    "Tonight: prioritize 7.5+ hours sleep to offset last night's deficit before Wednesday's 90min ride + 30min brick",
-    "If Monday's short run was due to time constraints, block calendar time now for Wed brick (90min ride + 30min run is ~2.5h total) and Sunday long run (8mi = ~1h45-2h)",
-    "Verify power meter calibration before Saturday's 50mi ride -- TSS 31 for 26mi suggests either low effort or incorrect PM zero offset"
+    "Execute today's brick as scheduled (90 min ride + 30 min run) -- do not skip or swap",
+    "Clarify with yourself whether yesterday's 12-miler was logged on the wrong date or run out of sequence; if the latter, consider moving Thursday's easy 4-miler to Friday to avoid 3 runs in 4 days",
+    "Track sleep quality closely this week -- 5.5h on Aug 11 is a red flag; prioritize 7+ hours tonight and Thursday to support Saturday's 50-mile ride and Sunday's 8-mile run"
   ],
-  "generatedAt": "2026-08-11",
-  "daysToRace": 68,
+  "generatedAt": "2026-08-12",
+  "daysToRace": 67,
   "currentWeek": 4,
   "weekPhase": "Build"
 }
