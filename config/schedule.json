@@ -1133,12 +1133,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000m",
-            "note": "4x200 threshold sets"
+            "note": "4x200 threshold sets \u00b7 traveling \u2014 likely skipped, no need to make up"
           },
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run protocol"
+            "note": "walk/run protocol \u00b7 traveling \u2014 easy run only if flight timing allows, otherwise skip"
           }
         ]
       },
@@ -1148,12 +1148,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "outdoor mandatory \u00b7 NP 140\u2013148w \u00b7 aero conditioning"
+            "note": "outdoor mandatory \u00b7 NP 140\u2013148w \u00b7 aero conditioning \u00b7 traveling \u2014 can't replicate away from the bike, treat as missed, don't sub an indoor spin"
           },
           {
             "disc": "brick",
             "label": "Brick run 35 min",
-            "note": "walk/run 9/1 \u00b7 11:00/mi \u00b7 walk every mile"
+            "note": "walk/run 9/1 \u00b7 11:00/mi \u00b7 walk every mile \u00b7 traveling \u2014 likely skipped, tied to the missed bike"
           }
         ]
       },
@@ -1163,12 +1163,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,200m",
-            "note": "threshold sets"
+            "note": "threshold sets \u00b7 traveling \u2014 likely skipped, no need to make up"
           },
           {
             "disc": "run",
             "label": "Easy run 4mi",
-            "note": "walk/run 9/1"
+            "note": "walk/run 9/1 \u00b7 traveling \u2014 easy run if location allows, otherwise skip"
           }
         ]
       },
