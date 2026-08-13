@@ -2,47 +2,47 @@
   "date": "August 13, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Wednesday brick completed as scheduled: 23.9mi outdoor ride (TSS 44, HR 120) followed by 3.3mi run (TSS 28, HR 137). Both HR values are controlled and appropriate for this point in the build. The brick execution is on target for week 4's brick introduction focus.",
-  "todayRecommendation": "Execute the planned pool swim 3,000m with threshold sets introduced, then the easy 4mi run with walk/run 9:1 protocol. Focus on smooth threshold effort in the swim without pushing into redline -- you're building aerobic capacity, not racing.",
-  "weekProgress": "Week 4 of 13: 329 of 480 TSS completed (69%) with 3 days remaining including today. This is normal for Thursday given the long ride Saturday (50mi, first post-bike-fit outdoor ride) and long run Sunday (8mi). You're on pace to hit the weekly target.",
-  "keyInsight": "Sleep quality dropped hard on August 11 (score 65, only 5.5h, 27min REM) after the 12mi long run -- watch for cumulative fatigue as long run volume builds and prioritize sleep heading into this weekend's 50mi ride and 8mi run.",
+  "yesterdayAnalysis": "Yesterday's brick session (24mi bike at TSS 44, HR 120 + 3.3mi run at TSS 28, HR 137) was executed correctly and demonstrates improving brick tolerance. The run HR of 137 after the bike is steady and controlled. This was your third brick of the build, showing you're following the protocol to get two race-rehearsal bricks completed before Sacramento.",
+  "todayRecommendation": "Execute today's planned pool swim (3,000m with 4x200 threshold introduction) and easy 4mi run (walk/run 9/1). Keep the run truly easy -- this is a recovery day before Friday's rest and Saturday's critical 50mi post-bike-fit outdoor ride.",
+  "weekProgress": "Week 4 of 13: You're at 329 of 480 TSS (69% complete) with 3 days remaining. This is appropriate pacing since Saturday's 50mi ride and Sunday's 8mi long run will deliver the majority of remaining load. You're on track to hit the target.",
+  "keyInsight": "The 65mi ride on Aug 8 (TSS 153) was your longest post-fit ride to date, and you followed it with a strong 12mi run on Aug 11 -- this is genuine progress in stacking load, which is exactly what Sacramento demands.",
   "alerts": [
-    "August 11 sleep: 5.5h duration, 27min REM, score 65 -- significant deficit after long run",
-    "2 nights in last 7 days below 92% SpO2 (Aug 10, Aug 11) -- monitor for patterns with training load"
+    "Sleep on Aug 11 was poor (score 65, only 5.5h, REM crashed to 27min) -- likely from the back-to-back long ride and run. Monitor whether this pattern repeats.",
+    "Two nights in the last 7 showed SpO2 below 92% (Aug 10 and Aug 11) -- track whether this correlates with high training load or night sweating."
   ],
   "positives": [
-    "Brick execution is consistent: 3 bricks completed (Aug 3, 10, 12) as scheduled in week 4 focus",
-    "Run volume tracking strong: 849 TSS in 28 days vs expected ~672 -- readiness engine scores run at 100/100",
-    "Wednesday brick HR control excellent: bike 120bpm, run 137bpm -- good discipline in aerobic zone"
+    "Run volume is significantly ahead of plan (849 TSS in 28 days vs ~672 expected) and you're maintaining walk/run discipline",
+    "Brick execution is on schedule (3 completed, including yesterday's solid session)",
+    "The 65mi ride at TSS 153 with HR 128 shows you're handling long bike load well post-bike-fit"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: Overall 82/100, Run 100/100, Swim 77/100, Bike 76/100",
-    "Garmin sleep data: 7-day avg 79/100, Aug 11 outlier (65 score, 5.5h)",
-    "Last 7 days training log: 3 bricks completed, TSS accumulation on track",
-    "Week 4 planned vs actual: 329/480 TSS with 3 days remaining"
+    "Readiness engine (run 100/100, bike 76/100, swim 77/100, recovery 82/100)",
+    "Garmin sleep scores (7-day avg 79/100, SpO2 avg 93.6%)",
+    "Last 7 days training log (849 TSS run in 28d, 3 bricks completed)",
+    "Week 4 TSS tracking (329 of 480, 69% complete)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep, HR, TSS, and distance data are complete for the last 7 days; readiness engine provides useful benchmarks; no HRV data, nutrition tracking, or equipment maintenance log yet limits full picture."
+    "reason": "Good data completeness on training load, sleep, and brick execution over 23 days of the build, but no HRV tracking, no structured equipment log, and only one long ride post-bike-fit limits ability to assess bike position validation and recovery trends."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes) and progressive long-run build constraint",
-    "Walk/run 9:1 protocol on all runs",
-    "Professional bike fit completed prior to build",
-    "Age 54, TRT management",
-    "Sacramento IM race Oct 18 (66 days out)"
+    "Hip history (Perthes, right hip -- stable)",
+    "Walk/run 9/1 protocol on all runs",
+    "Bike fit completed before Sacramento build",
+    "Race target: IM California Sacramento 2026-10-18 (66 days out)",
+    "Age 54, TRT managed"
   ],
   "race_implications": [
-    "Run readiness is ahead of swim/bike -- continue balanced discipline to avoid neglecting the 112mi bike component",
-    "First post-bike-fit 50mi outdoor ride Saturday is a critical validation of position changes before race rehearsal bricks",
-    "Sleep debt accumulation pattern needs monitoring -- a 12:59 Ironman finish requires sustained recovery capacity through 13-week build"
+    "Run volume at 126% of expected target is a double-edged sword: fitness is building, but watch for overuse signals, especially hip/back symptoms on Sunday's 8mi run",
+    "Brick tolerance is developing appropriately -- you need one more full race-rehearsal brick before Sacramento to validate nutrition and bike-to-run transition under fatigue",
+    "Saturday's 50mi ride is critical: first real outdoor test of the bike fit under sustained load -- note any back, foot, or saddle discomfort immediately"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5+ hours sleep tonight and Friday to enter Saturday's 50mi ride recovered",
-    "After Sunday's 8mi run (first real hip test per plan), log detailed hip/back/foot status notes -- this is your longest run post-bike-fit and a key data point",
-    "If SpO2 drops below 92% again tonight, consider sleep environment factors (room temp, hydration, nasal breathing) -- pattern may affect recovery capacity"
+    "After Saturday's 50mi ride, log specific notes on bike position comfort (back, feet, saddle pressure) -- this is your first real bike-fit validation ride and you cannot afford to discover problems at race distance",
+    "Monitor sleep quality after Sunday's 8mi run: if another crash like Aug 11 occurs, consider adding 15-30min of daytime rest or moving one weekday run to lower intensity",
+    "Begin tracking equipment checks in a structured log (tire pressure, chain lube, torque settings) -- the readiness engine flags equipment as your largest limiter (60/100) and Sacramento is 66 days away"
   ],
   "generatedAt": "2026-08-13",
   "daysToRace": 66,
