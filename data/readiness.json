@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 4,
@@ -7,7 +7,7 @@
   "overall_score": 82,
   "overall_status": "On track",
   "overall_confidence": "low",
-  "strongest_positive_factor": "run (100/100): Volume: 849 TSS in the last 28 days vs. an expected ~672 for week 4.",
+  "strongest_positive_factor": "run (100/100): Volume: 910 TSS in the last 28 days vs. an expected ~672 for week 4.",
   "largest_limiter": "equipment (60/100): No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.",
   "next_action": "Log equipment checks and maintenance -- there's currently no evidence to score this from.",
   "weights_used": {
@@ -43,11 +43,11 @@
     "run": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 849 TSS in the last 28 days vs. an expected ~672 for week 4.",
+      "top_factor": "Volume: 910 TSS in the last 28 days vs. an expected ~672 for week 4.",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 13,
+      "sessions_in_window": 14,
       "weeks_observed": 3,
       "confidence": "low-moderate"
     },
@@ -58,7 +58,7 @@
       "top_limiter": "7-day-avg sleep score is 73/100.",
       "trend": "stable",
       "evidence_window_days": 28,
-      "nights_in_window": 29,
+      "nights_in_window": 28,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     },
