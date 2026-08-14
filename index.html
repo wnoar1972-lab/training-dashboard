@@ -1348,8 +1348,8 @@ function buildReadiness(){
   }
   var r = readinessData;
   var s = r.scores || {};
-  var order = ['swim','bike','run','recovery','equipment'];
-  var icons = {swim:'🏊',bike:'🚴',run:'🏃',recovery:'💤',equipment:'⚙️'};
+  var order = ['swim','bike','run','recovery'];
+  var icons = {swim:'🏊',bike:'🚴',run:'🏃',recovery:'💤'};
 
   var tilesHtml = '<div class="rd-tile" style="border:2px solid '+rdColor(r.overall_score)+'">'+
       '<div class="rd-tile-val" style="color:'+rdColor(r.overall_score)+'">'+r.overall_score+'</div>'+

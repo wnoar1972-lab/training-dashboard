@@ -13,7 +13,7 @@ and config/readiness_weights.json (the versioned scoring configuration).
 Output: data/readiness.json.
 
 This intentionally does NOT invent data for sources that aren't ingested yet
-(HRV, body battery, training readiness, structured equipment logs).
+(HRV, body battery, training readiness).
 Where a discipline can't be scored from real evidence, it is marked with low
 confidence and an explicit "not yet tracked" limiter rather than a fabricated
 number -- per the spec's "never invent missing data" rule.
@@ -52,8 +52,7 @@ sleep = load_json("data/sleep.json", [])
 CALC_VERSION = WEIGHTS_CFG.get("calculation_version", "0.0.0")
 RACE_TYPE = RACE.get("race_type", WEIGHTS_CFG.get("default_race_type"))
 WEIGHTS = WEIGHTS_CFG.get("weights_by_race_type", {}).get(RACE_TYPE, {
-    "swim": 0.21, "bike": 0.31, "run": 0.26,
-    "recovery": 0.16, "equipment": 0.06,
+    "swim": 0.225, "bike": 0.325, "run": 0.275, "recovery": 0.175,
 })
 THRESHOLDS = WEIGHTS_CFG.get("thresholds", {
     "strong": {"min": 85, "label": "Strong"},
@@ -274,28 +273,12 @@ def recovery_score():
     }
 
 
-# ── EQUIPMENT (not yet tracked -- honest placeholder) ──────────────────────
-
-def untracked_score(domain, note):
-    return {
-        "score": 60,
-        "status": "Needs attention",
-        "top_factor": "No data source implemented yet.",
-        "top_limiter": note,
-        "trend": "insufficient data",
-        "evidence_window_days": None,
-        "confidence": "low",
-        "note": f"{domain.capitalize()} has no structured tracking yet -- this is a neutral placeholder, not a measured score.",
-    }
-
-
 # ── COMPUTE ───────────────────────────────────────────────────────────────
 
 swim = discipline_score("swim", RACE.get("swim_miles", 2.4))
 bike = discipline_score("bike", RACE.get("bike_miles", 112))
 run = discipline_score("run", RACE.get("run_miles", 26.2))
 recovery = recovery_score()
-equipment = untracked_score("equipment", "No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.")
 
 recovery_score_value = recovery["score"] if recovery["score"] is not None else 50
 
@@ -304,11 +287,9 @@ overall_score = round(
     + bike["score"] * WEIGHTS.get("bike", 0)
     + run["score"] * WEIGHTS.get("run", 0)
     + recovery_score_value * WEIGHTS.get("recovery", 0)
-    + equipment["score"] * WEIGHTS.get("equipment", 0)
 )
 
-discipline_scores = {"swim": swim, "bike": bike, "run": run, "recovery": recovery,
-                      "equipment": equipment}
+discipline_scores = {"swim": swim, "bike": bike, "run": run, "recovery": recovery}
 weighted_contribution = {k: (v["score"] if v["score"] is not None else 0) * WEIGHTS.get(k, 0)
                           for k, v in discipline_scores.items()}
 strongest = max(weighted_contribution, key=weighted_contribution.get)
@@ -322,7 +303,6 @@ overall_confidence = min(
 
 next_action = {
     "recovery": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
-    "equipment": "Log equipment checks and maintenance -- there's currently no evidence to score this from.",
 }.get(weakest, f"Prioritize {weakest} volume and long-session exposure this week -- it's the largest limiter on overall readiness.")
 
 readiness = {
@@ -343,7 +323,6 @@ readiness = {
         "bike": bike,
         "run": run,
         "recovery": recovery,
-        "equipment": equipment,
     },
     "note": "Overall vs. week-execution vs. daily readiness are distinct concepts (doc 08). This score is multi-week overall race readiness -- it is not a judgment of today's single workout or this week's completion percentage.",
 }

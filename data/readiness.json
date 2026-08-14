@@ -4,18 +4,17 @@
   "race_type": "full_distance_triathlon",
   "current_week": 4,
   "total_weeks": 13,
-  "overall_score": 82,
+  "overall_score": 84,
   "overall_status": "On track",
-  "overall_confidence": "low",
+  "overall_confidence": "low-moderate",
   "strongest_positive_factor": "run (100/100): Volume: 910 TSS in the last 28 days vs. an expected ~672 for week 4.",
-  "largest_limiter": "equipment (60/100): No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.",
-  "next_action": "Log equipment checks and maintenance -- there's currently no evidence to score this from.",
+  "largest_limiter": "recovery (82/100): 7-day-avg sleep score is 72/100.",
+  "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
-    "swim": 0.21,
-    "bike": 0.31,
-    "run": 0.26,
-    "recovery": 0.16,
-    "equipment": 0.06
+    "swim": 0.225,
+    "bike": 0.325,
+    "run": 0.275,
+    "recovery": 0.175
   },
   "scores": {
     "swim": {
@@ -61,16 +60,6 @@
       "nights_in_window": 29,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
-    },
-    "equipment": {
-      "score": 60,
-      "status": "Needs attention",
-      "top_factor": "No data source implemented yet.",
-      "top_limiter": "No structured equipment/maintenance log exists yet -- bike fit is only tracked qualitatively in the athlete profile.",
-      "trend": "insufficient data",
-      "evidence_window_days": null,
-      "confidence": "low",
-      "note": "Equipment has no structured tracking yet -- this is a neutral placeholder, not a measured score."
     }
   },
   "note": "Overall vs. week-execution vs. daily readiness are distinct concepts (doc 08). This score is multi-week overall race readiness -- it is not a judgment of today's single workout or this week's completion percentage."
