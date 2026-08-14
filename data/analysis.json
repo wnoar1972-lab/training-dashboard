@@ -2,49 +2,46 @@
   "date": "August 14, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Thursday's double session executed as planned: 1.9mi pool swim (TSS 27, HR 109) and 4mi run (TSS 61, HR 143). Swim HR remains low, which is normal for pool work. Run HR at 143 is appropriate for easy effort with walk/run protocol. Total daily TSS of 88 brought week to 390 of 480 target with 2 days remaining.",
-  "todayRecommendation": "Rest day as scheduled -- take it seriously. You have a 50-mile outdoor ride tomorrow (first post-bike-fit test) followed by an 8-mile long run Sunday. Sleep quality has been inconsistent (78/100 avg, two nights with poor SpO2), so prioritize recovery today.",
-  "weekProgress": "Week 4 of 13 sits at 390 of 480 TSS (81%) with Saturday's 50mi ride and Sunday's 8mi run still to come. This is exactly where you should be -- week TSS is intentionally back-loaded. On track to hit the target if you execute the weekend sessions.",
-  "keyInsight": "Your run volume is significantly ahead of plan (910 TSS vs expected ~672 over 28 days) -- this is not a green light to keep piling on; with your hip history and back-to-back run days in the data, watch carefully for any pain signals on Sunday's 8-miler.",
+  "yesterdayAnalysis": "Thursday delivered exactly what was scheduled: 3,000m pool swim (came in at 1.9mi/3,057m, TSS 27) with threshold work and a 4mi easy run (TSS 61, HR 143). The swim HR at 109 is well-controlled for threshold sets, and the run HR at 143 confirms easy effort compliance. Both sessions hit their marks.",
+  "todayRecommendation": "Rest day is scheduled and needed. You have a 50mi outdoor ride tomorrow (first post-bike-fit test) and an 8mi long run Sunday (first real hip test at this distance). Stay off your feet, hydrate, and do not add volume.",
+  "weekProgress": "Week 4 of 13 is tracking well: 390 TSS of 480 target (81%) with the long ride Saturday and long run Sunday still ahead. The schedule is back-loaded by design, and all prescribed sessions have been completed on time.",
+  "keyInsight": "Saturday's 50-mile ride is the first real outdoor test of your new bike fit under load -- any recurrence of back or foot pain needs to be logged immediately and addressed before the next long ride.",
   "alerts": [
-    "Sleep inconsistent: 2 nights below 92% SpO2, one night only 5.5h (score 65) -- fatigue will catch up if this continues",
-    "Run volume 35% above expected load over last 28 days -- elevated injury risk if not managed carefully",
-    "No structured equipment log exists yet -- bike fit quality won't be validated until tomorrow's 50mi ride"
+    "Sleep score 66 last night with 10.1h duration suggests recovery debt or poor quality -- monitor tonight",
+    "2 nights in the last 7 below 92% SpO2 (Aug 10-11) -- may be sensor artifact from night sweating, but track the pattern",
+    "No structured equipment/maintenance log exists yet (readiness engine flags this at 60/100) -- create one before Sacramento"
   ],
   "positives": [
-    "Brick workouts progressing well: 3 completed, Wed's 90min ride + 30min brick run executed at target pace",
-    "Run consistency strong: 14 run sessions logged in this build, walk/run protocol being practiced correctly",
-    "Yesterday's double session executed as planned with appropriate HR control"
+    "Run volume is exceptional: 910 TSS in 28 days vs. expected ~672 (100/100 readiness score) -- you're building the endurance reserve needed for a full marathon",
+    "Three brick workouts completed by Week 4 (Aug 3, 10, 12) -- race-rehearsal execution is happening on schedule",
+    "Yesterday's swim and run both hit prescribed TSS and effort targets with solid HR control -- session compliance is tight"
   ],
   "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: overall 82/100, run 100/100, swim 77/100, bike 76/100",
-    "Last 7 days training log (7 activities, TSS progression appropriate)",
-    "Last 6 nights Garmin sleep data (avg score 78/100, SpO2 avg 93.5%)",
-    "Week 4 TSS: 390 of 480 with 2 days remaining"
+    "Readiness engine: run 100/100, bike 76/100, swim 77/100, recovery 82/100, equipment 60/100",
+    "Last 7 days training log (390 TSS accumulated Mon-Thu)",
+    "Garmin sleep scores (7-day avg 77/100, last night 66)",
+    "Week 4 planned schedule vs. actual completion",
+    "SpO2 data (7-day avg 93.7%, 2 nights below 92%)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Good training and sleep data completeness over the last week, but no HRV data, no nutrition tracking yet, and the bike fit was just completed -- tomorrow's 50mi ride will be the first real validation of whether the position fixes hold under load."
+    "reason": "Sleep, TSS, HR, and session completion are tracked consistently, but no HRV data, no nutrition log, no equipment maintenance log, and only 4 weeks into a 13-week build limit pattern detection."
   },
   "athlete_context_considered": [
-    "Perthes disease right hip (stable, competing successfully)",
-    "Walk/run 9/1 protocol on all runs",
-    "Professional bike fit completed before this build",
-    "Age 54, TRT managed clinically",
-    "IM California Sacramento 65 days out"
+    "Hip history (Perthes disease, stable imaging) -- Sunday's 8mi long run is flagged as 'first real hip test'",
+    "Walk/run 9:1 protocol on all runs",
+    "Active race: Ironman California Sacramento in 65 days",
+    "Bike fit completed recently -- Saturday is first outdoor validation ride",
+    "Age 54, TRT managed by clinician"
   ],
   "race_implications": [
-    "Run volume ahead of plan increases injury risk in a 13-week build -- sustainability matters more than weekly heroics at this stage",
-    "Tomorrow's 50mi ride is critical validation of bike fit before longer rides in weeks 5-9 -- any back/foot pain needs immediate attention",
-    "Sleep inconsistency will erode recovery capacity as training load increases -- address now before it compounds"
+    "Saturday's 50mi ride will validate or reveal bike fit issues under sustained load -- if back/foot pain returns, you have 9 weeks to fix it before race day",
+    "Run volume at 135% of expected (910 vs 672 TSS) is building the aerobic base needed for a 4:45 marathon, but watch for overuse signals on Sunday's 8mi test",
+    "Week 4 TSS on pace to hit 480 target -- you're accumulating the training load needed for a sub-13-hour finish if recovery holds"
   ],
-  "recommended_adjustments": [
-    "Start tracking equipment/bike fit notes in structured log starting tomorrow -- document any pain, numbness, or position discomfort during the 50mi ride",
-    "Prioritize 7+ hours sleep and monitor SpO2 -- two nights below 92% in one week is a pattern worth breaking",
-    "Sunday's 8mi run: note hip/back/foot status carefully after -- this is your first real load test post-bike-fit, and run volume is already elevated"
-  ],
+  "recommended_adjustments": [],
   "generatedAt": "2026-08-14",
   "daysToRace": 65,
   "currentWeek": 4,
