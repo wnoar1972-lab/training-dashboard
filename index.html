@@ -114,9 +114,9 @@ body{font-family:'DM Sans',sans-serif;background:#f0f4f8;color:#1a2535;min-heigh
 .note-box{background:#eff6ff;border:1px solid #bfdbfe;border-radius:9px;padding:11px 14px;display:flex;gap:10px;align-items:flex-start}
 .note-txt{font-size:13px;color:#3b6fa0;line-height:1.7}
 
-.activity-intel{background:#fff7ed;border:1px solid #fed7aa;border-radius:9px;padding:10px 13px;display:flex;gap:9px;align-items:flex-start;margin-top:6px}
-.activity-intel-headline{font-size:12px;font-weight:700;color:#9a3412;line-height:1.5;margin-bottom:3px}
-.activity-intel-text{font-size:12px;color:#7c2d12;line-height:1.6}
+.activity-intel{background:#f8fafc;border:1px solid #e2e8f0;border-radius:9px;padding:10px 13px;display:flex;gap:9px;align-items:flex-start;margin-top:6px}
+.activity-intel-headline{font-size:12px;font-weight:700;color:#334155;line-height:1.5;margin-bottom:3px}
+.activity-intel-text{font-size:12px;color:#64748b;line-height:1.6}
 
 /* DAILY FEED */
 .feed-wrap{background:#fff;border-radius:12px;padding:1.25rem 1.5rem;box-shadow:0 2px 10px rgba(0,0,0,.07)}
@@ -403,7 +403,7 @@ footer{text-align:center;padding:1.25rem;font-family:'JetBrains Mono',monospace;
     <div class="stats">
       <div class="sc" style="border-color:#38bdf8"><div class="sc-lbl">Weeks logged</div><div class="sc-val" style="color:#0284c7" id="sc-weeks">—</div><div class="sc-sub" id="sc-weeksSub">of 13</div></div>
       <div class="sc" style="border-color:#fb923c"><div class="sc-lbl">Current phase</div><div class="sc-val" style="color:#ea580c" id="sc-phase">—</div><div class="sc-sub" id="sc-phaseSub">—</div></div>
-      <div class="sc" style="border-color:#34d399"><div class="sc-lbl">Total TSS</div><div class="sc-val" style="color:#059669" id="sc-total-tss">—</div><div class="sc-sub">logged this build</div></div>
+      <div class="sc" style="border-color:#34d399"><div class="sc-lbl">TSS to Date</div><div class="sc-val" style="color:#059669" id="sc-total-tss">—</div><div class="sc-sub" id="sc-total-tss-sub">of — expected</div></div>
       <div class="sc" style="border-color:#fbbf24"><div class="sc-lbl">Activities</div><div class="sc-val" style="color:#d97706" id="sc-acts">—</div><div class="sc-sub">total in build</div></div>
     </div>
     <div class="sec"><div class="sec-lbl">Race Readiness</div><div class="sec-rule"></div><div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#94a3b8">Multi-week evidence · not this week's completion %</div></div>
@@ -1699,8 +1699,13 @@ function buildDashboard(){
   ['sc-phase'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = getWeekPhase(curWeekNum); });
   ['sc-phaseSub'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = 'Week '+curWeekNum+' · '+weekDateRangeLabel(curWeekNum); });
   ['t-np'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = (summaryData&&summaryData.overall&&summaryData.overall.avgBikeNP>0) ? summaryData.overall.avgBikeNP+'w' : 'N/A'; });
+  var actualTSSToDate = Math.round((overall.totalSwimTSS||0) + (overall.totalBikeTSS||0) + (overall.totalRunTSS||0));
+  var expectedTSSToDate = 0;
+  for(var wk=1; wk<=curWeekNum; wk++){ expectedTSSToDate += getWeekTarget(wk); }
   var elTotalTSS = document.getElementById('sc-total-tss');
-  if(elTotalTSS) elTotalTSS.textContent = Math.round((overall.totalSwimTSS||0) + (overall.totalBikeTSS||0) + (overall.totalRunTSS||0));
+  if(elTotalTSS) elTotalTSS.textContent = actualTSSToDate;
+  var elTotalTSSSub = document.getElementById('sc-total-tss-sub');
+  if(elTotalTSSSub) elTotalTSSSub.textContent = 'of '+expectedTSSToDate+' expected';
   var elTW = document.getElementById('t-curWeek'); if(elTW) elTW.textContent = 'Week '+curWeekNum;
   var elTD = document.getElementById('t-curDates'); if(elTD) elTD.textContent = weekDateRangeLabel(curWeekNum);
 
