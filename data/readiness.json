@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 4,
@@ -8,7 +8,7 @@
   "overall_status": "On track",
   "overall_confidence": "low-moderate",
   "strongest_positive_factor": "run (100/100): Volume: 910 TSS in the last 28 days vs. an expected ~672 for week 4.",
-  "largest_limiter": "recovery (82/100): 7-day-avg sleep score is 72/100.",
+  "largest_limiter": "recovery (81/100): 7-day-avg sleep score is 72/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
     "swim": 0.225,
@@ -51,13 +51,13 @@
       "confidence": "low-moderate"
     },
     "recovery": {
-      "score": 82,
+      "score": 81,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.6 bpm, 0.2 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_factor": "Resting HR is 54.6 bpm, 0.3 bpm vs. the all-time baseline of 54.3 bpm.",
       "top_limiter": "7-day-avg sleep score is 72/100.",
       "trend": "stable",
       "evidence_window_days": 28,
-      "nights_in_window": 29,
+      "nights_in_window": 28,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     }
