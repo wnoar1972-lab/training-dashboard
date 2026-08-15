@@ -406,10 +406,10 @@ footer{text-align:center;padding:1.25rem;font-family:'JetBrains Mono',monospace;
         </div>
       </div>
     </div>
-    <div class="sec"><div class="sec-lbl">AI Daily Coaching Analysis</div><div class="sec-rule"></div><div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#94a3b8">Updated daily · Powered by Claude</div></div>
-    <div id="aiAnalysisSection"><div class="ai-loading">Loading analysis...</div></div>
     <div class="sec"><div class="sec-lbl">Race Readiness</div><div class="sec-rule"></div><div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#94a3b8">Multi-week evidence · not this week's completion %</div></div>
     <div id="readinessSection"><div class="ai-loading">Loading readiness...</div></div>
+    <div class="sec"><div class="sec-lbl">Coaching Analysis</div><div class="sec-rule"></div><div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:#94a3b8">Updated daily · Powered by Claude</div></div>
+    <div id="aiAnalysisSection"><div class="ai-loading">Loading analysis...</div></div>
 
 </div>
 </div>
@@ -1262,7 +1262,7 @@ function buildAIAnalysis(){
     '<div class="ai-card">'+
       '<div class="ai-header">'+
         '<div class="ai-header-left">'+
-          '<h3>Daily Coaching Analysis</h3>'+
+          '<h3>Coaching Analysis</h3>'+
           '<p>'+a.date+' · Week '+a.currentWeek+' · '+a.weekPhase+'</p>'+
         '</div>'+
         '<span class="ai-status" style="'+sc+'">'+a.overallStatus+'</span>'+
