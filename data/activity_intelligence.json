@@ -1,0 +1,74 @@
+[
+  {
+    "strava_id": "19689786252",
+    "date": "2026-08-10",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Short brick run off the bike — cadence held steady and effort stayed easy.",
+    "analysis": "Just over a mile in 10.2 minutes (about 10:04/mi) straight off the ROUVY ride, with cadence steady at 83 spm and heart rate topping out at 138 bpm. Relative effort was minimal at 9 — exactly what a short transition run should be.",
+    "relative_effort": 9
+  },
+  {
+    "strava_id": "19689615450",
+    "date": "2026-08-10",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN Jacksonville (First 42km)",
+    "headline": "Steady aerobic ride at controlled power — textbook base-building effort.",
+    "analysis": "87 minutes averaging 111w and 112 bpm — comfortably aerobic with a relative effort of just 28. Cadence sat lower than usual at 59 rpm, consistent with the course's terrain profile.",
+    "relative_effort": 28
+  },
+  {
+    "strava_id": "19696856237",
+    "date": "2026-08-11",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid long swim — nearly 3,000m with heart rate holding in a comfortable aerobic range.",
+    "analysis": "2,972m in just over 70 minutes, averaging 115 bpm and topping out at 129 — clearly aerobic, sustainable pacing for a swim of this length. The relative effort of 75 reflects the volume more than the intensity.",
+    "relative_effort": 75
+  },
+  {
+    "strava_id": "19705256074",
+    "date": "2026-08-11",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Massive effort — your longest run of the build and by far the hardest, with heart rate climbing into the 180s–190s late.",
+    "analysis": "12 miles in 115 minutes (about 9:34/mi), with 3 new PRs set along the way. Heart rate built steadily through the walk/run intervals, peaking at 190 bpm in the back third — a relative effort of 327 makes this the single biggest session logged this build. Worth extra recovery attention given the spike.",
+    "relative_effort": 327
+  },
+  {
+    "strava_id": "19719135917",
+    "date": "2026-08-12",
+    "disc": "bike",
+    "title": "Afternoon Ride",
+    "headline": "Nearly 24 miles at an easy aerobic effort, with three new segment PRs along the way.",
+    "analysis": "88 minutes covering 23.9 miles, averaging 118 bpm (max 144) — solidly Zone 2. Relative effort was moderate at 57, and you picked up three bronze segment PRs without pushing outside the aerobic zone.",
+    "relative_effort": 57
+  },
+  {
+    "strava_id": "19719490963",
+    "date": "2026-08-12",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Solid brick run off the bike — legs held up well at a steady aerobic effort.",
+    "analysis": "3.3 miles in just under 31 minutes (about 9:19/mi) directly after the ride, averaging 139 bpm. An effort score of 59 reflects a controlled, sustainable brick — exactly the kind of session that builds bike-to-run durability.",
+    "relative_effort": 59
+  },
+  {
+    "strava_id": "19726062970",
+    "date": "2026-08-13",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Easy recovery swim — heart rate stayed low the entire session.",
+    "analysis": "3,063m in just over 71 minutes with average heart rate at only 108 bpm (max 122) — a clearly easy, recovery-paced swim. The relative effort of 39 confirms this was about volume and technique, not intensity.",
+    "relative_effort": 39
+  },
+  {
+    "strava_id": "19733178585",
+    "date": "2026-08-13",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Strong finish with real negative splits — you pushed into the anaerobic zone over the final two miles.",
+    "analysis": "4 miles negative-split from 10:26/mi down to 9:35/mi, with heart rate climbing into the 170s–190s bpm range over the back half. Relative effort of 108 and cadence holding steady at 82 spm — a well-executed progression run.",
+    "relative_effort": 108
+  }
+]
