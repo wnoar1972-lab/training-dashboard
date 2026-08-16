@@ -70,5 +70,14 @@
     "headline": "Strong finish with real negative splits \u2014 you pushed into the anaerobic zone over the final two miles.",
     "analysis": "4 miles negative-split from 10:26/mi down to 9:35/mi, with heart rate climbing into the 170s\u2013190s bpm range over the back half. Relative effort of 108 and cadence holding steady at 82 spm \u2014 a well-executed progression run.",
     "relative_effort": 108
+  },
+  {
+    "strava_id": "19759493255",
+    "date": "2026-08-15",
+    "disc": "bike",
+    "title": "Lunch Ride",
+    "headline": "Nearly 68 miles of aerobic endurance work with 50 PRs proves that steady Zone 2 discipline pays dividends",
+    "analysis": "You held a remarkably consistent 124 bpm average across 4+ hours in the saddle, staying well below your 155 max even during those PR efforts. That massive 90-minute stretch around mile 39 shows serious mental fortitude, and your heart rate control through the final 8 miles (averaging 2:45-3:43 pace with HR in the 120s-130s) demonstrates you had plenty left in the tank. This is exactly the kind of controlled, high-volume session that builds the aerobic base triathletes need.",
+    "relative_effort": 227.0
   }
 ]
