@@ -2,51 +2,48 @@
   "date": "August 16, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "Exceptional long ride -- 67.8 miles is your longest bike session in the build and represents 60% of race distance. HR averaged 124, which is controlled and appropriate. This is a significant milestone for Sacramento preparation, but TSS 154 on top of this week's load (now 544 vs 480 target) creates a recovery debt heading into today's 8-mile run.",
-  "todayRecommendation": "Complete the planned 8-mile run with strict walk/run 9:1 protocol, but watch closely for hip, back, or foot symptoms -- this is your first real test of that right hip under extended load since the bike fit. If you feel any degradation after mile 5-6, cut it and log the details; pushing through today risks the entire build.",
-  "weekProgress": "Week 4 of 13 is complete at 113% of target TSS (544 vs 480). You've overshot the plan by executing well on every session, but the consequence is accumulated fatigue with sleep quality dropping (7-day avg 74/100, including two poor-recovery nights post-long-ride). This is your biggest training week so far -- respect what that means for recovery.",
-  "keyInsight": "You've now ridden 60% of race distance in a single session, but your sleep data shows you're not recovering from the load -- deep sleep collapsed to 8 minutes Friday night and REM spiked to compensate.",
+  "yesterdayAnalysis": "67.8mi ride at TSS 154 was your longest bike to date and hit 60% of race distance -- this is solid progress. HR averaged 124 which is appropriate for the long aerobic effort. However, this was supposed to be a 50mi ride; going 35% over planned distance the day before your first 8mi run post-bike-fit is a questionable decision that increased fatigue risk unnecessarily.",
+  "todayRecommendation": "Complete the planned 8mi run with strict walk/run 9:1 protocol and watch hip status carefully -- this is your first real test at this distance since the bike fit. If you feel compromised from yesterday's oversized ride, cut it short and reschedule rather than forcing a degraded session.",
+  "weekProgress": "Week 4 of 13 is complete at 544 TSS vs 480 target (113%). You exceeded the week by going 18 miles over on yesterday's long ride -- the schedule called for disciplined execution, not freelancing on volume during a hip-assessment week.",
+  "keyInsight": "Going rogue on planned volume (67.8mi vs 50mi scheduled) the day before a diagnostic run session shows poor impulse control that will compromise race-day execution.",
   "alerts": [
-    "Sleep score 7-day avg is 74/100 (recovery limiter per readiness engine)",
-    "Two nights below 92% SpO2 in the last 7 days",
-    "Deep sleep critically low (8min) on Aug 15 after 67.8mi ride",
-    "Weekly TSS 13% over target -- first overshoot in the build",
-    "Today's 8mi run is the first real hip test post-bike-fit -- no prior runs longer than 4mi this week"
+    "Yesterday's ride was 35% longer than scheduled -- overreach before hip-test run is risky",
+    "Sleep quality remains inconsistent: 7-day avg 74/100, with 2 nights below 92% SpO2",
+    "Deep sleep severely deficient on Aug 15 (8min) and Aug 14 (21min) post-long efforts"
   ],
   "positives": [
-    "67.8-mile ride is the longest bike session in the build and a legitimate race-prep milestone",
-    "Three brick workouts completed in 13 days (Aug 3, 10, 12) -- race execution rehearsal is happening",
-    "Run TSS placement (12mi on Aug 11, TSS 159, HR 150) shows you can handle extended run volume"
+    "67.8mi ride is your longest to date and represents meaningful race-distance progress",
+    "3 brick workouts completed successfully early in the build",
+    "Run volume building progressively: 4mi, 12mi long run executed, now testing 8mi"
   ],
   "recoveryScore": 5,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (recovery 83/100, bike 85/100, run 100/100)",
-    "Garmin sleep data (7-day avg 74/100, deep sleep 8min Aug 15)",
-    "Intervals.icu weekly TSS (544 actual vs 480 target)",
-    "Training log (67.8mi ride Aug 15, 12mi run Aug 11)",
-    "Athlete profile (hip history, bike fit completion, walk/run protocol)"
+    "Readiness engine (recovery 83/100, bike 85/100)",
+    "Garmin sleep data (7-day avg 74/100, deep sleep deficits)",
+    "Intervals.icu planned vs actual (50mi scheduled, 67.8mi executed)",
+    "TSS tracking (544 vs 480 target, 113%)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep and TSS data are complete and current, but this is only week 4 of 13 -- no HRV tracking, no nutrition logs, and the hip response to today's 8-mile run is unknown and critical to assess."
+    "reason": "Sleep and TSS data are complete, but lack of HRV tracking, nutrition logging, and specific hip-symptom notes limits ability to assess true recovery state and injury risk."
   },
   "athlete_context_considered": [
-    "Perthes disease right hip (stable, but untested at 8mi post-bike-fit)",
-    "Walk/run 9:1 protocol (mandatory today)",
-    "Sacramento race target Oct 18 (63 days out)",
-    "Bike fit completed (first long outdoor ride was yesterday)",
-    "Oregon lesson: back/foot pain traced to bike position"
+    "Hip history (Perthes, right hip)",
+    "First 8mi run post-bike-fit is diagnostic session",
+    "Walk/run 9:1 protocol mandatory",
+    "Pattern of back-to-back hard days affecting recovery",
+    "Sacramento race target 63 days out"
   ],
   "race_implications": [
-    "60% race-distance ride completed successfully is a real readiness gain for the 112-mile bike leg",
-    "Sleep debt accumulation at week 4 is a red flag -- you cannot sustain 113% weekly TSS for 9 more weeks without breaking down",
-    "Today's 8-mile run will reveal whether the bike fit solved the hip/back/foot chain or if pain reappears under extended run load -- this determines whether you can safely build to 26.2 miles"
+    "Inability to follow planned volume (50mi \u2192 67.8mi) is a red flag for race-day pacing discipline at IM distance",
+    "Compromised sleep quality after long efforts suggests recovery adaptation is lagging -- this will compound over 13 weeks",
+    "Today's run will reveal whether bike fit actually resolved hip/back issues or if yesterday's overreach masked the test"
   ],
   "recommended_adjustments": [
-    "Execute today's 8-mile run exactly as planned (walk/run 9:1), but abort and log details if hip/back/foot symptoms appear or worsen after mile 5 -- do not push through",
-    "Prioritize sleep quality this week: aim for 8+ hours with focus on deep sleep recovery (consider earlier bedtime, cooler room temp, or reviewing TRT timing with clinician if night sweats are affecting SpO2)",
-    "Next week (week 5), hold TSS to 100% of target or slightly under to clear the debt from this week -- do not string together back-to-back overshoot weeks"
+    "Return to scheduled volume immediately -- no freelancing on long sessions without coach approval",
+    "Prioritize sleep hygiene: target 7.5-8h consistently, address low deep-sleep pattern (consider sleep environment, caffeine cutoff, pre-bed routine)",
+    "Log hip/back symptoms explicitly post-run today -- vague 'felt fine' isn't useful; note specific mile markers and pain levels"
   ],
   "generatedAt": "2026-08-16",
   "daysToRace": 63,
