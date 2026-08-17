@@ -339,5 +339,16 @@
     "avgHR": 124.0,
     "distance": 109043.8,
     "duration": 14883.0
+  },
+  {
+    "date": "2026-08-17",
+    "title": "ROUVY - IRONMAN 70.3 HRADEC KRALOVE 2024",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 52.0,
+    "np": 0,
+    "avgHR": 115.0,
+    "distance": 55500.1,
+    "duration": 7208.0
   }
 ]
