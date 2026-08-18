@@ -88,5 +88,23 @@
     "headline": "Steady Zone 2 endurance builder through the IRONMAN 70.3 course, but that 54 rpm cadence is leaving watts on the table",
     "analysis": "You kept this controlled at 115 bpm average heart rate (maxing at just 133) over 2 hours\u2014textbook aerobic base work. However, your 54 rpm average cadence is well below the efficient 85-95 range, which means you're grinding through those climbs like the 13.5-minute Naho\u0159any segment rather than spinning smoothly. Focus on higher cadence drills in your next indoor session to develop that neuromuscular efficiency before race day.",
     "relative_effort": 55.0
+  },
+  {
+    "strava_id": "19780868039",
+    "date": "2026-08-17",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Short but steady effort with a strong finish at a faster-than-average pace",
+    "analysis": "You covered 1.51 miles in 15:12, working at a controlled average pace of 10:04/mi that's actually quicker than your 30-day average of 9:43/mi. Your heart rate climbed steadily from 150 bpm in mile 1 to 154 bpm in the final 0.51 miles, showing good cardiovascular engagement throughout. That cadence of 82.7 spm is on the lower side\u2014try to target 85-90 to improve efficiency and reduce ground contact time on future runs.",
+    "relative_effort": 50.0
+  },
+  {
+    "strava_id": "19787681293",
+    "date": "2026-08-17",
+    "disc": "swim",
+    "title": "Evening Swim",
+    "headline": "Solid 2,126-meter effort with controlled pacing and steady heart rate discipline",
+    "analysis": "You held a consistent aerobic zone throughout this 48-minute session, keeping your average heart rate at 107 bpm with a max of just 117\u2014excellent cardiovascular control for a moderate effort swim. Your first mile at 36:22 came in slightly faster than your 30-day average of 37:22/mi while maintaining a lower heart rate of 105 bpm, showing improved efficiency. The second mile segment saw your heart rate climb to 110 bpm as you worked through the final kilometers, reflecting good sustained effort without redlining.",
+    "relative_effort": 24.0
   }
 ]

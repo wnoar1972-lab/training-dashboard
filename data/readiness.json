@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 5,
   "total_weeks": 13,
-  "overall_score": 85,
+  "overall_score": 86,
   "overall_status": "Strong",
   "overall_confidence": "low-moderate",
   "strongest_positive_factor": "bike (85/100): Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
-  "largest_limiter": "recovery (83/100): 7-day-avg sleep score is 74/100.",
+  "largest_limiter": "recovery (84/100): 7-day-avg sleep score is 75/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
     "swim": 0.225,
@@ -18,13 +18,13 @@
   },
   "scores": {
     "swim": {
-      "score": 75,
+      "score": 76,
       "status": "On track",
       "top_factor": "Race-distance exposure: longest swim session is 3063m (79% of race distance).",
-      "top_limiter": "Volume: 206 TSS in the last 28 days vs. an expected ~416 for week 5.",
+      "top_limiter": "Volume: 222 TSS in the last 28 days vs. an expected ~416 for week 5.",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 7,
+      "sessions_in_window": 8,
       "weeks_observed": 3,
       "confidence": "low-moderate"
     },
@@ -42,22 +42,22 @@
     "run": {
       "score": 96,
       "status": "Strong",
-      "top_factor": "Volume: 910 TSS in the last 28 days vs. an expected ~728 for week 5.",
+      "top_factor": "Volume: 929 TSS in the last 28 days vs. an expected ~728 for week 5.",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 14,
-      "weeks_observed": 3,
+      "sessions_in_window": 15,
+      "weeks_observed": 4,
       "confidence": "low-moderate"
     },
     "recovery": {
-      "score": 83,
+      "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.6 bpm, 0.3 bpm vs. the all-time baseline of 54.3 bpm.",
-      "top_limiter": "7-day-avg sleep score is 74/100.",
+      "top_factor": "Resting HR is 54.5 bpm, 0.1 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_limiter": "7-day-avg sleep score is 75/100.",
       "trend": "stable",
       "evidence_window_days": 28,
-      "nights_in_window": 29,
+      "nights_in_window": 28,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     }

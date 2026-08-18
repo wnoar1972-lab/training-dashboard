@@ -1,52 +1,51 @@
 {
-  "date": "August 17, 2026",
+  "date": "August 18, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Rest day was appropriate after Saturday's 67.8mi bike (TSS 154) and Sunday's 12mi run (TSS 159). The 7-day training block delivered 559 TSS, which is strong volume heading into Week 5. Recovery markers are acceptable: RHR 57, sleep score 81, 7.1h duration.",
-  "todayRecommendation": "Execute the planned ROUVY 90min at NP 140-148w, then the easy 4mi run with walk/run 9:1. This is a standard aerobic Monday -- hold the power steady, keep the run truly easy (conversational pace), and track any hip or back sensations during both sessions.",
-  "weekProgress": "Week 5 of 13 shows 52 TSS of 520 target (10% complete). This is normal for Monday -- the week is back-loaded toward Saturday's 60-65mi outdoor ride and Sunday's 10mi long run. Travel disruptions Tue-Thu are already anticipated in the plan; focus on nailing Saturday and Sunday to hit the week target.",
-  "keyInsight": "Sleep quality is the current limiter (7-day avg 73/100, recovery score flagged at 83/100) -- prioritize 7.5-8h duration this week, especially before Saturday's long ride and Sunday's 10mi run.",
+  "yesterdayAnalysis": "You completed a solid triple session Monday: 1.3mi swim (TSS 16), 34.5mi ROUVY ride at NP within target zone (TSS 52, HR 115), and a 1.5mi easy run (TSS 19, HR 151). Total TSS of 87 is strong output for a Monday, particularly the bike session which held proper NP discipline. The run HR of 151 is appropriately easy for a recovery/club run.",
+  "todayRecommendation": "You're traveling today -- if flight timing permits, get the easy run done with strict walk/run 9:1 protocol and keep it conversational. If logistics don't allow it, skip both sessions as planned and don't stress it; this week's priority is Saturday's 60-65mi outdoor ride and Sunday's 10mi run, not Tuesday's swim/run.",
+  "weekProgress": "Week 5 of 13 is at 87 TSS of 520 target (17% complete) with 5 days remaining. This is exactly where you should be -- the week is intentionally back-loaded toward Saturday's long ride (~200+ TSS) and Sunday's long run (~100+ TSS). Zero concern at this point.",
+  "keyInsight": "Your 67.8mi outdoor ride on Friday (TSS 154) is the longest bike session in this build at 60% of race distance -- that's solid progress, but you need to complete the planned 60-65mi ride Saturday to maintain forward momentum on race-distance exposure.",
   "alerts": [
-    "Travel Tue-Thu will likely eliminate 2 swims, 1 outdoor ride, 1 brick run, and possibly 2 runs -- this is planned, but means Saturday/Sunday must execute to salvage the week",
-    "Deep sleep is inconsistent (8min on Aug 15, 78min on Aug 17) -- watch for patterns with long ride/run days and prioritize sleep hygiene",
-    "One night below 92% SpO2 (Aug 17: 92%) -- monitor for recurrence; may be affected by night sweating or sensor placement"
+    "7-day avg sleep score is 74/100 with two nights (Aug 14-15) showing very low deep sleep (8min, 21min) despite 10+ hour duration -- quality is the issue, not quantity",
+    "Wed outdoor ride + brick run will likely be skipped due to travel constraints -- accept this loss, don't attempt indoor substitution"
   ],
   "positives": [
-    "12mi long run on Aug 11 (TSS 159, HR 150 avg) executed successfully -- this proves the Oregon 10-11mi run target is now realistic",
-    "67.8mi outdoor ride on Aug 15 (TSS 154, 60% of race distance) is the longest bike session in the build -- major race-distance exposure milestone",
-    "Three brick workouts completed (Aug 3, 10, 12) -- race-specific rehearsal is progressing well"
+    "Friday's 67.8mi ride is your longest bike session to date at 60% of race distance -- genuine progress on race-specific exposure",
+    "Monday's ROUVY session held NP discipline (HR 115) and you added the run afterward -- good brick execution",
+    "Run readiness is tracking at 96/100 per the engine, highest of the three disciplines"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: Overall 85/100, Recovery 83/100, Run 96/100, Bike 85/100, Swim 75/100",
-    "Garmin sleep: 7-day avg score 73/100, Aug 17 score 81/100, inconsistent deep sleep",
-    "Intervals.icu: Last 7 days logged 559 TSS, Week 5 currently 52/520 TSS (10%)",
-    "Last ride: Aug 15, 67.8mi, TSS 154; Last run: Aug 11, 12mi, TSS 159"
+    "Readiness engine (overall 86/100, run 96/100, bike 85/100, recovery 84/100)",
+    "Garmin sleep data (7-day avg 74/100, deep sleep deficits Aug 14-15)",
+    "Intervals.icu planned vs actual (87 TSS of 520, 17% complete, 5 days remaining)",
+    "Last 7 days activity log (67.8mi ride Aug 15, triple session Aug 17)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Strong data on training load, sleep, and workout completion over the past 7 days; confidence limited by lack of HRV tracking, no nutrition log to validate fueling adherence, and only 5 weeks into a 13-week build -- trends are emerging but not yet fully established."
+    "reason": "Sleep data is complete and shows a clear quality issue; activity data covers the last 7 days with no gaps; readiness engine provides solid metrics across all disciplines, but travel disruption this week limits ability to assess adherence to planned outdoor sessions, and no HRV data is available to cross-check recovery status."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes disease) -- monitoring for pain/mobility signals after long run and ride",
-    "Walk/run 9:1 protocol -- applied to all run sessions",
-    "Age 54 -- recovery score and sleep quality weighted appropriately",
-    "Post-Oregon lessons -- bike fit completed, run nutrition protocol being practiced",
-    "Travel constraints Tue-Thu -- plan already accounts for likely missed sessions"
+    "Active race target (Ironman California Sacramento, Oct 18, 61 days out)",
+    "Walk/run 9:1 protocol on all runs",
+    "Hip history (Perthes disease, stable, requires progressive long-run build)",
+    "Professional bike fit completed post-Oregon",
+    "Travel schedule disrupting Tue-Thu sessions this week"
   ],
   "race_implications": [
-    "Run readiness (96/100) is the strongest discipline -- the 12mi long run proves endurance is tracking well for the 26.2mi walk/run target",
-    "Bike race-distance exposure at 60% (67.8mi of 112mi) is acceptable for Week 5, but Saturday's 60-65mi ride is critical to continue building tolerance for the 6:37 bike leg",
-    "Recovery score at 83/100 means you're absorbing load well, but sleep quality must improve to sustain the next 8 weeks -- prioritize 7.5-8h duration and consistent deep sleep before long sessions"
+    "At 60% race-distance bike exposure (67.8mi), you need at least one more 80-90mi ride and ideally a full 112mi rehearsal before race day to validate bike fit, nutrition, and pacing discipline",
+    "Run readiness at 96/100 is strong, but Sunday's 10mi run will be critical to confirm hip/back stability under progressive load after the bike fit changes",
+    "Sleep quality (not duration) is limiting recovery score to 84/100 -- two consecutive poor deep-sleep nights will erode your ability to absorb the weekend's long sessions if this pattern continues"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5-8h sleep duration tonight through Friday, especially before Saturday's long ride -- set a firm lights-out time and limit screen exposure after 9pm",
-    "After today's run, log any hip, back, or foot sensations in your training notes -- we need to track associations between back-to-back run days (Aug 11 12mi, Aug 13 4mi) and symptoms",
-    "If travel eliminates Wed outdoor ride + brick run, do not attempt to make it up indoors -- focus energy on executing Saturday's 60-65mi outdoor ride at race-specific NP 140-148w and Sunday's 10mi long run"
+    "Prioritize sleep quality this week: if you're getting 10+ hours but only 8-21min deep sleep, address sleep environment (temperature, light, noise) or review with your clinician -- duration alone isn't cutting it",
+    "Accept the Wed outdoor ride + brick as a lost session due to travel -- do not attempt to make it up indoors; focus energy on executing Saturday's 60-65mi outdoor ride at proper NP and Sunday's 10mi run",
+    "Track hip/back/foot status carefully during and after Sunday's 10mi run -- this will be your longest run post-bike-fit and a key validation point for Sacramento readiness"
   ],
-  "generatedAt": "2026-08-17",
-  "daysToRace": 62,
+  "generatedAt": "2026-08-18",
+  "daysToRace": 61,
   "currentWeek": 5,
   "weekPhase": "Build"
 }

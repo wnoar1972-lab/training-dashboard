@@ -342,6 +342,28 @@
   },
   {
     "date": "2026-08-17",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 16.0,
+    "np": 0,
+    "avgHR": 107.0,
+    "distance": 2126.0,
+    "duration": 2868.0
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 19.0,
+    "np": 0,
+    "avgHR": 151.0,
+    "distance": 2423.7,
+    "duration": 905.0
+  },
+  {
+    "date": "2026-08-17",
     "title": "ROUVY - IRONMAN 70.3 HRADEC KRALOVE 2024",
     "type": "VirtualR",
     "disc": "bike",
