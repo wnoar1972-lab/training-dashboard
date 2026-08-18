@@ -53,11 +53,11 @@
     "recovery": {
       "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.5 bpm, 0.1 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_factor": "Resting HR is 54.3 bpm, -0.1 bpm vs. the all-time baseline of 54.4 bpm.",
       "top_limiter": "7-day-avg sleep score is 75/100.",
       "trend": "stable",
       "evidence_window_days": 28,
-      "nights_in_window": 28,
+      "nights_in_window": 29,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     }
