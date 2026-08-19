@@ -372,5 +372,16 @@
     "avgHR": 115.0,
     "distance": 55500.1,
     "duration": 7208.0
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Oakland Park Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 35.0,
+    "np": 0,
+    "avgHR": 146.0,
+    "distance": 4842.5,
+    "duration": 1805.0
   }
 ]

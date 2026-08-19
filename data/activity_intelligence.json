@@ -106,5 +106,14 @@
     "headline": "Solid 2,126-meter effort with controlled pacing and steady heart rate discipline",
     "analysis": "You held a consistent aerobic zone throughout this 48-minute session, keeping your average heart rate at 107 bpm with a max of just 117\u2014excellent cardiovascular control for a moderate effort swim. Your first mile at 36:22 came in slightly faster than your 30-day average of 37:22/mi while maintaining a lower heart rate of 105 bpm, showing improved efficiency. The second mile segment saw your heart rate climb to 110 bpm as you worked through the final kilometers, reflecting good sustained effort without redlining.",
     "relative_effort": 24.0
+  },
+  {
+    "strava_id": "19809164388",
+    "date": "2026-08-19",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Heart rate climbed steadily through a progressively slower 3-miler, suggesting fatigue accumulation",
+    "analysis": "Your pace degraded from 9:83 to 10:17 min/mi over the first three miles while your average heart rate climbed from 138 to 155 bpm\u2014a classic sign of accumulating fatigue rather than a controlled effort. At 10:00/mi average, you ran 16 seconds per mile slower than your 30-day average of 9:44/mi, yet still logged a relative effort of 84. That cadence of 82 spm is quite low for running; working toward 85-90+ steps per minute could help you maintain pace more efficiently when fatigue sets in.",
+    "relative_effort": 84.0
   }
 ]

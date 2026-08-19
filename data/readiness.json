@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 5,
@@ -42,18 +42,18 @@
     "run": {
       "score": 96,
       "status": "Strong",
-      "top_factor": "Volume: 929 TSS in the last 28 days vs. an expected ~728 for week 5.",
+      "top_factor": "Volume: 964 TSS in the last 28 days vs. an expected ~728 for week 5.",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 15,
+      "sessions_in_window": 16,
       "weeks_observed": 4,
       "confidence": "low-moderate"
     },
     "recovery": {
       "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.3 bpm, -0.1 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_factor": "Resting HR is 54.2 bpm, -0.1 bpm vs. the all-time baseline of 54.3 bpm.",
       "top_limiter": "7-day-avg sleep score is 75/100.",
       "trend": "stable",
       "evidence_window_days": 28,
