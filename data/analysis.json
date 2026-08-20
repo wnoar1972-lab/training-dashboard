@@ -2,50 +2,50 @@
   "date": "August 20, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "Oakland Park run completed 3.0mi at HR 146, consistent with easy effort protocol. TSS 35 is appropriate for a travel-week easy run. This was the makeup session from Tuesday's missed pool swim and run club.",
-  "todayRecommendation": "You're traveling -- the 3,200m pool swim is likely skipped per plan, which is fine. If location allows, complete the easy 4mi run with walk/run 9:1 protocol; if not, skip it and focus energy on Saturday's critical 60-65mi outdoor ride.",
-  "weekProgress": "Week 5 of 13 is significantly behind at 122 TSS of 520 target (23%). The missed Wednesday outdoor ride (100min + brick run) cannot be replicated on a trainer and is gone. You have Saturday's long ride (~180-200 TSS) and Sunday's 10mi run (~70 TSS) remaining -- that puts you around 370-390 TSS maximum, or 71-75% of plan. Travel disruption was expected, but you're still 25-30% short of weekly volume.",
-  "keyInsight": "You are behind on weekly volume heading into the weekend long sessions, and the missed Wednesday outdoor aero ride is a gap that matters for Sacramento position conditioning.",
+  "yesterdayAnalysis": "Yesterday's 3.0mi easy run at HR 146 was appropriate volume for a travel day. Execution was solid\u2014consistent heart rate and proper distance. The effort held the week together during a disrupted travel period.",
+  "todayRecommendation": "Per plan, both the pool swim and easy run are marked as likely skipped due to travel. If location allows, prioritize the easy 4mi run over the swim\u2014run consistency matters more right now than adding another missed swim to the week.",
+  "weekProgress": "Week 5 of 13 is severely behind: 122 TSS of 520 target (23%) with 3 days left. Tuesday's swim/run, Wednesday's outdoor ride + brick run, and today's swim are all traveling casualties. The 60-65mi outdoor ride Saturday and 10mi long run Sunday can recover ~350-400 TSS, but you'll finish 100-150 TSS short unless you add volume to those sessions\u2014which you should not do.",
+  "keyInsight": "Travel has cost you the week's most critical aero-conditioning session (Wednesday's 100min outdoor ride) and you cannot replicate it indoors\u2014this is a direct hit to Sacramento race prep with 59 days remaining.",
   "alerts": [
-    "Week TSS tracking 25-30% short even with Saturday/Sunday completion",
-    "Wednesday outdoor aero ride missed -- cannot be replicated, position conditioning gap",
-    "Sleep score averaging 74/100 over 7 days -- below optimal for heavy weekend load",
-    "Only 8 more deep-training weeks remain before taper"
+    "Week 5 TSS will finish ~100-150 short of 520 target even with perfect Sat/Sun execution",
+    "Wednesday's outdoor aero ride (100min @ 140-148w NP) was missed and cannot be made up\u2014this was scheduled aero conditioning",
+    "3 of 4 scheduled sessions this week marked as 'likely skipped' due to travel",
+    "Sleep score 7-day average is 74/100, flagged by readiness engine as largest limiter"
   ],
   "positives": [
-    "Friday ride (67.8mi, TSS 154) was longest bike session to date -- solid race-distance exposure",
-    "Yesterday's easy run executed correctly despite travel constraints",
-    "Sleep duration stable at 7h despite travel -- not great, but consistent"
+    "Friday's 67.8mi outdoor ride (TSS 154) was your longest bike session to date at 60% of race distance\u2014genuine progress toward 112mi readiness",
+    "Yesterday's run execution during travel shows discipline and consistency\u2014you held the week together when conditions weren't ideal",
+    "Sleep duration has been consistent at 7.0h average despite travel disruption"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (overall 86/100, recovery 84/100, sleep 75/100)",
-    "Intervals.icu planned vs actual (122/520 TSS)",
-    "Garmin sleep data (7-day avg 74, duration 7.0h avg)",
-    "Last 7 days training log (4 sessions, total ~276 TSS)",
-    "Build calendar (week 5 of 13, 35 activities planned)"
+    "Readiness engine: overall 86/100, recovery 84/100 (largest limiter), run 96/100",
+    "Week 5 planned vs actual: 122 TSS of 520 (23% complete, 3 days remaining)",
+    "Last 7 days training log: 5 sessions, including 67.8mi bike on 2026-08-15",
+    "Garmin sleep: 7-day avg score 74/100, avg duration 7.0h",
+    "Today's planned session: Pool swim 3,200m + Easy run 4mi (both marked likely skipped)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep and training data are current through this morning, and build plan is explicit about travel impact -- confidence limited by lack of HRV trending and no nutrition log to assess fueling quality during disrupted week."
+    "reason": "Training data is complete for the past 7 days and readiness engine provides clear metrics, but travel disruption makes it harder to assess true training trajectory\u2014this week is an outlier, not a trend."
   },
   "athlete_context_considered": [
-    "Traveling this week (multiple sessions flagged as likely skipped)",
-    "Walk/run 9:1 protocol on all runs",
-    "Hip history (Perthes) -- watching load after Sunday 10mi long run",
-    "Oregon lessons: bike position fixed, run nutrition validated",
-    "Sacramento race 59 days out"
+    "Travel week disrupting scheduled outdoor aero ride and threshold swim sessions",
+    "Walk/run 9:1 protocol maintained on yesterday's run",
+    "Hip history (Perthes disease)\u2014no back-to-back run loading during travel week",
+    "59 days to Sacramento IM (2026-10-18)",
+    "Professional bike fit completed\u2014aero conditioning sessions are now critical to validate position under load"
   ],
   "race_implications": [
-    "Missing the outdoor aero ride creates a position-conditioning gap -- you need every outdoor session to validate the new bike fit under race-duration load",
-    "Weekly volume deficit of 25-30% in week 5 is a missed stimulus you cannot recover -- the next 8 weeks must hit targets",
-    "Sleep averaging 74/100 going into a weekend with 60-65mi bike + 10mi run is not ideal for adaptation"
+    "Missing Wednesday's outdoor aero ride costs you a critical bike-fit validation session under sustained load\u2014you have fewer remaining opportunities to surface position problems before race day",
+    "TSS shortfall this week is acceptable if Weeks 6-13 execute cleanly, but you cannot afford another disrupted week in this 13-week build",
+    "Sleep quality (74/100 avg) is limiting recovery capacity heading into Week 6\u2014if this persists, your ability to absorb the upcoming high-volume weeks will be compromised"
   ],
   "recommended_adjustments": [
-    "Prioritize Saturday's 60-65mi outdoor ride above all else -- practice Sacramento pacing (17mph), nutrition every 20min, and validate bike fit",
-    "If you complete today's easy run, keep it truly easy (HR <150) to preserve legs for Saturday",
-    "Target 8+ hours sleep Thursday and Friday nights -- recovery score of 6/10 heading into your biggest weekend yet is marginal"
+    "Do not add volume to Saturday's 60-65mi ride or Sunday's 10mi run to chase the TSS deficit\u2014finish the week as planned and accept the shortfall",
+    "Prioritize sleep quality over duration for the next 3 nights: target 7.5-8h with focus on deep sleep environment (dark, cool, consistent bedtime)",
+    "Mark Wednesday's missed outdoor ride as a lost aero-conditioning session\u2014when you return from travel, treat Week 6's outdoor rides as non-negotiable for bike fit validation"
   ],
   "generatedAt": "2026-08-20",
   "daysToRace": 59,
