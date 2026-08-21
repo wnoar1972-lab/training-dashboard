@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 5,
@@ -7,7 +7,7 @@
   "overall_score": 86,
   "overall_status": "Strong",
   "overall_confidence": "low-moderate",
-  "strongest_positive_factor": "bike (85/100): Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
+  "strongest_positive_factor": "bike (84/100): Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
   "largest_limiter": "recovery (84/100): 7-day-avg sleep score is 75/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
@@ -29,13 +29,13 @@
       "confidence": "low-moderate"
     },
     "bike": {
-      "score": 85,
-      "status": "Strong",
+      "score": 84,
+      "status": "On track",
       "top_factor": "Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
-      "top_limiter": "Volume: 654 TSS in the last 28 days vs. an expected ~936 for week 5.",
+      "top_limiter": "Volume: 623 TSS in the last 28 days vs. an expected ~936 for week 5.",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 11,
+      "sessions_in_window": 10,
       "weeks_observed": 4,
       "confidence": "low-moderate"
     },
@@ -53,7 +53,7 @@
     "recovery": {
       "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.3 bpm, 0.1 bpm vs. the all-time baseline of 54.2 bpm.",
+      "top_factor": "Resting HR is 54.3 bpm, 0.2 bpm vs. the all-time baseline of 54.1 bpm.",
       "top_limiter": "7-day-avg sleep score is 75/100.",
       "trend": "stable",
       "evidence_window_days": 28,
