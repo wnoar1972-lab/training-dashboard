@@ -115,5 +115,14 @@
     "headline": "Heart rate climbed steadily through a progressively slower 3-miler, suggesting fatigue accumulation",
     "analysis": "Your pace degraded from 9:83 to 10:17 min/mi over the first three miles while your average heart rate climbed from 138 to 155 bpm\u2014a classic sign of accumulating fatigue rather than a controlled effort. At 10:00/mi average, you ran 16 seconds per mile slower than your 30-day average of 9:44/mi, yet still logged a relative effort of 84. That cadence of 82 spm is quite low for running; working toward 85-90+ steps per minute could help you maintain pace more efficiently when fatigue sets in.",
     "relative_effort": 84.0
+  },
+  {
+    "strava_id": "19840276485",
+    "date": "2026-08-21",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid technique work with 1,021 meters at a controlled effort level",
+    "analysis": "You held a steady 30:44/mile pace through this session, maintaining an average heart rate of 107 bpm with a max of just 129\u2014showing excellent aerobic control in the pool. Your 24 stroke cadence suggests you're focusing on efficiency over raw power, and that relative effort score of 12 confirms this was quality technical volume rather than an all-out push. This kind of measured swimming builds the foundation for faster speeds down the road.",
+    "relative_effort": 12.0
   }
 ]

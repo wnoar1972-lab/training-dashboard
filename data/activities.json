@@ -383,5 +383,16 @@
     "avgHR": 146.0,
     "distance": 4842.5,
     "duration": 1805.0
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Lauderdale-by-the-Sea Open Water Swimmin",
+    "type": "OpenWate",
+    "disc": "swim",
+    "tss": 11.0,
+    "np": 0,
+    "avgHR": 104.0,
+    "distance": 1020.8,
+    "duration": 1675.0
   }
 ]
