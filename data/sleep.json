@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-06-23",
-    "score": 80,
-    "total": 7.0,
-    "deep": 110,
-    "rem": 58,
-    "spo2": 92.0,
-    "rhr": 54,
-    "quality": "Good"
-  },
-  {
     "date": "2026-06-24",
     "score": 64,
     "total": 6.3,
@@ -608,5 +598,15 @@
     "spo2": 94.0,
     "rhr": 56,
     "quality": "Fair"
+  },
+  {
+    "date": "2026-08-23",
+    "score": 45,
+    "total": 7.2,
+    "deep": 39,
+    "rem": 60,
+    "spo2": 95.0,
+    "rhr": 58,
+    "quality": "Poor"
   }
 ]
