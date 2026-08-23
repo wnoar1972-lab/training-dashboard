@@ -124,5 +124,14 @@
     "headline": "Solid technique work with 1,021 meters at a controlled effort level",
     "analysis": "You held a steady 30:44/mile pace through this session, maintaining an average heart rate of 107 bpm with a max of just 129\u2014showing excellent aerobic control in the pool. Your 24 stroke cadence suggests you're focusing on efficiency over raw power, and that relative effort score of 12 confirms this was quality technical volume rather than an all-out push. This kind of measured swimming builds the foundation for faster speeds down the road.",
     "relative_effort": 12.0
+  },
+  {
+    "strava_id": "19858929286",
+    "date": "2026-08-22",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN Texas North American Championship (112 km)",
+    "headline": "Nearly 70 miles of steady IRONMAN simulation work with a textbook aerobic build from Zone 2 to threshold",
+    "analysis": "You executed a proper long-course race strategy here, holding 108-120 bpm for the first 15 miles before settling into a consistent 120-135 bpm middle section, then steadily ramping heart rate from 138 bpm at mile 51 to 154 bpm over the final 20 miles. That 300 suffer score over 3.6 hours shows serious time in the saddle, though your 58.6 average cadence is notably low\u2014pushing closer to 85-90 rpm would help spare your legs for the run in a real IRONMAN. The gradual cardiovascular drift is spot-on for race simulation, but work on keeping those legs spinning faster to build efficiency at this effort level.",
+    "relative_effort": 300.0
   }
 ]

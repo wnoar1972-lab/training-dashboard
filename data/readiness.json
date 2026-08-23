@@ -4,10 +4,10 @@
   "race_type": "full_distance_triathlon",
   "current_week": 5,
   "total_weeks": 13,
-  "overall_score": 86,
+  "overall_score": 87,
   "overall_status": "Strong",
   "overall_confidence": "low-moderate",
-  "strongest_positive_factor": "bike (84/100): Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
+  "strongest_positive_factor": "bike (88/100): Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
   "largest_limiter": "recovery (83/100): 7-day-avg sleep score is 74/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
@@ -29,14 +29,14 @@
       "confidence": "low-moderate"
     },
     "bike": {
-      "score": 84,
-      "status": "On track",
-      "top_factor": "Race-distance exposure: longest bike session is 67.8mi (60% of race distance).",
-      "top_limiter": "Volume: 623 TSS in the last 28 days vs. an expected ~936 for week 5.",
+      "score": 88,
+      "status": "Strong",
+      "top_factor": "Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
+      "top_limiter": "Volume: 724 TSS in the last 28 days vs. an expected ~936 for week 5.",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 10,
-      "weeks_observed": 4,
+      "sessions_in_window": 11,
+      "weeks_observed": 5,
       "confidence": "low-moderate"
     },
     "run": {

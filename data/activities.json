@@ -394,5 +394,16 @@
     "avgHR": 104.0,
     "distance": 1020.8,
     "duration": 1675.0
+  },
+  {
+    "date": "2026-08-22",
+    "title": "ROUVY - IRONMAN Texas North American Cha",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 101.0,
+    "np": 0,
+    "avgHR": 131.0,
+    "distance": 112046.9,
+    "duration": 12996.0
   }
 ]
