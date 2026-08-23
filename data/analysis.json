@@ -2,49 +2,50 @@
   "date": "August 23, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "69.6mi ROUVY ride completed with 101 TSS at 131 HR avg -- solid race-distance exposure work that now represents your longest bike session this build (62% of Ironman distance). Power and HR data suggest you held steady pacing, and this was the scheduled long ride displacement after travel disrupted Wednesday's outdoor ride. This session is a legitimate building block toward the 112mi target.",
-  "todayRecommendation": "Complete the planned 10mi long run with walk/run 9:1 protocol. Track hip status closely post-run -- this is your longest run since Oregon, and back-to-back brick load (yesterday's 69.6mi bike) creates the exact scenario we need to monitor for hip/back associations. Prioritize execution over pace.",
-  "weekProgress": "Week 5 of 13: 234 TSS completed of 520 target (45%). Travel disrupted Tuesday swim, Wednesday outdoor ride, Wednesday brick run, and Thursday swim as expected -- no make-up needed. Yesterday's long ride and today's long run are the critical sessions; completing today gets the week back on track structurally despite the TSS shortfall.",
-  "keyInsight": "Sleep quality crashed to 45/100 last night (7.2h duration but poor architecture) immediately before your longest run of the build -- this is a red flag for performance and injury risk today.",
+  "yesterdayAnalysis": "69.6mi indoor ride at 131 HR delivered 101 TSS -- your longest bike session to date at 62% of race distance. This was the scheduled Saturday long ride executed a day late, which is fine. Power/HR alignment looks appropriate for base endurance work, and the distance is solid progress toward 112mi race readiness.",
+  "todayRecommendation": "Execute the planned 10mi long run with strict 9:1 walk/run protocol. Track hip status carefully post-run -- this is your longest run in the build and comes after yesterday's big bike load. If sleep debt (last night's 45 score, 7.2h duration) affects performance, note it but complete the session.",
+  "weekProgress": "Week 5 of 13 sits at 234 TSS of 520 target (45% complete) with only today's long run remaining. You'll likely finish 150-200 TSS short due to missed travel sessions (Tue swim, Wed outdoor ride + brick, Thu swim). The Saturday bike was strong, but the cumulative deficit from travel is real.",
+  "keyInsight": "Last night's sleep score of 45 after a 69.6mi ride is a recovery red flag going into a 10-mile long run -- execute today conservatively and prioritize sleep debt repayment this week.",
   "alerts": [
-    "Last night's sleep score 45/100 (7-day avg now 71/100) -- poor sleep before a 10mi long run increases injury risk and limits quality execution",
-    "Week TSS at 45% with only today remaining -- travel disruptions were planned, but the gap is real and won't be closed this week",
-    "Back-to-back long bike (69.6mi) + long run (10mi planned) creates the exact load pattern to watch for hip/back pain associations"
+    "Last night sleep score 45/100 (7.2h, 39min deep, 60min REM) -- significant recovery deficit before today's long run",
+    "Week will finish ~150-200 TSS below 520 target due to travel-related missed sessions (3 workouts)",
+    "7-day avg sleep score 71/100 -- below optimal for peak-week load execution",
+    "Back-to-back big bike (yesterday 69.6mi) + long run (today 10mi) -- watch for hip/back association given Perthes history"
   ],
   "positives": [
-    "69.6mi bike yesterday is your longest session this build and demonstrates solid race-distance endurance progression",
-    "Managed travel disruptions without panic or attempting risky substitutions -- disciplined training management",
-    "7-day avg SpO2 93.9% with zero nights below 92% -- respiratory stability is good"
+    "69.6mi bike is your longest session to date -- 62% of Ironman distance covered, solid race-distance exposure progress",
+    "4 brick workouts completed in build already -- race-simulation execution is happening consistently",
+    "Run readiness engine score 96/100 -- strongest discipline heading into today's longest run"
   ],
-  "recoveryScore": 5,
+  "recoveryScore": 4,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (overall 87/100, recovery 83/100)",
     "Garmin sleep data (last night 45/100, 7-day avg 71/100)",
-    "Yesterday's bike: 69.6mi, 101 TSS, HR 131",
-    "Week TSS tracking: 234 of 520",
-    "Scheduled session from training plan (10mi long run)"
+    "Yesterday's workout (69.6mi bike, 101 TSS, 131 HR)",
+    "Week TSS tracking (234 of 520)",
+    "Readiness engine (run 96/100, recovery 83/100, overall 87/100)",
+    "Scheduled session plan (today 10mi long run)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is complete and current; training history from last 7 days is sufficient to assess acute load; readiness engine provides multi-factor assessment; however, no HRV data or subjective readiness notes limit deeper fatigue insight."
+    "reason": "Sleep data is complete and recent, workout logs show actual execution, but travel week creates gaps in planned vs actual comparison -- no HRV or detailed nutrition tracking limits recovery assessment precision."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, right hip) -- watch for associations with back-to-back long bike + long run",
-    "Walk/run 9:1 protocol mandatory on all runs",
-    "Age 54 -- recovery capacity and sleep quality matter more",
-    "Active race: Sacramento IM in 56 days",
-    "Oregon 70.3 lesson: run fade from zero run calories and bike position issues"
+    "Hip history (Perthes, right hip)",
+    "Walk/run 9:1 protocol",
+    "Travel week context (missed sessions acceptable)",
+    "Age 54, TRT managed",
+    "Active race: IM California Sacramento in 56 days"
   ],
   "race_implications": [
-    "69.6mi bike yesterday proves you can handle 62% of race distance indoors -- need to extend this to 80-90mi outdoor sessions in weeks 7-9",
-    "Today's 10mi run is a critical test of hip durability under accumulating load -- any pain/mobility issues today need immediate attention before longer runs",
-    "Sleep quality at 71/100 7-day avg (recovery limiter per readiness engine) is marginal for Ironman build -- this needs to trend up or training quality will suffer"
+    "69.6mi is 62% of race distance -- you need 2-3 more builds to 80-90mi to validate nutrition, position, and pacing for the full 112mi",
+    "Today's 10mi run will be your longest -- successful execution proves you can handle half-marathon distance with walk/run protocol under fatigue",
+    "Sleep debt pattern (71/100 avg, 45/100 last night) is not sustainable for race-week readiness -- address this in recovery weeks or it will limit performance"
   ],
   "recommended_adjustments": [
-    "If hip or back pain surfaces during today's 10mi run, cut the session at 7-8mi and walk the remainder -- do not push through structural pain 56 days out",
-    "Prioritize sleep recovery tonight and Monday night -- target 7.5-8h duration with focus on sleep hygiene (cool room, no screens 60min pre-bed, consistent timing)",
-    "Accept the week TSS shortfall as planned travel impact -- do not attempt to 'catch up' with added volume next week; trust the structural work (long ride + long run) is what matters"
+    "Execute today's 10mi run but monitor closely for hip/back symptoms -- if pain emerges, walk more frequently rather than pushing through",
+    "Prioritize 8+ hours sleep tonight and tomorrow to clear accumulated sleep debt from travel week",
+    "Accept week TSS deficit (travel reality) and focus next week on hitting all planned sessions to return to build progression"
   ],
   "generatedAt": "2026-08-23",
   "daysToRace": 56,
