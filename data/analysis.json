@@ -1,54 +1,52 @@
 {
-  "date": "August 23, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "69.6mi indoor ride at 131 HR delivered 101 TSS -- your longest bike session to date at 62% of race distance. This was the scheduled Saturday long ride executed a day late, which is fine. Power/HR alignment looks appropriate for base endurance work, and the distance is solid progress toward 112mi race readiness.",
-  "todayRecommendation": "Execute the planned 10mi long run with strict 9:1 walk/run protocol. Track hip status carefully post-run -- this is your longest run in the build and comes after yesterday's big bike load. If sleep debt (last night's 45 score, 7.2h duration) affects performance, note it but complete the session.",
-  "weekProgress": "Week 5 of 13 sits at 234 TSS of 520 target (45% complete) with only today's long run remaining. You'll likely finish 150-200 TSS short due to missed travel sessions (Tue swim, Wed outdoor ride + brick, Thu swim). The Saturday bike was strong, but the cumulative deficit from travel is real.",
-  "keyInsight": "Last night's sleep score of 45 after a 69.6mi ride is a recovery red flag going into a 10-mile long run -- execute today conservatively and prioritize sleep debt repayment this week.",
+  "date": "August 24, 2026",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "12-mile long run at TSS 182 completed with HR 153 bpm using the 9/1 protocol. This was a solid effort closing out week 5 at high volume before recovery week begins. The HR sits in a reasonable aerobic zone for long run work, and the distance represents strong progression without excessive load.",
+  "todayRecommendation": "Rest day as prescribed -- recovery week begins. Do nothing. The 5 weeks of accumulated load (724 bike TSS alone) need absorption time, and your sleep debt from the last week (71/100 avg, 5.2h on Aug 22, 45 score on Aug 23) demands zero training stress today.",
+  "weekProgress": "Week 6 of 13 begins today as a recovery week -- 0 of 300 TSS with 6 days remaining is exactly on target. Volume drops 35% this week with no intensity, and the back-loaded schedule means the current zero TSS is normal and expected for Monday of a recovery week.",
+  "keyInsight": "Your sleep quality crashed mid-week (45 score on Aug 23, only 60min REM; 64 score on Aug 22 with just 5.2h duration) which directly correlates with recovery score of 83/100 -- this rest day is not optional.",
   "alerts": [
-    "Last night sleep score 45/100 (7.2h, 39min deep, 60min REM) -- significant recovery deficit before today's long run",
-    "Week will finish ~150-200 TSS below 520 target due to travel-related missed sessions (3 workouts)",
-    "7-day avg sleep score 71/100 -- below optimal for peak-week load execution",
-    "Back-to-back big bike (yesterday 69.6mi) + long run (today 10mi) -- watch for hip/back association given Perthes history"
+    "Sleep score 45 on Aug 23 with only 60min REM after 12-mile long run",
+    "Only 5.2h sleep on Aug 22 (score 64) -- significant sleep debt accumulated",
+    "7-day avg sleep score 71/100 flags recovery as largest limiter (83/100)"
   ],
   "positives": [
-    "69.6mi bike is your longest session to date -- 62% of Ironman distance covered, solid race-distance exposure progress",
-    "4 brick workouts completed in build already -- race-simulation execution is happening consistently",
-    "Run readiness engine score 96/100 -- strongest discipline heading into today's longest run"
+    "12-mile long run completed at controlled HR (153 bpm) -- strong aerobic base building",
+    "724 bike TSS in last 28 days vs ~540 expected for week 6 -- bike volume is well ahead",
+    "4 brick workouts completed through week 5 -- race-specific preparation is happening"
   ],
   "recoveryScore": 4,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Garmin sleep data (last night 45/100, 7-day avg 71/100)",
-    "Yesterday's workout (69.6mi bike, 101 TSS, 131 HR)",
-    "Week TSS tracking (234 of 520)",
-    "Readiness engine (run 96/100, recovery 83/100, overall 87/100)",
-    "Scheduled session plan (today 10mi long run)"
+    "Readiness engine: recovery 83/100 (7-day sleep avg 74/100 cited)",
+    "Garmin sleep data last 7 nights (71/100 avg, two nights below 65)",
+    "Yesterday's workout: 12mi run, TSS 182, HR 153",
+    "Build status: week 6 of 13, recovery week, 724 bike TSS last 28 days"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Sleep data is complete and recent, workout logs show actual execution, but travel week creates gaps in planned vs actual comparison -- no HRV or detailed nutrition tracking limits recovery assessment precision."
+    "level": "high",
+    "reason": "Strong data completeness: 7 consecutive nights of sleep with granular metrics, 5 weeks of training history with TSS/HR, readiness engine scores across all disciplines, and clear recovery week protocol -- only missing HRV trends and detailed nutrition logging."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, right hip)",
-    "Walk/run 9:1 protocol",
-    "Travel week context (missed sessions acceptable)",
-    "Age 54, TRT managed",
-    "Active race: IM California Sacramento in 56 days"
+    "Age 54 with TRT management",
+    "Hip history (Perthes) requiring progressive load management",
+    "Recovery week protocol (35% volume drop, no intensity)",
+    "55 days to Ironman California",
+    "Walk/run 9/1 protocol on all runs"
   ],
   "race_implications": [
-    "69.6mi is 62% of race distance -- you need 2-3 more builds to 80-90mi to validate nutrition, position, and pacing for the full 112mi",
-    "Today's 10mi run will be your longest -- successful execution proves you can handle half-marathon distance with walk/run protocol under fatigue",
-    "Sleep debt pattern (71/100 avg, 45/100 last night) is not sustainable for race-week readiness -- address this in recovery weeks or it will limit performance"
+    "Recovery week timing at week 6 of 13 is appropriate -- absorption now protects weeks 7-10 peak volume",
+    "Sleep debt must be erased this week or cumulative fatigue will compromise the final 7-week block",
+    "Bike volume 34% above expected load is a strength, but only if recovery allows adaptation"
   ],
   "recommended_adjustments": [
-    "Execute today's 10mi run but monitor closely for hip/back symptoms -- if pain emerges, walk more frequently rather than pushing through",
-    "Prioritize 8+ hours sleep tonight and tomorrow to clear accumulated sleep debt from travel week",
-    "Accept week TSS deficit (travel reality) and focus next week on hitting all planned sessions to return to build progression"
+    "Prioritize 7.5-8h sleep every night this week -- treat it as a training session",
+    "Execute every session this week at the low end of prescribed effort (Z2 cap on rides at NP <135w, easy swims, easy runs)",
+    "If sleep score remains below 70 for 2+ more nights, consider dropping Thursday's swim+run to single rest day"
   ],
-  "generatedAt": "2026-08-23",
-  "daysToRace": 56,
-  "currentWeek": 5,
-  "weekPhase": "Build"
+  "generatedAt": "2026-08-24",
+  "daysToRace": 55,
+  "currentWeek": 6,
+  "weekPhase": "Recovery"
 }

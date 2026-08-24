@@ -133,5 +133,14 @@
     "headline": "Nearly 70 miles of steady IRONMAN simulation work with a textbook aerobic build from Zone 2 to threshold",
     "analysis": "You executed a proper long-course race strategy here, holding 108-120 bpm for the first 15 miles before settling into a consistent 120-135 bpm middle section, then steadily ramping heart rate from 138 bpm at mile 51 to 154 bpm over the final 20 miles. That 300 suffer score over 3.6 hours shows serious time in the saddle, though your 58.6 average cadence is notably low\u2014pushing closer to 85-90 rpm would help spare your legs for the run in a real IRONMAN. The gradual cardiovascular drift is spot-on for race simulation, but work on keeping those legs spinning faster to build efficiency at this effort level.",
     "relative_effort": 300.0
+  },
+  {
+    "strava_id": "19870048798",
+    "date": "2026-08-23",
+    "disc": "run",
+    "title": "9 min run / 1 min walk",
+    "headline": "Massive two-hour suffer fest with 406 effort points and a heart rate battle into the 180s",
+    "analysis": "That opening 29:72 mile told the story early\u2014this was about controlled pacing through structured run/walk intervals, keeping your average heart rate at 156 across 12 miles. The real work happened in the back half: miles 10-12 saw your HR climb dramatically from 166 to 180 bpm, showing serious fatigue management as you pushed through. At 10:06/mile average, you crushed your 30-day baseline of 9:47 pace while racking up over 6.5 hours worth of relative effort in just two hours.",
+    "relative_effort": 406.0
   }
 ]
