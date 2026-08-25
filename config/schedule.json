@@ -15,21 +15,6 @@
       "rest": false,
       "planned": [
         {
-          "disc": "bike",
-          "label": "ROUVY 60 min",
-          "note": "Z2 \u00b7 NP 130\u2013145w"
-        },
-        {
-          "disc": "run",
-          "label": "Easy run 3\u20134mi",
-          "note": "walk/run 9/1"
-        }
-      ]
-    },
-    "2": {
-      "rest": false,
-      "planned": [
-        {
           "disc": "swim",
           "label": "Pool swim 2,500m",
           "note": "4x100 steady"
@@ -41,22 +26,22 @@
         }
       ]
     },
-    "3": {
+    "2": {
       "rest": false,
       "planned": [
         {
           "disc": "bike",
-          "label": "Outdoor ride + brick",
-          "note": "outdoor mandatory \u00b7 aero conditioning"
+          "label": "ROUVY 60 min",
+          "note": "Z2 \u00b7 NP 130\u2013145w"
         },
         {
-          "disc": "brick",
-          "label": "Brick run 25\u201345 min",
-          "note": "walk/run 9/1 \u00b7 11:00/mi"
+          "disc": "run",
+          "label": "Easy run 3\u20134mi",
+          "note": "walk/run 9/1"
         }
       ]
     },
-    "4": {
+    "3": {
       "rest": false,
       "planned": [
         {
@@ -68,6 +53,21 @@
           "disc": "run",
           "label": "Easy run 3\u20134mi",
           "note": "walk/run 9/1"
+        }
+      ]
+    },
+    "4": {
+      "rest": false,
+      "planned": [
+        {
+          "disc": "bike",
+          "label": "Outdoor ride + brick",
+          "note": "outdoor mandatory \u00b7 aero conditioning"
+        },
+        {
+          "disc": "brick",
+          "label": "Brick run 25\u201345 min",
+          "note": "walk/run 9/1 \u00b7 11:00/mi"
         }
       ]
     },
@@ -1218,6 +1218,16 @@
         "rest": false,
         "planned": [
           {
+            "disc": "bike",
+            "label": "Easy ride 60 min",
+            "note": "Z2 only \u00b7 NP under 135w \u00b7 recovery week"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
             "disc": "swim",
             "label": "Pool swim 2,000m",
             "note": "easy aerobic only"
@@ -1226,16 +1236,6 @@
             "disc": "run",
             "label": "Run Club",
             "note": "easy \u00b7 walk/run \u00b7 enjoy it"
-          }
-        ]
-      },
-      "3": {
-        "rest": false,
-        "planned": [
-          {
-            "disc": "bike",
-            "label": "Easy ride 60 min",
-            "note": "Z2 only \u00b7 NP under 135w \u00b7 recovery week"
           }
         ]
       },
