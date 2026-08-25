@@ -1,51 +1,50 @@
 {
-  "date": "August 24, 2026",
+  "date": "August 25, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "12-mile long run at 182 TSS completed at walk/run protocol with HR 153 avg -- this was a strong finish to week 5 before the recovery week. Volume and HR hold suggest solid aerobic capacity, though sleep post-run dropped to 45/100 with only 60 min REM, indicating incomplete recovery from the load.",
-  "todayRecommendation": "Rest day as scheduled -- recovery week begins. Do nothing. Let the 5 weeks of work absorb, prioritize sleep quality tonight (aim for 7.5+ hours), and hydrate.",
-  "weekProgress": "Week 6 of 13 is a recovery week with 0 of 300 TSS completed (0%). Monday is scheduled rest, so zero TSS is correct and intentional -- no concern.",
-  "keyInsight": "Sleep quality is the limiter right now -- 7-day avg is 71/100 with Friday's post-long-run sleep scoring only 45/100 and 60 min REM, which is inadequate for recovery.",
+  "yesterdayAnalysis": "Rest day as scheduled at the start of recovery week 6. This is intentional after 5 consecutive weeks of loading. Your body is absorbing 755 TSS of bike, 4 bricks, and 17 run sessions -- rest is not optional, it's where the adaptation happens.",
+  "todayRecommendation": "Easy ride 60 minutes, Z2 only, NP under 135w. This is not a workout, it's active recovery. Keep it truly easy -- if you push, you steal from the adaptation you earned last week.",
+  "weekProgress": "Week 6 of 13: 0 of 300 TSS complete, which is 100% normal for Tuesday of a recovery week. The schedule is intentionally light -- volume drops 35% and there's no intensity. Nothing is behind.",
+  "keyInsight": "Your sleep is compromised (71/100 7-day avg, two nights under 6h, one 45/100 score) at the exact moment your body needs it most to absorb 5 weeks of work -- prioritize sleep duration this week or you'll waste the recovery block.",
   "alerts": [
-    "Sleep score Friday (45/100) and Saturday (64/100) are both below 70 -- incomplete recovery from the 12-mile long run",
-    "7-day avg sleep score 71/100 is below the 74/100 readiness engine baseline and trending down",
-    "REM sleep Friday night was only 60 min (normal range 90-120 min) -- flag for sleep hygiene review"
+    "Sleep score 71/100 (7-day avg) with two nights under 6.5h in the last week",
+    "Sleep score of 45/100 on Aug 23 (post-12mi long run) is a red flag -- REM dropped to 60min"
   ],
   "positives": [
-    "12-mile long run completed at walk/run protocol with solid HR control (153 avg)",
-    "724 TSS bike volume in last 28 days vs 540 expected -- bike fitness is ahead of plan",
-    "4 brick workouts completed through week 5 -- race-specific preparation is on track"
+    "12-mile long run completed at 182 TSS on Aug 23 -- volume target hit",
+    "Bike TSS (755 total, 683 in last 28 days) is ahead of plan and bike readiness is 100/100",
+    "4 brick workouts completed through week 5 -- race-specific execution is being practiced"
   ],
   "recoveryScore": 5,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (recovery 83/100, bike 100/100, run 88/100)",
-    "Garmin sleep scores last 7 nights (avg 71/100, post-long-run 45/100)",
-    "Yesterday's 12mi run at 182 TSS and HR 153",
-    "Bike TSS 724 in last 28 days vs 540 expected"
+    "Readiness engine: overall 93/100, bike 100/100, run 88/100, recovery 83/100",
+    "Garmin sleep: 7-day avg 71/100, two nights <6.5h, one 45/100 score",
+    "Intervals.icu: 0 of 300 TSS week-to-date (Tuesday of recovery week)",
+    "Last 7 days: 12mi run (182 TSS), 69.6mi bike (101 TSS), 3mi run (35 TSS), OW swim (11 TSS)"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Sleep data is complete for 7 nights and training load is tracked via TSS/HR, but no HRV data or subjective fatigue logs limit insight into deeper recovery status."
+    "level": "high",
+    "reason": "Five weeks of structured training data, readiness engine output, 7 nights of sleep tracking, and clear recovery week context provide strong evidence for this assessment."
   },
   "athlete_context_considered": [
-    "Recovery week structure (week 6 of 13)",
-    "Walk/run 9/1 protocol used on long run",
-    "Hip history (stable, no pain flags in recent data)",
-    "Age 54 and TRT context (recovery prioritization)"
+    "Recovery week (week 6 of 13) -- volume drops 35%, no intensity",
+    "Age 54 -- recovery is non-negotiable at this training load",
+    "Hip history (Perthes) -- watching back-to-back run load during recovery",
+    "54 days to Ironman California (Sacramento)"
   ],
   "race_implications": [
-    "Sleep deficit heading into recovery week risks blunting the adaptation from the 5-week build block",
-    "Bike fitness (100/100 readiness) is strong and positions you well for the 6:37 target at Sacramento",
-    "Run volume tolerance looks solid (12mi at walk/run protocol), but run nutrition practice remains the key fix from Oregon"
+    "Recovery week execution determines whether the next 7-week block builds fitness or digs a hole -- do not skip or rush this week",
+    "Sleep deficits now will compound into the peak weeks (weeks 7-10) when long rides hit 5-6 hours and run volume climbs -- fix it this week",
+    "Bike fitness is strong (100/100), but run readiness (88/100) and recovery (83/100) are the limiters to close before October 18"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5-8+ hours sleep tonight and through the recovery week -- consider earlier bedtime or sleep hygiene adjustments",
-    "If sleep does not improve by Wednesday, consider shortening Thursday's 3mi run or making it a walk-only recovery session",
-    "Review post-long-run recovery protocol (hydration, nutrition, cool-down) to prevent Friday's sleep crash pattern in future weeks"
+    "Prioritize 7.5-8h sleep every night this week -- treat it as a workout you cannot skip",
+    "If the 60min easy ride today feels heavy or dead-legged, cut it to 45min -- recovery week is not the place to prove toughness",
+    "Review what caused the 45/100 sleep score on Aug 23 (post-long-run) -- hydration, nutrition timing, or stress management may need adjustment"
   ],
-  "generatedAt": "2026-08-24",
-  "daysToRace": 55,
+  "generatedAt": "2026-08-25",
+  "daysToRace": 54,
   "currentWeek": 6,
   "weekPhase": "Recovery"
 }
