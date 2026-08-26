@@ -5,9 +5,9 @@
       "rest": false,
       "planned": [
         {
-          "disc": "swim",
-          "label": "OW swim or easy spin",
-          "note": "easy aerobic \u00b7 recovery day"
+          "disc": "run",
+          "label": "Long run",
+          "note": "walk/run 9/1 · progressive build"
         }
       ]
     },
@@ -21,8 +21,8 @@
         },
         {
           "disc": "run",
-          "label": "Run Club",
-          "note": "walk/run protocol"
+          "label": "Easy run 3–4mi",
+          "note": "walk/run 9/1"
         }
       ]
     },
@@ -30,14 +30,9 @@
       "rest": false,
       "planned": [
         {
-          "disc": "bike",
-          "label": "ROUVY 60 min",
-          "note": "Z2 \u00b7 NP 130\u2013145w"
-        },
-        {
           "disc": "run",
-          "label": "Easy run 3\u20134mi",
-          "note": "walk/run 9/1"
+          "label": "Run Club",
+          "note": "walk/run protocol · fixed Tuesday evening slot"
         }
       ]
     },
@@ -48,11 +43,6 @@
           "disc": "swim",
           "label": "Pool swim 2,500m",
           "note": "race effort sets"
-        },
-        {
-          "disc": "run",
-          "label": "Easy run 3\u20134mi",
-          "note": "walk/run 9/1"
         }
       ]
     },
@@ -62,22 +52,22 @@
         {
           "disc": "bike",
           "label": "Outdoor ride + brick",
-          "note": "outdoor mandatory \u00b7 aero conditioning"
+          "note": "outdoor mandatory · aero conditioning"
         },
         {
           "disc": "brick",
-          "label": "Brick run 25\u201345 min",
-          "note": "walk/run 9/1 \u00b7 11:00/mi"
+          "label": "Brick run 25–45 min",
+          "note": "walk/run 9/1 · 11:00/mi"
         }
       ]
     },
     "5": {
-      "rest": true,
+      "rest": false,
       "planned": [
         {
-          "disc": "rest",
-          "label": "Rest",
-          "note": "recovery day"
+          "disc": "swim",
+          "label": "Pool swim 1,500m",
+          "note": "easy aerobic only · replaces the old rest day"
         }
       ]
     },
@@ -87,7 +77,7 @@
         {
           "disc": "bike",
           "label": "Outdoor long ride",
-          "note": "outdoor mandatory \u00b7 NP under 150w \u00b7 aero conditioning"
+          "note": "outdoor mandatory · NP under 150w · aero conditioning"
         }
       ]
     }
@@ -217,7 +207,7 @@
           {
             "disc": "run",
             "label": "Long run 10mi",
-            "note": "Run Club \u00b7 easy"
+            "note": "Run Club · easy"
           }
         ]
       },
@@ -293,7 +283,7 @@
           {
             "disc": "brick",
             "label": "Brick run 20 min",
-            "note": "off the bike \u00b7 easy pace"
+            "note": "off the bike · easy pace"
           }
         ]
       },
@@ -303,7 +293,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000m",
-            "note": "aerobic \u00b7 after Run Club"
+            "note": "aerobic · after Run Club"
           }
         ]
       },
@@ -318,7 +308,7 @@
           {
             "disc": "brick",
             "label": "Brick run 20 min",
-            "note": "off the bike \u00b7 easy pace"
+            "note": "off the bike · easy pace"
           }
         ]
       },
@@ -328,7 +318,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,500m",
-            "note": "4x100 at race pace \u00b7 stay sharp"
+            "note": "4x100 at race pace · stay sharp"
           }
         ]
       },
@@ -337,13 +327,13 @@
         "planned": [
           {
             "disc": "run",
-            "label": "Easy run 3\u20134mi",
-            "note": "protect hip \u00b7 no intensity"
+            "label": "Easy run 3–4mi",
+            "note": "protect hip · no intensity"
           },
           {
             "disc": "swim",
             "label": "Open water 1,500m",
-            "note": "La Jolla Shores \u00b7 aerobic"
+            "note": "La Jolla Shores · aerobic"
           }
         ]
       },
@@ -352,13 +342,13 @@
         "planned": [
           {
             "disc": "bike",
-            "label": "Long bike 50\u201355mi",
-            "note": "moderate effort \u00b7 NP under 150w"
+            "label": "Long bike 50–55mi",
+            "note": "moderate effort · NP under 150w"
           },
           {
             "disc": "brick",
             "label": "Brick run 20 min",
-            "note": "off the bike \u00b7 easy pace"
+            "note": "off the bike · easy pace"
           }
         ]
       },
@@ -367,8 +357,8 @@
         "planned": [
           {
             "disc": "run",
-            "label": "Easy run 3\u20134mi",
-            "note": "all easy \u00b7 protect hip"
+            "label": "Easy run 3–4mi",
+            "note": "all easy · protect hip"
           }
         ]
       }
@@ -379,8 +369,8 @@
         "planned": [
           {
             "disc": "bike",
-            "label": "Bike 50\u201355 min",
-            "note": "easy-moderate ROUVY \u00b7 no brick \u00b7 no Run Club"
+            "label": "Bike 50–55 min",
+            "note": "easy-moderate ROUVY · no brick · no Run Club"
           }
         ]
       },
@@ -390,7 +380,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,500m",
-            "note": "4x100 at race pace \u00b7 stay sharp"
+            "note": "4x100 at race pace · stay sharp"
           }
         ]
       },
@@ -400,7 +390,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000m",
-            "note": "easy \u00b7 stay loose \u00b7 no intensity"
+            "note": "easy · stay loose · no intensity"
           }
         ]
       },
@@ -435,12 +425,12 @@
           {
             "disc": "bike",
             "label": "Shakeout spin 20 min",
-            "note": "easy only \u00b7 save the legs"
+            "note": "easy only · save the legs"
           },
           {
             "disc": "run",
             "label": "Easy jog 10 min",
-            "note": "shakeout \u00b7 nothing more"
+            "note": "shakeout · nothing more"
           }
         ]
       },
@@ -450,7 +440,7 @@
           {
             "disc": "race",
             "label": "SDIT Race Day",
-            "note": "International \u00b7 1K swim / 30K bike / 10K run \u00b7 goal sub-2:15"
+            "note": "International · 1K swim / 30K bike / 10K run · goal sub-2:15"
           }
         ]
       }
@@ -462,7 +452,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "post-SDIT recovery \u00b7 walk & stretch only"
+            "note": "post-SDIT recovery · walk & stretch only"
           }
         ]
       },
@@ -472,7 +462,7 @@
           {
             "disc": "bike",
             "label": "Easy spin 30 min",
-            "note": "recovery only \u00b7 no intensity"
+            "note": "recovery only · no intensity"
           }
         ]
       },
@@ -497,7 +487,7 @@
           {
             "disc": "bike",
             "label": "Bike 45 min",
-            "note": "3x8 min at race effort NP 145\u2013152w \u00b7 last stimulus"
+            "note": "3x8 min at race effort NP 145–152w · last stimulus"
           }
         ]
       },
@@ -507,7 +497,7 @@
           {
             "disc": "bike",
             "label": "Bike ride",
-            "note": "easy-moderate \u00b7 shake out the legs \u00b7 no intensity \u00b7 save it for tomorrow"
+            "note": "easy-moderate · shake out the legs · no intensity · save it for tomorrow"
           }
         ]
       },
@@ -516,8 +506,8 @@
         "planned": [
           {
             "disc": "race",
-            "label": "4th of July 10K \ud83c\uddfa\ud83c\uddf8",
-            "note": "strong tempo effort \u00b7 8:00\u20138:15/mi \u00b7 not all-out \u00b7 15 days to Oregon \u2014 DONE"
+            "label": "4th of July 10K 🇺🇸",
+            "note": "strong tempo effort · 8:00–8:15/mi · not all-out · 15 days to Oregon — DONE"
           }
         ]
       },
@@ -527,7 +517,7 @@
           {
             "disc": "swim",
             "label": "Open water swim",
-            "note": "easy aerobic \u00b7 La Jolla Shores \u00b7 enjoy it \u00b7 no intensity \u00b7 recover from 10K"
+            "note": "easy aerobic · La Jolla Shores · enjoy it · no intensity · recover from 10K"
           }
         ]
       }
@@ -539,12 +529,12 @@
           {
             "disc": "bike",
             "label": "Bike 40 min",
-            "note": "easy-moderate ROUVY \u00b7 NP under 140w"
+            "note": "easy-moderate ROUVY · NP under 140w"
           },
           {
             "disc": "brick",
             "label": "Brick run 15 min",
-            "note": "short off the bike \u00b7 easy pace \u00b7 no intensity"
+            "note": "short off the bike · easy pace · no intensity"
           }
         ]
       },
@@ -554,12 +544,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000m",
-            "note": "4x100 at race pace \u00b7 stay sharp"
+            "note": "4x100 at race pace · stay sharp"
           },
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "easy group run \u00b7 enjoy it"
+            "note": "easy group run · enjoy it"
           }
         ]
       },
@@ -569,12 +559,12 @@
           {
             "disc": "bike",
             "label": "Bike 40 min",
-            "note": "easy ROUVY \u00b7 NP under 140w"
+            "note": "easy ROUVY · NP under 140w"
           },
           {
             "disc": "swim",
             "label": "Pool swim 1,500m",
-            "note": "easy aerobic \u00b7 stay loose"
+            "note": "easy aerobic · stay loose"
           }
         ]
       },
@@ -584,7 +574,7 @@
           {
             "disc": "bike",
             "label": "Bike 30 min easy",
-            "note": "very easy spin only \u00b7 skip the run \u00b7 protect the legs"
+            "note": "very easy spin only · skip the run · protect the legs"
           }
         ]
       },
@@ -594,7 +584,7 @@
           {
             "disc": "rest",
             "label": "Complete rest",
-            "note": "protect everything \u00b7 no training stress"
+            "note": "protect everything · no training stress"
           }
         ]
       },
@@ -604,7 +594,7 @@
           {
             "disc": "swim",
             "label": "Open water swim",
-            "note": "easy aerobic \u00b7 La Jolla Shores \u00b7 1,500m \u00b7 no intensity"
+            "note": "easy aerobic · La Jolla Shores · 1,500m · no intensity"
           }
         ]
       },
@@ -613,8 +603,8 @@
         "planned": [
           {
             "disc": "run",
-            "label": "Easy run 2\u20133mi",
-            "note": "very easy \u00b7 final tune-up \u00b7 nothing more"
+            "label": "Easy run 2–3mi",
+            "note": "very easy · final tune-up · nothing more"
           }
         ]
       }
@@ -626,7 +616,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 1,500m",
-            "note": "easy \u00b7 4x50 at race pace \u00b7 last pool session"
+            "note": "easy · 4x50 at race pace · last pool session"
           }
         ]
       },
@@ -636,12 +626,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000yd",
-            "note": "easy aerobic \u00b7 stay loose"
+            "note": "easy aerobic · stay loose"
           },
           {
             "disc": "run",
             "label": "Easy run 3mi",
-            "note": "easy pace \u00b7 feel fresh \u00b7 no effort"
+            "note": "easy pace · feel fresh · no effort"
           }
         ]
       },
@@ -651,7 +641,7 @@
           {
             "disc": "swim",
             "label": "OW swim 1,000m",
-            "note": "easy open water \u00b7 last swim before Oregon \u00b7 confidence builder \u2014 DONE"
+            "note": "easy open water · last swim before Oregon · confidence builder — DONE"
           }
         ]
       },
@@ -660,8 +650,8 @@
         "planned": [
           {
             "disc": "rest",
-            "label": "Travel day \u2708\ufe0f",
-            "note": "flew to Oregon \u00b7 race completed 5:39:04 PR \ud83c\udfc1"
+            "label": "Travel day ✈️",
+            "note": "flew to Oregon · race completed 5:39:04 PR 🏁"
           }
         ]
       },
@@ -671,7 +661,7 @@
           {
             "disc": "bike",
             "label": "Bike check 20 min",
-            "note": "QR Kilo reassembly \u00b7 short spin to confirm shifting & brakes"
+            "note": "QR Kilo reassembly · short spin to confirm shifting & brakes"
           }
         ]
       },
@@ -681,7 +671,7 @@
           {
             "disc": "swim",
             "label": "Race rehearsal swim",
-            "note": "athlete briefing \u00b7 course preview swim if available"
+            "note": "athlete briefing · course preview swim if available"
           }
         ]
       },
@@ -690,8 +680,8 @@
         "planned": [
           {
             "disc": "rest",
-            "label": "Race Eve \u2014 full rest",
-            "note": "gear laid out \u00b7 nutrition prepped \u00b7 goggles prepped \u00b7 sleep early \u00b7 RACE TOMORROW"
+            "label": "Race Eve — full rest",
+            "note": "gear laid out · nutrition prepped · goggles prepped · sleep early · RACE TOMORROW"
           }
         ]
       }
@@ -703,7 +693,7 @@
           {
             "disc": "rest",
             "label": "Race Day",
-            "note": "IM 70.3 Oregon \u2014 5:39:04 PR \ud83c\udfc1"
+            "note": "IM 70.3 Oregon — 5:39:04 PR 🏁"
           }
         ]
       },
@@ -713,7 +703,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 1 post-race \u00b7 walk only \u00b7 celebrate 5:39:04 PR"
+            "note": "Day 1 post-race · walk only · celebrate 5:39:04 PR"
           }
         ]
       },
@@ -723,7 +713,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 2 \u00b7 still sore \u00b7 skip Run Club and swim \u00b7 no training"
+            "note": "Day 2 · still sore · skip Run Club and swim · no training"
           }
         ]
       },
@@ -733,7 +723,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 3 \u00b7 rest \u00b7 hydrate \u00b7 sleep \u00b7 let the body absorb the race"
+            "note": "Day 3 · rest · hydrate · sleep · let the body absorb the race"
           }
         ]
       },
@@ -743,7 +733,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 4 \u00b7 skip swim \u00b7 rest if still sore \u00b7 book bike fit this week"
+            "note": "Day 4 · skip swim · rest if still sore · book bike fit this week"
           }
         ]
       },
@@ -753,7 +743,7 @@
           {
             "disc": "swim",
             "label": "Easy swim 20 min",
-            "note": "Day 5 \u00b7 first easy movement only if hip feels okay \u00b7 very easy \u00b7 no intensity"
+            "note": "Day 5 · first easy movement only if hip feels okay · very easy · no intensity"
           }
         ]
       },
@@ -763,7 +753,7 @@
           {
             "disc": "swim",
             "label": "OW swim easy 20 min",
-            "note": "Day 6 \u00b7 easy aerobic only \u00b7 La Jolla Shores \u00b7 enjoy the water \u00b7 nothing structured"
+            "note": "Day 6 · easy aerobic only · La Jolla Shores · enjoy the water · nothing structured"
           }
         ]
       }
@@ -775,7 +765,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 1 post-race \u00b7 walk only \u00b7 eat well \u00b7 celebrate 5:39:04 PR"
+            "note": "Day 1 post-race · walk only · eat well · celebrate 5:39:04 PR"
           }
         ]
       },
@@ -785,7 +775,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 2 \u00b7 still sore \u00b7 skip Run Club and swim \u00b7 no training"
+            "note": "Day 2 · still sore · skip Run Club and swim · no training"
           }
         ]
       },
@@ -795,7 +785,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 3 \u00b7 rest \u00b7 hydrate \u00b7 sleep \u00b7 let the body absorb the race"
+            "note": "Day 3 · rest · hydrate · sleep · let the body absorb the race"
           }
         ]
       },
@@ -805,7 +795,7 @@
           {
             "disc": "rest",
             "label": "Full rest",
-            "note": "Day 4 \u00b7 skip swim \u00b7 rest if still sore \u00b7 book bike fit this week"
+            "note": "Day 4 · skip swim · rest if still sore · book bike fit this week"
           }
         ]
       },
@@ -815,7 +805,7 @@
           {
             "disc": "swim",
             "label": "Easy swim 20 min",
-            "note": "Day 5 \u00b7 first easy movement only if hip feels okay \u00b7 very easy \u00b7 no intensity"
+            "note": "Day 5 · first easy movement only if hip feels okay · very easy · no intensity"
           }
         ]
       },
@@ -825,7 +815,7 @@
           {
             "disc": "swim",
             "label": "OW swim easy 20 min",
-            "note": "Day 6 \u00b7 easy aerobic only \u00b7 La Jolla Shores \u00b7 enjoy the water \u00b7 nothing structured"
+            "note": "Day 6 · easy aerobic only · La Jolla Shores · enjoy the water · nothing structured"
           }
         ]
       },
@@ -835,7 +825,7 @@
           {
             "disc": "bike",
             "label": "Easy spin 20 min",
-            "note": "Day 7 \u00b7 easy spin or rest \u00b7 listen to the body \u00b7 Sacramento build starts tomorrow"
+            "note": "Day 7 · easy spin or rest · listen to the body · Sacramento build starts tomorrow"
           }
         ]
       }
@@ -847,12 +837,12 @@
           {
             "disc": "bike",
             "label": "ROUVY 60 min",
-            "note": "easy Z2 \u00b7 NP 130\u2013140w \u00b7 tri bike on trainer if set up"
+            "note": "easy Z2 · NP 130–140w · tri bike on trainer if set up"
           },
           {
             "disc": "run",
             "label": "Easy run 3mi",
-            "note": "walk/run 9/1 \u00b7 conversational HR \u00b7 first run of Sacramento build"
+            "note": "walk/run 9/1 · conversational HR · first run of Sacramento build"
           }
         ]
       },
@@ -862,12 +852,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000m",
-            "note": "easy aerobic \u00b7 4x100 steady"
+            "note": "easy aerobic · 4x100 steady"
           },
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "easy group run \u00b7 walk/run protocol"
+            "note": "easy group run · walk/run protocol"
           }
         ]
       },
@@ -877,7 +867,7 @@
           {
             "disc": "bike",
             "label": "ROUVY 60 min",
-            "note": "easy Z2 \u00b7 NP 130\u2013140w \u00b7 aero position on trainer"
+            "note": "easy Z2 · NP 130–140w · aero position on trainer"
           }
         ]
       },
@@ -887,12 +877,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,000m",
-            "note": "easy aerobic \u00b7 build frequency"
+            "note": "easy aerobic · build frequency"
           },
           {
             "disc": "run",
             "label": "Easy run 3mi",
-            "note": "walk/run 9/1 \u00b7 protect hip \u00b7 keep easy"
+            "note": "walk/run 9/1 · protect hip · keep easy"
           }
         ]
       },
@@ -912,7 +902,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 60 min",
-            "note": "easy Z2 \u00b7 start aero position time on QR Kilo \u00b7 ROUVY if weather forces it"
+            "note": "easy Z2 · start aero position time on QR Kilo · ROUVY if weather forces it"
           }
         ]
       },
@@ -922,7 +912,7 @@
           {
             "disc": "run",
             "label": "Long run 5mi",
-            "note": "walk/run 9/1 \u00b7 first long run of Sacramento build \u00b7 note hip status after"
+            "note": "walk/run 9/1 · first long run of Sacramento build · note hip status after"
           }
         ]
       }
@@ -934,7 +924,7 @@
           {
             "disc": "bike",
             "label": "ROUVY 60 min",
-            "note": "Z2 \u00b7 NP 135\u2013145w"
+            "note": "Z2 · NP 135–145w"
           },
           {
             "disc": "run",
@@ -964,12 +954,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "outdoor preferred \u00b7 aero conditioning \u00b7 NP 135\u2013145w"
+            "note": "outdoor preferred · aero conditioning · NP 135–145w"
           },
           {
             "disc": "brick",
             "label": "Brick run 25 min",
-            "note": "walk/run 9/1 \u00b7 first brick of Sacramento block"
+            "note": "walk/run 9/1 · first brick of Sacramento block"
           }
         ]
       },
@@ -979,7 +969,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,500m",
-            "note": "4x100 steady \u00b7 build endurance"
+            "note": "4x100 steady · build endurance"
           },
           {
             "disc": "run",
@@ -1004,7 +994,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min",
-            "note": "Z2 \u00b7 aero on QR Kilo \u00b7 back needs to adapt to 112mi"
+            "note": "Z2 · aero on QR Kilo · back needs to adapt to 112mi"
           }
         ]
       },
@@ -1014,7 +1004,7 @@
           {
             "disc": "run",
             "label": "Long run 6mi",
-            "note": "walk/run 9/1 \u00b7 building distance \u00b7 note hip status after"
+            "note": "walk/run 9/1 · building distance · note hip status after"
           }
         ]
       }
@@ -1026,7 +1016,7 @@
           {
             "disc": "bike",
             "label": "ROUVY 75 min",
-            "note": "NP 140\u2013148w"
+            "note": "NP 140–148w"
           },
           {
             "disc": "run",
@@ -1056,12 +1046,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "outdoor mandatory \u00b7 aero conditioning \u00b7 NP 140\u2013148w"
+            "note": "outdoor mandatory · aero conditioning · NP 140–148w"
           },
           {
             "disc": "brick",
             "label": "Brick run 30 min",
-            "note": "walk/run 9/1 \u00b7 groove Sacramento marathon pace 11:00/mi"
+            "note": "walk/run 9/1 · groove Sacramento marathon pace 11:00/mi"
           }
         ]
       },
@@ -1071,7 +1061,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000m",
-            "note": "4x200 steady \u00b7 threshold introduced"
+            "note": "4x200 steady · threshold introduced"
           },
           {
             "disc": "run",
@@ -1096,7 +1086,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 50mi",
-            "note": "~17mph target \u00b7 QR Kilo \u00b7 first post-bike-fit outdoor ride"
+            "note": "~17mph target · QR Kilo · first post-bike-fit outdoor ride"
           }
         ]
       },
@@ -1106,7 +1096,7 @@
           {
             "disc": "run",
             "label": "Long run 8mi",
-            "note": "walk/run 9/1 \u00b7 first real hip test \u00b7 note status carefully after"
+            "note": "walk/run 9/1 · first real hip test · note status carefully after"
           }
         ]
       }
@@ -1118,7 +1108,7 @@
           {
             "disc": "bike",
             "label": "ROUVY 90 min",
-            "note": "NP 140\u2013148w"
+            "note": "NP 140–148w"
           },
           {
             "disc": "run",
@@ -1133,12 +1123,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000m",
-            "note": "4x200 threshold sets \u00b7 traveling \u2014 likely skipped, no need to make up"
+            "note": "4x200 threshold sets · traveling — likely skipped, no need to make up"
           },
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run protocol \u00b7 traveling \u2014 easy run only if flight timing allows, otherwise skip"
+            "note": "walk/run protocol · traveling — easy run only if flight timing allows, otherwise skip"
           }
         ]
       },
@@ -1148,12 +1138,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "outdoor mandatory \u00b7 NP 140\u2013148w \u00b7 aero conditioning \u00b7 traveling \u2014 can't replicate away from the bike, treat as missed, don't sub an indoor spin"
+            "note": "outdoor mandatory · NP 140–148w · aero conditioning · traveling — can't replicate away from the bike, treat as missed, don't sub an indoor spin"
           },
           {
             "disc": "brick",
             "label": "Brick run 35 min",
-            "note": "walk/run 9/1 \u00b7 11:00/mi \u00b7 walk every mile \u00b7 traveling \u2014 likely skipped, tied to the missed bike"
+            "note": "walk/run 9/1 · 11:00/mi · walk every mile · traveling — likely skipped, tied to the missed bike"
           }
         ]
       },
@@ -1163,12 +1153,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,200m",
-            "note": "threshold sets \u00b7 traveling \u2014 likely skipped, no need to make up"
+            "note": "threshold sets · traveling — likely skipped, no need to make up"
           },
           {
             "disc": "run",
             "label": "Easy run 4mi",
-            "note": "walk/run 9/1 \u00b7 traveling \u2014 easy run if location allows, otherwise skip"
+            "note": "walk/run 9/1 · traveling — easy run if location allows, otherwise skip"
           }
         ]
       },
@@ -1187,8 +1177,8 @@
         "planned": [
           {
             "disc": "bike",
-            "label": "Outdoor long ride 60\u201365mi",
-            "note": "~17mph \u00b7 practice Sacramento bike pacing \u00b7 nutrition every 20 min"
+            "label": "Outdoor long ride 60–65mi",
+            "note": "~17mph · practice Sacramento bike pacing · nutrition every 20 min"
           }
         ]
       },
@@ -1198,7 +1188,7 @@
           {
             "disc": "run",
             "label": "Long run 10mi",
-            "note": "walk/run 9/1 \u00b7 Oregon proved this is doable \u00b7 note hip status after"
+            "note": "walk/run 9/1 · Oregon proved this is doable · note hip status after"
           }
         ]
       }
@@ -1210,21 +1200,11 @@
           {
             "disc": "rest",
             "label": "Rest",
-            "note": "recovery week begins \u00b7 absorb 5 weeks of work"
+            "note": "recovery week begins · absorb 5 weeks of work"
           }
         ]
       },
       "2": {
-        "rest": false,
-        "planned": [
-          {
-            "disc": "bike",
-            "label": "Easy ride 60 min",
-            "note": "Z2 only \u00b7 NP under 135w \u00b7 recovery week"
-          }
-        ]
-      },
-      "3": {
         "rest": false,
         "planned": [
           {
@@ -1235,7 +1215,17 @@
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "easy \u00b7 walk/run \u00b7 enjoy it"
+            "note": "easy · walk/run · enjoy it"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,000m",
+            "note": "easy aerobic"
           }
         ]
       },
@@ -1243,24 +1233,19 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,000m",
-            "note": "easy aerobic"
-          },
-          {
-            "disc": "run",
-            "label": "Easy run 3mi",
-            "note": "walk/run 9/1 \u00b7 keep very easy"
+            "disc": "bike",
+            "label": "Easy ride 60 min",
+            "note": "Z2 only · NP under 135w · recovery week"
           }
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "recovery day"
+            "disc": "swim",
+            "label": "Pool swim 1,000m",
+            "note": "very easy · new Friday swim slot, replaces rest this week only"
           }
         ]
       },
@@ -1270,7 +1255,7 @@
           {
             "disc": "bike",
             "label": "Easy ride 60 min",
-            "note": "recovery week \u00b7 keep aero adaptation going"
+            "note": "recovery week · keep aero adaptation going"
           }
         ]
       },
@@ -1280,7 +1265,7 @@
           {
             "disc": "run",
             "label": "Long run 6mi",
-            "note": "walk/run 9/1 \u00b7 recovery week long run \u00b7 keep it easy"
+            "note": "walk/run 9/1 · recovery week long run · keep it easy"
           }
         ]
       }
@@ -1290,14 +1275,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "ROUVY 90 min",
-            "note": "NP 142\u2013150w \u00b7 race-specific intensity begins"
+            "disc": "swim",
+            "label": "Pool swim 3,200m",
+            "note": "4x200 at race effort"
           },
           {
             "disc": "run",
             "label": "Easy run 4mi",
-            "note": "walk/run 9/1"
+            "note": "walk/run 9/1 · recover from Wednesday brick"
           }
         ]
       },
@@ -1305,14 +1290,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,200m",
-            "note": "4x200 at race effort"
-          },
-          {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run \u00b7 pick up effort slightly"
+            "note": "walk/run · pick up effort slightly"
           }
         ]
       },
@@ -1320,14 +1300,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor 3hr ride + brick",
-            "note": "MUST be outdoor \u00b7 3hrs in aero is the point \u00b7 ~17mph"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 45 min",
-            "note": "walk/run 9/1 \u00b7 walk every mile \u00b7 KEY SESSION"
+            "disc": "swim",
+            "label": "Pool swim 3,000m",
+            "note": "4x200 race effort"
           }
         ]
       },
@@ -1335,24 +1310,24 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,000m",
-            "note": "4x200 race effort"
+            "disc": "bike",
+            "label": "Outdoor 3hr ride + brick",
+            "note": "MUST be outdoor · 3hrs in aero is the point · ~17mph"
           },
           {
-            "disc": "run",
-            "label": "Easy run 4mi",
-            "note": "walk/run 9/1 \u00b7 recover from Wednesday brick"
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1 · walk every mile · KEY SESSION"
           }
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "recovery before long run Sunday"
+            "disc": "swim",
+            "label": "Pool swim 1,500m",
+            "note": "easy aerobic only · new light Friday swim"
           }
         ]
       },
@@ -1362,7 +1337,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 75mi",
-            "note": "~17mph \u00b7 first genuinely full-IM-length ride \u00b7 nutrition every 20 min"
+            "note": "~17mph · first genuinely full-IM-length ride · nutrition every 20 min"
           }
         ]
       },
@@ -1372,7 +1347,7 @@
           {
             "disc": "run",
             "label": "Long run 14mi",
-            "note": "walk/run 9/1 \u00b7 key hip test \u00b7 biggest run yet \u00b7 note status carefully"
+            "note": "walk/run 9/1 · key hip test · biggest run yet · note status carefully"
           }
         ]
       }
@@ -1382,14 +1357,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "ROUVY 100 min",
-            "note": "NP 142\u2013150w \u00b7 peak week begins"
+            "disc": "swim",
+            "label": "Pool swim 3,000m",
+            "note": "threshold sets"
           },
           {
             "disc": "run",
             "label": "Easy run 4mi",
-            "note": "walk/run 9/1"
+            "note": "walk/run 9/1 · recover from Wednesday brick"
           }
         ]
       },
@@ -1397,14 +1372,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,000m",
-            "note": "threshold sets"
-          },
-          {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run \u00b7 peak week"
+            "note": "walk/run · peak week"
           }
         ]
       },
@@ -1412,14 +1382,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor 45mi + brick",
-            "note": "~17mph \u00b7 race-pace \u00b7 moderated so Saturday's 90mi peak ride isn't stacked on a near-max midweek day"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 60 min",
-            "note": "walk/run 9/1 \u00b7 walk every mile \u00b7 closest thing to Sacramento run"
+            "disc": "swim",
+            "label": "Open water swim 2,200m",
+            "note": "La Jolla Shores · sustained open water · sighting practice · confidence for the 2.4mi Sacramento swim"
           }
         ]
       },
@@ -1427,24 +1392,24 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Open water swim 2,200m",
-            "note": "La Jolla Shores \u00b7 sustained open water \u00b7 sighting practice \u00b7 confidence for the 2.4mi Sacramento swim"
+            "disc": "bike",
+            "label": "Outdoor 45mi + brick",
+            "note": "~17mph · race-pace · moderated so Saturday's 90mi peak ride isn't stacked on a near-max midweek day"
           },
           {
-            "disc": "run",
-            "label": "Easy run 4mi",
-            "note": "walk/run 9/1 \u00b7 recover from Wednesday brick"
+            "disc": "brick",
+            "label": "Brick run 60 min",
+            "note": "walk/run 9/1 · walk every mile · closest thing to Sacramento run"
           }
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "protect the legs before long run Sunday"
+            "disc": "swim",
+            "label": "Pool swim 1,500m",
+            "note": "easy aerobic only · new light Friday swim"
           }
         ]
       },
@@ -1454,7 +1419,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 90mi",
-            "note": "~17mph \u00b7 peak ride of the build \u00b7 dial in full race fueling"
+            "note": "~17mph · peak ride of the build · dial in full race fueling"
           }
         ]
       },
@@ -1464,7 +1429,7 @@
           {
             "disc": "run",
             "label": "Long run 16mi",
-            "note": "walk/run 9/1 \u00b7 second-to-last build-up run \u00b7 hip will be tested here \u00b7 note everything"
+            "note": "walk/run 9/1 · second-to-last build-up run · hip will be tested here · note everything"
           }
         ]
       }
@@ -1474,9 +1439,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "ROUVY 90 min",
-            "note": "NP 142\u2013150w \u00b7 second peak week"
+            "disc": "swim",
+            "label": "Pool swim 3,000m",
+            "note": "4x200 race effort"
           },
           {
             "disc": "run",
@@ -1489,14 +1454,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,000m",
-            "note": "4x200 race effort"
-          },
-          {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run \u00b7 peak week energy"
+            "note": "walk/run · peak week energy"
           }
         ]
       },
@@ -1504,14 +1464,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor ride 90 min + brick",
-            "note": "~17mph \u00b7 outdoor mandatory"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 50 min",
-            "note": "walk/run 9/1 \u00b7 full race nutrition practice"
+            "disc": "swim",
+            "label": "Pool swim 3,000m",
+            "note": "race effort sets"
           }
         ]
       },
@@ -1519,24 +1474,24 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,000m",
-            "note": "race effort sets"
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "~17mph · outdoor mandatory"
           },
           {
-            "disc": "run",
-            "label": "Easy run 4mi",
-            "note": "walk/run 9/1"
+            "disc": "brick",
+            "label": "Brick run 50 min",
+            "note": "walk/run 9/1 · full race nutrition practice"
           }
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "recovery before long run Sunday"
+            "disc": "swim",
+            "label": "Pool swim 1,500m",
+            "note": "easy aerobic only · new light Friday swim"
           }
         ]
       },
@@ -1546,7 +1501,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 95mi",
-            "note": "~17mph \u00b7 peak ride of the entire build (~5.6hrs) \u00b7 full race nutrition rehearsal"
+            "note": "~17mph · peak ride of the entire build (~5.6hrs) · full race nutrition rehearsal"
           }
         ]
       },
@@ -1556,7 +1511,7 @@
           {
             "disc": "run",
             "label": "Long run 18mi",
-            "note": "walk/run 9/1 \u00b7 PEAK LONG RUN \u00b7 if hip handles this you are ready for Sacramento \u00b7 note everything"
+            "note": "walk/run 9/1 · PEAK LONG RUN · if hip handles this you are ready for Sacramento · note everything"
           }
         ]
       }
@@ -1566,9 +1521,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "ROUVY 75 min",
-            "note": "NP 140\u2013148w \u00b7 step down begins"
+            "disc": "swim",
+            "label": "Pool swim 2,500m",
+            "note": "4x100 race pace"
           },
           {
             "disc": "run",
@@ -1581,14 +1536,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,500m",
-            "note": "4x100 race pace"
-          },
-          {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run \u00b7 step down week"
+            "note": "walk/run · step down week"
           }
         ]
       },
@@ -1596,9 +1546,19 @@
         "rest": false,
         "planned": [
           {
+            "disc": "swim",
+            "label": "Pool swim 2,500m",
+            "note": "race pace sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "outdoor preferred \u00b7 step down but keep aero habit"
+            "note": "outdoor preferred · step down but keep aero habit"
           },
           {
             "disc": "brick",
@@ -1607,28 +1567,13 @@
           }
         ]
       },
-      "4": {
+      "5": {
         "rest": false,
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
-            "note": "race pace sets"
-          },
-          {
-            "disc": "run",
-            "label": "Easy run 4mi",
-            "note": "walk/run 9/1"
-          }
-        ]
-      },
-      "5": {
-        "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "recovery before long run Sunday"
+            "label": "Pool swim 1,200m",
+            "note": "easy aerobic only · new light Friday swim · step-down week"
           }
         ]
       },
@@ -1638,7 +1583,7 @@
           {
             "disc": "bike",
             "label": "Easy ride 60 min",
-            "note": "step down \u00b7 outdoor preferred"
+            "note": "step down · outdoor preferred"
           }
         ]
       },
@@ -1648,7 +1593,7 @@
           {
             "disc": "run",
             "label": "Long run 11mi",
-            "note": "walk/run 9/1 \u00b7 step down from peak \u00b7 legs should feel good"
+            "note": "walk/run 9/1 · step down from peak · legs should feel good"
           }
         ]
       }
@@ -1658,14 +1603,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "ROUVY 60 min",
-            "note": "NP 140\u2013148w \u00b7 taper begins"
+            "disc": "swim",
+            "label": "Pool swim 2,000m",
+            "note": "4x100 race pace"
           },
           {
             "disc": "run",
             "label": "Easy run 3mi",
-            "note": "walk/run 9/1"
+            "note": "walk/run · 4x30 sec strides · feel sharp"
           }
         ]
       },
@@ -1673,14 +1618,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,000m",
-            "note": "4x100 race pace"
-          },
-          {
             "disc": "run",
             "label": "Run Club",
-            "note": "walk/run \u00b7 taper week \u00b7 enjoy it"
+            "note": "walk/run · taper week · enjoy it"
           }
         ]
       },
@@ -1688,9 +1628,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Easy ride 45 min",
-            "note": "taper \u00b7 NP under 140w \u00b7 outdoor or trainer fine"
+            "disc": "swim",
+            "label": "Pool swim 2,000m",
+            "note": "race pace · feel fast"
           }
         ]
       },
@@ -1698,24 +1638,19 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,000m",
-            "note": "race pace \u00b7 feel fast"
-          },
-          {
-            "disc": "run",
-            "label": "Easy run 3mi",
-            "note": "walk/run \u00b7 4x30 sec strides \u00b7 feel sharp"
+            "disc": "bike",
+            "label": "Easy ride 45 min",
+            "note": "taper · NP under 140w · outdoor or trainer fine"
           }
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "taper rest"
+            "disc": "swim",
+            "label": "Pool swim 1,000m",
+            "note": "very easy · new light Friday swim · taper"
           }
         ]
       },
@@ -1725,7 +1660,7 @@
           {
             "disc": "swim",
             "label": "OW swim easy 1,500m",
-            "note": "La Jolla \u00b7 easy aerobic"
+            "note": "La Jolla · easy aerobic"
           }
         ]
       },
@@ -1735,7 +1670,7 @@
           {
             "disc": "run",
             "label": "Long run 9mi",
-            "note": "walk/run 9/1 \u00b7 taper long run \u00b7 legs should feel springy"
+            "note": "walk/run 9/1 · taper long run · legs should feel springy"
           }
         ]
       }
@@ -1747,12 +1682,12 @@
           {
             "disc": "bike",
             "label": "ROUVY 30 min easy",
-            "note": "very easy spin \u00b7 race week prep"
+            "note": "very easy spin · race week prep"
           },
           {
             "disc": "run",
             "label": "Easy jog 3mi",
-            "note": "walk/run \u00b7 4 strides \u00b7 feel fresh"
+            "note": "walk/run · 4 strides · feel fresh"
           }
         ]
       },
@@ -1762,12 +1697,12 @@
           {
             "disc": "swim",
             "label": "Pool swim 1,500m",
-            "note": "4x50 at race pace \u00b7 last quality swim"
+            "note": "4x50 at race pace · last quality swim"
           },
           {
             "disc": "run",
             "label": "Run Club",
-            "note": "easy \u00b7 last run club before Sacramento"
+            "note": "easy · last run club before Sacramento"
           }
         ]
       },
@@ -1777,7 +1712,7 @@
           {
             "disc": "bike",
             "label": "Bike reassembly check 20 min",
-            "note": "confirm shifting \u00b7 brakes \u00b7 nutrition loaded"
+            "note": "confirm shifting · brakes · nutrition loaded"
           }
         ]
       },
@@ -1792,7 +1727,7 @@
           {
             "disc": "run",
             "label": "Easy jog 15 min",
-            "note": "4 strides \u00b7 feel fast \u00b7 no effort"
+            "note": "4 strides · feel fast · no effort"
           }
         ]
       },
@@ -1802,7 +1737,7 @@
           {
             "disc": "rest",
             "label": "Travel to Sacramento",
-            "note": "fly or drive \u00b7 stay off feet \u00b7 hydrate \u00b7 arrive ready"
+            "note": "fly or drive · stay off feet · hydrate · arrive ready"
           }
         ]
       },
@@ -1812,7 +1747,7 @@
           {
             "disc": "swim",
             "label": "Shakeout swim Sacramento River",
-            "note": "preview swim course \u00b7 easy 800m \u00b7 wetsuit check"
+            "note": "preview swim course · easy 800m · wetsuit check"
           }
         ]
       },
@@ -1822,7 +1757,7 @@
           {
             "disc": "run",
             "label": "Easy jog 3mi",
-            "note": "walk/run \u00b7 last run before race week \u00b7 easy"
+            "note": "walk/run · last run before race week · easy"
           }
         ]
       }
@@ -1834,7 +1769,7 @@
           {
             "disc": "swim",
             "label": "Pool or OW swim 1,200m",
-            "note": "easy \u00b7 4x50 at race pace \u00b7 last swim"
+            "note": "easy · 4x50 at race pace · last swim"
           }
         ]
       },
@@ -1849,7 +1784,7 @@
           {
             "disc": "run",
             "label": "Easy jog 15 min",
-            "note": "4x20 sec strides \u00b7 feel fast \u00b7 no effort"
+            "note": "4x20 sec strides · feel fast · no effort"
           }
         ]
       },
@@ -1859,7 +1794,7 @@
           {
             "disc": "swim",
             "label": "Sacramento River shakeout",
-            "note": "easy 800m \u00b7 final open water \u00b7 confidence builder"
+            "note": "easy 800m · final open water · confidence builder"
           }
         ]
       },
@@ -1869,7 +1804,7 @@
           {
             "disc": "rest",
             "label": "Rest",
-            "note": "off feet \u00b7 hydrate \u00b7 eat well \u00b7 gear check"
+            "note": "off feet · hydrate · eat well · gear check"
           }
         ]
       },
@@ -1879,7 +1814,7 @@
           {
             "disc": "bike",
             "label": "Bike check 10 min",
-            "note": "confirm shifting \u00b7 brakes \u00b7 nutrition loaded"
+            "note": "confirm shifting · brakes · nutrition loaded"
           }
         ]
       },
@@ -1888,8 +1823,8 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Athlete briefing \u00b7 course preview",
-            "note": "transition walk-through \u00b7 early night"
+            "label": "Athlete briefing · course preview",
+            "note": "transition walk-through · early night"
           }
         ]
       },
@@ -1898,8 +1833,8 @@
         "planned": [
           {
             "disc": "rest",
-            "label": "RACE DAY \u2014 IM California \ud83c\udfc1",
-            "note": "Swim 1:20 \u00b7 Bike 17mph \u00b7 Run walk/run 9/1 \u00b7 sub-13:00 \u00b7 YOU HAVE DONE THE WORK"
+            "label": "RACE DAY — IM California 🏁",
+            "note": "Swim 1:20 · Bike 17mph · Run walk/run 9/1 · sub-13:00 · YOU HAVE DONE THE WORK"
           }
         ]
       }
