@@ -416,5 +416,27 @@
     "avgHR": 153.0,
     "distance": 19341.3,
     "duration": 7273.0
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Carlsbad Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 35.0,
+    "np": 0,
+    "avgHR": 139.0,
+    "distance": 6507.6,
+    "duration": 2234.0
+  },
+  {
+    "date": "2026-08-25",
+    "title": "ROUVY - IRONMAN 70.3 Florida 2021 40km",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 33.0,
+    "np": 0,
+    "avgHR": 116.0,
+    "distance": 39800.0,
+    "duration": 4882.0
   }
 ]

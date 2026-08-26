@@ -142,5 +142,23 @@
     "headline": "Massive two-hour suffer fest with 406 effort points and a heart rate battle into the 180s",
     "analysis": "That opening 29:72 mile told the story early\u2014this was about controlled pacing through structured run/walk intervals, keeping your average heart rate at 156 across 12 miles. The real work happened in the back half: miles 10-12 saw your HR climb dramatically from 166 to 180 bpm, showing serious fatigue management as you pushed through. At 10:06/mile average, you crushed your 30-day baseline of 9:47 pace while racking up over 6.5 hours worth of relative effort in just two hours.",
     "relative_effort": 406.0
+  },
+  {
+    "strava_id": "19894943729",
+    "date": "2026-08-25",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN 70.3 Florida 2021 40km",
+    "headline": "Solid endurance pace through this IRONMAN 70.3 Florida simulation, but that cadence at 45 RPM needs urgent attention",
+    "analysis": "You maintained remarkably steady output through 24.7 miles with an average pace of 3:16/mi (faster than your 30-day average of 3:23/mi) and heart rate control that peaked at just 132 bpm. However, your average cadence of 45 RPM is critically low for efficient cycling\u2014aim for 80-90 RPM to reduce muscular fatigue and protect your legs for the run. The fade from miles 16-20 (slowing to 3:68/mi with dropping HR) suggests either terrain changes in the virtual course or early muscular fatigue, likely connected to that grinding cadence.",
+    "relative_effort": 43.0
+  },
+  {
+    "strava_id": "19902119590",
+    "date": "2026-08-25",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Textbook negative split execution with a 70-second drop from mile 1 to mile 2",
+    "analysis": "You turned a sluggish 10:68 first mile into a strong finish, holding 9:42 pace for both miles 2 and 4 while your heart rate climbed from 125 to 150 bpm\u2014that's controlled effort distribution. At 9:17/mi average, you're running 27 seconds faster than your 30-day baseline of 9:44/mi, and your 82.7 cadence suggests there's room to quicken your turnover. The suffer score of 76 confirms you put in real work without overreaching.",
+    "relative_effort": 76.0
   }
 ]
