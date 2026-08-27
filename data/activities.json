@@ -438,5 +438,16 @@
     "avgHR": 116.0,
     "distance": 39800.0,
     "duration": 4882.0
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 15.0,
+    "np": 0,
+    "avgHR": 113.0,
+    "distance": 1645.9,
+    "duration": 2204.0
   }
 ]
