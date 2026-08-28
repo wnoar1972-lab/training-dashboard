@@ -2,47 +2,47 @@
   "date": "August 27, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "Easy 1-mile pool swim at 113 bpm avg HR, 15 TSS -- appropriate recovery-week intensity. This was the Wednesday easy aerobic swim per plan. Execution was clean and controlled.",
-  "todayRecommendation": "Complete the scheduled easy 60-minute Z2 ride today with NP strictly under 135w. This is a recovery week session -- the goal is adaptation maintenance and absorbing 5 weeks of load, not fitness building. Stay disciplined on power.",
-  "weekProgress": "Week 6 of 13: 83 TSS of 300 target (28% complete) with 3 days remaining. The long ride Saturday (60 min) and long run Sunday (6 mi) will add meaningful TSS, but this is a recovery week -- the 300 target may reflect typical weekly volume rather than the 35% reduction called for. Week structure is tracking correctly.",
-  "keyInsight": "Sleep quality is compromised (7-day avg 65/100, two nights under 50) during a recovery week when adaptation depends on rest -- this directly undermines the purpose of reduced training volume.",
+  "yesterdayAnalysis": "Pool swim 1.0mi at TSS 15 with HR 113 was appropriate easy aerobic work for a recovery week. The low TSS and controlled heart rate confirm this was executed correctly as an easy session. This was the Wednesday swim as scheduled.",
+  "todayRecommendation": "Complete today's 60-minute easy ride at strict Z2, keeping normalized power under 135w. This is a recovery week -- the goal is to absorb the prior 5 weeks of work, not add fitness. After two consecutive nights of poor sleep (scores 46 and 69), treat this ride as pure aerobic maintenance.",
+  "weekProgress": "Week 6 of 13 shows 83 TSS of 300 target (28% complete) with 3 days remaining. This is a recovery week with volume dropped 35%, so the low TSS is intentional and correct. However, the schedule shows Friday swim, Saturday ride, and Sunday 6mi run remaining -- realistically you'll finish around 200-220 TSS, which is below the 300 target even for a recovery week.",
+  "keyInsight": "Sleep quality has collapsed -- two nights under 70 score (46, 69) in the last three days is a red flag during a recovery week when you should be rebounding from the prior 5-week block.",
   "alerts": [
-    "Sleep score avg 65/100 over 7 days -- two nights (Aug 23, Aug 26) scored 45-46 with insufficient duration (5.9h, 7.2h)",
-    "Recovery score from readiness engine is 82/100 (lowest of the four disciplines) -- sleep deficit is the likely driver",
-    "Week 6 TSS target of 300 appears inconsistent with stated 35% volume reduction for recovery week -- verify plan intention"
+    "Sleep scores 46 and 69 in last 2 nights -- 7-day avg is 65/100, well below recovery-week expectation",
+    "Week TSS tracking ~200-220 vs 300 target -- low even for recovery week",
+    "Recovery score from readiness engine is 82/100 (lowest limiter) -- sleep is the primary driver"
   ],
   "positives": [
-    "Bike discipline is exceptionally strong (674 TSS last 28 days vs ~540 expected, readiness 100/100)",
-    "Recovery week execution has been compliant -- easy swims, controlled brick run Aug 25, no intensity creep",
-    "Run readiness is 88/100 despite this being an absorption week -- fitness is holding"
+    "Bike readiness at 100/100 -- 674 TSS in 28 days vs expected ~540 shows strong volume absorption",
+    "Yesterday's swim executed correctly at easy effort (HR 113, TSS 15)",
+    "Overall readiness remains 93/100 (Strong) despite sleep deficit"
   ],
-  "recoveryScore": 5,
+  "recoveryScore": 4,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine: Overall 93/100, Recovery 82/100, Bike 100/100, Run 88/100",
-    "Garmin sleep data: 7-day avg 65/100, two nights <50 score",
-    "Training log: 83 TSS week-to-date, 674 bike TSS last 28 days",
-    "Planned vs actual: All scheduled sessions completed as written"
+    "Readiness engine (overall 93/100, recovery 82/100, bike 100/100, run 88/100)",
+    "Garmin sleep data (7-day avg score 65/100, last 2 nights: 46, 69)",
+    "Week TSS 83 of 300 with 3 days remaining",
+    "Yesterday's workout (1.0mi swim, TSS 15, HR 113)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is complete and clear; training execution is documented; readiness engine provides objective scoring -- however, no HRV trend data or subjective fatigue notes available to confirm whether sleep deficit is affecting training quality or just a temporary disturbance."
+    "reason": "Sleep data is direct from Garmin for 7 consecutive nights and readiness engine provides structured multi-factor output, but no HRV data, subjective fatigue notes, or nutrition logging available to confirm root cause of sleep deficit."
   },
   "athlete_context_considered": [
-    "Age 54 -- recovery is rate-limiting and sleep becomes more critical",
-    "Week 6 of 13 recovery week structure (35% volume drop, no intensity)",
-    "TRT protocol -- sleep disruption can affect hormonal recovery timing",
-    "52 days to Ironman California -- every recovery week must deliver actual adaptation"
+    "Recovery week structure (week 6 of 13, volume -35%)",
+    "Age 54 -- recovery capacity requires attention",
+    "52 days to Ironman California",
+    "TRT protocol (may affect sleep architecture)"
   ],
   "race_implications": [
-    "Poor sleep during a recovery week means you're not absorbing the 5 weeks of work you just completed -- this blunts fitness gains heading into the next build block",
-    "With 52 days to race day and 7 weeks of build remaining, recovery deficit now compounds forward -- each week of incomplete adaptation increases injury/overtraining risk",
-    "Bike fitness is race-ready (100/100), but run and recovery are the limiters -- sleep is the cheapest intervention available and must be prioritized"
+    "Poor sleep during recovery week prevents adaptation from prior 5-week block -- this is when fitness is consolidated",
+    "If sleep doesn't rebound by week 7, you enter the next build block already compromised",
+    "52 days to race -- sufficient time to address this, but it needs immediate attention"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5+ hours sleep tonight and Friday night -- treat it as a non-negotiable training session; consider earlier bedtime or eliminating evening screen time",
-    "Verify that Week 6 TSS target of 300 is correct for a 35% volume reduction recovery week -- if not, adjust plan to avoid unintentional overload",
-    "Monitor subjective fatigue and hip/back sensation on Sunday's 6-mile long run -- if sleep remains poor, consider shortening the run to 4-5 miles to protect the recovery week intent"
+    "Execute today's ride at strict Z2/NP <135w, then prioritize 8+ hours sleep tonight -- this is more important than hitting the week TSS target",
+    "If sleep scores don't return to 75+ by Sunday, consider reducing week 7 volume by 10-15% to allow additional recovery",
+    "Review sleep hygiene: room temp, screen time, TRT injection timing relative to sleep quality dips (scores of 46 and 69 are not normal even under load)"
   ],
   "generatedAt": "2026-08-27",
   "daysToRace": 52,
