@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 6,
   "total_weeks": 13,
-  "overall_score": 93,
+  "overall_score": 92,
   "overall_status": "Strong",
   "overall_confidence": "low-moderate",
-  "strongest_positive_factor": "bike (100/100): Volume: 674 TSS in the last 28 days vs. an expected ~540 for week 6.",
+  "strongest_positive_factor": "bike (100/100): Volume: 695 TSS in the last 28 days vs. an expected ~540 for week 6.",
   "largest_limiter": "recovery (82/100): 7-day-avg sleep score is 72/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
@@ -18,10 +18,10 @@
   },
   "scores": {
     "swim": {
-      "score": 96,
+      "score": 93,
       "status": "Strong",
       "top_factor": "Race-distance exposure: longest swim session is 3063m (79% of race distance).",
-      "top_limiter": "Volume: 218 TSS in the last 28 days vs. an expected ~240 for week 6.",
+      "top_limiter": "Volume: 207 TSS in the last 28 days vs. an expected ~240 for week 6.",
       "trend": "improving",
       "evidence_window_days": 28,
       "sessions_in_window": 9,
@@ -31,29 +31,29 @@
     "bike": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 674 TSS in the last 28 days vs. an expected ~540 for week 6.",
+      "top_factor": "Volume: 695 TSS in the last 28 days vs. an expected ~540 for week 6.",
       "top_limiter": "Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 10,
-      "weeks_observed": 5,
-      "confidence": "low-moderate"
+      "sessions_in_window": 11,
+      "weeks_observed": 6,
+      "confidence": "moderate"
     },
     "run": {
       "score": 88,
       "status": "Strong",
-      "top_factor": "Volume: 984 TSS in the last 28 days vs. an expected ~420 for week 6.",
+      "top_factor": "Volume: 920 TSS in the last 28 days vs. an expected ~420 for week 6.",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 14,
+      "sessions_in_window": 13,
       "weeks_observed": 5,
       "confidence": "low-moderate"
     },
     "recovery": {
       "score": 82,
       "status": "Recovered",
-      "top_factor": "Resting HR is 55.0 bpm, 0.5 bpm vs. the all-time baseline of 54.5 bpm.",
+      "top_factor": "Resting HR is 55.1 bpm, 0.6 bpm vs. the all-time baseline of 54.5 bpm.",
       "top_limiter": "7-day-avg sleep score is 72/100.",
       "trend": "stable",
       "evidence_window_days": 28,

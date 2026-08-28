@@ -169,5 +169,23 @@
     "headline": "Solid aerobic base work holding 36:37 pace while keeping heart rate comfortably controlled at 113 bpm",
     "analysis": "You maintained excellent cardiovascular discipline through this 1,646-meter session, holding your average heart rate at 113 bpm\u2014well below your 123 max\u2014while matching your 30-day average pace of 37:53 per mile. Your first mile at 36:37 shows you're actually trending slightly faster than your recent baseline, all while keeping your effort sustainable at just 29 relative effort points. This kind of controlled-intensity volume is exactly what builds your aerobic engine for race day.",
     "relative_effort": 29.0
+  },
+  {
+    "strava_id": "19930594979",
+    "date": "2026-08-27",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN Canada 2021 40km",
+    "headline": "Steady IRONMAN Canada course preview with controlled effort, but that cadence needs attention",
+    "analysis": "You held a remarkably consistent 111 bpm average across this hour-long ride, never spiking above 125 even through the McLean Creek segment\u2014great aerobic control. However, your 62.5 rpm cadence is quite low for efficient cycling; most triathletes target 85-95 rpm to reduce muscular fatigue and save the legs for the run. Miles 10-11 showed some resistance spikes (7+ min/mile pace) where higher cadence would have helped maintain your sub-3:30 rhythm you hit in the middle miles.",
+    "relative_effort": 19.0
+  },
+  {
+    "strava_id": "19936564371",
+    "date": "2026-08-28",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 2,286-meter session with consistent pacing just above your 30-day average",
+    "analysis": "You maintained a steady 38:07 pace for the first mile and picked it up to 18:53 for the second, right around your typical 37:59/mile average. Your heart rate stayed remarkably controlled throughout at 110 BPM average with a max of just 127, suggesting you stayed in an aerobic zone\u2014perfect for building base endurance. With a suffer score of only 37, this was clearly an efficiency-focused session that should leave you fresh for the rest of your training week.",
+    "relative_effort": 37.0
   }
 ]

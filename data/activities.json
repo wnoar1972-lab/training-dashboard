@@ -449,5 +449,27 @@
     "avgHR": 113.0,
     "distance": 1645.9,
     "duration": 2204.0
+  },
+  {
+    "date": "2026-08-27",
+    "title": "ROUVY - IRONMAN Canada 2021 40km",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 21.0,
+    "np": 0,
+    "avgHR": 111.0,
+    "distance": 26164.6,
+    "duration": 3611.0
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 21.0,
+    "np": 0,
+    "avgHR": 111.0,
+    "distance": 2286.0,
+    "duration": 3222.0
   }
 ]
