@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 6,
@@ -53,7 +53,7 @@
     "recovery": {
       "score": 82,
       "status": "Recovered",
-      "top_factor": "Resting HR is 55.1 bpm, 0.6 bpm vs. the all-time baseline of 54.5 bpm.",
+      "top_factor": "Resting HR is 54.9 bpm, 0.4 bpm vs. the all-time baseline of 54.5 bpm.",
       "top_limiter": "7-day-avg sleep score is 72/100.",
       "trend": "stable",
       "evidence_window_days": 28,

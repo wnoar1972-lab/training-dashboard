@@ -1,50 +1,50 @@
 {
-  "date": "August 28, 2026",
+  "date": "August 29, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Easy 60-minute recovery ride at 21 TSS completed as prescribed -- NP and HR (111 avg) stayed well under the Z2 ceiling of 135w, which is exactly what this recovery week demands. Volume and intensity were appropriate for absorbing the prior 5 weeks of work.",
-  "todayRecommendation": "Complete the 1,000m pool swim very easy as planned -- this is a new Friday swim slot replacing rest only for this recovery week. Keep effort conversational, use it for feel and mobility, not fitness.",
-  "weekProgress": "Week 6 of 13: 125 TSS of 300 target (42% complete) with 2 days remaining. This is intentionally light -- recovery week volume drops 35% and the remaining Saturday easy ride (60 min) plus Sunday long run (6mi walk/run) will land you near target. You're on track.",
-  "keyInsight": "Sleep quality is dragging recovery -- 7-day average of 65/100 with three nights below 70 during a recovery week means you're not absorbing the load you're supposed to be clearing.",
+  "yesterdayAnalysis": "1,400m pool swim at TSS 21 and HR 111 \u2013 clean easy aerobic work as prescribed for recovery week. This replaced a rest day to establish the new Friday swim slot. Effort was appropriately controlled; no red flags.",
+  "todayRecommendation": "Easy ride 60 minutes, recovery week protocol. Keep normalized power under 135w, stay in Z2, maintain aero position to continue adaptation. This is not a workout \u2013 it's active recovery to absorb 5 weeks of work.",
+  "weekProgress": "Week 6 of 13: 125 of 300 TSS complete (42%). Week is back-loaded with today's ride and tomorrow's 6-mile long run; on track for recovery week protocol with appropriately reduced volume.",
+  "keyInsight": "Sleep is the primary limiter right now \u2013 two nights at 45-46/100 in the last 7 days and a 7-day average of 67/100 are undercutting the entire purpose of a recovery week.",
   "alerts": [
-    "Sleep score avg 65/100 in recovery week -- you need 75+ consistently to absorb 5 weeks of build",
-    "Two nights this week under 6 hours (5.8h, 5.9h) -- recovery weeks require sleep volume, not just easy training"
+    "Sleep score 7-day avg is 67/100 \u2013 well below target during a recovery week when your body needs to absorb 5 weeks of work",
+    "Two nights this week scored 45-46/100 (Aug 23, Aug 26) \u2013 identify and address the cause before Week 7 intensity resumes"
   ],
   "positives": [
-    "Bike TSS 809 total and readiness 100/100 -- you've built significant aerobic base ahead of schedule",
-    "Yesterday's recovery ride was textbook execution: 111 HR avg, under 135w NP, duration on target",
-    "Brick frequency is excellent: 5 completed already, race-rehearsal practice is happening"
+    "Bike volume is strong \u2013 695 TSS in 28 days vs ~540 expected, showing consistent execution",
+    "Yesterday's swim and Thursday's ride both held appropriate easy effort (HR 111-113) \u2013 recovery discipline is present",
+    "5 brick workouts completed through Week 6 \u2013 race-specific preparation is tracking well"
   ],
   "recoveryScore": 5,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (recovery 82/100, bike 100/100, run 88/100)",
-    "Garmin sleep data last 7 nights (avg 65/100, 3 nights <70)",
-    "Yesterday's bike session (TSS 21, HR 111, 16.3mi)",
-    "Week 6 TSS tracking (125 of 300, 42% complete with 2 days remaining)",
-    "Planned schedule for Friday (1,000m easy swim)"
+    "Readiness engine: overall 92/100, recovery 82/100",
+    "Garmin sleep: 7-day avg 67/100, two nights at 45-46/100",
+    "Training log: 125 of 300 TSS, 5 bricks completed",
+    "Bike TSS: 695 last 28 days vs ~540 expected"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Full sleep data for 7 nights, complete activity log, readiness engine scores, and clear planned schedule give strong basis for assessment -- no major data gaps limiting interpretation."
+    "level": "moderate",
+    "reason": "6 weeks of structured training data, consistent Garmin sleep tracking, and readiness engine output provide solid evidence, but lack of HRV trends and nutrition logging limit precision on recovery state."
   },
   "athlete_context_considered": [
-    "Recovery week structure (week 6 of 13, volume drops 35%)",
-    "51 days to Ironman California",
-    "Age 54 -- recovery capacity is a known constraint",
-    "Prior race lesson: back/foot pain traced to bike position (now corrected with professional fit)"
+    "Recovery week protocol (Week 6 of 13)",
+    "Age 54 \u2013 recovery capacity matters more than volume at this stage",
+    "50 days to Ironman California",
+    "Professional bike fit completed \u2013 aero time is beneficial even at recovery intensity"
   ],
   "race_implications": [
-    "Recovery week sleep deficit may blunt adaptation from the prior 5 weeks -- you're leaving fitness on the table",
-    "Bike readiness (100/100) and TSS (809) are ahead of schedule for race day power management at 17mph",
-    "Run readiness (88/100) is solid but depends on continued progressive loading -- sleep is the limiter to absorbing that work"
+    "Sleep deficit during recovery week undermines adaptation and injury resistance with 50 days to race day",
+    "Bike volume execution demonstrates you can handle the long-course workload \u2013 if recovery improves",
+    "Week 7 resumes intensity \u2013 you need to enter it rested, not carrying a sleep debt"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5+ hours sleep tonight and Saturday night -- this recovery week only works if you actually recover",
-    "If sleep continues below 70/100 into Week 7, consider adding one extra rest day to the build block to force adaptation"
+    "Prioritize 7.5-8 hours sleep tonight and tomorrow night \u2013 treat it as non-negotiable training",
+    "Investigate the two 45-46 scored nights: environmental factors, stress, caffeine timing, or sleep apnea screening if pattern continues",
+    "Keep today's ride strictly under 135w NP \u2013 do not let 'feeling good' justify harder effort during a recovery week"
   ],
-  "generatedAt": "2026-08-28",
-  "daysToRace": 51,
+  "generatedAt": "2026-08-29",
+  "daysToRace": 50,
   "currentWeek": 6,
   "weekPhase": "Recovery"
 }
