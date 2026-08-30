@@ -187,5 +187,14 @@
     "headline": "Solid 2,286-meter session with consistent pacing just above your 30-day average",
     "analysis": "You maintained a steady 38:07 pace for the first mile and picked it up to 18:53 for the second, right around your typical 37:59/mile average. Your heart rate stayed remarkably controlled throughout at 110 BPM average with a max of just 127, suggesting you stayed in an aerobic zone\u2014perfect for building base endurance. With a suffer score of only 37, this was clearly an efficiency-focused session that should leave you fresh for the rest of your training week.",
     "relative_effort": 37.0
+  },
+  {
+    "strava_id": "19954723387",
+    "date": "2026-08-29",
+    "disc": "bike",
+    "title": "Morning Ride",
+    "headline": "Steady zone 2 effort with notable mid-ride fade tells the story of this 90-minute base builder",
+    "analysis": "You maintained a solid average heart rate of 128 bpm across 25.87 miles, staying well within aerobic range with your max only hitting 147 bpm. The data reveals a strategic first half where you pushed the pace (miles 6-7 at 2:95 and 3:02 respectively, HR peaking at 137 bpm), but mile 21's dramatic 10+ minute split suggests either a traffic stop or mechanical issue that interrupted your rhythm. Your overall pace of 3:32/mile is slightly off your 30-day average of 3:26/mile, but the suffer score of 107 indicates you're building solid endurance without overreaching\u2014exactly what quality base miles should look like.",
+    "relative_effort": 107.0
   }
 ]
