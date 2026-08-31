@@ -482,5 +482,38 @@
     "avgHR": 128.0,
     "distance": 41644.2,
     "duration": 5519.0
+  },
+  {
+    "date": "2026-08-30",
+    "title": "San Diego Stand Up Paddleboarding",
+    "type": "StandUpP",
+    "disc": "other",
+    "tss": 4.0,
+    "np": 0,
+    "avgHR": 93.0,
+    "distance": 581.6,
+    "duration": 559.0
+  },
+  {
+    "date": "2026-08-30",
+    "title": "San Diego Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 66.0,
+    "np": 0,
+    "avgHR": 147.0,
+    "distance": 9885.2,
+    "duration": 3310.0
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 29.0,
+    "np": 0,
+    "avgHR": 109.0,
+    "distance": 3200.4,
+    "duration": 4497.0
   }
 ]

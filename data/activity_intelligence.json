@@ -196,5 +196,32 @@
     "headline": "Steady zone 2 effort with notable mid-ride fade tells the story of this 90-minute base builder",
     "analysis": "You maintained a solid average heart rate of 128 bpm across 25.87 miles, staying well within aerobic range with your max only hitting 147 bpm. The data reveals a strategic first half where you pushed the pace (miles 6-7 at 2:95 and 3:02 respectively, HR peaking at 137 bpm), but mile 21's dramatic 10+ minute split suggests either a traffic stop or mechanical issue that interrupted your rhythm. Your overall pace of 3:32/mile is slightly off your 30-day average of 3:26/mile, but the suffer score of 107 indicates you're building solid endurance without overreaching\u2014exactly what quality base miles should look like.",
     "relative_effort": 107.0
+  },
+  {
+    "strava_id": "19968774619",
+    "date": "2026-08-30",
+    "disc": "run",
+    "title": "Lunch Run",
+    "headline": "A tale of two halves: you crushed a negative split with a surging final mile despite mid-run fatigue",
+    "analysis": "Your 6.14-mile effort showed real mental toughness, grinding through a sluggish mile 4 (11:20 pace, well off your 9:44 average) before roaring back with an 8:30 final mile at 164 bpm. That closing kick, plus the Belmont Park sprint finish at 180 bpm max, earned you 2 PRs and a solid 155 suffer score. The 30-second negative split from first to last full mile shows you're learning to pace aggressively when it counts.",
+    "relative_effort": 155.0
+  },
+  {
+    "strava_id": "19970113197",
+    "date": "2026-08-30",
+    "disc": "other",
+    "title": "Afternoon Stand Up Paddling",
+    "headline": "Quick recovery paddle keeps your heart rate perfectly in check while working on technique",
+    "analysis": "This 11-minute SUP session kept you moving at a relaxed 31:25/mi pace\u2014significantly faster than your 30-day average of 25:47/mi for other activities\u2014while maintaining a comfortable aerobic zone with your heart rate capping at just 115 bpm. Your steady cadence of 24.7 strokes per minute and low effort score of 2.0 suggest this was exactly what recovery work should look like: active movement without taxing your system. Perfect active rest day choice that keeps you on the water without compromising your triathlon training load.",
+    "relative_effort": 2.0
+  },
+  {
+    "strava_id": "19976606332",
+    "date": "2026-08-31",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 3.2K swim building endurance with controlled heart rate in the aerobic zone",
+    "analysis": "You maintained a steady 108.5 bpm average across 75 minutes, staying well within aerobic range even as your max only touched 123. Your pacing was consistent at 38:07 for the first mile then 41:00 for the second\u2014right in line with your 30-day average of 37:59/mile, showing good control over a longer session. The 40 suffer score reflects quality volume work without redlining, exactly what builds your swim base.",
+    "relative_effort": 40.0
   }
 ]
