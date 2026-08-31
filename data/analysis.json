@@ -1,49 +1,48 @@
 {
   "date": "August 31, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "The 6.1mi run at HR 147 was solid effort, but the Saturday 26mi ride on Aug 29 at TSS 63 is concerning\u2014that's ~25mi short of even the 3hr Thursday brick requirement, and nowhere near the scheduled 75mi key session. Sunday's stand-up paddleboarding (TSS 4) suggests this was an active recovery day, not the planned training. This week's critical long ride appears to have been skipped or dramatically shortened.",
-  "todayRecommendation": "Complete the full 3,200m swim with 4x200 at race effort as scheduled, then the easy 4mi run at walk/run 9:1. The swim sets are building race-specific stamina you'll need in 48 days\u2014execute them properly.",
-  "weekProgress": "Week 7 of 13 is 5% complete (29 of 590 TSS), but the Saturday 75mi ride\u2014the week's marquee session\u2014appears to have been replaced with a 26mi outing. With Thursday's 3hr outdoor brick and Sunday's 14mi run still ahead, the week is recoverable only if those sessions happen as written. Missing another key session puts race readiness at risk.",
-  "keyInsight": "The first full-IM-length ride (75mi) was either skipped or cut to 26mi\u2014that's the exact race-distance exposure you need and cannot afford to miss again.",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "Yesterday's 6.1mi run (TSS 66, HR 147) was spot on for the recovery-week schedule, hitting the planned distance. The stand-up paddleboarding (TSS 4) added active recovery without interfering with the primary session. Both activities aligned with the recovery-week intent heading into this week's big volume.",
+  "todayRecommendation": "Today you completed the pool swim (2.0mi, TSS 29) but missed the scheduled easy 4mi run. That run was specifically programmed to recover from Wednesday's upcoming brick -- you need that session tonight or you're starting the week already behind on critical run volume during a peak load week.",
+  "weekProgress": "Week 7 of 13 stands at 29 TSS of 590 target (5% complete). This is early-week normal since Thursday's 3hr brick and Saturday's 75mi ride carry most of the load, but you're missing today's run puts you slightly behind schedule with only 6 days remaining.",
+  "keyInsight": "Wednesday's 3hr outdoor brick and Saturday's 75mi ride are your first full-IM-distance bike exposure -- these are non-negotiable sessions that will define whether you're ready for Sacramento's 112mi, and missing any supporting sessions this week undermines your capacity to execute them.",
   "alerts": [
-    "Saturday's scheduled 75mi ride appears shortened to 26mi\u2014critical race-distance exposure missing",
-    "Sleep score 7-day average is 68/100 (readiness engine shows 74, but raw data shows 68)\u2014below target for heavy training week",
-    "Two nights (Aug 26, Aug 30) scored below 50\u2014recovery deficit heading into Thursday brick + Sunday 14mi run"
+    "Today's scheduled easy 4mi run was not completed -- complete tonight or drop it",
+    "Sleep score avg is 68/100 over 7 days, with two nights (Aug 26: 46, Aug 30: 50) significantly degraded -- this is your largest limiter per readiness engine"
   ],
   "positives": [
-    "Yesterday's 6.1mi run at HR 147 shows cardiovascular fitness holding up well under moderate effort",
-    "Sunday's 2.0mi pool swim (TSS 29) completed as scheduled with solid HR control at 109",
-    "Five brick workouts completed to date\u2014race-transition practice is accumulating"
+    "Yesterday's 6.1mi run executed perfectly to plan during recovery week",
+    "Last 7 days show consistent adherence to recovery-week protocol with appropriate TSS reduction",
+    "Pool swim today (2.0mi) hit the scheduled distance and TSS target (29)"
   ],
-  "recoveryScore": 5,
-  "trainingLoadStatus": "Fatigued",
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (recovery 84/100, sleep 74/100 reported but raw 7-day avg is 68/100)",
-    "Last 7 days training log (Aug 25-31)",
-    "Garmin sleep scores (two nights below 50, avg 68/100)",
-    "Week 7 planned schedule vs actual execution"
+    "Readiness engine (overall 85/100, recovery 84/100 as largest limiter)",
+    "Garmin sleep (7-day avg 68/100, two nights <55)",
+    "Intervals.icu planned vs actual (today's run missing, yesterday's run completed)",
+    "TSS tracking (29 of 590 weekly target, 5% complete)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Clear training and sleep data for 7 days, but missing context on why Saturday's 75mi ride was shortened\u2014could be fatigue, logistics, or data entry error; also no HRV or subjective fatigue notes to validate recovery assessment."
+    "reason": "Strong data on completed sessions, sleep, and weekly TSS tracking, but limited evidence on hip response to escalating run volume (14mi scheduled Sunday) and no HRV data to validate physiological readiness for this week's peak load."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes\u2014Sunday's 14mi run is largest yet, high priority to monitor)",
-    "Active race (IM California Oct 18, 48 days out)",
-    "Walk/run 9:1 protocol on all runs",
-    "Week 7/13 build focus on race-distance exposure",
-    "Professional bike fit completed"
+    "Hip history (Perthes, right hip -- watching for pain/mobility associations with back-to-back runs)",
+    "Walk/run protocol (9min run/1min walk applies to all runs)",
+    "Active race (Sacramento IM 48 days out)",
+    "Week 7 of 13 build (race-specific intensity phase)",
+    "Bike fit completed (Oregon pain traced to position, now resolved)"
   ],
   "race_implications": [
-    "Missing the 75mi ride means you've peaked at 69.6mi (62% of 112mi race distance) with 48 days to go\u2014you need that full-distance exposure to validate nutrition, position, and pacing",
-    "Sleep deficit (68/100 avg) going into Thursday 3hr brick + Sunday 14mi run creates injury/fatigue risk that could derail the final 6 weeks",
-    "Current longest ride is insufficient to prove you can hold aero position and execute nutrition for 6:37 on race day"
+    "Saturday's 75mi ride is your first true full-IM-distance exposure -- failure to execute this with proper nutrition/pacing directly predicts Sacramento bike struggles",
+    "Sunday's 14mi run is your longest yet and a critical hip test -- any pain/mobility issues must surface now, not in taper",
+    "Sleep degradation (68/100 avg) during peak load week increases injury risk and limits adaptation from these key sessions"
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hours sleep tonight and Wednesday night\u2014Thursday's 3hr outdoor brick and Sunday's 14mi run are non-negotiable sessions that require full recovery",
-    "If Saturday's ride was legitimately shortened due to fatigue or pain, document why and plan a make-up 75mi+ ride within the next 10 days\u2014you cannot go to race day without proving full bike-distance execution",
-    "Re-confirm Thursday's outdoor brick happens outdoors as written (not indoor trainer)\u20143hrs in aero at race effort is the entire point of the session"
+    "Complete tonight's missed 4mi run if you're fresh enough -- if not, drop it rather than force it and compromise Wednesday's 3hr brick",
+    "Prioritize 7.5+ hours sleep tonight through Saturday -- you need full recovery capacity for Wed/Sat sessions, and two sub-55 sleep scores in 7 days is a red flag",
+    "Sunday's 14mi run: log detailed hip/back/foot notes at miles 7, 10, and 14 -- this is the longest run yet and the key test for Sacramento run readiness"
   ],
   "generatedAt": "2026-08-31",
   "daysToRace": 48,

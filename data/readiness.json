@@ -4,10 +4,10 @@
   "race_type": "full_distance_triathlon",
   "current_week": 7,
   "total_weeks": 13,
-  "overall_score": 80,
-  "overall_status": "On track",
+  "overall_score": 85,
+  "overall_status": "Strong",
   "overall_confidence": "low-moderate",
-  "strongest_positive_factor": "bike (78/100): Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
+  "strongest_positive_factor": "bike (88/100): Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
   "largest_limiter": "recovery (84/100): 7-day-avg sleep score is 74/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
@@ -18,10 +18,10 @@
   },
   "scores": {
     "swim": {
-      "score": 75,
+      "score": 82,
       "status": "On track",
       "top_factor": "Race-distance exposure: longest swim session is 3200m (83% of race distance).",
-      "top_limiter": "Volume: 236 TSS in the last 28 days vs. an expected ~472 for week 7.",
+      "top_limiter": "Volume: 236 TSS in the last 28 days vs. an expected ~361 (blended across each week's own target in that window).",
       "trend": "improving",
       "evidence_window_days": 28,
       "sessions_in_window": 10,
@@ -29,10 +29,10 @@
       "confidence": "low-moderate"
     },
     "bike": {
-      "score": 78,
-      "status": "On track",
+      "score": 88,
+      "status": "Strong",
       "top_factor": "Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
-      "top_limiter": "Volume: 713 TSS in the last 28 days vs. an expected ~1062 for week 7.",
+      "top_limiter": "Volume: 713 TSS in the last 28 days vs. an expected ~812 (blended across each week's own target in that window).",
       "trend": "improving",
       "evidence_window_days": 28,
       "sessions_in_window": 11,
@@ -42,7 +42,7 @@
     "run": {
       "score": 83,
       "status": "On track",
-      "top_factor": "Volume: 895 TSS in the last 28 days vs. an expected ~826 for week 7.",
+      "top_factor": "Volume: 895 TSS in the last 28 days vs. an expected ~631 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
