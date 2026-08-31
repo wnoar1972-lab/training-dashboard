@@ -1300,16 +1300,6 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,000m",
-            "note": "4x200 race effort"
-          }
-        ]
-      },
-      "4": {
-        "rest": false,
-        "planned": [
-          {
             "disc": "bike",
             "label": "Outdoor 3hr ride + brick",
             "note": "MUST be outdoor · 3hrs in aero is the point · ~17mph"
@@ -1318,6 +1308,16 @@
             "disc": "brick",
             "label": "Brick run 45 min",
             "note": "walk/run 9/1 · walk every mile · KEY SESSION"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,000m",
+            "note": "4x200 race effort"
           }
         ]
       },

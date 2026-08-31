@@ -89,9 +89,33 @@ EVIDENCE_WINDOW_DAYS = 28
 window_start = TODAY - timedelta(days=EVIDENCE_WINDOW_DAYS)
 prior_window_start = TODAY - timedelta(days=EVIDENCE_WINDOW_DAYS * 2)
 
+WEEKLY_TARGETS = RACE.get("weekly_tss_targets", {})
+
 
 def in_window(a, start, end):
     return start.isoformat() <= a["date"] <= end.isoformat()
+
+
+def week_num_for_date(d):
+    return min(TOTAL_WEEKS, max(1, (d - WEEK_ANCHOR).days // 7 + 1))
+
+
+def expected_tss_for_window(start, end, disc_share):
+    """
+    Sum each day's own week's target (target/7), not a flat rate from
+    CURRENT_WEEK -- a rolling window right after a recovery week (or any
+    week-to-week jump) spans multiple weeks with very different prescribed
+    volume, so applying only the newest week's rate overstates what should
+    have been done and unfairly tanks the score for training exactly as
+    the plan intended.
+    """
+    total = 0.0
+    d = start
+    while d <= end:
+        weekly_target = WEEKLY_TARGETS.get(str(week_num_for_date(d)), 0)
+        total += weekly_target / 7
+        d += timedelta(days=1)
+    return total * disc_share
 
 
 def status_label(score):
@@ -116,8 +140,7 @@ def discipline_score(disc, race_distance_miles):
     recent_tss = sum(a["tss"] for a in recent)
     prior_tss = sum(a["tss"] for a in prior)
 
-    weekly_target = RACE.get("weekly_tss_targets", {}).get(str(CURRENT_WEEK), 0)
-    expected_window_tss = weekly_target * DISCIPLINE_TSS_SPLIT.get(disc, 0.3) * (EVIDENCE_WINDOW_DAYS / 7)
+    expected_window_tss = expected_tss_for_window(window_start, TODAY, DISCIPLINE_TSS_SPLIT.get(disc, 0.3))
     volume_score = clamp(round(100 * recent_tss / expected_window_tss)) if expected_window_tss else 0
 
     if disc == "swim":
@@ -137,11 +160,11 @@ def discipline_score(disc, race_distance_miles):
     score = round(0.5 * volume_score + 0.5 * exposure_score)
 
     if volume_score >= exposure_score:
-        top_factor = f"Volume: {round(recent_tss)} TSS in the last {EVIDENCE_WINDOW_DAYS} days vs. an expected ~{round(expected_window_tss)} for week {CURRENT_WEEK}."
+        top_factor = f"Volume: {round(recent_tss)} TSS in the last {EVIDENCE_WINDOW_DAYS} days vs. an expected ~{round(expected_window_tss)} (blended across each week's own target in that window)."
         limiter = f"Race-distance exposure: longest {disc} session is {longest_label} ({round(exposure_actual_pct)}% of race distance)."
     else:
         top_factor = f"Race-distance exposure: longest {disc} session is {longest_label} ({round(exposure_actual_pct)}% of race distance)."
-        limiter = f"Volume: {round(recent_tss)} TSS in the last {EVIDENCE_WINDOW_DAYS} days vs. an expected ~{round(expected_window_tss)} for week {CURRENT_WEEK}."
+        limiter = f"Volume: {round(recent_tss)} TSS in the last {EVIDENCE_WINDOW_DAYS} days vs. an expected ~{round(expected_window_tss)} (blended across each week's own target in that window)."
 
     if prior_tss == 0 and recent_tss == 0:
         trend = "insufficient data"
