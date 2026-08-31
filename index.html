@@ -1711,8 +1711,14 @@ function buildDashboard(){
   ['sc-phaseSub'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = 'Week '+curWeekNum+' · '+weekDateRangeLabel(curWeekNum); });
   ['t-np'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = (summaryData&&summaryData.overall&&summaryData.overall.avgBikeNP>0) ? summaryData.overall.avgBikeNP+'w' : 'N/A'; });
   var actualTSSToDate = Math.round((overall.totalSwimTSS||0) + (overall.totalBikeTSS||0) + (overall.totalRunTSS||0));
+  // Full weeks completed count in full; the CURRENT week is only partially
+  // elapsed, so counting its full target as already "expected" on day 1
+  // of a 7-day week overstates what should be done by now (e.g. expecting
+  // an entire week's TSS on the very first day of that week).
   var expectedTSSToDate = 0;
-  for(var wk=1; wk<=curWeekNum; wk++){ expectedTSSToDate += getWeekTarget(wk); }
+  for(var wk=1; wk<curWeekNum; wk++){ expectedTSSToDate += getWeekTarget(wk); }
+  var daysIntoCurWeek = Math.max(1, Math.min(7, Math.floor((today - _thisMon) / 864e5) + 1));
+  expectedTSSToDate += Math.round(getWeekTarget(curWeekNum) * daysIntoCurWeek / 7);
   var elTotalTSS = document.getElementById('sc-total-tss');
   if(elTotalTSS) elTotalTSS.textContent = actualTSSToDate;
   var elTotalTSSSub = document.getElementById('sc-total-tss-sub');
