@@ -176,16 +176,17 @@ def scheduled_for(date_str):
 
 def format_distance(a):
     """Swim targets in the schedule are always stated in meters (e.g. "Pool
-    swim 3,200m"); bike/run targets are always in miles. Show the actual
-    distance in whichever unit that discipline's targets use, so the model
-    never has to mentally convert between them when comparing actual vs.
-    scheduled -- that conversion step is exactly where it can go wrong
-    (e.g. reading "2.0mi" against a "3,200m" target as if they were
-    different distances, when 2.0mi is essentially 3,200m)."""
+    swim 3,200m"), and the athlete's pool is measured in yards -- show both
+    for swim (yards first, since that's what the athlete actually swims in,
+    meters alongside for a direct match to the scheduled target) so the
+    model never has to mentally convert between them when comparing actual
+    vs. scheduled. Bike/run targets are always in miles, so those stay in
+    miles."""
     if not a["distance"]:
         return "0"
     if a["disc"] == "swim":
-        return f"{round(a['distance'])}m"
+        yards = round(a["distance"] / 0.9144)
+        return f"{yards}yd ({round(a['distance'])}m)"
     return f"{round(a['distance'] / 1609.34, 1)}mi"
 
 
@@ -246,7 +247,7 @@ When writing todayRecommendation, base it on the TODAY planned session listed ab
 
 IMPORTANT -- grading past days: "This week's schedule" and the current week's TSS target above apply ONLY to the CURRENT week (Week {current_week}). Entries in YESTERDAY'S WORKOUT and LAST 7 DAYS OF TRAINING each carry their own "Scheduled that day" label -- a day may fall in a DIFFERENT build week (e.g. a recovery week) with completely different targets than the current week. Always grade a completed activity against ITS OWN "Scheduled that day" label, never against the current week's Saturday/Thursday/etc. targets if that activity happened on a different date in a different week. Do not describe a past easy/recovery session as "missing" or "shortened" relative to a big session (like a peak-week long ride) that is scheduled for a later date and has not happened yet.
 
-IMPORTANT -- comparing distances: actual swim distances above are shown in meters and actual bike/run distances in miles, matching whichever unit that discipline's scheduled targets use (e.g. "Pool swim 3,200m"). When a distance is within a small margin of its scheduled target in that same unit, that means the target was met -- do not describe it as "short of" the target.
+IMPORTANT -- comparing distances: actual swim distances above are shown as "Xyd (Ym)" -- always compare the METERS figure in parentheses against the scheduled swim target, since swim targets are always written in meters (e.g. "Pool swim 3,200m"); the yards figure is just for the athlete's own reference (their pool is measured in yards). Actual bike/run distances are shown in miles, matching how those targets are written. When a distance is within a small margin of its scheduled target in the matching unit, that means the target was met -- do not describe it as "short of" the target.
 
 Please provide a structured daily coaching analysis in JSON format with exactly these fields:
 
