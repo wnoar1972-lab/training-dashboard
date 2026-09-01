@@ -223,5 +223,14 @@
     "headline": "Solid 3.2K swim building endurance with controlled heart rate in the aerobic zone",
     "analysis": "You maintained a steady 108.5 bpm average across 75 minutes, staying well within aerobic range even as your max only touched 123. Your pacing was consistent at 38:07 for the first mile then 41:00 for the second\u2014right in line with your 30-day average of 37:59/mile, showing good control over a longer session. The 40 suffer score reflects quality volume work without redlining, exactly what builds your swim base.",
     "relative_effort": 40.0
+  },
+  {
+    "strava_id": "19984001594",
+    "date": "2026-08-31",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "A tale of two halves with that middle-mile fade telling the real story",
+    "analysis": "You started right on your 30-day average pace at 9:47/mi, but that third mile ballooned to 11:18 while your heart rate actually dropped to 137 bpm\u2014a clear sign of form breakdown rather than effort. The good news? You rallied with a strong 9:24 fourth mile at 143 bpm, showing you've got the fitness to hold pace when you stay mentally engaged. Work on maintaining that focus through the middle miles and you'll see this 9:48/mi average come down consistently.",
+    "relative_effort": 79.0
   }
 ]

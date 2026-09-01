@@ -507,6 +507,17 @@
   },
   {
     "date": "2026-08-31",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 38.0,
+    "np": 0,
+    "avgHR": 139.0,
+    "distance": 6607.5,
+    "duration": 2393.0
+  },
+  {
+    "date": "2026-08-31",
     "title": "Pool Swim",
     "type": "Swim",
     "disc": "swim",
