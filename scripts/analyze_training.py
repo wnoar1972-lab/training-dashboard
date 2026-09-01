@@ -174,18 +174,31 @@ def scheduled_for(date_str):
     d = date.fromisoformat(date_str)
     return day_label(resolve_day(SCHEDULE, d))
 
+def format_distance(a):
+    """Swim targets in the schedule are always stated in meters (e.g. "Pool
+    swim 3,200m"); bike/run targets are always in miles. Show the actual
+    distance in whichever unit that discipline's targets use, so the model
+    never has to mentally convert between them when comparing actual vs.
+    scheduled -- that conversion step is exactly where it can go wrong
+    (e.g. reading "2.0mi" against a "3,200m" target as if they were
+    different distances, when 2.0mi is essentially 3,200m)."""
+    if not a["distance"]:
+        return "0"
+    if a["disc"] == "swim":
+        return f"{round(a['distance'])}m"
+    return f"{round(a['distance'] / 1609.34, 1)}mi"
+
+
 yesterday_summary = ""
 if yesterday_acts:
     for a in yesterday_acts:
-        dist_mi = round(a["distance"] / 1609.34, 1) if a["distance"] else 0
-        yesterday_summary += f"- {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | Distance: {dist_mi}mi | Scheduled that day: {scheduled_for(yesterday)}\n"
+        yesterday_summary += f"- {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | Distance: {format_distance(a)} | Scheduled that day: {scheduled_for(yesterday)}\n"
 else:
     yesterday_summary = f"- Rest day (no activities logged) | Scheduled that day: {scheduled_for(yesterday)}"
 
 last7_summary = ""
 for a in sorted(last7_acts, key=lambda x: x["date"], reverse=True):
-    dist_mi = round(a["distance"] / 1609.34, 1) if a["distance"] else 0
-    last7_summary += f"- {a['date']} | {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | {dist_mi}mi | Scheduled that day: {scheduled_for(a['date'])}\n"
+    last7_summary += f"- {a['date']} | {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | {format_distance(a)} | Scheduled that day: {scheduled_for(a['date'])}\n"
 
 sleep_summary = ""
 for s in sorted(last7_sleep, key=lambda x: x["date"], reverse=True):
@@ -232,6 +245,8 @@ Nights below 92% SpO2: {low_spo2_nights} (note: may be affected by night sweatin
 When writing todayRecommendation, base it on the TODAY planned session listed above -- do not assume a different workout. Never invent data that isn't provided above; if evidence is thin, say so directly in confidence.reason rather than filling the gap with a guess.
 
 IMPORTANT -- grading past days: "This week's schedule" and the current week's TSS target above apply ONLY to the CURRENT week (Week {current_week}). Entries in YESTERDAY'S WORKOUT and LAST 7 DAYS OF TRAINING each carry their own "Scheduled that day" label -- a day may fall in a DIFFERENT build week (e.g. a recovery week) with completely different targets than the current week. Always grade a completed activity against ITS OWN "Scheduled that day" label, never against the current week's Saturday/Thursday/etc. targets if that activity happened on a different date in a different week. Do not describe a past easy/recovery session as "missing" or "shortened" relative to a big session (like a peak-week long ride) that is scheduled for a later date and has not happened yet.
+
+IMPORTANT -- comparing distances: actual swim distances above are shown in meters and actual bike/run distances in miles, matching whichever unit that discipline's scheduled targets use (e.g. "Pool swim 3,200m"). When a distance is within a small margin of its scheduled target in that same unit, that means the target was met -- do not describe it as "short of" the target.
 
 Please provide a structured daily coaching analysis in JSON format with exactly these fields:
 
