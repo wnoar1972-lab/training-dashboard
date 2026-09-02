@@ -2,47 +2,47 @@
   "date": "September 02, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Run Club session completed at 6.6mi, up from the scheduled moderate effort. HR averaged 143 bpm, which is appropriate for a Tuesday club run with slightly elevated effort. The distance was solid and the execution matched the intent -- building run volume progressively without overreaching.",
-  "todayRecommendation": "Today's 3-hour outdoor brick is the KEY session of the week -- this must happen outdoors to validate bike fit under sustained aero load, followed by the 45-minute brick run with walk/run 9:1 protocol. Skip or shorten this, and the week falls apart; nail it, and you're on track for Saturday's 75-miler.",
-  "weekProgress": "Week 7 of 13 sits at 132 TSS of 590 target (22% complete) with 4 days remaining. This is completely normal for a back-loaded week -- today's brick and Saturday's 75-mile ride will account for the majority of the weekly load, so no concern at this stage.",
-  "keyInsight": "Today's 3-hour outdoor brick is non-negotiable -- it's the final dress rehearsal for sustained aero position before Saturday's first true full-IM-distance ride, and skipping it would leave you unprepared for the 112-mile race load.",
+  "yesterdayAnalysis": "Tuesday Run Club logged 6.6mi at HR 143 against a scheduled pick-up effort -- distance and effort align well with the intent. This was a solid active recovery session between Monday's swim/run double and today's critical brick. Heart rate controlled appropriately for a mid-week non-brick run.",
+  "todayRecommendation": "Today's outdoor 3hr brick is a KEY SESSION -- 3 hours in aero position is the entire point, not distance or wattage. Follow with the full 45min brick run using walk/run 9/1 protocol, walking every mile as planned. This is race-rehearsal for bike position tolerance and run-off-bike execution.",
+  "weekProgress": "Week 7 of 13 shows 132 TSS of 590 target (22%) with 4 days remaining including today. This is exactly on schedule -- today's brick and Saturday's 75mi ride will deliver the bulk of weekly TSS. No sessions have been skipped.",
+  "keyInsight": "Today's 3-hour outdoor brick is the longest sustained aero exposure before Saturday's first full-IM-distance ride -- bike position validation under load is the critical objective with 46 days to race.",
   "alerts": [
-    "7-day avg sleep score is 74/100 -- flagged as the largest readiness limiter, with two nights (Aug 27, Aug 30) scoring below 70",
-    "One night (Sep 1) recorded SpO2 at 89% -- monitor for pattern, may be sensor/sweating artifact but worth noting"
+    "Sleep score 7-day avg is 74/100 -- recovery limiter flagged by readiness engine",
+    "One night (Sep 1) showed SpO2 at 89% -- monitor for pattern but may be sensor artifact"
   ],
   "positives": [
-    "Run volume building well -- 6.6mi club run yesterday, 6.1mi long run Sunday, both executed with appropriate effort control",
-    "Swim consistency holding strong -- 3,500yd Monday hit the 3,200m target, maintaining race-effort intervals",
-    "Recovery week (Week 6) executed properly -- all sessions appropriately reduced in volume/intensity to prepare for this week's big load"
+    "5 brick workouts completed in build so far -- race-specific execution rehearsal is progressing",
+    "Run Club yesterday stayed disciplined at HR 143 -- not overcooking mid-week efforts",
+    "Monday's swim hit 3500yd (3200m target) with race-effort 4x200 -- swim execution is consistent"
   ],
   "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (overall 83/100, bike 86/100, run 83/100, recovery 84/100)",
-    "Garmin sleep data (7-day avg 74/100, two nights <70)",
-    "Last 7 days training log (5 brick workouts completed to date, volume progression consistent)",
-    "Week 7 TSS tracking (132 of 590, back-loaded structure normal)"
+    "Readiness engine (recovery 84/100, bike 86/100, run 83/100)",
+    "7-day sleep avg 74/100 from Garmin data",
+    "Week 7 TSS tracking: 132 of 590 with brick+long ride still scheduled",
+    "5 brick sessions logged in build activity history",
+    "Yesterday's actual vs scheduled: 6.6mi run vs 'pick up effort' directive"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is complete and shows clear patterns; training execution is well-documented; readiness engine provides objective scoring. Confidence limited by lack of HRV trend data and no nutrition logging to validate race-day fueling practice, which is a stated Week 7 priority."
+    "reason": "Sleep data is complete for 7 days and readiness engine provides multi-factor scoring, but no HRV trend data, bike power file validation, or nutrition intake logs are available to assess deeper load/recovery balance or today's brick quality."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, stable) -- progressive run volume increase appropriate",
-    "Walk/run 9:1 protocol observed in all recent runs",
+    "Hip history (Perthes, right hip) -- Sunday's 14mi long run will be key hip load test",
+    "Active race: IM California Sacramento in 46 days",
+    "Walk/run 9/1 protocol on all runs including brick runs",
     "Bike fit completed post-Oregon to address back/foot pain",
-    "Active race target (IM California 46 days out, 12:59:59 goal)",
-    "Age 54 with TRT -- recovery monitoring via sleep critical"
+    "Age 54 -- recovery monitoring is especially relevant"
   ],
   "race_implications": [
-    "Today's 3hr brick validates bike fit under race-like aero load before Saturday's 75-miler -- critical checkpoint for identifying any position issues with 6 weeks to fix them",
-    "Brick run practice today tests run nutrition timing (every 20-25min) and walk/run execution off sustained aero position -- this is the Oregon lesson being applied",
-    "Sleep quality at 74/100 is functional but not optimal -- with 46 days to race, prioritizing 7.5+ hours/night will support the heavy training load ahead"
+    "Saturday's 75mi ride will be first true IM-distance bike exposure -- critical data point for 6:37 bike target feasibility",
+    "Today's 3hr aero session tests whether bike fit changes resolved position pain before race week",
+    "Sunday's 14mi run is largest volume yet -- hip tolerance under progressive load will inform final taper adjustments"
   ],
   "recommended_adjustments": [
-    "Execute today's 3hr outdoor brick as scheduled -- this is the week's anchor session and cannot be moved or shortened",
-    "Prioritize 7.5+ hours sleep tonight to support Saturday's 75-mile ride -- consider earlier bedtime rather than relying on longer wake window",
-    "Practice race nutrition timing on today's brick run (every 20-25min) -- validate the Oregon lesson fix under real execution"
+    "Prioritize 8+ hours sleep tonight and Thursday night -- recovery score of 6/10 with two massive sessions (today's brick + Saturday's 75mi) ahead is cutting it close",
+    "If today's 3hr ride produces any return of back or foot pain, note exact onset time and position changes made -- this is the last chance to troubleshoot bike fit before taper"
   ],
   "generatedAt": "2026-09-02",
   "daysToRace": 46,
