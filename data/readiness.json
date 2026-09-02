@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 7,
   "total_weeks": 13,
-  "overall_score": 84,
+  "overall_score": 83,
   "overall_status": "On track",
   "overall_confidence": "low-moderate",
   "strongest_positive_factor": "bike (86/100): Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
@@ -18,13 +18,13 @@
   },
   "scores": {
     "swim": {
-      "score": 82,
+      "score": 78,
       "status": "On track",
       "top_factor": "Race-distance exposure: longest swim session is 3200m (83% of race distance).",
-      "top_limiter": "Volume: 236 TSS in the last 28 days vs. an expected ~366 (blended across each week's own target in that window).",
+      "top_limiter": "Volume: 206 TSS in the last 28 days vs. an expected ~371 (blended across each week's own target in that window).",
       "trend": "improving",
       "evidence_window_days": 28,
-      "sessions_in_window": 10,
+      "sessions_in_window": 9,
       "weeks_observed": 5,
       "confidence": "low-moderate"
     },
@@ -32,7 +32,7 @@
       "score": 86,
       "status": "Strong",
       "top_factor": "Race-distance exposure: longest bike session is 69.6mi (62% of race distance).",
-      "top_limiter": "Volume: 684 TSS in the last 28 days vs. an expected ~823 (blended across each week's own target in that window).",
+      "top_limiter": "Volume: 684 TSS in the last 28 days vs. an expected ~834 (blended across each week's own target in that window).",
       "trend": "improving",
       "evidence_window_days": 28,
       "sessions_in_window": 10,
@@ -42,7 +42,7 @@
     "run": {
       "score": 83,
       "status": "On track",
-      "top_factor": "Volume: 906 TSS in the last 28 days vs. an expected ~640 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 863 TSS in the last 28 days vs. an expected ~648 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 12.0mi (46% of race distance).",
       "trend": "improving",
       "evidence_window_days": 28,
@@ -53,7 +53,7 @@
     "recovery": {
       "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.6 bpm, 0.2 bpm vs. the all-time baseline of 54.4 bpm.",
+      "top_factor": "Resting HR is 54.7 bpm, 0.2 bpm vs. the all-time baseline of 54.5 bpm.",
       "top_limiter": "7-day-avg sleep score is 74/100.",
       "trend": "stable",
       "evidence_window_days": 28,

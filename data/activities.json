@@ -526,5 +526,16 @@
     "avgHR": 109.0,
     "distance": 3200.4,
     "duration": 4497.0
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Carlsbad Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 65.0,
+    "np": 0,
+    "avgHR": 143.0,
+    "distance": 10673.0,
+    "duration": 3773.0
   }
 ]
