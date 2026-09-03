@@ -241,5 +241,32 @@
     "headline": "Solid progression work disguised as an evening run, with a sharp second mile leading the charge",
     "analysis": "You crushed mile 2 in 8:48\u2014a full 50 seconds faster than your 30-day average\u2014while your heart rate jumped from 131 to 145 bpm, showing real engagement early. The workout settled into a steady 10:00-10:36 pace through miles 4-6 as your HR plateaued around 145-147 bpm, demonstrating good aerobic control at moderate effort. That 6:22 closing partial suggests you had something left in the tank, and the 83.6 average cadence is right in your sweet spot for sustainable running.",
     "relative_effort": 149.0
+  },
+  {
+    "strava_id": "20014239688",
+    "date": "2026-09-02",
+    "disc": "bike",
+    "title": "Afternoon Ride",
+    "headline": "Strong 45-miler with a strategic build and impressive final surge despite a mid-ride interruption",
+    "analysis": "You settled into a solid rhythm after that 7-minute warmup mile, holding steady around 3:00-3:40/mi pace through mile 40 with your heart rate controlled in the low-to-mid 120s. That 21-minute pause at mile 41 could have derailed things, but you came back focused and finished strong with miles 42-44 at 3:13-3:32 pace while pushing your HR up to 130 bpm. The progressive effort in miles 33-40 where your heart rate climbed from 135 to 137 bpm shows you're building fitness to handle harder efforts deep into long rides.",
+    "relative_effort": 148.0
+  },
+  {
+    "strava_id": "20014538525",
+    "date": "2026-09-02",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Solid evening effort with consistent 9:40s pacing right on your 30-day average despite elevated heart rate throughout",
+    "analysis": "You held remarkably steady splits across the first four miles (9:54 average pace) with your heart rate hovering in the mid-to-high 140s, showing good aerobic control at 146.6 bpm average. That final 0.68 mile at 6:47 pace dropped your heart rate to 144, suggesting you finished strong with gas left in the tank. The 123 relative effort score is solid work for a 4.68-miler, and your consistent Buchanan Park Loop segments (499-536 seconds) demonstrate good lap-to-lap discipline.",
+    "relative_effort": 123.0
+  },
+  {
+    "strava_id": "20020693274",
+    "date": "2026-09-03",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Steady 3200m morning session holds pace just off your 30-day average with controlled heart rate throughout",
+    "analysis": "You maintained a consistent effort across this 77-minute swim, averaging 39.8 minutes per mile\u2014just 1:44 slower than your recent 30-day average of 38:04/mi. Your heart rate data tells an interesting story: you started stronger in mile 1 at 115.6 bpm, then settled into a more controlled 111 bpm rhythm for mile 2, keeping your max at just 131. With a suffer score of 65, this looks like quality aerobic base work rather than a breakthrough effort, which is exactly what early season volume should feel like.",
+    "relative_effort": 65.0
   }
 ]
