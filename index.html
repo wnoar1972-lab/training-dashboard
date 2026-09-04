@@ -1361,6 +1361,7 @@ function buildReadiness(){
       '<div class="rd-tile-lbl">Overall</div>'+
       '<div class="rd-tile-status" style="color:'+rdColor(r.overall_score)+'">'+r.overall_status+'</div>'+
     '</div>';
+  var breakdownHtml = '';
   order.forEach(function(k){
     var d = s[k];
     if(!d) return;
@@ -1369,6 +1370,12 @@ function buildReadiness(){
         '<div class="rd-tile-lbl">'+icons[k]+' '+k+'</div>'+
         '<div class="rd-tile-status" style="color:'+rdColor(d.score)+'">'+d.status+'</div>'+
       '</div>';
+    if(d.how_to_improve){
+      breakdownHtml += '<div class="ai-section" style="margin-bottom:8px">'+
+          '<div class="ai-section-title" style="color:'+rdColor(d.score)+'">'+icons[k]+' '+k.toUpperCase()+' — '+(d.score!=null?d.score:'—')+'/100 ('+d.status+')</div>'+
+          '<div class="ai-section-text">'+d.how_to_improve+'</div>'+
+        '</div>';
+    }
   });
 
   el.innerHTML =
@@ -1396,6 +1403,8 @@ function buildReadiness(){
             '<div class="ai-section-text">'+r.next_action+'</div>'+
           '</div>'+
         '</div>'+
+        '<div class="ai-section-title" style="margin-top:14px;margin-bottom:8px">📋 How To Boost Each Score</div>'+
+        breakdownHtml+
         '<div class="ai-section-text" style="color:#94a3b8;font-size:11px;margin-top:8px">'+r.note+'</div>'+
       '</div>'+
     '</div>';

@@ -184,11 +184,31 @@ def discipline_score(disc, race_distance_miles):
     else:
         weeks_with_data = 0
 
+    # A concrete, actionable diagnosis of whichever sub-score is actually
+    # holding this discipline back -- volume (train more often/harder) and
+    # race-distance exposure (complete the longer sessions already on the
+    # schedule) call for different fixes, so name the real lever rather
+    # than a generic "do more" note.
+    sessions_per_week = round(len(recent) / (EVIDENCE_WINDOW_DAYS / 7), 1)
+    if volume_score < exposure_score:
+        how_to_improve = (
+            f"Volume is the limiter -- you're averaging ~{sessions_per_week} {disc} session(s)/week "
+            f"over the last {EVIDENCE_WINDOW_DAYS} days. Closing that gap toward what's scheduled is "
+            f"the fastest way to raise this score."
+        )
+    else:
+        how_to_improve = (
+            f"Race-distance exposure is the limiter, not volume -- training load is solid. "
+            f"Completing your upcoming longer {disc} sessions (already on the schedule) will directly "
+            f"raise this score."
+        )
+
     return {
         "score": score,
         "status": status_label(score),
         "top_factor": top_factor,
         "top_limiter": limiter,
+        "how_to_improve": how_to_improve,
         "trend": trend,
         "evidence_window_days": EVIDENCE_WINDOW_DAYS,
         "sessions_in_window": len(recent),
@@ -221,6 +241,7 @@ def recovery_score():
             "status": "Insufficient data",
             "top_factor": "No sleep data available in the evidence window.",
             "top_limiter": "No sleep data available in the evidence window.",
+            "how_to_improve": "No sleep data synced in the evidence window -- check your Garmin sync before this score can be evaluated.",
             "trend": "insufficient data",
             "evidence_window_days": EVIDENCE_WINDOW_DAYS,
             "confidence": "low",
@@ -283,11 +304,18 @@ def recovery_score():
         else:
             trend = "stable"
 
+    improve_text = {
+        "Sleep quality": "Sleep quality is the limiter -- prioritize consistent bed/wake times and duration over the next week or two; this responds faster than most training changes.",
+        "Resting HR deviation": "Elevated resting HR relative to your baseline is the limiter -- this usually reflects accumulated fatigue or stress; consider an easier day or two before your next key session.",
+        "SpO2": "Lower average SpO2 is the limiter -- this can reflect sleep position, altitude, or illness; if it persists across multiple nights, it's worth mentioning to a doctor rather than just training through it.",
+    }
+
     return {
         "score": score,
         "status": status,
         "top_factor": factor_text[top_factor_name],
         "top_limiter": factor_text[limiter_name],
+        "how_to_improve": improve_text[limiter_name],
         "trend": trend,
         "evidence_window_days": EVIDENCE_WINDOW_DAYS,
         "nights_in_window": len(recent_sleep),
