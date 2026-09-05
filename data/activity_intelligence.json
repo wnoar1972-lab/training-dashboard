@@ -268,5 +268,14 @@
     "headline": "Steady 3200m morning session holds pace just off your 30-day average with controlled heart rate throughout",
     "analysis": "You maintained a consistent effort across this 77-minute swim, averaging 39.8 minutes per mile\u2014just 1:44 slower than your recent 30-day average of 38:04/mi. Your heart rate data tells an interesting story: you started stronger in mile 1 at 115.6 bpm, then settled into a more controlled 111 bpm rhythm for mile 2, keeping your max at just 131. With a suffer score of 65, this looks like quality aerobic base work rather than a breakthrough effort, which is exactly what early season volume should feel like.",
     "relative_effort": 65.0
+  },
+  {
+    "strava_id": "20040446467",
+    "date": "2026-09-04",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid 1800m effort with a strong negative split finish",
+    "analysis": "You covered 1,829 meters in just under 40 minutes, swimming at a pace roughly 3 minutes per mile faster than your 30-day average of 37:46/mi. The data shows excellent pacing strategy\u2014your heart rate climbed from 113 bpm in the first mile to 117 bpm in the final segment, indicating you found another gear to close strong. That controlled heart rate profile with a max of just 128 bpm suggests good aerobic efficiency at this moderate effort level.",
+    "relative_effort": 39.0
   }
 ]
