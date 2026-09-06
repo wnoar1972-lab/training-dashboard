@@ -85,6 +85,12 @@
       "category": "soreness",
       "note": "14mi long run (Week 7 peak, longest run of the build to date) -- solid execution. General leg fatigue/soreness afterward (quads/calves-type, not hip-specific). Athlete confirmed this is fatigue, not a hip flare-up.",
       "hip_related": false
+    },
+    {
+      "date": "2026-09-05",
+      "category": "nutrition",
+      "note": "75mi outdoor ride (3h55m, first full-IM-length ride) -- executed race nutrition strategy: 2x 40oz bottles PF 60g-carb electrolyte mix (~120g carb total, ~30g/hr from bottles alone) + TrueMatrx Essential Aminos (2 scoops), Scratch Labs energy chews every 20 min, 1 Clif Bar Peanut Butter Crunch ~1hr pre-ride. Well tolerated, no GI issues reported -- validates full-distance carb tolerance per the race nutrition plan. Also stayed in aero without neck/lower back pain for the full ride, a positive signal for the post-Oregon bike fit.",
+      "equipment_gap": "Only 2 bottle cages set up for this ride; race day needs a 3rd bottle cage (112mi/~6.5hr distance vs. this 75mi/~4hr ride). Must be installed and tested before race week, not added race morning."
     }
   ]
 }
