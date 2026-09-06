@@ -1,52 +1,52 @@
 {
-  "date": "September 05, 2026",
+  "date": "September 06, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Friday's swim was 1829m (2000yd) against a scheduled easy 1500m target -- 22% longer than planned on a recovery day. HR 116 confirms easy aerobic effort as intended. Adding volume to a recovery swim is low-risk, but watch the pattern: recovery days exist for a reason heading into today's 75-mile ride.",
-  "todayRecommendation": "Today is your first full Ironman-distance ride (75mi, ~4.5hrs at 17mph) -- this is a major milestone session. Execute nutrition every 20 minutes without exception, stay at ~17mph pace, and track any bike position issues carefully since the fit was just completed. Hip and back status notes are critical.",
-  "weekProgress": "Week 7 of 13: 324 TSS of 590 target (55% complete) with today's 75-mile ride and tomorrow's 14-mile run still ahead. This is exactly where you should be -- the week is deliberately back-loaded around these two key sessions. You're positioned to hit the target.",
-  "keyInsight": "Today's 75-mile ride is your first true race-distance bike exposure -- execution quality (pacing, nutrition timing, position comfort) matters more than the TSS number itself.",
+  "yesterdayAnalysis": "Yesterday's 75mi ride (3h55m, TSS 171, HR 130) was the first full-IM-distance bike session in this build and executed well at the target ~17mph pace. This is a major milestone -- you've now proven you can hold position and effort for the race-distance bike leg. Heart rate stayed controlled at 130bpm average, suggesting good aerobic pacing.",
+  "todayRecommendation": "Today's 14-mile run is your longest to date and a critical hip/mobility checkpoint. Execute the 9:1 walk/run protocol exactly as planned, practice nutrition every 20-25 minutes, and track any hip/back/foot sensations carefully -- this is the test that tells us if your progressive load strategy is holding up or needs adjustment.",
+  "weekProgress": "Week 7 of 13 sits at 495 of 590 TSS (84% complete) with only today's long run remaining. The week delivered both key sessions (Wednesday 3hr brick and Saturday's 75mi ride) successfully. If today's 14-miler completes as planned, you'll finish slightly under target TSS, which is acceptable given the physiological load of two breakthrough sessions.",
+  "keyInsight": "You just completed your first race-distance bike ride with controlled HR and proper pacing -- that's the confidence-builder you needed heading into the final 6 weeks.",
   "alerts": [
-    "Sleep score 53/100 on Sept 3 (5.8h, 0min REM) is a red flag mid-build -- watch for fatigue accumulation",
-    "7-day avg sleep score 73/100 is below optimal for peak training weeks",
-    "Wednesday's brick ride was 2h34m (45.5mi) against a scheduled 3hr target -- 26min short of the prescribed duration"
+    "Sleep score dropped to 53 on Sep 3 (5.8h, 0min REM, RHR 59) -- likely related to accumulated load from the brick day; monitor tonight's recovery after the 14mi run",
+    "Wednesday's brick ride came in 26 minutes short of the 3hr target (2h34m actual) -- outdoor conditions or route may have compressed the session"
   ],
   "positives": [
-    "Wednesday's brick run executed perfectly: 45min, 4.7mi, walk/run protocol followed as planned",
-    "All three swim sessions this week completed with strong volume (3200m, 1829m actual vs targets)",
-    "Run Club Tuesday delivered 6.6mi in 1h02m with elevated effort (HR 143) -- good quality work"
+    "First full 75-mile race-distance bike completed successfully at target pace",
+    "Brick workouts now totaling 6 sessions -- race-specific preparation is building systematically",
+    "Sleep rebounded strongly to 90/100 after the long ride, showing good adaptation to heavy load"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (overall 83/100, bike 88/100, run 83/100, recovery 84/100)",
-    "Garmin sleep data (7-day avg 73/100, one night at 53/100)",
-    "Last 7 days actual vs scheduled (brick ride 2h34m vs 3hr target)",
-    "Week TSS 324/590 with 2 key sessions remaining"
+    "Readiness engine (bike 92/100, run 83/100, recovery 83/100)",
+    "Yesterday's ride data: 75.0mi, 3h55m, TSS 171, HR 130",
+    "7-day sleep average: 77/100 with one poor night (Sep 3: 53/100)",
+    "Week 7 TSS: 495 of 590 target (84%)",
+    "Brick count: 6 completed sessions"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is complete and concerning (low avg, one poor night), training data is current through yesterday, but Wednesday's brick ride duration shortfall limits confidence in readiness for today's 75-mile push -- no HRV data or nutrition log to validate recovery status."
+    "reason": "Strong data on bike execution and sleep trends over 7 days, but today's 14mi run is unexecuted and represents new territory for run distance -- we won't know hip/load tolerance until it's done; no HRV or detailed nutrition logging limits deeper recovery insight."
   },
   "athlete_context_considered": [
-    "Age 54, hip history (Perthes right hip)",
-    "Professional bike fit completed before this build",
-    "Walk/run 9/1 protocol on all runs",
-    "Sacramento IM 10-18-26 (43 days out)",
-    "Lesson from Oregon: bike position caused back/foot pain on run"
+    "Hip history (Perthes, right hip) -- 14mi is the longest run yet, progressive load principle",
+    "Walk/run 9:1 protocol for all runs",
+    "Race target: IM California Oct 18 (42 days out)",
+    "Oregon lesson: run nutrition failure (130g carbs missing) caused fade",
+    "Age 54, TRT managed"
   ],
   "race_implications": [
-    "Today tests race-distance bike tolerance under the new fit -- any back/foot/hip issues are red flags for Sacramento",
-    "Wednesday's shortened brick ride (2h34m vs 3hr) means you haven't yet validated 3hrs in aero position as planned -- today's 4.5hr ride is now even more critical",
-    "Sleep deficit (73/100 avg, one 53/100 night) with 43 days to race and two more big weeks ahead is manageable but requires immediate attention"
+    "Completing 75mi at race pace proves the bike leg is executable -- now focus shifts to validating run durability at extended distance",
+    "Today's 14mi run is 53% of race-day marathon distance -- if hip/back/foot remain stable, the run training progression is on schedule",
+    "Six weeks remain to dial in race nutrition timing (every 20-25min) and validate the complete bike-to-run transition under full load"
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hours sleep tonight and tomorrow night around these two key sessions -- cancel or defer anything non-essential that conflicts",
-    "If today's 75-mile ride reveals any back, foot, or hip discomfort after hour 3, stop and document it immediately -- do not push through position pain 43 days out",
-    "Sunday's 14-mile run is your longest yet and a key hip test -- if today's ride is hard or sleep remains poor, be prepared to cut it to 10-12 miles rather than risk injury"
+    "Track today's 14mi run with detailed notes on hip/back/foot status at miles 7, 10, and 14 -- any pain progression is critical data for the final build weeks",
+    "Prioritize 8+ hours sleep tonight (currently 8.2h with score 78) -- this is your biggest run yet and recovery quality will dictate next week's readiness",
+    "If Wednesday's outdoor brick rides consistently run short of 3hr target due to route/conditions, consider a flatter or less technical route to accumulate the prescribed time-in-aero"
   ],
-  "generatedAt": "2026-09-05",
-  "daysToRace": 43,
+  "generatedAt": "2026-09-06",
+  "daysToRace": 42,
   "currentWeek": 7,
   "weekPhase": "Peak"
 }

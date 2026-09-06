@@ -581,5 +581,16 @@
     "avgHR": 116.0,
     "distance": 1828.8,
     "duration": 2359.0
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Cycling",
+    "type": "Ride",
+    "disc": "bike",
+    "tss": 171.0,
+    "np": 0,
+    "avgHR": 130.0,
+    "distance": 120666.6,
+    "duration": 14133.0
   }
 ]
