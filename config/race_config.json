@@ -55,7 +55,7 @@
   ],
   "weekly_tss_targets": {
     "1": 150, "2": 350, "3": 420, "4": 480, "5": 520, "6": 300,
-    "7": 590, "8": 750, "9": 660, "10": 400, "11": 320, "12": 250, "13": 150
+    "7": 590, "8": 750, "9": 710, "10": 400, "11": 320, "12": 250, "13": 150
   },
   "week_phases": {
     "1": "Recovery", "2": "Base", "3": "Base", "4": "Build", "5": "Build",
@@ -77,5 +77,5 @@
     "12": "True taper -- volume -60%, bike packed, travel to Sacramento",
     "13": "Race week -- arrive Sacramento, race Oct 18"
   },
-  "week1_special_rule": "If current_week == 1, this week (Jul 21-27) is mandatory post-race recovery after Oregon 70.3 on Jul 20. Low or zero TSS is 100% intentional and correct -- never flag as concerning, behind, or at risk. Only encourage rest, recovery, hydration, and booking a bike fit."
+  "week1_special_rule": "If current_week == 1, this week (Jul 20-26, though the Sacramento build itself starts Jul 21, the day after Oregon 70.3 on Jul 20) is mandatory post-race recovery. Low or zero TSS is 100% intentional and correct -- never flag as concerning, behind, or at risk. Only encourage rest, recovery, hydration, and booking a bike fit."
 }
