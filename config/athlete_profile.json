@@ -79,5 +79,12 @@
     "philosophy": "This athlete needs accurate feedback to be ready for a full Ironman -- false reassurance is more harmful than hard truths. Acknowledge genuine progress when it is earned.",
     "walk_run_protocol": "9 min run / 1 min walk on all runs, plus a walk at every aid station on race day"
   },
-  "manual_notes": []
+  "manual_notes": [
+    {
+      "date": "2026-09-06",
+      "category": "soreness",
+      "note": "14mi long run (Week 7 peak, longest run of the build to date) -- solid execution. General leg fatigue/soreness afterward (quads/calves-type, not hip-specific). Athlete confirmed this is fatigue, not a hip flare-up.",
+      "hip_related": false
+    }
+  ]
 }
