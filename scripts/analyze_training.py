@@ -140,6 +140,7 @@ def build_race_targets_text():
         f"- Goal finish: {RACE.get('goal_finish')}",
         f"- Swim target: {splits.get('swim')}",
         f"- Bike target: {splits.get('bike')} ({strategy.get('bike_target_power_note', '')})",
+        f"- Bike pacing target: {strategy.get('bike_target_speed_mph', '?')}mph avg -- this is a flat course where holding back below race pace on training rides is the correct, disciplined choice, not underperformance. Riding meaningfully faster than this in training is a pacing-discipline red flag, not a fitness win, and should be named directly.",
         f"- Run target: {splits.get('run')} at {strategy.get('run_target_pace')}, walk/run {strategy.get('run_walk_strategy')}",
     ]
     lessons = RACE.get("prior_race_lessons_carried_forward", [])
@@ -165,6 +166,7 @@ def build_readiness_evidence_text():
 athlete_context_text = build_athlete_context_text()
 race_targets_text = build_race_targets_text()
 readiness_evidence_text = build_readiness_evidence_text()
+bike_target_speed_mph = RACE.get("strategy", {}).get("bike_target_speed_mph", "?")
 
 def scheduled_for(date_str):
     """What was actually scheduled on this date -- may belong to a different
@@ -204,16 +206,33 @@ def format_duration(a):
     return f"{h}h{m:02d}m" if h else f"{m}min"
 
 
+def format_speed(a):
+    """Bike avg mph, computed from real distance/duration -- without this the
+    model only sees TSS/HR/distance/duration separately and has no direct
+    pacing signal to compare against bike_target_speed_mph, which is exactly
+    how a training ride ~2mph over the race's flat-course pacing target went
+    unflagged in a prior report."""
+    if a["disc"] != "bike" or not a["distance"] or not a.get("duration"):
+        return None
+    mph = (a["distance"] / 1609.34) / (a["duration"] / 3600)
+    return f"{round(mph, 1)}mph avg"
+
+
+def speed_field(a):
+    spd = format_speed(a)
+    return f" | Avg speed: {spd}" if spd else ""
+
+
 yesterday_summary = ""
 if yesterday_acts:
     for a in yesterday_acts:
-        yesterday_summary += f"- {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | Distance: {format_distance(a)} | Duration: {format_duration(a)} | Scheduled that day: {scheduled_for(yesterday)}\n"
+        yesterday_summary += f"- {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | Distance: {format_distance(a)} | Duration: {format_duration(a)}{speed_field(a)} | Scheduled that day: {scheduled_for(yesterday)}\n"
 else:
     yesterday_summary = f"- Rest day (no activities logged) | Scheduled that day: {scheduled_for(yesterday)}"
 
 last7_summary = ""
 for a in sorted(last7_acts, key=lambda x: x["date"], reverse=True):
-    last7_summary += f"- {a['date']} | {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | {format_distance(a)} | Duration: {format_duration(a)} | Scheduled that day: {scheduled_for(a['date'])}\n"
+    last7_summary += f"- {a['date']} | {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | {format_distance(a)} | Duration: {format_duration(a)}{speed_field(a)} | Scheduled that day: {scheduled_for(a['date'])}\n"
 
 sleep_summary = ""
 for s in sorted(last7_sleep, key=lambda x: x["date"], reverse=True):
@@ -264,6 +283,8 @@ IMPORTANT -- grading past days: "This week's schedule" and the current week's TS
 IMPORTANT -- comparing distances: actual swim distances above are shown as "Xyd (Ym)" -- always compare the METERS figure in parentheses against the scheduled swim target, since swim targets are always written in meters (e.g. "Pool swim 3,200m"); the yards figure is just for the athlete's own reference (their pool is measured in yards). Actual bike/run distances are shown in miles, matching how those targets are written. When a distance is within a small margin of its scheduled target in the matching unit, that means the target was met -- do not describe it as "short of" the target.
 
 IMPORTANT -- comparing durations: every activity now includes its actual "Duration" field. When a scheduled session has a time-based target (e.g. "3hr ride"), compare the actual Duration directly against it -- never estimate or back-calculate elapsed time from distance and an assumed pace. If Duration is missing or "n/a," say so rather than guessing a time.
+
+IMPORTANT -- bike pacing discipline: bike activities include an "Avg speed" field. Always compare it against the bike pacing target above ({bike_target_speed_mph}mph). This is a flat course where the strategy is explicitly to hold back, not push -- a ride ridden meaningfully faster (roughly 1mph or more over target) than the pacing target is a real pacing-discipline concern worth naming in yesterdayAnalysis/alerts/keyInsight, even if TSS, HR, and distance all look otherwise clean. Do not describe an over-pace ride as simply "executed well" or "at target intensity" without also flagging the pace overshoot -- overpacing the bike on a flat course risks the run, consistent with this athlete's own prior-race lessons.
 
 Please provide a structured daily coaching analysis in JSON format with exactly these fields:
 
