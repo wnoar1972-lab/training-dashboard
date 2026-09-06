@@ -286,5 +286,14 @@
     "headline": "Nearly 75 miles of controlled endurance work with 11 PRs tucked into a steady Zone 2 effort",
     "analysis": "You held remarkable discipline over 234 minutes, averaging 129.8 bpm\u2014well below your 152 max\u2014while banking a suffer score of 301 across hilly terrain. Those four long slowdowns at miles 11, 19, 28, 37, 46, 55, and 64 (5-8 minutes each) suggest controlled stops or climbs, yet you still crushed 11 PRs including solid segments like the 19-minute SLR West. The final push shows your reserve tank: mile 74 jumped to 144 bpm as you closed strong, proving you paced this perfectly for the distance.",
     "relative_effort": 301.0
+  },
+  {
+    "strava_id": "20065304901",
+    "date": "2026-09-06",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Solid 14-miler with disciplined pacing despite that mile 8 detour",
+    "analysis": "You held remarkably consistent 10:18-10:60 splits for most of this long run, right around your 30-day average pace of 9:43/mi, before that 14:47 minute eighth mile (pit stop?) temporarily spiked your heart rate to 149. What's impressive is how you recovered and maintained form through miles 9-13, even as your HR climbed into the low 150s, then finished strong with a 9:30 final mile. At 380 suffer score and 2.5 hours of moving time, this was a proper aerobic endurance builder.",
+    "relative_effort": 380.0
   }
 ]
