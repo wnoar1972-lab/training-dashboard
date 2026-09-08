@@ -295,5 +295,23 @@
     "headline": "Solid 14-miler with disciplined pacing despite that mile 8 detour",
     "analysis": "You held remarkably consistent 10:18-10:60 splits for most of this long run, right around your 30-day average pace of 9:43/mi, before that 14:47 minute eighth mile (pit stop?) temporarily spiked your heart rate to 149. What's impressive is how you recovered and maintained form through miles 9-13, even as your HR climbed into the low 150s, then finished strong with a 9:30 final mile. At 380 suffer score and 2.5 hours of moving time, this was a proper aerobic endurance builder.",
     "relative_effort": 380.0
+  },
+  {
+    "strava_id": "20080115135",
+    "date": "2026-09-07",
+    "disc": "swim",
+    "title": "Lunch Swim",
+    "headline": "Solid aerobic base work with 3,475 meters at controlled intensity",
+    "analysis": "You maintained excellent pacing discipline through this 82-minute session, averaging 37:73 and 38:17 for your first two miles\u2014right on your 30-day benchmark of 37:49/mile. Your heart rate management was textbook, hovering around 123 bpm average with consistent mile splits at 122-126 bpm before easing off in the final portion. That 124 suffer score tells me you found the sweet spot between aerobic adaptation and sustainable effort.",
+    "relative_effort": 124.0
+  },
+  {
+    "strava_id": "20082364802",
+    "date": "2026-09-07",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Solid negative split effort with a strong finish despite moderate average pace",
+    "analysis": "You started conservatively at 9:48 per mile with your heart rate at 131 bpm, then really turned it on for mile 4 (9:30) and especially that final partial mile (7:16 pace equivalent) where you pushed your HR up to 151 bpm. Your overall 9:52 pace is slightly slower than your 30-day average of 9:43, but that finishing kick shows you had good control and energy management throughout. Those repeats on Buchanan Park Loop showed nice consistency, dropping from 674 to 634 seconds as you found your rhythm.",
+    "relative_effort": 75.0
   }
 ]
