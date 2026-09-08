@@ -2,49 +2,41 @@
   "date": "September 08, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's double delivered exactly as prescribed: 3,475m pool swim (16% over the 3,000m target, threshold work at 124 HR) and 4.4mi easy run (right on the 4mi target at 136 HR recovering from the prior brick). Both sessions showed disciplined execution and good recovery from Saturday's 14mi long run \u2014 no red flags in effort or volume.",
-  "todayRecommendation": "Today is Run Club (walk/run protocol) in peak week. Keep it conversational and trust the 9:1 structure \u2014 this is not a hard effort day with the Thursday 45mi brick and Saturday 90mi peak ride coming. Use this to loosen up from yesterday's double and stay fresh for the peak workload ahead.",
-  "weekProgress": "Week 8 of 13 is 12% complete (87/750 TSS), which is normal for early Tuesday in a back-loaded week. The biggest loads (Thu 45mi brick, Sat 90mi peak ride, Sun 16mi long run) are still ahead \u2014 no concern about the current percentage.",
-  "keyInsight": "Last week's 75mi ride at 19.1mph avg was 2.1mph over the 17mph pacing target \u2014 that's a pacing-discipline red flag on a flat course, not a fitness win, and it risks the run if repeated in Sacramento.",
-  "alerts": [
-    "Saturday's 75mi ride averaged 19.1mph vs 17mph target \u2014 meaningful overpace on a flat course is a race-risk pattern",
-    "7-day avg sleep score is 76/100 (readiness engine flagged 73/100) \u2014 not critical, but peak week demands better recovery"
-  ],
+  "yesterdayAnalysis": "Monday's double completed as scheduled: 3,475m pool swim (16% over the 3,000m target, threshold sets executed) and 4.4mi run at HR 136 (walk/run protocol, recovery from Wednesday's brick). Swim TSS 49 and run TSS 38 totaled 87, which is the entire week's TSS so far\u2014appropriate for a Monday in peak week where the load is deliberately back-loaded to Thursday's brick and Saturday's 90mi peak ride. Execution was clean, no red flags.",
+  "todayRecommendation": "Run Club tonight is walk/run protocol in peak week\u2014treat this as controlled social aerobic stimulus, not a tempo push. HR should stay conversational (low-to-mid 140s max), and respect the 9/1 walk breaks even if the group dynamic tempts you to skip them.",
+  "weekProgress": "Week 8 of 13: 87 TSS of 750 target (12%) after Monday's swim and run double. This is exactly where you should be\u2014peak week is deliberately back-loaded toward Thursday's 45mi brick and Saturday's 90mi peak ride. No sessions skipped, no concern yet.",
+  "keyInsight": "You're entering the biggest week of the build with clean execution through Monday and sleep averaging 76/100 over 7 days\u2014recovery is adequate but not abundant, so Thursday's brick moderation and Saturday's fueling discipline will be critical.",
+  "alerts": [],
   "positives": [
-    "Saturday 14mi long run executed perfectly at target distance and controlled HR (146 avg) \u2014 biggest run of the build so far",
-    "Yesterday's 3,475m threshold swim and 4.4mi recovery run both hit targets with clean HR control",
-    "6 brick workouts completed in the build so far \u2014 race-specific rehearsal is accumulating well"
+    "Monday's swim overdelivered at 3,475m (16% over target) with threshold sets executed\u2014swim confidence continues to build",
+    "Recovery run Monday hit 4.4mi at HR 136, respecting walk/run protocol after Wednesday's brick\u2014disciplined execution",
+    "Sleep score rebounded to 78 last night (7.2h) after Saturday's 14mi long run\u2014body is handling peak load so far"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: overall 82/100, recovery 83/100, bike 82/100, run 84/100",
-    "7-day sleep average 76/100 from Garmin data",
-    "Last 7 days training log with TSS, HR, distance, and avg speed",
-    "Intervals.icu planned vs actual for each session",
-    "Week 8 TSS target 750, current 87 (12%)"
+    "Readiness engine: overall 82/100, recovery 83/100",
+    "7-day avg sleep score 76/100, last night 78/100",
+    "Week 8 TSS 87 of 750 (12%, back-loaded peak week)",
+    "Monday actual: 3,475m swim + 4.4mi run vs scheduled 3,000m + 4mi",
+    "Last 7 days: 75mi ride (19.1mph, over 17mph target), 14mi run completed"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Good data completeness on sleep, TSS, HR, and distance over 7 days, plus readiness engine scores \u2014 confidence limited by no HRV trend data, no nutrition logging, and no hip/pain notes to confirm symptom tracking in peak volume week."
+    "reason": "Sleep, HR, and TSS data are current and complete through Monday; readiness engine shows moderate confidence on 82/100 overall readiness, but peak week has not yet delivered its Thursday brick or Saturday 90mi ride, which are the true tests of readiness and pacing discipline."
   },
   "athlete_context_considered": [
-    "Walk/run 9:1 protocol on all runs",
-    "Hip history (Perthes) \u2014 caution on abrupt load increases, especially with 16mi long run Sunday",
-    "Bike pacing discipline: 17mph target on flat course, overpacing risks the run per Oregon lessons",
-    "Peak week structure: Thu 45mi brick + Sat 90mi peak ride coming",
-    "40 days to Ironman California (2026-10-18)"
+    "Walk/run 9/1 protocol on all runs",
+    "Peak week (Week 8 of 13) with back-loaded TSS structure",
+    "Hip history\u2014watch for pain associations on back-to-back run days (tonight is second run in 2 days)",
+    "Bike pacing discipline: 17mph target on flat course, prior week's 75mi ride was 19.1mph (overpace concern)"
   ],
   "race_implications": [
-    "Saturday's 19.1mph avg on a flat 75mi ride is a pacing discipline concern \u2014 holding 17mph in Sacramento is critical to protect the run and hit 12:59:59",
-    "Peak week volume (90mi Sat, 16mi Sun) will test hip and bike position under full race load \u2014 this is the last chance to identify problems before taper",
-    "6 bricks completed gives good race-specific practice, but the Thursday 45mi + 60min brick is the closest Sacramento rehearsal yet \u2014 execution matters"
+    "Peak week execution through Monday is clean\u2014Thursday's moderated brick and Saturday's 90mi ride will determine if you can absorb the build's biggest block without digging a recovery hole 5 weeks out from Sacramento",
+    "Last week's 75mi ride averaged 19.1mph (2.1mph over 17mph target)\u2014if Saturday's 90mi repeats that overpace, you're rehearsing a bike strategy that will cost you on the run in Sacramento",
+    "Sleep averaging 76/100 is workable but not abundant\u2014if it drops further during peak week, Thursday's brick or Saturday's ride may need to be shortened to protect the taper"
   ],
-  "recommended_adjustments": [
-    "On Saturday's 90mi peak ride, hold strict 17mph avg or slower \u2014 set a speed alert if needed and treat any temptation to go faster as a discipline failure, not a fitness opportunity",
-    "Track hip/back/foot notes explicitly on Sunday's 16mi long run (biggest run yet) \u2014 any pain or mobility changes need documentation before taper",
-    "Prioritize 8+ hours sleep the next 5 nights through peak week \u2014 current 7-day avg of 76/100 is workable but not optimal for the biggest training block of the build"
-  ],
+  "recommended_adjustments": [],
   "generatedAt": "2026-09-08",
   "daysToRace": 40,
   "currentWeek": 8,
