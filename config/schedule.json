@@ -1382,9 +1382,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 1,500m",
-            "note": "easy aerobic only -- moved here from Friday this week only (open water not available Wednesday, moved to Friday instead)"
+            "disc": "bike",
+            "label": "Outdoor 45mi + brick",
+            "note": "~17mph · race-pace · moderated so Saturday's 90mi peak ride isn't stacked on a near-max midweek day -- moved here from Thursday this week only"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 60 min",
+            "note": "walk/run 9/1 · walk every mile · closest thing to Sacramento run"
           }
         ]
       },
@@ -1392,14 +1397,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor 45mi + brick",
-            "note": "~17mph · race-pace · moderated so Saturday's 90mi peak ride isn't stacked on a near-max midweek day"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 60 min",
-            "note": "walk/run 9/1 · walk every mile · closest thing to Sacramento run"
+            "disc": "swim",
+            "label": "Pool swim 1,500m",
+            "note": "easy aerobic only -- moved here from Wednesday this week only"
           }
         ]
       },
