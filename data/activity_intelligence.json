@@ -322,5 +322,23 @@
     "headline": "A tale of two halves: grinding through the first four miles before unleashing a strong finish",
     "analysis": "You battled through an uneven start with miles 1-4 averaging 11:00 pace (well off your 9:44 baseline), but then flipped the script with miles 5-7 progressively building to a blazing 7:43 final mile\u2014your fastest split by over a minute. Your heart rate tells the story: despite slowing down mid-run (mile 4 at 12:07), you stayed controlled at 141 bpm and then crushed the finish while keeping your HR in check at 137. That negative split finish and 133 suffer score show you've got the mental toughness to push through the rough patches and accelerate when it counts.",
     "relative_effort": 133.0
+  },
+  {
+    "strava_id": "20110790362",
+    "date": "2026-09-09",
+    "disc": "bike",
+    "title": "Afternoon Ride",
+    "headline": "Solid endurance builder with controlled effort across 46 miles and nearly three hours in the saddle",
+    "analysis": "You settled into a steady rhythm after an easy first mile (HR 91 bpm), then maintained remarkable consistency between 125-132 bpm for the bulk of this ride\u2014right in that aerobic sweet spot. Those two slower miles (11 and 28 at 6:88 and 7:10 respectively) suggest smart recovery valleys or terrain changes that kept your average HR at 127 bpm, well below your 152 max. At 3:29 average pace, you're tracking right on your 30-day baseline while banking serious aerobic time\u2014exactly what long ride days are for.",
+    "relative_effort": 183.0
+  },
+  {
+    "strava_id": "20111534006",
+    "date": "2026-09-09",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "That mile 4 split tells a story\u201414:48 suggests you hit the pause button or dealt with something mid-run",
+    "analysis": "Your hour-long effort shows solid aerobic control with your average heart rate at 145.6 and a fairly consistent pace around 10:00-10:30/mi for most miles, right in your typical 9:44/mi wheelhouse. However, mile 4's dramatic 14:48 split and the repeated \"Gotta pee, gotta pee!!!\" segment efforts paint a clear picture of an unplanned pit stop. The fact you bounced back to 9:83 in mile 5 with your HR climbing to 148 shows good resilience\u2014you didn't let the interruption derail the training stimulus.",
+    "relative_effort": 156.0
   }
 ]
