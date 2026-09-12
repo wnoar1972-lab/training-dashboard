@@ -4,10 +4,10 @@
   "race_type": "full_distance_triathlon",
   "current_week": 8,
   "total_weeks": 13,
-  "overall_score": 81,
+  "overall_score": 84,
   "overall_status": "On track",
   "overall_confidence": "moderate",
-  "strongest_positive_factor": "bike (82/100): Race-distance exposure: longest bike session is 75.0mi (67% of race distance).",
+  "strongest_positive_factor": "bike (92/100): Volume: 790 TSS in the last 28 days vs. an expected ~788 (blended across each week's own target in that window).",
   "largest_limiter": "recovery (83/100): 7-day-avg sleep score is 73/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
@@ -18,10 +18,10 @@
   },
   "scores": {
     "swim": {
-      "score": 76,
-      "status": "On track",
+      "score": 91,
+      "status": "Strong",
       "top_factor": "Race-distance exposure: longest swim session is 3800yd (90% of race distance).",
-      "top_limiter": "Volume: 233 TSS in the last 28 days vs. an expected ~438 (blended across each week's own target in that window).",
+      "top_limiter": "Volume: 233 TSS in the last 28 days vs. an expected ~285 (blended across each week's own target in that window).",
       "how_to_improve": "Volume is the limiter -- you're averaging ~2.5 swim session(s)/week over the last 28 days. Closing that gap toward what's scheduled is the fastest way to raise this score.",
       "trend": "improving",
       "evidence_window_days": 28,
@@ -30,11 +30,11 @@
       "confidence": "moderate"
     },
     "bike": {
-      "score": 82,
-      "status": "On track",
-      "top_factor": "Race-distance exposure: longest bike session is 75.0mi (67% of race distance).",
-      "top_limiter": "Volume: 790 TSS in the last 28 days vs. an expected ~986 (blended across each week's own target in that window).",
-      "how_to_improve": "Volume is the limiter -- you're averaging ~2.2 bike session(s)/week over the last 28 days. Closing that gap toward what's scheduled is the fastest way to raise this score.",
+      "score": 92,
+      "status": "Strong",
+      "top_factor": "Volume: 790 TSS in the last 28 days vs. an expected ~788 (blended across each week's own target in that window).",
+      "top_limiter": "Race-distance exposure: longest bike session is 75.0mi (67% of race distance).",
+      "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer bike sessions (already on the schedule) will directly raise this score.",
       "trend": "improving",
       "evidence_window_days": 28,
       "sessions_in_window": 9,
@@ -42,9 +42,9 @@
       "confidence": "moderate"
     },
     "run": {
-      "score": 84,
+      "score": 70,
       "status": "On track",
-      "top_factor": "Volume: 816 TSS in the last 28 days vs. an expected ~766 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 816 TSS in the last 28 days vs. an expected ~1117 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 14.0mi (54% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer run sessions (already on the schedule) will directly raise this score.",
       "trend": "declining",

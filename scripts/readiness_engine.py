@@ -80,10 +80,15 @@ CURRENT_WEEK = overall_summary.get("currentWeek") or min(
     TOTAL_WEEKS, max(1, (TODAY - WEEK_ANCHOR).days // 7 + 1)
 )
 
-# Assumed discipline share of total weekly TSS -- a documented modeling
-# assumption (not hidden), used only to size an *expected* volume, not to
-# grade against an exact prescribed number.
-DISCIPLINE_TSS_SPLIT = {"swim": 0.20, "bike": 0.45, "run": 0.35}
+# Discipline share of total weekly TSS, used only to size an *expected*
+# volume, not to grade against an exact prescribed number. Calibrated from
+# this athlete's own build-to-date TSS totals (61 activities: swim 439,
+# bike 1238, run 1726 -- 13/36/51%), not a generic full-IM assumption --
+# swim TSS scores much lower per session than bike/run for this athlete
+# (a common artifact of how swim TSS is calculated), so a generic 20%
+# assumption was making a ~91%-completion swim schedule look like a real
+# volume shortfall when it wasn't.
+DISCIPLINE_TSS_SPLIT = {"swim": 0.13, "bike": 0.36, "run": 0.51}
 
 EVIDENCE_WINDOW_DAYS = 28
 window_start = TODAY - timedelta(days=EVIDENCE_WINDOW_DAYS)
