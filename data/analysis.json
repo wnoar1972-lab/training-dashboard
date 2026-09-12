@@ -1,52 +1,53 @@
 {
-  "date": "September 11, 2026",
+  "date": "September 12, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Thursday's pool swim delivered 1554m against a 1500m easy aerobic target -- on-target distance at an appropriately low HR of 103. This session was correctly placed as active recovery between Wednesday's brick and today's open water swim, and the athlete executed it as prescribed.",
-  "todayRecommendation": "Today's 2200m open water swim at La Jolla Shores is a critical confidence builder for Sacramento's 2.4mi (3862m) swim -- focus on sustained effort, sighting practice, and validating open water execution under fatigue from the week's load. This is your longest open water session of the build; treat it as a race-rehearsal opportunity.",
-  "weekProgress": "Week 8 of 13 sits at 330 TSS of 750 target (44% complete) with 2 days remaining. The week is tracking normally -- Saturday's 90mi peak ride and Sunday's 16mi long run will deliver the majority of remaining TSS, so the current percentage is not a concern.",
-  "keyInsight": "Last Saturday's 75mi ride was executed at 19.1mph -- 2.1mph over the 17mph pacing target -- which is a pacing discipline red flag on a flat course where holding back is the explicit strategy.",
+  "yesterdayAnalysis": "Yesterday's pool swim delivered 3,025yd against a 2,400yd target -- solid execution, 26% over-distance shows fitness headroom. HR 115 is aerobic, appropriate for a sustained swim session before today's peak bike load. The open-water sighting practice remains owed from the scheduling conflict earlier this week, but that's a skill session, not a volume gap.",
+  "todayRecommendation": "Today is your peak ride of the entire build: 90 miles at 17mph pacing discipline. Hold the pace target -- riding faster than 17mph on this flat course is a race-risk, not a fitness win. Validate full race fueling (fluids, gels, solids) every 20-25 minutes and track what works. Note any back or foot discomfort post-bike-fit.",
+  "weekProgress": "Week 8 of 13 sits at 360 TSS of 750 target (48%) with today's 90-mile ride and tomorrow's 16-mile run still ahead -- the week is heavily back-loaded by design. Both sessions are scheduled and there's no reason you won't hit the target if you execute today and tomorrow as planned.",
+  "keyInsight": "This is the biggest week of the build and you're positioned to complete it -- today's 90-mile ride is the single longest bike exposure before race day, making pacing discipline and fueling validation critical.",
   "alerts": [
-    "Last Saturday's 75mi ride averaged 19.1mph vs 17mph target -- overpacing the bike risks the run, consistent with Oregon lessons",
-    "7-day sleep average is 82/100, but one night (Sep 10) scored 71 with only 39min REM and one night (Sep 8) showed 7.2h duration -- watch recovery heading into the peak weekend",
-    "One night (Sep 9) showed SpO2 of 89%, below 92% threshold -- may be night sweating artifact, but monitor if it repeats"
+    "Last night's sleep score dropped to 69/100 (6.0h duration) heading into the peak ride -- prioritize early bedtime tonight to support tomorrow's 16mi run recovery",
+    "Open-water sighting practice still owed from Friday's schedule conflict -- reschedule this weekend if possible"
   ],
   "positives": [
-    "Wednesday's 46.2mi brick was executed at 17.3mph (on-target pacing discipline) followed by a clean 60min brick run -- this is your closest Sacramento race-rehearsal execution yet",
-    "Last Sunday's 14mi long run was completed successfully at 2h24min with HR 146 -- a key hip test and your longest run to date",
-    "Yesterday's sleep scored 92/100 with 8.9h duration, 79min deep, and 136min REM -- excellent recovery timing before today's demanding open water session"
+    "Wednesday's 45mi brick executed at 17.3mph (on-target pacing) with clean 60min brick run -- textbook race-rehearsal discipline",
+    "Sunday's 14mi long run (TSS 160, HR 146) was your biggest run yet and completed without flagged hip issues -- a key checkpoint",
+    "Yesterday's swim over-delivered by 625yd beyond target, showing aerobic fitness depth heading into peak week"
   ],
-  "recoveryScore": 7,
-  "trainingLoadStatus": "Optimal",
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (overall 81/100, bike 83/100, run 84/100, recovery 84/100)",
-    "Garmin sleep data (7-day avg 82/100, SpO2 avg 92.6%)",
-    "Intervals.icu planned vs actual for last 7 days",
-    "Bike avg speed data from Sep 5 (19.1mph) and Sep 9 (17.3mph)"
+    "Readiness engine (bike 82/100, run 84/100, recovery 83/100)",
+    "7-day sleep avg 79/100 with last night at 69/100",
+    "Week 8 TSS tracking (360/750, back-loaded structure)",
+    "Last 7 days training log (14mi run, 45mi brick, 3 swims)",
+    "Wednesday brick avg speed 17.3mph vs 17mph target"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "8 weeks of build data with consistent scheduled vs actual comparisons, sleep tracking, and HR trends provide solid coaching visibility, though lack of structured HRV, nutrition log, and hip-pain tracking limit confidence in recovery and orthopedic risk assessment."
+    "reason": "Training log is complete and recent (7 days observed), sleep and HR data tracked, but no HRV, nutrition log, or hip-specific symptom tracking yet limits ability to predict recovery response to peak load."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, right hip) -- monitoring load associations with Sunday's 16mi test",
-    "Active race (Ironman California, 37 days out)",
-    "Walk/run protocol (9/1) validated in Wednesday brick",
-    "Prior race lesson: bike overpacing risks the run",
-    "Professional bike fit completed post-Oregon"
+    "Hip history (stable, cautious with run load escalation)",
+    "Bike fit completed post-Oregon (back/foot pain traced to position)",
+    "Bike pacing target 17mph (flat course, discipline over speed)",
+    "Walk/run 9/1 protocol on all runs",
+    "Peak week structure (Week 8 of 13)",
+    "IM California race date (36 days out)"
   ],
   "race_implications": [
-    "Wednesday's 17.3mph brick execution demonstrates you can hold race pace discipline under fatigue -- replicate this on Saturday's 90mi peak ride",
-    "Last Saturday's 19.1mph overpace is exactly the error that will cost you the run in Sacramento -- the 90mi ride is the final opportunity to prove you can stay at 17mph when it matters",
-    "Today's 2200m open water swim builds confidence for the 2.4mi (3862m) race swim, but you'll need at least one more sustained open water session before taper to validate full race-distance capability"
+    "Today's 90mi ride provides 80% race-distance exposure and is the final chance to validate bike fueling protocol under full load before taper",
+    "Pacing discipline today (holding 17mph) directly tests race-day restraint on a flat course where going too hard risks the run",
+    "Tomorrow's 16mi run on fatigued legs (after 90mi ride) simulates late-race run conditions and will reveal whether the bike fit solved the back/foot issues"
   ],
   "recommended_adjustments": [
-    "Saturday's 90mi peak ride: set a hard ceiling of 17.5mph avg and treat any speed above that as a failed pacing test, not a fitness win -- use a bike computer alert if needed",
-    "Prioritize 8+ hours sleep Friday and Saturday nights to support the peak weekend load -- the Sep 8 and Sep 10 nights showed marginal duration/quality",
-    "After Sunday's 16mi run, document hip/back/foot status in detail -- this is the final long run before taper and the last chance to surface any bike-fit or load issues that need addressing"
+    "Prioritize 8+ hours sleep tonight (post-90mi ride) to support Sunday's 16mi run recovery",
+    "Track fueling intake meticulously today: log what you consume, at what mile markers, and any GI response -- this is your dress rehearsal",
+    "Reschedule the owed open-water sighting practice for Sunday afternoon (post-long-run, light recovery swim) if logistics allow"
   ],
-  "generatedAt": "2026-09-11",
-  "daysToRace": 37,
+  "generatedAt": "2026-09-12",
+  "daysToRace": 36,
   "currentWeek": 8,
   "weekPhase": "Peak"
 }
