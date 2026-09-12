@@ -145,7 +145,7 @@ def discipline_score(disc, race_distance_miles):
 
     if disc == "swim":
         longest_m = max((a["distance"] for a in all_time), default=0)
-        longest_label = f"{round(longest_m)}m"
+        longest_label = f"{round(longest_m / 0.9144)}yd"
         exposure_actual_pct = 100 * longest_m / 1609.34 / (race_distance_miles) if race_distance_miles else 0
     else:
         longest_miles = max((a["distance"] * MILES_PER_METER for a in all_time), default=0)

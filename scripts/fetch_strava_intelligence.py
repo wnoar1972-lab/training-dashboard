@@ -193,7 +193,7 @@ for a in recent:
     facts = "\n".join([
         f"- Title: {a.get('name')}",
         f"- Discipline: {d}",
-        f"- Distance: {round(a.get('distance', 0) / 1609.34, 2)} miles" if d != "swim" else f"- Distance: {round(a.get('distance', 0))} meters",
+        f"- Distance: {round(a.get('distance', 0) / 1609.34, 2)} miles" if d != "swim" else f"- Distance: {round(a.get('distance', 0) / 0.9144)} yards",
         f"- Moving time: {round(a.get('moving_time', 0) / 60, 1)} minutes",
         f"- Relative effort (suffer score): {detail.get('suffer_score', 'not available')}",
         f"- Average heart rate: {detail.get('average_heartrate', 'not available')}",

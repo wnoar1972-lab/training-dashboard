@@ -16,7 +16,7 @@
       "planned": [
         {
           "disc": "swim",
-          "label": "Pool swim 2,500m",
+          "label": "Pool swim 2,725yd",
           "note": "4x100 steady"
         },
         {
@@ -41,7 +41,7 @@
       "planned": [
         {
           "disc": "swim",
-          "label": "Pool swim 2,500m",
+          "label": "Pool swim 2,725yd",
           "note": "race effort sets"
         }
       ]
@@ -66,7 +66,7 @@
       "planned": [
         {
           "disc": "swim",
-          "label": "Pool swim 1,500m",
+          "label": "Pool swim 1,650yd",
           "note": "easy aerobic only · replaces the old rest day"
         }
       ]
@@ -292,7 +292,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "aerobic · after Run Club"
           }
         ]
@@ -317,7 +317,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "4x100 at race pace · stay sharp"
           }
         ]
@@ -332,7 +332,7 @@
           },
           {
             "disc": "swim",
-            "label": "Open water 1,500m",
+            "label": "Open water 1,650yd",
             "note": "La Jolla Shores · aerobic"
           }
         ]
@@ -379,7 +379,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "4x100 at race pace · stay sharp"
           }
         ]
@@ -389,7 +389,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "easy · stay loose · no intensity"
           }
         ]
@@ -471,7 +471,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m easy",
+            "label": "Pool swim 2,175yd easy",
             "note": "light return to training"
           },
           {
@@ -543,7 +543,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "4x100 at race pace · stay sharp"
           },
           {
@@ -563,7 +563,7 @@
           },
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "easy aerobic · stay loose"
           }
         ]
@@ -594,7 +594,7 @@
           {
             "disc": "swim",
             "label": "Open water swim",
-            "note": "easy aerobic · La Jolla Shores · 1,500m · no intensity"
+            "note": "easy aerobic · La Jolla Shores · 1,650yd · no intensity"
           }
         ]
       },
@@ -615,7 +615,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "easy · 4x50 at race pace · last pool session"
           }
         ]
@@ -640,7 +640,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "OW swim 1,000m",
+            "label": "OW swim 1,100yd",
             "note": "easy open water · last swim before Oregon · confidence builder — DONE"
           }
         ]
@@ -851,7 +851,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "easy aerobic · 4x100 steady"
           },
           {
@@ -876,7 +876,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "easy aerobic · build frequency"
           },
           {
@@ -938,7 +938,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "4x100 at steady effort"
           },
           {
@@ -968,7 +968,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "4x100 steady · build endurance"
           },
           {
@@ -1030,7 +1030,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "4x200 at steady effort"
           },
           {
@@ -1060,7 +1060,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "4x200 steady · threshold introduced"
           },
           {
@@ -1122,7 +1122,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "4x200 threshold sets · traveling — likely skipped, no need to make up"
           },
           {
@@ -1152,7 +1152,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,200m",
+            "label": "Pool swim 3,500yd",
             "note": "threshold sets · traveling — likely skipped, no need to make up"
           },
           {
@@ -1209,7 +1209,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "easy aerobic only"
           },
           {
@@ -1224,7 +1224,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "easy aerobic"
           }
         ]
@@ -1244,7 +1244,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,000m",
+            "label": "Pool swim 1,100yd",
             "note": "very easy · new Friday swim slot, replaces rest this week only"
           }
         ]
@@ -1276,7 +1276,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,200m",
+            "label": "Pool swim 3,500yd",
             "note": "4x200 at race effort"
           },
           {
@@ -1316,7 +1316,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "4x200 race effort"
           }
         ]
@@ -1326,7 +1326,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "easy aerobic only · new light Friday swim"
           }
         ]
@@ -1358,7 +1358,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "threshold sets"
           },
           {
@@ -1398,7 +1398,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "easy aerobic only -- moved here from Wednesday this week only"
           }
         ]
@@ -1408,7 +1408,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,200m",
+            "label": "Pool swim 2,400yd",
             "note": "sustained swim, same distance/purpose as the open-water session -- moved to pool due to a scheduling conflict, open water sighting practice still owed and to be rescheduled this weekend if possible"
           }
         ]
@@ -1440,7 +1440,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "4x200 race effort"
           },
           {
@@ -1465,7 +1465,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 3,000m",
+            "label": "Pool swim 3,275yd",
             "note": "race effort sets"
           }
         ]
@@ -1490,7 +1490,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "easy aerobic only · new light Friday swim"
           }
         ]
@@ -1522,7 +1522,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "4x100 race pace"
           },
           {
@@ -1547,7 +1547,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,500m",
+            "label": "Pool swim 2,725yd",
             "note": "race pace sets"
           }
         ]
@@ -1572,7 +1572,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,200m",
+            "label": "Pool swim 1,300yd",
             "note": "easy aerobic only · new light Friday swim · step-down week"
           }
         ]
@@ -1604,7 +1604,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "4x100 race pace"
           },
           {
@@ -1629,7 +1629,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 2,000m",
+            "label": "Pool swim 2,175yd",
             "note": "race pace · feel fast"
           }
         ]
@@ -1649,7 +1649,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,000m",
+            "label": "Pool swim 1,100yd",
             "note": "very easy · new light Friday swim · taper"
           }
         ]
@@ -1659,7 +1659,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "OW swim easy 1,500m",
+            "label": "OW swim easy 1,650yd",
             "note": "La Jolla · easy aerobic"
           }
         ]
@@ -1696,7 +1696,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,500m",
+            "label": "Pool swim 1,650yd",
             "note": "4x50 at race pace · last quality swim"
           },
           {
@@ -1721,7 +1721,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool swim 1,000m easy",
+            "label": "Pool swim 1,100yd easy",
             "note": "shakeout swim"
           },
           {
@@ -1747,7 +1747,7 @@
           {
             "disc": "swim",
             "label": "Shakeout swim Sacramento River",
-            "note": "preview swim course · easy 800m · wetsuit check"
+            "note": "preview swim course · easy 875yd · wetsuit check"
           }
         ]
       },
@@ -1768,7 +1768,7 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Pool or OW swim 1,200m",
+            "label": "Pool or OW swim 1,300yd",
             "note": "easy · 4x50 at race pace · last swim"
           }
         ]
@@ -1794,7 +1794,7 @@
           {
             "disc": "swim",
             "label": "Sacramento River shakeout",
-            "note": "easy 800m · final open water · confidence builder"
+            "note": "easy 875yd · final open water · confidence builder"
           }
         ]
       },

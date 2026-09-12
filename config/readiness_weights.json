@@ -22,7 +22,7 @@
     "long_session_thresholds": {
       "bike_miles": 80,
       "run_miles": 13,
-      "swim_meters": 3000
+      "swim_yards": 3275
     }
   }
 }
