@@ -680,5 +680,27 @@
     "avgHR": 115.0,
     "distance": 2766.1,
     "duration": 3735.0
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Cycling",
+    "type": "Ride",
+    "disc": "bike",
+    "tss": 167.0,
+    "np": 0,
+    "avgHR": 118.0,
+    "distance": 145760.8,
+    "duration": 19789.0
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Morning Walk",
+    "type": "Walk",
+    "disc": "run",
+    "tss": 5.0,
+    "np": 0,
+    "avgHR": 83.0,
+    "distance": 2181.0,
+    "duration": 1309.0
   }
 ]

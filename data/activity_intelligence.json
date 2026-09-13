@@ -358,5 +358,23 @@
     "headline": "Strong negative split execution with a 7.5-minute improvement between miles shows excellent pacing control",
     "analysis": "You knocked 7 minutes and 36 seconds off between mile 1 (36:23) and mile 2 (28:36), demonstrating smart pacing strategy over this 3,025-yard session. Your heart rate stayed remarkably controlled throughout, holding steady at 114-115 bpm average with a max of just 130, which suggests you were working aerobically and building endurance rather than pushing threshold. That second mile at 28:36 pace came in well under your 30-day average of 37:47/mile, showing real efficiency when it mattered.",
     "relative_effort": 55.0
+  },
+  {
+    "strava_id": "20150861063",
+    "date": "2026-09-12",
+    "disc": "bike",
+    "title": "Morning Ride",
+    "headline": "Nearly 91 miles of controlled aerobic endurance with a textbook Zone 2 effort that netted you 45 PRs",
+    "analysis": "You held an impressive average heart rate of just 117.5 bpm across 5.5 hours of riding, staying well in the aerobic zone despite consistent 3-4 minute mile splits. The final 10 miles showed your strongest push with HR climbing from 127 to 132 bpm (miles 82-90), proving you had plenty left in the tank after 80 miles of disciplined pacing. That 33-minute mile 31 suggests a good refuel stop, and the effort clearly paid off with those segment PRs on SLR West and the River Trail section.",
+    "relative_effort": 192.0
+  },
+  {
+    "strava_id": "20160161758",
+    "date": "2026-09-13",
+    "disc": "run",
+    "title": "Morning Walk",
+    "headline": "Easy active recovery at 17:07/mile puts you firmly in Zone 1 rebuilding territory",
+    "analysis": "Your 89 bpm average heart rate and minimal 4.0 suffer score confirm this was pure recovery work, staying well below your typical 10:15/mile training pace. The first mile showed you settling in at 97 bpm before dropping to just 70 bpm in the second segment\u2014textbook low-intensity movement. This kind of gentle stimulus is exactly what helps adaptation without adding training stress.",
+    "relative_effort": 4.0
   }
 ]
