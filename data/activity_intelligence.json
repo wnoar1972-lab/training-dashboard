@@ -113,7 +113,7 @@
     "disc": "run",
     "title": "Morning Run",
     "headline": "Heart rate climbed steadily through a progressively slower 3-miler, suggesting fatigue accumulation",
-    "analysis": "Your pace degraded from 9:83 to 10:17 min/mi over the first three miles while your average heart rate climbed from 138 to 155 bpm\u2014a classic sign of accumulating fatigue rather than a controlled effort. At 10:00/mi average, you ran 16 seconds per mile slower than your 30-day average of 9:44/mi, yet still logged a relative effort of 84. That cadence of 82 spm is quite low for running; working toward 85-90+ steps per minute could help you maintain pace more efficiently when fatigue sets in.",
+    "analysis": "Your pace degraded from 9:50 to 10:17 min/mi over the first three miles while your average heart rate climbed from 138 to 155 bpm\u2014a classic sign of accumulating fatigue rather than a controlled effort. At 10:00/mi average, you ran 16 seconds per mile slower than your 30-day average of 9:44/mi, yet still logged a relative effort of 84. That cadence of 82 spm is quite low for running; working toward 85-90+ steps per minute could help you maintain pace more efficiently when fatigue sets in.",
     "relative_effort": 84.0
   },
   {
@@ -140,7 +140,7 @@
     "disc": "run",
     "title": "9 min run / 1 min walk",
     "headline": "Massive two-hour suffer fest with 406 effort points and a heart rate battle into the 180s",
-    "analysis": "That opening 29:72 mile told the story early\u2014this was about controlled pacing through structured run/walk intervals, keeping your average heart rate at 156 across 12 miles. The real work happened in the back half: miles 10-12 saw your HR climb dramatically from 166 to 180 bpm, showing serious fatigue management as you pushed through. At 10:06/mile average, you crushed your 30-day baseline of 9:47 pace while racking up over 6.5 hours worth of relative effort in just two hours.",
+    "analysis": "That opening 29:43 mile told the story early\u2014this was about controlled pacing through structured run/walk intervals, keeping your average heart rate at 156 across 12 miles. The real work happened in the back half: miles 10-12 saw your HR climb dramatically from 166 to 180 bpm, showing serious fatigue management as you pushed through. At 10:06/mile average, you crushed your 30-day baseline of 9:47 pace while racking up over 6.5 hours worth of relative effort in just two hours.",
     "relative_effort": 406.0
   },
   {
@@ -149,7 +149,7 @@
     "disc": "bike",
     "title": "ROUVY - IRONMAN 70.3 Florida 2021 40km",
     "headline": "Solid endurance pace through this IRONMAN 70.3 Florida simulation, but that cadence at 45 RPM needs urgent attention",
-    "analysis": "You maintained remarkably steady output through 24.7 miles with an average pace of 3:16/mi (faster than your 30-day average of 3:23/mi) and heart rate control that peaked at just 132 bpm. However, your average cadence of 45 RPM is critically low for efficient cycling\u2014aim for 80-90 RPM to reduce muscular fatigue and protect your legs for the run. The fade from miles 16-20 (slowing to 3:68/mi with dropping HR) suggests either terrain changes in the virtual course or early muscular fatigue, likely connected to that grinding cadence.",
+    "analysis": "You maintained remarkably steady output through 24.7 miles with an average pace of 3:16/mi (faster than your 30-day average of 3:23/mi) and heart rate control that peaked at just 132 bpm. However, your average cadence of 45 RPM is critically low for efficient cycling\u2014aim for 80-90 RPM to reduce muscular fatigue and protect your legs for the run. The fade from miles 16-20 (slowing to 3:41/mi with dropping HR) suggests either terrain changes in the virtual course or early muscular fatigue, likely connected to that grinding cadence.",
     "relative_effort": 43.0
   },
   {
@@ -158,7 +158,7 @@
     "disc": "run",
     "title": "Evening Run",
     "headline": "Textbook negative split execution with a 70-second drop from mile 1 to mile 2",
-    "analysis": "You turned a sluggish 10:68 first mile into a strong finish, holding 9:42 pace for both miles 2 and 4 while your heart rate climbed from 125 to 150 bpm\u2014that's controlled effort distribution. At 9:17/mi average, you're running 27 seconds faster than your 30-day baseline of 9:44/mi, and your 82.7 cadence suggests there's room to quicken your turnover. The suffer score of 76 confirms you put in real work without overreaching.",
+    "analysis": "You turned a sluggish 10:41 first mile into a strong finish, holding 9:42 pace for both miles 2 and 4 while your heart rate climbed from 125 to 150 bpm\u2014that's controlled effort distribution. At 9:17/mi average, you're running 27 seconds faster than your 30-day baseline of 9:44/mi, and your 82.7 cadence suggests there's room to quicken your turnover. The suffer score of 76 confirms you put in real work without overreaching.",
     "relative_effort": 76.0
   },
   {
@@ -194,7 +194,7 @@
     "disc": "bike",
     "title": "Morning Ride",
     "headline": "Steady zone 2 effort with notable mid-ride fade tells the story of this 90-minute base builder",
-    "analysis": "You maintained a solid average heart rate of 128 bpm across 25.87 miles, staying well within aerobic range with your max only hitting 147 bpm. The data reveals a strategic first half where you pushed the pace (miles 6-7 at 2:95 and 3:02 respectively, HR peaking at 137 bpm), but mile 21's dramatic 10+ minute split suggests either a traffic stop or mechanical issue that interrupted your rhythm. Your overall pace of 3:32/mile is slightly off your 30-day average of 3:26/mile, but the suffer score of 107 indicates you're building solid endurance without overreaching\u2014exactly what quality base miles should look like.",
+    "analysis": "You maintained a solid average heart rate of 128 bpm across 25.87 miles, staying well within aerobic range with your max only hitting 147 bpm. The data reveals a strategic first half where you pushed the pace (miles 6-7 at 2:57 and 3:02 respectively, HR peaking at 137 bpm), but mile 21's dramatic 10+ minute split suggests either a traffic stop or mechanical issue that interrupted your rhythm. Your overall pace of 3:32/mile is slightly off your 30-day average of 3:26/mile, but the suffer score of 107 indicates you're building solid endurance without overreaching\u2014exactly what quality base miles should look like.",
     "relative_effort": 107.0
   },
   {
@@ -293,7 +293,7 @@
     "disc": "run",
     "title": "Morning Run",
     "headline": "Solid 14-miler with disciplined pacing despite that mile 8 detour",
-    "analysis": "You held remarkably consistent 10:18-10:60 splits for most of this long run, right around your 30-day average pace of 9:43/mi, before that 14:47 minute eighth mile (pit stop?) temporarily spiked your heart rate to 149. What's impressive is how you recovered and maintained form through miles 9-13, even as your HR climbed into the low 150s, then finished strong with a 9:30 final mile. At 380 suffer score and 2.5 hours of moving time, this was a proper aerobic endurance builder.",
+    "analysis": "You held remarkably consistent 10:18-10:36 splits for most of this long run, right around your 30-day average pace of 9:43/mi, before that 14:47 minute eighth mile (pit stop?) temporarily spiked your heart rate to 149. What's impressive is how you recovered and maintained form through miles 9-13, even as your HR climbed into the low 150s, then finished strong with a 9:30 final mile. At 380 suffer score and 2.5 hours of moving time, this was a proper aerobic endurance builder.",
     "relative_effort": 380.0
   },
   {
@@ -302,7 +302,7 @@
     "disc": "swim",
     "title": "Lunch Swim",
     "headline": "Solid aerobic base work with 3,475 meters at controlled intensity",
-    "analysis": "You maintained excellent pacing discipline through this 82-minute session, averaging 37:73 and 38:17 for your first two miles\u2014right on your 30-day benchmark of 37:49/mile. Your heart rate management was textbook, hovering around 123 bpm average with consistent mile splits at 122-126 bpm before easing off in the final portion. That 124 suffer score tells me you found the sweet spot between aerobic adaptation and sustainable effort.",
+    "analysis": "You maintained excellent pacing discipline through this 82-minute session, averaging 37:44 and 38:17 for your first two miles\u2014right on your 30-day benchmark of 37:49/mile. Your heart rate management was textbook, hovering around 123 bpm average with consistent mile splits at 122-126 bpm before easing off in the final portion. That 124 suffer score tells me you found the sweet spot between aerobic adaptation and sustainable effort.",
     "relative_effort": 124.0
   },
   {
@@ -329,7 +329,7 @@
     "disc": "bike",
     "title": "Afternoon Ride",
     "headline": "Solid endurance builder with controlled effort across 46 miles and nearly three hours in the saddle",
-    "analysis": "You settled into a steady rhythm after an easy first mile (HR 91 bpm), then maintained remarkable consistency between 125-132 bpm for the bulk of this ride\u2014right in that aerobic sweet spot. Those two slower miles (11 and 28 at 6:88 and 7:10 respectively) suggest smart recovery valleys or terrain changes that kept your average HR at 127 bpm, well below your 152 max. At 3:29 average pace, you're tracking right on your 30-day baseline while banking serious aerobic time\u2014exactly what long ride days are for.",
+    "analysis": "You settled into a steady rhythm after an easy first mile (HR 91 bpm), then maintained remarkable consistency between 125-132 bpm for the bulk of this ride\u2014right in that aerobic sweet spot. Those two slower miles (11 and 28 at 6:53 and 7:10 respectively) suggest smart recovery valleys or terrain changes that kept your average HR at 127 bpm, well below your 152 max. At 3:29 average pace, you're tracking right on your 30-day baseline while banking serious aerobic time\u2014exactly what long ride days are for.",
     "relative_effort": 183.0
   },
   {
@@ -338,7 +338,7 @@
     "disc": "run",
     "title": "Evening Run",
     "headline": "That mile 4 split tells a story\u201414:48 suggests you hit the pause button or dealt with something mid-run",
-    "analysis": "Your hour-long effort shows solid aerobic control with your average heart rate at 145.6 and a fairly consistent pace around 10:00-10:30/mi for most miles, right in your typical 9:44/mi wheelhouse. However, mile 4's dramatic 14:48 split and the repeated \"Gotta pee, gotta pee!!!\" segment efforts paint a clear picture of an unplanned pit stop. The fact you bounced back to 9:83 in mile 5 with your HR climbing to 148 shows good resilience\u2014you didn't let the interruption derail the training stimulus.",
+    "analysis": "Your hour-long effort shows solid aerobic control with your average heart rate at 145.6 and a fairly consistent pace around 10:00-10:30/mi for most miles, right in your typical 9:44/mi wheelhouse. However, mile 4's dramatic 14:48 split and the repeated \"Gotta pee, gotta pee!!!\" segment efforts paint a clear picture of an unplanned pit stop. The fact you bounced back to 9:50 in mile 5 with your HR climbing to 148 shows good resilience\u2014you didn't let the interruption derail the training stimulus.",
     "relative_effort": 156.0
   },
   {
@@ -383,7 +383,7 @@
     "disc": "run",
     "title": "Afternoon Run",
     "headline": "A tale of two halves: 16-miler wobbled through the middle before rallying home",
-    "analysis": "You started conservatively with a 12:53 opener and settled into a steady 10:07-10:85 pace through mile 8, but miles 11-12 and 14 saw significant slowdowns (13:52, 15:97, and 15:67) that pushed your overall average to 10:08/mi\u2014just off your 30-day baseline of 10:14/mi despite the struggle. The good news? You regrouped with sub-11:00 splits for miles 10, 13, and 16, showing mental toughness to fight back rather than pack it in. At 398 suffer score and 144 bpm average across 2h44m, this was a solid aerobic builder\u2014now let's figure out what caused those mid-run valleys for next time.",
+    "analysis": "You started conservatively with a 12:53 opener and settled into a steady 10:07-10:51 pace through mile 8, but miles 11-12 and 14 saw significant slowdowns (13:52, 15:58, and 15:40) that pushed your overall average to 10:08/mi\u2014just off your 30-day baseline of 10:14/mi despite the struggle. The good news? You regrouped with sub-11:00 splits for miles 10, 13, and 16, showing mental toughness to fight back rather than pack it in. At 398 suffer score and 144 bpm average across 2h44m, this was a solid aerobic builder\u2014now let's figure out what caused those mid-run valleys for next time.",
     "relative_effort": 398.0
   }
 ]
