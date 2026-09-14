@@ -228,6 +228,19 @@ if yesterday_acts:
 else:
     yesterday_summary = f"- Rest day (no activities logged) | Scheduled that day: {scheduled_for(yesterday)}"
 
+# Today's planned session may already be completed by the time this runs --
+# e.g. a morning workout logged before a later same-day sync, or a manual
+# sync triggered in the evening. Without this, todayRecommendation always
+# describes the planned session as upcoming even when it's already done.
+today_str = TODAY.strftime("%Y-%m-%d")
+today_acts = [a for a in activities if a["date"] == today_str]
+today_completed_summary = ""
+if today_acts:
+    for a in today_acts:
+        today_completed_summary += f"- {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | Distance: {format_distance(a)} | Duration: {format_duration(a)}{speed_field(a)}\n"
+else:
+    today_completed_summary = "- Nothing logged yet today"
+
 last7_summary = ""
 for a in sorted(last7_acts, key=lambda x: x["date"], reverse=True):
     last7_summary += f"- {a['date']} | {a['title']} ({a['disc']}) | TSS: {a['tss']} | HR: {a['avgHR']} | {format_distance(a)} | Duration: {format_duration(a)}{speed_field(a)} | Scheduled that day: {scheduled_for(a['date'])}\n"
@@ -262,6 +275,9 @@ CURRENT TRAINING STATUS:
 - Total bike TSS: {total_bike_tss}
 - Brick workouts completed: {len(brick_days)} (dates: {', '.join(brick_days) if brick_days else 'none yet'})
 
+TODAY'S ACTIVITY LOG SO FAR ({today_str}) -- this sync may be running after today's session was already completed (e.g. a morning workout, or a manual sync triggered later in the day):
+{today_completed_summary}
+
 YESTERDAY'S WORKOUT ({yesterday}):
 {yesterday_summary}
 
@@ -275,6 +291,8 @@ LAST 7 NIGHTS SLEEP:
 Nights below 92% SpO2: {low_spo2_nights} (note: may be affected by night sweating)
 
 When writing todayRecommendation, base it on the TODAY planned session listed above -- do not assume a different workout. Never invent data that isn't provided above; if evidence is thin, say so directly in confidence.reason rather than filling the gap with a guess.
+
+IMPORTANT -- today's session may already be done: check TODAY'S ACTIVITY LOG SO FAR before writing todayRecommendation. If it shows an activity matching today's planned discipline(s), that session is ALREADY COMPLETE -- grade it (like you would in YESTERDAY'S WORKOUT) rather than describing it as upcoming or telling the athlete to go do it. In that case, todayRecommendation should cover recovery from what was just done and/or a brief look ahead to the next scheduled session. Only describe today's planned session as upcoming/not-yet-done when TODAY'S ACTIVITY LOG SO FAR is empty.
 
 IMPORTANT -- grading past days: "This week's schedule" and the current week's TSS target above apply ONLY to the CURRENT week (Week {current_week}). Entries in YESTERDAY'S WORKOUT and LAST 7 DAYS OF TRAINING each carry their own "Scheduled that day" label -- a day may fall in a DIFFERENT build week (e.g. a recovery week) with completely different targets than the current week. Always grade a completed activity against ITS OWN "Scheduled that day" label, never against the current week's Saturday/Thursday/etc. targets if that activity happened on a different date in a different week. Do not describe a past easy/recovery session as "missing" or "shortened" relative to a big session (like a peak-week long ride) that is scheduled for a later date and has not happened yet.
 
@@ -338,7 +356,10 @@ def fallback_analysis(reason):
         "overallStatus": "On Track",
         "statusColor": "green",
         "yesterdayAnalysis": "Analysis temporarily unavailable -- check back tomorrow.",
-        "todayRecommendation": f"Follow today's scheduled session: {today_planned}.",
+        "todayRecommendation": (
+            f"Today's session already logged: {today_completed_summary.strip()}"
+            if today_acts else f"Follow today's scheduled session: {today_planned}."
+        ),
         "weekProgress": f"Week {current_week} of {RACE.get('build', {}).get('total_weeks', 13)} -- {week_actual} of {week_target} TSS ({week_pct}% complete).",
         "keyInsight": f"{overall.get('daysToRace', '?')} days to {RACE.get('name', 'race day')}.",
         "alerts": [reason],
