@@ -376,5 +376,14 @@
     "headline": "Easy active recovery at 17:07/mile puts you firmly in Zone 1 rebuilding territory",
     "analysis": "Your 89 bpm average heart rate and minimal 4.0 suffer score confirm this was pure recovery work, staying well below your typical 10:15/mile training pace. The first mile showed you settling in at 97 bpm before dropping to just 70 bpm in the second segment\u2014textbook low-intensity movement. This kind of gentle stimulus is exactly what helps adaptation without adding training stress.",
     "relative_effort": 4.0
+  },
+  {
+    "strava_id": "20165385684",
+    "date": "2026-09-13",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "A tale of two halves: 16-miler wobbled through the middle before rallying home",
+    "analysis": "You started conservatively with a 12:53 opener and settled into a steady 10:07-10:85 pace through mile 8, but miles 11-12 and 14 saw significant slowdowns (13:52, 15:97, and 15:67) that pushed your overall average to 10:08/mi\u2014just off your 30-day baseline of 10:14/mi despite the struggle. The good news? You regrouped with sub-11:00 splits for miles 10, 13, and 16, showing mental toughness to fight back rather than pack it in. At 398 suffer score and 144 bpm average across 2h44m, this was a solid aerobic builder\u2014now let's figure out what caused those mid-run valleys for next time.",
+    "relative_effort": 398.0
   }
 ]

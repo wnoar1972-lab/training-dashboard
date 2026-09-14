@@ -1,50 +1,48 @@
 {
   "date": "September 13, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Yesterday's 90.6mi peak ride hit the planned volume target perfectly and stayed within acceptable intensity (TSS 167, HR 118). However, the 16.5mph average speed fell 0.5mph short of the 17mph target -- on a flat course, this is below race pace and needs investigation (fatigue, wind, fueling issues, or mechanical). Not a pacing-discipline red flag (that's riding too fast), but it's a performance gap worth diagnosing.",
-  "todayRecommendation": "Today's planned 16-mile long run was replaced by a 1.4-mile morning walk (21min, TSS 5). You need to address this directly: if the run was pulled due to hip pain, back issues, or post-ride fatigue, that's a significant readiness flag 35 days out. If it was a scheduling conflict or illness, reschedule immediately -- this was the second-to-last build-up run and critical for race-day durability.",
-  "weekProgress": "Week 8 of 13 sits at 532 TSS of 750 target (71%), but today's missing 16-mile run (likely ~100 TSS) leaves the week significantly short at ~532 TSS total. The peak volume week failed to deliver peak volume -- this is a problem for Ironman readiness, not just a scheduling miss.",
-  "keyInsight": "The 16-mile long run was not completed -- only a 1.4-mile walk was logged -- and with 35 days to race, skipping the second-to-last build-up run is a serious gap in run durability preparation.",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "90.6mi peak ride completed at 16.5mph avg in 5h29m, delivering 167 TSS. Pace was 0.5mph under the 17mph target -- exactly the discipline needed on a flat course where holding back protects the run. This is the largest single ride of the build, executed with proper pacing restraint.",
+  "todayRecommendation": "Long run 16mi at walk/run 9/1 protocol -- this is the second-to-last build-up run and the largest test of hip tolerance under long duration since Oregon. Track hip/back/foot symptoms carefully mile-by-mile, and validate run nutrition timing every 20-25 minutes as planned for race day.",
+  "weekProgress": "Week 8 of 13 delivered 706 TSS of 750 target (94% complete). Today's 16mi run will close the gap. Peak volume week executed as designed: Wednesday 45mi brick, Saturday 90mi peak ride, and Sunday long run all hit their marks.",
+  "keyInsight": "Peak ride pacing discipline was correct (16.5mph vs 17mph target) -- this athlete is learning the hard lesson from Oregon that restraint on the bike protects the run.",
   "alerts": [
-    "16-mile long run not completed -- only 1.4mi walk logged",
-    "Week 8 peak volume target (750 TSS) will not be met -- currently 532 TSS",
-    "Run readiness score is already the weakest discipline (70/100) -- missing long runs compounds this",
-    "Sleep score dropped to 69/100 after yesterday's long ride (6.0h duration)"
+    "7-day avg sleep score is 74/100 (readiness engine flags recovery at 84/100) -- two nights this week scored 69-73, limiting adaptation during peak volume",
+    "Open-water sighting practice still owed from Friday's pool substitution -- needs to be rescheduled this weekend if possible"
   ],
   "positives": [
-    "90.6-mile peak ride completed as scheduled -- largest single ride volume of the build delivered",
-    "7 brick workouts completed to date -- run-off-bike practice is being prioritized",
-    "Bike readiness remains at 100/100 with 803 TSS in last 28 days vs. 802 expected"
+    "Peak ride 90.6mi completed with proper pacing restraint (16.5mph avg vs 17mph target)",
+    "Wednesday brick executed exactly as scheduled: 46.2mi at 17.3mph + 60min brick run",
+    "Swim volume exceeded targets all three sessions this week (3800yd vs 3275yd, 1700yd vs 1650yd, 3025yd vs 2400yd)"
   ],
-  "recoveryScore": 5,
+  "recoveryScore": 6,
   "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine (run 70/100, recovery 84/100)",
-    "Garmin sleep (7-day avg 78/100, last night 69/100 with 6.0h duration)",
-    "Intervals.icu planned vs actual (16mi run scheduled, 1.4mi walk logged)",
-    "Weekly TSS tracker (532 of 750 target)"
+    "Readiness engine (overall 90/100, recovery 84/100)",
+    "Garmin sleep data (7-day avg 74/100)",
+    "Intervals.icu planned vs actual (706 TSS of 750 target)",
+    "Bike avg speed data (16.5mph on 90mi ride vs 17mph pacing target)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "The data is complete and unambiguous -- the planned 16-mile run did not happen, and the peak volume week is ending well short of target with no HRV or subjective fatigue notes to explain whether this was a forced rest or a scheduling miss."
+    "reason": "Week 8 of 13 with complete data across all three disciplines, sleep tracking, and readiness engine scores -- sufficient history to assess peak-week execution and pacing discipline trends."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes disease) -- missing long run may indicate pain issue",
-    "Walk/run protocol (9min/1min) -- prescribed for all runs",
-    "35 days to Ironman California",
-    "Run fade at Oregon 70.3 traced to nutrition and bike-position issues",
-    "Run is already the weakest discipline (70/100 readiness)"
+    "Hip history (Perthes disease, right hip -- today's 16mi run is the largest test of tolerance)",
+    "Walk/run 9/1 protocol",
+    "Oregon 70.3 lesson: bike position and run nutrition gaps caused fade",
+    "Bike pacing target 17mph (flat course discipline)",
+    "Active race (Sacramento IM 35 days out)"
   ],
   "race_implications": [
-    "Missing the second-to-last long run creates a meaningful gap in run durability -- the race requires 26.2mi, and peak training distance appears to be stalling below that",
-    "If this was pulled due to hip or back pain, the bike position fix from the professional fit may not be fully validated under race-like cumulative load",
-    "Run readiness (70/100) is already the limiter -- skipping build-up runs will not improve that score or race-day confidence"
+    "Peak ride pacing discipline (16.5mph) demonstrates the athlete is internalizing the Oregon lesson -- critical for protecting the marathon at Sacramento",
+    "Today's 16mi run will validate hip tolerance under long duration post-peak-ride -- watch for any pain patterns that signal bike fit or stacking issues",
+    "Sleep debt during peak week (74/100 avg) may limit full adaptation to this volume block -- taper will need to prioritize recovery"
   ],
   "recommended_adjustments": [
-    "Explain why the 16-mile run was not completed -- if pain-related, document specifics (hip, back, foot) and consider whether the bike fit needs further adjustment; if scheduling/illness, reschedule a 14-16mi run within the next 5 days",
-    "Prioritize sleep recovery this week -- 6.0h after a 90-mile ride is inadequate, especially heading into taper",
-    "Do not skip any remaining scheduled long runs -- with 5 weeks to race, every remaining long session is non-negotiable for Ironman readiness"
+    "Prioritize 8+ hour sleep opportunities over the next 7 days as taper begins -- two sub-7h nights this week (6.0h, 7.1h) cut into recovery during peak volume",
+    "Schedule open-water sighting practice this weekend to fulfill Friday's missed session -- race is 35 days out and OWS skill refresh is overdue",
+    "Track hip/back/foot symptoms mile-by-mile on today's 16mi run and compare to any bike-position associations from yesterday's 90mi ride"
   ],
   "generatedAt": "2026-09-13",
   "daysToRace": 35,

@@ -4,7 +4,7 @@
   "race_type": "full_distance_triathlon",
   "current_week": 8,
   "total_weeks": 13,
-  "overall_score": 87,
+  "overall_score": 90,
   "overall_status": "Strong",
   "overall_confidence": "moderate",
   "strongest_positive_factor": "bike (100/100): Volume: 803 TSS in the last 28 days vs. an expected ~802 (blended across each week's own target in that window).",
@@ -42,14 +42,14 @@
       "confidence": "moderate"
     },
     "run": {
-      "score": 70,
+      "score": 82,
       "status": "On track",
-      "top_factor": "Volume: 821 TSS in the last 28 days vs. an expected ~1137 (blended across each week's own target in that window).",
-      "top_limiter": "Race-distance exposure: longest run session is 14.0mi (54% of race distance).",
+      "top_factor": "Volume: 995 TSS in the last 28 days vs. an expected ~1137 (blended across each week's own target in that window).",
+      "top_limiter": "Race-distance exposure: longest run session is 16.2mi (62% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer run sessions (already on the schedule) will directly raise this score.",
       "trend": "stable",
       "evidence_window_days": 28,
-      "sessions_in_window": 13,
+      "sessions_in_window": 14,
       "weeks_observed": 8,
       "confidence": "moderate"
     },

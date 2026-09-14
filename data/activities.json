@@ -694,6 +694,17 @@
   },
   {
     "date": "2026-09-13",
+    "title": "San Diego Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 174.0,
+    "np": 0,
+    "avgHR": 143.0,
+    "distance": 26110.9,
+    "duration": 9834.0
+  },
+  {
+    "date": "2026-09-13",
     "title": "Morning Walk",
     "type": "Walk",
     "disc": "run",
