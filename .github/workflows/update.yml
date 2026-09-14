@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/update.yml']
+    paths: ['.github/workflows/update.yml'] # re-trigger for the hallucination fix
 
 jobs:
   update-dashboard:
