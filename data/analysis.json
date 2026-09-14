@@ -1,44 +1,52 @@
 {
-  "date": "September 13, 2026",
+  "date": "September 14, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Saturday's 90.6mi peak ride delivered 167 TSS in 5h29m at 16.5mph avg -- exactly where it needed to be for pacing discipline, just under the 17mph race target, and the single biggest ride of the build to date. HR 118 held steady across the full duration. This was the volume anchor for peak week and it's complete.",
-  "todayRecommendation": "Today's 16mi long run is already done: 16.2mi in 2h43m (174 TSS, HR 143). That's 10:04/mi average including walk breaks -- right in the race-pace window. Now prioritize recovery: sleep, hydration, compression, and watch for any hip or foot pain in the next 24-48 hours. Peak week is complete.",
-  "weekProgress": "Week 8 of 13 is complete at 706 of 750 target TSS (94%). The peak volume anchor rides (Wednesday 45mi brick, Saturday 90mi) and today's 16mi run all landed as scheduled. This was the biggest week of the build and you executed it.",
-  "keyInsight": "Peak week delivered both the 90mi ride and 16mi run back-to-back without falling apart -- this is the most race-relevant fatigue test of the build and you held pace discipline on both.",
-  "alerts": [],
-  "positives": [
-    "Saturday's 90.6mi peak ride held 16.5mph avg -- under the 17mph race target, exactly the pacing discipline Sacramento requires",
-    "Today's 16.2mi run at 10:04/mi avg (including walks) landed in the race-pace window after a 90mi ride yesterday",
-    "7 brick workouts completed through the build, including Wednesday's 45mi + 60min race-rehearsal effort"
+  "yesterdayAnalysis": "Yesterday's 16.2mi long run hit the 16mi target perfectly and is the second-longest run of the entire build -- exactly what Week 8 called for. HR averaged 143 and the walk/run protocol was in place. This was a critical hip-load test before this week's 18mi peak run; no pain or mobility issues were noted in the data, which is a green light for the final build-up.",
+  "todayRecommendation": "Today's 3,275yd pool swim with 4x200 race-effort sets is scheduled and not yet logged. The easy run was intentionally dropped this week to give the hip extra recovery after yesterday's 16mi and before Wednesday's brick and the weekend's 95mi/18mi peak sessions -- that's the right call. Execute the swim as planned, then prioritize sleep and nutrition.",
+  "weekProgress": "Week 9 of 13: 0 of 710 TSS complete (0%). This is Monday of a peak week where TSS is heavily back-loaded to Saturday's 95mi ride (~5.6hrs, the true peak of the entire build) and Sunday's 18mi peak long run. The schedule is intentionally front-loaded with recovery-conscious decisions (no easy run today) to keep the hip fresh for the weekend.",
+  "keyInsight": "This is the peak week of the build -- Saturday's 95mi ride and Sunday's 18mi run will determine if you are physiologically ready for Sacramento's bike and run demands.",
+  "alerts": [
+    "Sleep score 7-day avg is 79/100 -- improved from the prior week's 74/100, but still below 80. Four of seven nights scored under 80, and one night (Sep 12) was only 6.0h after a 90mi ride. Recovery capacity for this week's peak sessions depends on getting back to 8+ hours consistently.",
+    "Saturday's 90mi ride (Sep 12) was ridden at 16.5mph avg -- slightly under the 17mph target, but the bigger issue is that it came in 5.5mi short of the 95mi peak target scheduled for this week (Week 9). That ride was Week 8's long ride, and it hit its own 90mi target, so no issue there -- but this week's 95mi ride on Saturday is the real test."
   ],
-  "recoveryScore": 6,
-  "trainingLoadStatus": "Fatigued",
+  "positives": [
+    "Yesterday's 16.2mi long run nailed the 16mi target with no hip pain noted -- the second-longest run of the build and a critical load test passed.",
+    "Saturday's 90mi ride (Sep 12) delivered 167 TSS at 16.5mph avg and stayed disciplined just under the 17mph pacing target -- no overpacing red flags, and the fueling rehearsal was executed.",
+    "Last week's brick (Sep 9) and long ride (Sep 12) both hit their targets without mechanical issues or position-related pain -- the bike fit is holding up under race-simulation load."
+  ],
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (recovery 84/100, run 82/100, bike 100/100)",
-    "7-day avg sleep score 78/100 (74/100 per readiness note, using local calc 78)",
-    "Peak week TSS 706 of 750 (94%)",
-    "Yesterday 90.6mi at 16.5mph avg",
-    "Today 16.2mi at 10:04/mi avg (HR 143)"
+    "Readiness engine (overall 87/100, run 78/100, recovery 83/100)",
+    "Garmin sleep (7-day avg 79/100, one night at 6.0h, four nights under 80)",
+    "Yesterday's 16.2mi run vs 16mi scheduled (Week 8 long run)",
+    "Saturday's 90.6mi ride at 16.5mph avg vs 90mi target (Week 8 peak ride)",
+    "Week 9 TSS 0 of 710 (0%) with peak sessions Saturday/Sunday"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Week 8 of 13 build with complete data on all scheduled peak-week sessions (90mi ride, 16mi run, midweek brick), sleep tracking across 7 nights, and readiness scores across all three disciplines -- no gaps in critical metrics for this peak volume week."
+    "reason": "Full swim/bike/run activity data for the last 7 days, sleep scores tracked nightly, and readiness engine providing multi-dimensional scoring. No HRV or structured nutrition log, but load and recovery patterns are clear."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes) -- 16mi run back-to-back with 90mi ride is the longest consecutive-day load of the build, watch for pain associations",
-    "Walk/run 9:1 protocol confirmed in today's 16.2mi execution",
-    "Active race IM California 2026-10-18 (35 days out)",
-    "Bike pacing discipline (17mph target) validated in yesterday's 16.5mph avg on peak ride"
+    "Hip history (Perthes, right hip) -- yesterday's 16mi run was a critical load test",
+    "Walk/run 9/1 protocol in place on yesterday's long run",
+    "Peak week (Week 9 of 13) with 95mi ride and 18mi run scheduled",
+    "Bike pacing discipline (17mph target, flat course strategy)",
+    "Age 54, 34 days to Ironman California"
   ],
   "race_implications": [
-    "Peak week complete 35 days out -- the taper starts next week and this athlete has demonstrated the bike volume and run endurance required for race day",
-    "Bike pacing discipline held at 16.5mph on the longest ride -- if this same restraint carries to race day, the run will have the legs it needs",
-    "Back-to-back 90mi + 16mi execution without reported pain or fade validates readiness for the Sacramento bike-to-run transition under fatigue"
+    "If the hip tolerates Sunday's 18mi peak run with no pain or mobility issues, you will have proven you can handle Sacramento's marathon distance under fatigue.",
+    "Saturday's 95mi ride at 17mph is the longest single ride of the build -- it will validate both bike position and fueling strategy under race-duration load.",
+    "Sleep quality this week directly affects your ability to execute and recover from the two biggest sessions of the entire 13-week build."
   ],
-  "recommended_adjustments": [],
-  "generatedAt": "2026-09-13",
-  "daysToRace": 35,
-  "currentWeek": 8,
+  "recommended_adjustments": [
+    "Prioritize 8+ hours of sleep every night this week, especially Tuesday, Thursday, and Friday nights before the weekend peak sessions.",
+    "On Saturday's 95mi ride, hold 17mph avg or slightly under -- do not let race-week excitement push you over target pace.",
+    "After Sunday's 18mi run, document any hip, back, or foot pain immediately and in detail -- this is the final long-run data point before the taper."
+  ],
+  "generatedAt": "2026-09-14",
+  "daysToRace": 34,
+  "currentWeek": 9,
   "weekPhase": "Peak"
 }
