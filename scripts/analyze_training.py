@@ -290,7 +290,9 @@ LAST 7 NIGHTS SLEEP:
 7-day avg SpO2: {avg_spo2}%
 Nights below 92% SpO2: {low_spo2_nights} (note: may be affected by night sweating)
 
-When writing todayRecommendation, base it on the TODAY planned session listed above -- do not assume a different workout. Never invent data that isn't provided above; if evidence is thin, say so directly in confidence.reason rather than filling the gap with a guess.
+When writing todayRecommendation, base it on the TODAY planned session listed above -- do not assume a different workout.
+
+IMPORTANT -- never invent numbers: every numeric figure you write anywhere in this response (TSS totals, percentages, distances, paces, targets) must come directly from the data provided above. Never recompute, round differently, or restate a figure as something other than what was given -- e.g. if "Week TSS so far" gives an actual/target/percentage, use those exact numbers everywhere you reference them in the response, don't derive a different total or percentage. If evidence is thin or a number isn't provided, say so directly in confidence.reason rather than filling the gap with a guess or a plausible-sounding invented figure.
 
 IMPORTANT -- today's session may already be done: check TODAY'S ACTIVITY LOG SO FAR before writing todayRecommendation. If it shows an activity matching today's planned discipline(s), that session is ALREADY COMPLETE -- grade it (like you would in YESTERDAY'S WORKOUT) rather than describing it as upcoming or telling the athlete to go do it. In that case, todayRecommendation should cover recovery from what was just done and/or a brief look ahead to the next scheduled session. Only describe today's planned session as upcoming/not-yet-done when TODAY'S ACTIVITY LOG SO FAR is empty.
 
@@ -310,7 +312,7 @@ Please provide a structured daily coaching analysis in JSON format with exactly 
   "statusColor": "one of: green / yellow / red / blue",
   "yesterdayAnalysis": "2-3 sentences analyzing yesterday's workout",
   "todayRecommendation": "1-2 sentences on what today's training should focus on",
-  "weekProgress": "1-2 sentences on how the week is tracking vs targets. Always describe the current week as 'Week {current_week} of {RACE.get('build', {}).get('total_weeks', 13)}'.",
+  "weekProgress": "1-2 sentences on how the week is tracking vs targets. Always describe the current week as 'Week {current_week} of {RACE.get('build', {}).get('total_weeks', 13)}'. Use the EXACT 'Week TSS so far' figures from CURRENT TRAINING STATUS above ({week_actual} of {week_target}, {week_pct}%) -- never recompute or restate these as different numbers.",
   "keyInsight": "1 sentence -- the single most important coaching observation right now",
   "alerts": ["array of short alert strings if anything needs attention -- empty array if all good"],
   "positives": ["array of 2-3 short positive observations from recent training"],
