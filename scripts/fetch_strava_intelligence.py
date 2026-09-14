@@ -119,12 +119,24 @@ def rolling_avg_pace_min_per_mi(d):
     return round(sum(paces) / len(paces), 2) if paces else None
 
 
-def fmt_pace(min_per_mi):
-    if min_per_mi is None:
+def fmt_minsec(total_minutes):
+    """Convert decimal minutes (e.g. 15.97) to M:SS (e.g. 15:58). Feeding the
+    model a raw decimal-minutes number invites it to misread the fractional
+    digits as literal seconds (15.97 -> "15:97", an impossible pace) -- doing
+    the conversion here removes that ambiguity entirely."""
+    if total_minutes is None:
         return None
-    m = int(min_per_mi)
-    s = round((min_per_mi - m) * 60)
-    return f"{m}:{s:02d}/mi"
+    m = int(total_minutes)
+    s = round((total_minutes - m) * 60)
+    if s == 60:
+        m += 1
+        s = 0
+    return f"{m}:{s:02d}"
+
+
+def fmt_pace(min_per_mi):
+    ms = fmt_minsec(min_per_mi)
+    return f"{ms}/mi" if ms else None
 
 
 # ── CLAUDE CALL (same pattern as analyze_training.py) ────────────────────────
@@ -180,7 +192,7 @@ for a in recent:
 
     splits = detail.get("splits_standard") or []
     split_lines = [
-        f"  mile {s.get('split')}: {round(s.get('elapsed_time', 0) / 60, 2)} min, avg HR {s.get('average_heartrate', '—')}"
+        f"  mile {s.get('split')}: {fmt_minsec(s.get('elapsed_time', 0) / 60)} min/mi, avg HR {s.get('average_heartrate', '—')}"
         for s in splits
     ]
     segments = detail.get("segment_efforts") or []
