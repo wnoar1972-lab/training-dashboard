@@ -713,5 +713,16 @@
     "avgHR": 83.0,
     "distance": 2181.0,
     "duration": 1309.0
+  },
+  {
+    "date": "2026-09-14",
+    "title": "San Diego Open Water Swimming",
+    "type": "OpenWate",
+    "disc": "swim",
+    "tss": 33.0,
+    "np": 0,
+    "avgHR": 0,
+    "distance": 1949.5,
+    "duration": 3272.0
   }
 ]
