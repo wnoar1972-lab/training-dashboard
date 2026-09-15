@@ -119,6 +119,16 @@ def rolling_avg_pace_min_per_mi(d):
     return round(sum(paces) / len(paces), 2) if paces else None
 
 
+def rolling_avg_pace_per_100yd():
+    """Swim pace convention is per-100yd, not per-mile -- a mile of pool
+    swimming is a meaningless training reference point for this athlete."""
+    acts = [a for a in activities_log if a["disc"] == "swim" and a["date"] >= window_start and a.get("distance") and a.get("duration")]
+    if not acts:
+        return None
+    paces = [(a["duration"] / 60) / (a["distance"] / 0.9144 / 100) for a in acts if a["distance"] > 0]
+    return round(sum(paces) / len(paces), 2) if paces else None
+
+
 def fmt_minsec(total_minutes):
     """Convert decimal minutes (e.g. 15.97) to M:SS (e.g. 15:58). Feeding the
     model a raw decimal-minutes number invites it to misread the fractional
@@ -134,14 +144,16 @@ def fmt_minsec(total_minutes):
     return f"{m}:{s:02d}"
 
 
-def fmt_pace(min_per_mi):
-    ms = fmt_minsec(min_per_mi)
-    return f"{ms}/mi" if ms else None
+def fmt_pace(min_per_unit, suffix="/mi"):
+    ms = fmt_minsec(min_per_unit)
+    return f"{ms}{suffix}" if ms else None
 
 
 # ── CLAUDE CALL (same pattern as analyze_training.py) ────────────────────────
 def generate_writeup(facts_text):
     prompt = f"""You are generating a short "Activity Intelligence" write-up for a triathlete's workout, in the same spirit as Strava's own AI activity summaries: a bold one-sentence headline, then a short 2-3 sentence paragraph of specific, data-driven analysis. Encouraging coach voice, not generic praise -- reference the actual numbers given.
+
+IMPORTANT: only use the units and terms actually present in the data below -- never convert or restate a figure in a different unit than given (e.g. never describe a swim in "per mile" pace or "miles" -- swim distance is in yards and pace is per 100yd; never invent "mile splits" for a swim, since none are provided).
 
 Activity data:
 {facts_text}
@@ -190,18 +202,33 @@ for a in recent:
         print(f"  Skipping {sid} ({a.get('name')}) -- detail fetch failed: {e}")
         continue
 
-    splits = detail.get("splits_standard") or []
-    split_lines = [
-        f"  mile {s.get('split')}: {fmt_minsec(s.get('elapsed_time', 0) / 60)} min/mi, avg HR {s.get('average_heartrate', '—')}"
-        for s in splits
-    ]
-    segments = detail.get("segment_efforts") or []
-    segment_lines = [
-        f"  {seg.get('name')}: {seg.get('elapsed_time')}s"
-        for seg in segments[:5]
-    ]
+    if d == "swim":
+        # Strava's GPS-based mile splits and route segments are unreliable
+        # for an indoor pool swim (no real GPS track) -- the mile-marker
+        # splits/segments have previously produced nonsense like a "mile"
+        # taking 49 minutes then the next taking 12. Omit them rather than
+        # feed the model data that will mislead it into run-style "per mile"
+        # commentary for a pool swim.
+        split_lines = []
+        segment_lines = []
+        avg_pace = rolling_avg_pace_per_100yd()
+        pace_fact = f"- Athlete's 30-day average pace for swim: {fmt_pace(avg_pace, '/100yd') or 'not enough data'}"
+        cadence_fact = f"- Average stroke rate: {detail.get('average_cadence', 'not available')} (strokes/min)"
+    else:
+        splits = detail.get("splits_standard") or []
+        split_lines = [
+            f"  mile {s.get('split')}: {fmt_minsec(s.get('elapsed_time', 0) / 60)} min/mi, avg HR {s.get('average_heartrate', '—')}"
+            for s in splits
+        ]
+        segments = detail.get("segment_efforts") or []
+        segment_lines = [
+            f"  {seg.get('name')}: {seg.get('elapsed_time')}s"
+            for seg in segments[:5]
+        ]
+        avg_pace = rolling_avg_pace_min_per_mi(d)
+        pace_fact = f"- Athlete's 30-day average pace for {d}: {fmt_pace(avg_pace) or 'not enough data'}"
+        cadence_fact = f"- Average {'pedal cadence (RPM)' if d == 'bike' else 'run cadence (steps/min)'}: {detail.get('average_cadence', 'not available')}"
 
-    avg_pace = rolling_avg_pace_min_per_mi(d)
     facts = "\n".join([
         f"- Title: {a.get('name')}",
         f"- Discipline: {d}",
@@ -210,9 +237,9 @@ for a in recent:
         f"- Relative effort (suffer score): {detail.get('suffer_score', 'not available')}",
         f"- Average heart rate: {detail.get('average_heartrate', 'not available')}",
         f"- Max heart rate: {detail.get('max_heartrate', 'not available')}",
-        f"- Average cadence: {detail.get('average_cadence', 'not available')}",
+        cadence_fact,
         f"- Kudos: {a.get('kudos_count', 0)}, PRs set: {a.get('pr_count', 0)}",
-        f"- Athlete's 30-day average pace for {d}: {fmt_pace(avg_pace) or 'not enough data'}",
+        pace_fact,
         "- Mile splits:\n" + "\n".join(split_lines) if split_lines else "- No split data available",
         "- Notable segments:\n" + "\n".join(segment_lines) if segment_lines else "",
     ])
