@@ -103,8 +103,8 @@
     "date": "2026-08-17",
     "disc": "swim",
     "title": "Evening Swim",
-    "headline": "Solid 2,325-yard effort with controlled pacing and steady heart rate discipline",
-    "analysis": "You held a consistent aerobic zone throughout this 48-minute session, keeping your average heart rate at 107 bpm with a max of just 117\u2014excellent cardiovascular control for a moderate effort swim. Your first mile at 36:22 came in slightly faster than your 30-day average of 37:22/mi while maintaining a lower heart rate of 105 bpm, showing improved efficiency. The second mile segment saw your heart rate climb to 110 bpm as you worked through the final few hundred yards, reflecting good sustained effort without redlining.",
+    "headline": "Solid 2,325-yard swim at a brisk 2:03/100yd pace with heart rate well controlled",
+    "analysis": "You covered 2,325 yards in 47.8 minutes, averaging 2:03 per 100 yards with heart rate holding around 107 bpm -- a controlled aerobic effort. Relative effort of 24 reflects steady, sustainable work rather than a hard push, solid technique-focused volume.",
     "relative_effort": 24.0
   },
   {
@@ -121,8 +121,8 @@
     "date": "2026-08-21",
     "disc": "swim",
     "title": "Afternoon Swim",
-    "headline": "Solid technique work with 1,117 yards at a controlled effort level",
-    "analysis": "You held a steady 30:44/mile pace through this session, maintaining an average heart rate of 107 bpm with a max of just 129\u2014showing excellent aerobic control in the pool. Your 24 stroke cadence suggests you're focusing on efficiency over raw power, and that relative effort score of 12 confirms this was quality technical volume rather than an all-out push. This kind of measured swimming builds the foundation for faster speeds down the road.",
+    "headline": "Easy technique swim at 2:30/100yd, heart rate parked in recovery territory",
+    "analysis": "1,116 yards in 27.9 minutes at 2:30/100yd with average heart rate at 104 bpm -- a clearly easy, low-intensity session. Relative effort of just 12 confirms this was about form and feel, not conditioning.",
     "relative_effort": 12.0
   },
   {
@@ -166,8 +166,8 @@
     "date": "2026-08-26",
     "disc": "swim",
     "title": "Evening Swim",
-    "headline": "Solid aerobic base work holding 36:37 pace while keeping heart rate comfortably controlled at 113 bpm",
-    "analysis": "You maintained excellent cardiovascular discipline through this 1,800-yard session, holding your average heart rate at 113 bpm\u2014well below your 123 max\u2014while matching your 30-day average pace of 37:53 per mile. Your first mile at 36:37 shows you're actually trending slightly faster than your recent baseline, all while keeping your effort sustainable at just 29 relative effort points. This kind of controlled-intensity volume is exactly what builds your aerobic engine for race day.",
+    "headline": "Steady 1,800-yard swim at 2:02/100yd with controlled aerobic effort",
+    "analysis": "You held 2:02 per 100 yards across 1,800 yards in 36.7 minutes, with heart rate averaging 113 bpm -- comfortably aerobic. Relative effort of 29 shows sustainable, quality volume work.",
     "relative_effort": 29.0
   },
   {
@@ -184,8 +184,8 @@
     "date": "2026-08-28",
     "disc": "swim",
     "title": "Morning Swim",
-    "headline": "Solid 2,500-yard session with consistent pacing just above your 30-day average",
-    "analysis": "You maintained a steady 38:07 pace for the first mile and picked it up to 18:53 for the second, right around your typical 37:59/mile average. Your heart rate stayed remarkably controlled throughout at 110 BPM average with a max of just 127, suggesting you stayed in an aerobic zone\u2014perfect for building base endurance. With a suffer score of only 37, this was clearly an efficiency-focused session that should leave you fresh for the rest of your training week.",
+    "headline": "Solid 2,500-yard session at 2:09/100yd, heart rate controlled throughout",
+    "analysis": "2,500 yards in 53.7 minutes at 2:09/100yd average pace, heart rate holding around 111 bpm -- consistent aerobic effort across the full session. Relative effort of 37 reflects quality base-building volume.",
     "relative_effort": 37.0
   },
   {
@@ -220,8 +220,8 @@
     "date": "2026-08-31",
     "disc": "swim",
     "title": "Morning Swim",
-    "headline": "Solid 3.2K swim building endurance with controlled heart rate in the aerobic zone",
-    "analysis": "You maintained a steady 108.5 bpm average across 75 minutes, staying well within aerobic range even as your max only touched 123. Your pacing was consistent at 38:07 for the first mile then 41:00 for the second\u2014right in line with your 30-day average of 37:59/mile, showing good control over a longer session. The 40 suffer score reflects quality volume work without redlining, exactly what builds your swim base.",
+    "headline": "Strong 3,500-yard endurance swim at 2:08/100yd with heart rate well in check",
+    "analysis": "You covered 3,500 yards in 75 minutes, averaging 2:08 per 100 yards with heart rate steady around 109 bpm -- good aerobic control over a longer session. Relative effort of 40 reflects solid endurance volume without overreaching.",
     "relative_effort": 40.0
   },
   {
@@ -265,8 +265,8 @@
     "date": "2026-09-03",
     "disc": "swim",
     "title": "Morning Swim",
-    "headline": "Steady 3500yd morning session holds pace just off your 30-day average with controlled heart rate throughout",
-    "analysis": "You maintained a consistent effort across this 77-minute swim, averaging 39.8 minutes per mile\u2014just 1:44 slower than your recent 30-day average of 38:04/mi. Your heart rate data tells an interesting story: you started stronger in mile 1 at 115.6 bpm, then settled into a more controlled 111 bpm rhythm for mile 2, keeping your max at just 131. With a suffer score of 65, this looks like quality aerobic base work rather than a breakthrough effort, which is exactly what early season volume should feel like.",
+    "headline": "Consistent 3,500-yard swim at 2:12/100yd, effort building toward race-specific volume",
+    "analysis": "3,500 yards in 77.3 minutes at 2:12/100yd average, with heart rate around 114 bpm -- solid, sustained aerobic work. Relative effort of 65 is meaningfully higher than your easier sessions, reflecting the added volume and effort of race-effort set work.",
     "relative_effort": 65.0
   },
   {
@@ -274,8 +274,8 @@
     "date": "2026-09-04",
     "disc": "swim",
     "title": "Afternoon Swim",
-    "headline": "Solid 2000yd effort with a strong negative split finish",
-    "analysis": "You covered 2,000 yards in just under 40 minutes, swimming at a pace roughly 3 minutes per mile faster than your 30-day average of 37:46/mi. The data shows excellent pacing strategy\u2014your heart rate climbed from 113 bpm in the first mile to 117 bpm in the final segment, indicating you found another gear to close strong. That controlled heart rate profile with a max of just 128 bpm suggests good aerobic efficiency at this moderate effort level.",
+    "headline": "Brisk 2,000-yard swim under 2:00/100yd pace with heart rate slightly elevated",
+    "analysis": "2,000 yards in 39.3 minutes at 1:58 per 100 yards -- your fastest per-100yd pace of this stretch, with heart rate averaging 116 bpm. Relative effort of 39 confirms this was a genuinely brisk, well-executed session.",
     "relative_effort": 39.0
   },
   {
@@ -301,8 +301,8 @@
     "date": "2026-09-07",
     "disc": "swim",
     "title": "Lunch Swim",
-    "headline": "Solid aerobic base work with 3,475 meters at controlled intensity",
-    "analysis": "You maintained excellent pacing discipline through this 82-minute session, averaging 37:44 and 38:17 for your first two miles\u2014right on your 30-day benchmark of 37:49/mile. Your heart rate management was textbook, hovering around 123 bpm average with consistent mile splits at 122-126 bpm before easing off in the final portion. That 124 suffer score tells me you found the sweet spot between aerobic adaptation and sustainable effort.",
+    "headline": "Big 3,800-yard swim at 2:09/100yd, the highest-effort swim of the build so far",
+    "analysis": "3,800 yards in 81.6 minutes at 2:09/100yd, with heart rate averaging 124 bpm -- notably higher than your other swims, reflecting real race-effort intensity. Relative effort of 124 makes this the hardest swim session logged this build.",
     "relative_effort": 124.0
   },
   {
@@ -346,8 +346,8 @@
     "date": "2026-09-10",
     "disc": "swim",
     "title": "Evening Swim",
-    "headline": "Solid evening pool session holding steady just under a mile at controlled intensity",
-    "analysis": "You covered 1,554 meters in 38 minutes with your heart rate remarkably stable around 102 bpm, peaking at just 114\u2014this shows excellent aerobic control in the water. Your pace of 40:45/mile was slightly slower than your 30-day average of 37:56/mile, but the low suffer score of 11 suggests this was exactly the recovery or technique-focused session you needed. Keep building that aerobic base with this kind of controlled effort.",
+    "headline": "Easy 1,700-yard recovery swim at 2:14/100yd, heart rate parked low",
+    "analysis": "1,700 yards in 37.9 minutes at 2:14/100yd, heart rate averaging just 103 bpm -- a clearly easy, recovery-paced session. Relative effort of 11 confirms this was about aerobic recovery, not intensity.",
     "relative_effort": 11.0
   },
   {
@@ -355,8 +355,8 @@
     "date": "2026-09-11",
     "disc": "swim",
     "title": "Afternoon Swim",
-    "headline": "Strong negative split execution with a 7.5-minute improvement between miles shows excellent pacing control",
-    "analysis": "You knocked 7 minutes and 36 seconds off between mile 1 (36:23) and mile 2 (28:36), demonstrating smart pacing strategy over this 3,025-yard session. Your heart rate stayed remarkably controlled throughout, holding steady at 114-115 bpm average with a max of just 130, which suggests you were working aerobically and building endurance rather than pushing threshold. That second mile at 28:36 pace came in well under your 30-day average of 37:47/mile, showing real efficiency when it mattered.",
+    "headline": "Solid 3,025-yard swim at 2:03/100yd, exceeding the scheduled target distance",
+    "analysis": "3,025 yards in 62.2 minutes at 2:03/100yd average, heart rate holding around 115 bpm -- a strong, controlled aerobic effort well above the scheduled distance. Relative effort of 55 reflects quality sustained volume.",
     "relative_effort": 55.0
   },
   {
@@ -391,8 +391,8 @@
     "date": "2026-09-14",
     "disc": "swim",
     "title": "Afternoon Swim",
-    "headline": "Strong negative split work with a massive 37-minute improvement between miles",
-    "analysis": "You crushed the back half of this 2,132-yard session, dropping from 49:08/mi in mile 1 to just 11:53/mi in mile 2\u2014that's a 76% faster pace and well below your 30-day average of 38:29/mi. Your cadence of 23.7 SPM suggests you found a sustainable rhythm through the hour-long effort. Those consistent Training Bay segments at 483s and 464s show you're building solid endurance foundation work.",
+    "headline": "2,132-yard swim at 2:33/100yd pace",
+    "analysis": "You covered 2,132 yards in 54.5 minutes, averaging 2:33 per 100 yards -- a controlled, moderate-effort session. Heart rate and relative effort data weren't available for this one, so use pace and feel as your read on the day.",
     "relative_effort": null
   }
 ]
