@@ -394,5 +394,14 @@
     "headline": "2,132-yard swim at 2:33/100yd pace",
     "analysis": "You covered 2,132 yards in 54.5 minutes, averaging 2:33 per 100 yards -- a controlled, moderate-effort session. Heart rate and relative effort data weren't available for this one, so use pace and feel as your read on the day.",
     "relative_effort": null
+  },
+  {
+    "strava_id": "20193774831",
+    "date": "2026-09-15",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid aerobic base work with over 4000 yards at controlled intensity",
+    "analysis": "You logged 4025 yards in 87.6 minutes, working at a relaxed pace compared to your 30-day average of 2:11/100yd while keeping your heart rate impressively steady at 107 bpm average. The relatively low suffer score of 48 and max heart rate of just 121 bpm suggest this was quality aerobic conditioning work, building endurance without overstressing the system. This kind of volume at controlled effort is exactly what builds the foundation for faster work down the line.",
+    "relative_effort": 48.0
   }
 ]
