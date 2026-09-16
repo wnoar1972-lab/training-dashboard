@@ -1459,9 +1459,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 3,275yd",
-            "note": "race effort sets"
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "~17mph · outdoor mandatory -- moved here from Thursday this week only"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 50 min",
+            "note": "walk/run 9/1 · full race nutrition practice"
           }
         ]
       },
@@ -1469,14 +1474,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor ride 90 min + brick",
-            "note": "~17mph · outdoor mandatory"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 50 min",
-            "note": "walk/run 9/1 · full race nutrition practice"
+            "disc": "swim",
+            "label": "Pool swim 3,275yd",
+            "note": "race effort sets -- moved here from Wednesday this week only"
           }
         ]
       },
