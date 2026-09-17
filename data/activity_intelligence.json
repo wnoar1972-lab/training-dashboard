@@ -403,5 +403,32 @@
     "headline": "Solid aerobic base work with over 4000 yards at controlled intensity",
     "analysis": "You logged 4025 yards in 87.6 minutes, working at a relaxed pace compared to your 30-day average of 2:11/100yd while keeping your heart rate impressively steady at 107 bpm average. The relatively low suffer score of 48 and max heart rate of just 121 bpm suggest this was quality aerobic conditioning work, building endurance without overstressing the system. This kind of volume at controlled effort is exactly what builds the foundation for faster work down the line.",
     "relative_effort": 48.0
+  },
+  {
+    "strava_id": "20208004159",
+    "date": "2026-09-16",
+    "disc": "bike",
+    "title": "Afternoon Ride",
+    "headline": "Steady aerobic effort with strategic slowdowns through technical segments",
+    "analysis": "You held a controlled 117.9 average heart rate across 29.73 miles\u2014well below your max of 132\u2014suggesting this was all about building base endurance. The pace told the real story: you cruised through miles 10-14 and 24-30 at sub-3:20/mi clips, but deliberately backed off during miles 8, 15, and 23 (hitting 5:19, 5:08, and 4:44 respectively), likely navigating traffic or technical sections while keeping effort consistent. That discipline paid off with a relative effort of just 59 despite nearly 102 minutes in the saddle.",
+    "relative_effort": 59.0
+  },
+  {
+    "strava_id": "20208391388",
+    "date": "2026-09-16",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Consistent sub-10:00 pace effort with steady aerobic control across 5.4 miles",
+    "analysis": "You held impressively steady splits through the first five miles, ranging from 9:27 to 9:54 per mile\u2014all faster than your 30-day average of 10:11/mi\u2014while your heart rate climbed gradually from 128 bpm in mile one to 141 bpm by miles four and five. Your cadence of 82 steps per minute suggests there's room to work on turnover, which could help you maintain this strong pace with less cardiovascular strain. The relative effort of 94 reflects solid work at an average heart rate of 139 bpm, showing you're building aerobic capacity without redlining.",
+    "relative_effort": 94.0
+  },
+  {
+    "strava_id": "20214494120",
+    "date": "2026-09-17",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid aerobic foundation work with 3,300 yards at a controlled heart rate",
+    "analysis": "You kept this long swim aerobic and steady, averaging 109 bpm across 70 minutes while staying well below your max of 124. At just over 2 minutes per 100 yards, you're maintaining a pace close to your 30-day average of 2:11/100yd over a substantial distance. The modest effort score of 44 confirms this was about building endurance, not pushing thresholds.",
+    "relative_effort": 44.0
   }
 ]

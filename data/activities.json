@@ -735,5 +735,38 @@
     "avgHR": 108.0,
     "distance": 3680.5,
     "duration": 5239.0
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 47.0,
+    "np": 0,
+    "avgHR": 137.0,
+    "distance": 8737.1,
+    "duration": 3021.0
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Cycling",
+    "type": "Ride",
+    "disc": "bike",
+    "tss": 53.0,
+    "np": 0,
+    "avgHR": 118.0,
+    "distance": 47843.0,
+    "duration": 6095.0
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 27.0,
+    "np": 0,
+    "avgHR": 111.0,
+    "distance": 3017.5,
+    "duration": 4183.0
   }
 ]
