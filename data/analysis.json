@@ -1,52 +1,51 @@
 {
-  "date": "September 17, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Yesterday's brick session (Week 9, day 2) executed properly in structure: 90-min ride (1h41m actual, 29.7mi) followed by 50-min brick run (50min actual, 5.4mi, walk/run protocol). The bike averaged 17.6mph -- only 0.6mph over the 17mph pacing target, which is acceptable given outdoor variability and the fact that this is a training ride, not race-day execution. Run TSS 47 and HR 137 indicate solid controlled effort off the bike with full race nutrition practice completed as prescribed.",
-  "todayRecommendation": "Today's swim session is already complete: 3,300yd in 1h09m, delivering 27 TSS and matching the 3,275yd race-effort target. The session was moved to Thursday this week only, and you executed it as scheduled. Focus now on recovery nutrition, sleep prioritization tonight (last night was only 6.2hrs, score 68), and mental preparation for Saturday's 95-mile peak ride and Sunday's 18-mile peak run -- the two biggest sessions of the entire build.",
-  "weekProgress": "Week 9 of 13: 193 of 710 target TSS complete (27%). This is intentionally back-loaded -- Monday's swim (33 TSS assumed from open water session), Tuesday's easy swim in place of Run Club, Wednesday's brick (100 TSS), and today's swim (27 TSS) are all done. Friday's easy 1,650yd swim (~22 TSS), Saturday's 95-mile ride (~300+ TSS), and Sunday's 18-mile peak run (~200+ TSS) will determine whether you hit the 710 target, but the week is structurally on pace if those sessions execute as planned.",
-  "keyInsight": "Sleep dropped hard last night (68 score, 6.2hrs) heading into the two biggest back-to-back sessions of the entire build -- Saturday's 95-mile ride and Sunday's 18-mile peak run will test both fitness and recovery capacity under real fatigue.",
+  "date": "September 18, 2026",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "Thursday's pool swim hit 3,300yd against a 3,275yd target with race-effort sets -- clean execution at HR 111, appropriate intensity for the prescribed day. This was the rescheduled Wednesday session, moved to allow the outdoor brick to happen on Wednesday itself -- schedule flexibility was handled correctly and the session was delivered.",
+  "todayRecommendation": "Today's 1,650yd easy aerobic swim is a new light Friday session designed to stay loose before tomorrow's 95-mile peak ride. Keep it truly easy -- this is active recovery prep, not a workout to push. Get in, log the yards at conversational effort, get out, hydrate, and prioritize tonight's sleep ahead of the biggest bike session of the entire build.",
+  "weekProgress": "Week 9 of 13 sits at 193 of 710 TSS (27% complete) with two days remaining, including today. This is exactly where it should be -- the week is heavily back-loaded toward Saturday's 95-mile peak ride (~5.6hrs, the single biggest bike load of the build) and Sunday's 18-mile peak long run. No sessions were skipped; the low percentage on Friday morning is normal architecture for a peak weekend.",
+  "keyInsight": "Saturday's 95-mile ride is the true peak of the entire Sacramento build -- pacing discipline at 17mph is the assignment, not a fitness test to beat.",
   "alerts": [
-    "Last night's sleep: 68 score, only 6.2hrs duration -- lowest of the week heading into peak weekend",
-    "Saturday 95mi + Sunday 18mi peak sessions are 31 days from race day -- no margin for execution errors or under-recovery",
-    "7-day avg sleep score is 79/100, but readiness engine flags recovery at 84/100 as the largest limiter"
+    "7-day avg sleep score is 76/100 (readiness engine flags recovery at 84/100) -- one more poor night (68 score on 6.2hrs Wed) keeps the average suppressed heading into peak weekend",
+    "SpO2 dipped to 91% last night (Sep 18) -- second sub-92% reading in the 7-day window, monitor for pattern"
   ],
   "positives": [
-    "Wednesday's brick executed cleanly: 90-min ride at controlled pace, 50-min brick run with full race nutrition practice completed",
-    "Today's swim hit the 3,275yd race-effort target (3,300yd actual) -- race-effort sets are dialed in",
-    "Bike pacing discipline holding: yesterday's 17.6mph avg is close to the 17mph target, not a red-flag overpace"
+    "Wednesday's brick executed correctly: 29.7mi in 1h41m at 17.6mph (0.6mph over target is acceptable margin, not a red flag), followed by 5.4mi/50min brick run with full race nutrition practice",
+    "Sunday's 16.2-mile long run delivered 174 TSS in 2h43m at HR 143 -- second-to-last build-up run completed with no reported hip or foot issues flagged in the data",
+    "All scheduled sessions this week have been completed as planned despite mid-week schedule shuffles (Wed/Thu swap) -- adaptability and compliance both strong"
   ],
-  "recoveryScore": 6,
-  "trainingLoadStatus": "Fatigued",
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (overall 88/100, recovery 84/100 largest limiter)",
-    "Garmin sleep (7-day avg 79/100, last night 68/100)",
-    "Week 9 TSS: 193 of 710 (27% complete, back-loaded structure)",
-    "Yesterday's brick session: bike 1h41m/29.7mi/17.6mph, run 50min/5.4mi/TSS 47",
-    "Today's swim: 3,300yd/1h09m/TSS 27"
+    "Readiness engine: overall 88/100, bike 92/100, run 76/100, recovery 84/100",
+    "Week 9 TSS tracking: 193 of 710 target (27% complete)",
+    "7-day sleep avg: 76/100, two nights sub-92% SpO2",
+    "Last 7 days activities: Wed brick (29.7mi @ 17.6mph + 5.4mi run), Thu swim 3,300yd, Sun 16.2mi long run"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is comprehensive (7 nights, scores/duration/RHR/SpO2), TSS tracking is complete for the week so far, and readiness engine provides structured output across all disciplines -- but the peak weekend sessions have not yet happened, and their execution will define whether this week delivers its intended training effect 31 days from race day."
+    "reason": "Sleep data is complete and current (7 nights tracked), TSS tracking is live, and readiness engine provides dimensional assessment -- confidence is moderate rather than high because HRV is not yet tracked, hip/pain notes are not surfaced in structured form, and nutrition compliance on the brick is reported but not quantified."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, stable) -- Sunday's 18mi peak run is the true test of race readiness",
-    "Walk/run 9/1 protocol maintained on yesterday's brick run",
-    "Bike pacing discipline (17mph target) -- yesterday's 17.6mph is close, not a red flag",
-    "Peak week structure: sessions intentionally moved (Wed brick, Thu swim) to optimize recovery before Sat/Sun peak load"
+    "Hip history (Perthes, stable) -- no pain flagged after Sunday's 16.2mi run",
+    "Active race: Sacramento IM 30 days out, Week 9 of 13 is second peak week",
+    "Bike pacing discipline: 17mph target on flat course to protect the run",
+    "Walk/run protocol: 9min run/1min walk on all runs",
+    "Prior race lesson: bike position fixes validated, run nutrition practice ongoing"
   ],
   "race_implications": [
-    "31 days to Sacramento: this weekend's 95mi ride + 18mi run are the final true peak sessions before taper -- execution and recovery here will define race-day confidence",
-    "If hip handles Sunday's 18-mile peak run cleanly, you have proven race-day run readiness under full build load",
-    "Sleep deficit heading into peak weekend increases injury/execution risk -- prioritize 8+ hours tonight and Friday night"
+    "Saturday's 95-mile ride at race fueling/pacing is the final full-duration bike validation before taper -- execution here directly tests Sacramento bike-leg readiness",
+    "Sunday's 18-mile peak long run is explicitly the hip stress test ('if hip handles this you are ready for Sacramento') -- any pain or mobility issue here must be noted and addressed",
+    "Sleep quality heading into peak weekend is marginal (76/100 avg, 68 score Wed night) -- one more short night before Saturday risks compromising the most important ride of the build"
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hours sleep tonight (Thursday) and Friday night -- last night's 6.2hrs is not sufficient recovery heading into the peak weekend",
-    "Saturday's 95-mile ride: strict adherence to 17mph target pace and full race nutrition rehearsal -- this is the true peak bike session of the build, not a fitness test",
-    "Sunday's 18-mile run: note everything (hip, back, foot, walk/run execution, nutrition timing) -- this session validates or exposes any remaining race-day readiness gaps"
+    "Prioritize 8+ hours sleep tonight (Fri) and tomorrow night (Sat) -- recovery score of 7/10 is workable but not optimal for back-to-back peak sessions",
+    "Saturday's 95-mile ride: hold 17mph pacing discipline religiously, execute full race nutrition rehearsal, and note any saddle/position issues under peak duration load",
+    "Sunday's 18-mile run: track hip/back/foot status explicitly during and after -- this is the designated stress test, so structured notes on pain/mobility are critical data"
   ],
-  "generatedAt": "2026-09-17",
-  "daysToRace": 31,
+  "generatedAt": "2026-09-18",
+  "daysToRace": 30,
   "currentWeek": 9,
   "weekPhase": "Peak"
 }
