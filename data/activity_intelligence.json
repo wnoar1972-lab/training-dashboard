@@ -430,5 +430,14 @@
     "headline": "Solid aerobic foundation work with 3,300 yards at a controlled heart rate",
     "analysis": "You kept this long swim aerobic and steady, averaging 109 bpm across 70 minutes while staying well below your max of 124. At just over 2 minutes per 100 yards, you're maintaining a pace close to your 30-day average of 2:11/100yd over a substantial distance. The modest effort score of 44 confirms this was about building endurance, not pushing thresholds.",
     "relative_effort": 44.0
+  },
+  {
+    "strava_id": "20233539670",
+    "date": "2026-09-18",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Over 3,000 yards of steady aerobic volume with controlled heart rate work",
+    "analysis": "You put in 73.6 minutes and 3,019 yards at a controlled effort, keeping your average heart rate at 129 bpm with a max of just 154\u2014this was clearly about building aerobic base rather than pushing threshold. Your stroke rate of 23.2 strokes per minute suggests you maintained a patient, rhythmic cadence throughout. With a relative effort of 143, this was a solid endurance session that builds the foundation without overreaching.",
+    "relative_effort": 143.0
   }
 ]
