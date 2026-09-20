@@ -439,5 +439,23 @@
     "headline": "Over 3,000 yards of steady aerobic volume with controlled heart rate work",
     "analysis": "You put in 73.6 minutes and 3,019 yards at a controlled effort, keeping your average heart rate at 129 bpm with a max of just 154\u2014this was clearly about building aerobic base rather than pushing threshold. Your stroke rate of 23.2 strokes per minute suggests you maintained a patient, rhythmic cadence throughout. With a relative effort of 143, this was a solid endurance session that builds the foundation without overreaching.",
     "relative_effort": 143.0
+  },
+  {
+    "strava_id": "20247893837",
+    "date": "2026-09-19",
+    "disc": "bike",
+    "title": "Lunch Ride",
+    "headline": "Nearly 97 miles of controlled endurance work punctuated by a blazing final push",
+    "analysis": "You kept remarkable discipline through 96.63 miles, holding steady around 3:25/mi (right on your 30-day average) with an avg heart rate of just 124 bpm\u2014until the final 10 miles told a different story. Miles 82-93 saw you drop into the 2:50s range while your heart rate climbed from 125 to 136 bpm, then you closed with miles 96-97 at 3:18, 2:28, and heart rates of 136-138. That relative effort of 301 and 213 PRs confirm you turned a long steady ride into a finishing statement.",
+    "relative_effort": 301.0
+  },
+  {
+    "strava_id": "20258755369",
+    "date": "2026-09-20",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "18-miler with a tale of two halves: solid sub-11:30 pace disrupted by significant slowdowns in miles 8, 11, and 12",
+    "analysis": "You covered 18.06 miles at an average heart rate of 142 bpm, but the splits tell an interesting story. Miles 8, 11, and 12 ballooned to 18:57, 14:24, and 23:36 respectively\u2014likely stops or navigation issues\u2014while your moving miles hovered consistently around 11:00-11:30 per mile. When you were running, you stayed steady and controlled, evidenced by heart rates in the mid-140s on your best miles (3, 5, 9) and a cadence of 81 steps per minute throughout this long effort that earned you a hefty 458 suffer score.",
+    "relative_effort": 458.0
   }
 ]
