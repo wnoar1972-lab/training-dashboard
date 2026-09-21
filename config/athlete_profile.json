@@ -67,6 +67,11 @@
       "type": "bike",
       "name": "Quintana Roo Kilo (tri bike)",
       "fit_notes": "Back and foot pain during the Oregon run were traced to bike position -- professional bike fit completed ahead of the Sacramento build."
+    },
+    {
+      "type": "swim goggles",
+      "name": "Race day: WIN.MAX (Black/polarize-golden-green, polarized + mirrored). Backup/overcast: ZIONOR G1 (Smoke-all Black, polarized only, not mirrored).",
+      "fit_notes": "Sacramento River swim leg has documented sun-glare/sighting problems -- swimming downstream into the sun makes spotting the turn buoy very difficult (per prior-year race reports). Mirrored cuts the direct glare, polarized cuts surface reflection; the WIN.MAX pair has both. Mirrored lenses are dark (~10-15% VLT) -- being tested in bright morning open water (2026-10-03 La Jolla OW swim) to confirm they aren't too dark at a near-sunrise race start before committing to them for race day."
     }
   ],
   "schedule_constraints": {
