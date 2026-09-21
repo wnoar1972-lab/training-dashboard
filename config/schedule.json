@@ -1731,8 +1731,8 @@
         "planned": [
           {
             "disc": "rest",
-            "label": "Travel to Sacramento",
-            "note": "fly or drive · stay off feet · hydrate · arrive ready"
+            "label": "Rest",
+            "note": "off feet · easy day · true taper -- travel moved to Oct 15, this is now a normal home taper day"
           }
         ]
       },
@@ -1741,8 +1741,8 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Shakeout swim Sacramento River",
-            "note": "preview swim course · easy 875yd · wetsuit check"
+            "label": "Pool swim 875yd easy",
+            "note": "easy technique/feel · true taper volume -- moved from Sacramento River to home pool, travel is now Oct 15"
           }
         ]
       },
@@ -1764,7 +1764,7 @@
           {
             "disc": "swim",
             "label": "Pool or OW swim 1,300yd",
-            "note": "easy · 4x50 at race pace · last swim"
+            "note": "easy · 4x50 at race pace"
           }
         ]
       },
@@ -1784,12 +1784,12 @@
         ]
       },
       "3": {
-        "rest": false,
+        "rest": true,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Sacramento River shakeout",
-            "note": "easy 875yd · final open water · confidence builder"
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet · pack bags · final gear check · hydrate -- last day at home before flying out"
           }
         ]
       },
@@ -1798,8 +1798,8 @@
         "planned": [
           {
             "disc": "rest",
-            "label": "Rest",
-            "note": "off feet · hydrate · eat well · gear check"
+            "label": "Travel to Sacramento",
+            "note": "fly or drive · stay off feet · hydrate · arrive ready"
           }
         ]
       },
@@ -1807,9 +1807,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Bike check 10 min",
-            "note": "confirm shifting · brakes · nutrition loaded"
+            "disc": "swim",
+            "label": "Practice swim -- Sacramento River",
+            "note": "preview swim course · easy 875yd · wetsuit check · sighting practice"
           }
         ]
       },
@@ -1817,9 +1817,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Athlete briefing · course preview",
-            "note": "transition walk-through · early night"
+            "disc": "rest",
+            "label": "Athlete check-in + briefing",
+            "note": "race packet pickup · bike/gear bag drop at transition · confirm bike shifting/brakes · mandatory athlete briefing · early night"
           }
         ]
       },
