@@ -1,49 +1,44 @@
 {
-  "date": "September 20, 2026",
-  "overallStatus": "Great Week",
+  "date": "September 21, 2026",
+  "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's 96.6mi ride hit the scheduled 95mi peak ride target with 197 TSS in 5:37 at 17.2mph avg. HR 124 shows controlled aerobic effort. Pace was 0.2mph over the 17mph target\u2014close enough to call disciplined execution on a flat course, not a pacing concern. This was the peak bike session of the entire build.",
-  "todayRecommendation": "Today's 18.1mi long run is COMPLETE\u2014202 TSS in 3:22 at HR 141, walk/run executed. That's 11:11/mi average pace including walks, right in the 10:50-11:30/mi target window. This was your peak long run. Now: eat, hydrate, elevate legs, and note any hip/back/foot feedback in the next 24-48 hours. Next week begins taper.",
-  "weekProgress": "Week 9 of 13 is complete at 644 of 710 TSS (91%). You executed both peak sessions\u2014Saturday's 95mi ride and today's 18mi run\u2014at target effort and pacing. This is the true summit of the build.",
-  "keyInsight": "You just completed the two biggest workouts of the entire Sacramento build back-to-back\u201495mi bike and 18mi run\u2014both at race-plan pacing and HR, with walk/run protocol dialed in.",
+  "yesterdayAnalysis": "Peak long run executed: 18.1mi in 3h22m at 141 HR. This was the single most important run of the build -- you hit the distance, held walk/run discipline, and finished it. HR was controlled and sustainable. This is the best possible evidence that your hip and legs can handle Sacramento race-day run volume.",
+  "todayRecommendation": "Today's pool swim is already done -- 3050yd completed vs 2725yd scheduled, good execution. The scheduled easy 4mi run remains. Keep it truly easy (HR low 130s or lower), legs are absorbing yesterday's peak load. This is a step-down week, so volume drops are intentional -- do not push pace or add distance.",
+  "weekProgress": "Week 10 of 13: 26 of 400 TSS (6% complete). Low percentage is normal this early in the week -- the peak long run from yesterday (202 TSS) already posted to last week's total, so this week starts fresh. Long ride Thursday, long run Sunday, and Run Club Tuesday will load the back half as designed.",
+  "keyInsight": "You completed the peak long run without incident -- if the hip and legs held up through 18 miles, you have the mechanical durability for Sacramento.",
   "alerts": [],
   "positives": [
-    "Peak 18mi run executed at 11:11/mi avg pace, exactly in the 10:50-11:30/mi race target window with walk/run 9/1 protocol",
-    "Peak 95mi bike ride completed at 17.2mph, nearly perfect pacing discipline vs 17mph target",
-    "Back-to-back peak weekend handled with HR 124 (bike) and HR 141 (run), both controlled aerobic zones"
+    "Peak long run (18.1mi) completed successfully with controlled HR and no red-flag pain notes",
+    "Peak long ride (96.6mi, 5h37m) executed last week at 17.2mph avg -- pacing discipline was solid, nearly perfect target adherence",
+    "Swim volume strong and consistent -- today's 3050yd session already done, exceeding the 2725yd target"
   ],
-  "recoveryScore": 6,
-  "trainingLoadStatus": "Fatigued",
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: run 86/100, bike 98/100, recovery 83/100",
-    "Today's completed run: 18.1mi, 202 TSS, 3:22 duration, HR 141",
-    "Yesterday's completed ride: 96.6mi, 197 TSS, 5:37 duration, 17.2mph avg",
-    "7-day avg sleep score: 77/100 (up from 74/100 last sync)",
-    "Week 9 TSS: 644 of 710 (91%)"
+    "Readiness engine: overall 88/100, run 76/100, bike 93/100, recovery 84/100",
+    "Yesterday's activity log: 18.1mi run, 202 TSS, 141 HR",
+    "Today's activity log: 3050yd swim already completed",
+    "7-day avg sleep score: 78/100",
+    "Last 7 days training log: peak ride 96.6mi at 17.2mph, peak run 18.1mi"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete data for the peak weekend (bike distance, duration, pace, HR, run distance, pace, HR, sleep scores), plus 73 activities across 9 weeks of build showing consistent execution\u2014no gaps in key metrics for this critical assessment window."
+    "reason": "Peak week is complete with both long ride and long run executed successfully, HR and pacing data are clean, and we are now 27 days out from race day with clear taper structure ahead -- data completeness is strong."
   },
   "athlete_context_considered": [
-    "Walk/run 9/1 protocol executed on 18mi peak run",
-    "Hip history: progressive long-run buildup to 18mi peak without abrupt load spike",
-    "Pacing discipline: 17.2mph bike vs 17mph target shows restraint learned from Oregon",
-    "Race-plan pacing: 11:11/mi run avg matches 10:50-11:30/mi Sacramento target window",
-    "28 days to Sacramento (Oct 18): peak week timing is appropriate"
+    "Hip history (Perthes) -- peak long run distance is the key test for mechanical durability",
+    "Walk/run 9/1 protocol maintained throughout peak runs",
+    "Step-down week structure (Week 10) after peak (Week 9)",
+    "Race target: IM California Sacramento, 27 days out"
   ],
   "race_implications": [
-    "You've now proven you can execute race-plan pacing for 95+ miles on the bike and 18 miles on the run back-to-back\u2014this is the dress rehearsal for Sacramento bike-to-run transition",
-    "Run pace 11:11/mi on an 18-miler with walk/run protocol projects well to a 4:45-5:00 marathon if nutrition and hip hold up",
-    "Taper starts next week (Week 10 of 13)\u2014if hip shows no pain in the next 48 hours post-peak-run, you are structurally ready for race day"
+    "Peak long run success (18.1mi) is strong evidence that hip and legs can sustain the marathon distance on race day",
+    "Peak ride pacing discipline (17.2mph vs 17mph target) confirms you can hold the race-day bike strategy without ego-driven overpacing",
+    "Step-down week absorption is critical -- do not add volume or intensity this week, let the peak block consolidate before taper"
   ],
-  "recommended_adjustments": [
-    "Monitor hip/back/foot closely over the next 48 hours post-peak-run\u2014any pain or mobility changes are critical data points before taper begins",
-    "Prioritize sleep this week (current 7-day avg 77/100, target 85+)\u2014taper is when fitness consolidates, and recovery score is 6/10 after this peak weekend",
-    "Week 10 begins taper: expect volume to drop ~20-30% but maintain some race-intensity touches (short brick, race-effort swim sets) to keep systems sharp"
-  ],
-  "generatedAt": "2026-09-20",
-  "daysToRace": 28,
-  "currentWeek": 9,
-  "weekPhase": "Peak"
+  "recommended_adjustments": [],
+  "generatedAt": "2026-09-21",
+  "daysToRace": 27,
+  "currentWeek": 10,
+  "weekPhase": "Build"
 }

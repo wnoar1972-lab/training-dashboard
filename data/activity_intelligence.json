@@ -457,5 +457,14 @@
     "headline": "18-miler with a tale of two halves: solid sub-11:30 pace disrupted by significant slowdowns in miles 8, 11, and 12",
     "analysis": "You covered 18.06 miles at an average heart rate of 142 bpm, but the splits tell an interesting story. Miles 8, 11, and 12 ballooned to 18:57, 14:24, and 23:36 respectively\u2014likely stops or navigation issues\u2014while your moving miles hovered consistently around 11:00-11:30 per mile. When you were running, you stayed steady and controlled, evidenced by heart rates in the mid-140s on your best miles (3, 5, 9) and a cadence of 81 steps per minute throughout this long effort that earned you a hefty 458 suffer score.",
     "relative_effort": 458.0
+  },
+  {
+    "strava_id": "20267906308",
+    "date": "2026-09-21",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid aerobic volume with 3050 yards at a controlled heart rate",
+    "analysis": "You spent just over 65 minutes in the water averaging 2:08 per 100 yards, which is slightly faster than your 30-day average of 2:10 per 100 yards. Your heart rate stayed remarkably steady at 108 bpm average with a max of just 125, suggesting excellent aerobic control throughout this longer session. This kind of controlled volume work builds the endurance base you need while keeping recovery manageable at a suffer score of 34.",
+    "relative_effort": 34.0
   }
 ]
