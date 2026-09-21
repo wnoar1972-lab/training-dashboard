@@ -1706,8 +1706,8 @@
         "planned": [
           {
             "disc": "bike",
-            "label": "Bike reassembly check 20 min",
-            "note": "confirm shifting · brakes · nutrition loaded"
+            "label": "Bike check 20 min",
+            "note": "confirm shifting · brakes · nutrition loaded -- routine pre-travel check, bike has not been disassembled"
           }
         ]
       },
