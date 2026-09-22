@@ -466,5 +466,14 @@
     "headline": "Solid aerobic volume with 3050 yards at a controlled heart rate",
     "analysis": "You spent just over 65 minutes in the water averaging 2:08 per 100 yards, which is slightly faster than your 30-day average of 2:10 per 100 yards. Your heart rate stayed remarkably steady at 108 bpm average with a max of just 125, suggesting excellent aerobic control throughout this longer session. This kind of controlled volume work builds the endurance base you need while keeping recovery manageable at a suffer score of 34.",
     "relative_effort": 34.0
+  },
+  {
+    "strava_id": "20274999462",
+    "date": "2026-09-21",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "Negative split execution with a strong 9:11 final mile as heart rate climbed into the mid-140s",
+    "analysis": "You shook off a slower 10:40 opening mile to find your rhythm, progressively dropping your pace through miles 2-4 and finishing 1:29/mi faster than you started. Your heart rate climbed steadily from 135 to 146 across the full distance, showing controlled effort build-up while maintaining an average of 140 bpm. At 80 suffer score over 39.9 minutes, this was a solid moderate-hard effort that came in under your 30-day average pace of 10:14/mi.",
+    "relative_effort": 80.0
   }
 ]
