@@ -1541,9 +1541,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,725yd",
-            "note": "race pace sets"
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "outdoor preferred · step down but keep aero habit -- Wed/Thu swapped from here through race week per standing request"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 35 min",
+            "note": "walk/run 9/1"
           }
         ]
       },
@@ -1551,14 +1556,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Outdoor ride 75 min + brick",
-            "note": "outdoor preferred · step down but keep aero habit"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 35 min",
-            "note": "walk/run 9/1"
+            "disc": "swim",
+            "label": "Pool swim 2,725yd",
+            "note": "race pace sets"
           }
         ]
       },
@@ -1623,9 +1623,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,175yd",
-            "note": "race pace · feel fast"
+            "disc": "bike",
+            "label": "Easy ride 45 min",
+            "note": "taper · NP under 140w · outdoor or trainer fine -- moved here from Thursday, standing Wed/Thu swap"
           }
         ]
       },
@@ -1633,9 +1633,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Easy ride 45 min",
-            "note": "taper · NP under 140w · outdoor or trainer fine"
+            "disc": "swim",
+            "label": "Pool swim 2,175yd",
+            "note": "race pace · feel fast"
           }
         ]
       },
@@ -1705,9 +1705,14 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Bike check 20 min",
-            "note": "confirm shifting · brakes · nutrition loaded -- routine pre-travel check, bike has not been disassembled"
+            "disc": "swim",
+            "label": "Pool swim 1,100yd easy",
+            "note": "shakeout swim -- moved here from Thursday, standing Wed/Thu swap"
+          },
+          {
+            "disc": "run",
+            "label": "Easy jog 15 min",
+            "note": "4 strides · feel fast · no effort"
           }
         ]
       },
@@ -1715,14 +1720,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 1,100yd easy",
-            "note": "shakeout swim"
-          },
-          {
-            "disc": "run",
-            "label": "Easy jog 15 min",
-            "note": "4 strides · feel fast · no effort"
+            "disc": "bike",
+            "label": "Bike check 20 min",
+            "note": "confirm shifting · brakes · nutrition loaded -- routine pre-travel check, bike has not been disassembled"
           }
         ]
       },
