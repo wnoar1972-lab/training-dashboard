@@ -475,5 +475,14 @@
     "headline": "Negative split execution with a strong 9:11 final mile as heart rate climbed into the mid-140s",
     "analysis": "You shook off a slower 10:40 opening mile to find your rhythm, progressively dropping your pace through miles 2-4 and finishing 1:29/mi faster than you started. Your heart rate climbed steadily from 135 to 146 across the full distance, showing controlled effort build-up while maintaining an average of 140 bpm. At 80 suffer score over 39.9 minutes, this was a solid moderate-hard effort that came in under your 30-day average pace of 10:14/mi.",
     "relative_effort": 80.0
+  },
+  {
+    "strava_id": "20290744049",
+    "date": "2026-09-22",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "A 6.57-mile effort with wildly fluctuating pacing but steady heart rate control through the mid-140s",
+    "analysis": "Your pace swung dramatically from 9:18 to 10:58 per mile across the middle splits, yet you held your average heart rate remarkably steady at 142 bpm throughout\u2014showing good cardiovascular consistency even when the legs weren't cooperating. That abbreviated mile 7 at 6:29 pace suggests you found another gear to finish, and your cadence of 83.5 steps per minute indicates there's room to quicken your turnover for more efficient running. The 140 suffer score reflects honest work across 63.6 minutes of moving time.",
+    "relative_effort": 140.0
   }
 ]
