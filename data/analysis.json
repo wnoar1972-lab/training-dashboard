@@ -2,41 +2,48 @@
   "date": "September 23, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Tuesday's run club session delivered 6.6mi in 1h03m with HR 141 -- solid execution at controlled intensity on the step-down week. TSS 63 is appropriate for a recovery-week run club effort, and the heart rate discipline held exactly where it should. No red flags.",
-  "todayRecommendation": "Today's scheduled 75-minute outdoor ride + 35-minute brick run is your midweek dose of race position and bike-to-run specificity. Hold the bike at or slightly below 17mph -- this is a step-down week, not a fitness test. Execute the brick run with walk/run 9/1 discipline and note any lingering sensations from the peak block.",
-  "weekProgress": "Week 10 of 13 shows 127 of 400 TSS (32% complete) with 4 days remaining including today. The week is back-loaded by design -- today's brick and Sunday's 11-mile run will deliver the bulk of remaining load. You are on schedule.",
-  "keyInsight": "The peak block (95mi ride, 18mi run) absorbed cleanly based on yesterday's HR and your ability to execute controlled efforts -- the step-down week is working as intended to consolidate that fitness heading into taper.",
-  "alerts": [],
-  "positives": [
-    "Peak long run (18.1mi, TSS 202) and peak ride (96.6mi, TSS 197) executed successfully in the same weekend -- that is the volume Sacramento demands and you handled it",
-    "Yesterday's run club HR stayed at 141 despite coming off the peak block -- cardiovascular recovery is holding up well",
-    "Sleep score rebounded to 88 on 2026-09-21 after the peak weekend, showing your body can recover from big load when given the space"
+  "yesterdayAnalysis": "Run Club executed well at 6.6 miles in 1h03m with HR 141, matching the step-down week intent. Distance exceeded the 'walk/run' label slightly, which is fine for a club environment. HR and TSS (63) both indicate controlled effort appropriate for a recovery week.",
+  "todayRecommendation": "Complete the outdoor ride 75 min + brick run 35 min as scheduled. This is a step-down week session -- keep the bike at or below 17mph avg to maintain pacing discipline, stay aero, and treat the brick run as rhythm work, not a test. Log the ride speed carefully.",
+  "weekProgress": "Week 10 of 13 shows 127 of 400 TSS (32% complete) with 4 days remaining. This is normal for Wednesday in a back-loaded week -- the long ride/brick today plus Thursday swim, Friday swim, Saturday ride, and Sunday 11-mile run will easily close the gap.",
+  "keyInsight": "Sleep quality is the limiting factor right now -- 7-day avg is 75/100 with three nights below 92% SpO2, and this is affecting the recovery score (83/100) heading into the final taper phase.",
+  "alerts": [
+    "Sleep score averaging 75/100 with inconsistent duration (6.2h to 8.4h) -- prioritize 7.5+ hours nightly through taper",
+    "SpO2 dropped to 90% on 2026-09-22 -- monitor for pattern and consider sleep position or breathing issues"
   ],
-  "recoveryScore": 7,
+  "positives": [
+    "Peak weekend executed perfectly: 95mi ride at 17.2mph (5h37m, TSS 197) followed by 18.1mi run (3h22m, TSS 202) -- both on target with no reported pain",
+    "Bike pacing discipline held on peak ride: 17.2mph avg vs 17mph target on a 95-mile effort shows strong race-day pacing control",
+    "Run frequency and volume on track through step-down week with controlled HR (141 avg both days)"
+  ],
+  "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (overall 88/100, bike 92/100, run 78/100, recovery 83/100)",
-    "LAST 7 DAYS OF TRAINING (peak ride 96.6mi at 17.2mph, peak run 18.1mi, both executed)",
-    "LAST 7 NIGHTS SLEEP (7-day avg score 75/100, one night at 88)",
-    "Week 10 TSS: 127 of 400 target with 4 days remaining"
+    "Readiness engine: overall 88/100, recovery 83/100, run 78/100",
+    "Garmin sleep: 7-day avg 75/100, three nights <92% SpO2",
+    "Last 7 days actual vs scheduled: all sessions matched targets",
+    "Peak ride 2026-09-19: 96.6mi, 17.2mph avg, TSS 197",
+    "Peak run 2026-09-20: 18.1mi, 3h22m, TSS 202"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Ten weeks of structured data across all three disciplines with completed peak weekend provide strong baseline, but 7-day sleep average of 75 and three nights below 92% SpO2 indicate recovery is the limiting factor -- no HRV or detailed nutrition log limits precision on readiness depth."
+    "reason": "Strong data completeness on completed workouts and sleep tracking, but sleep quality variability and no HRV baseline limit confidence in peak recovery readiness with 25 days to race."
   },
   "athlete_context_considered": [
-    "Age 54, 25 days to Ironman California",
-    "Hip history (Perthes) -- 18.1mi peak run completed without noted issues",
-    "Walk/run 9/1 protocol on all runs",
-    "Bike pacing discipline: 17mph target (flat course strategy)",
-    "Step-down week (Week 10) after peak block"
+    "Hip history (Perthes) -- 18.1mi peak run completed with no pain flags noted",
+    "Walk/run 9:1 protocol embedded in all run sessions",
+    "Bike pacing discipline (17mph target) verified on peak ride",
+    "Age 54, step-down week intent after peak block"
   ],
   "race_implications": [
-    "Peak volume executed successfully (95mi bike, 18mi run) -- you have demonstrated the endurance base Sacramento requires with 25 days to absorb and taper",
-    "Peak ride averaged 17.2mph over 96.6mi -- 0.2mph over target but within reasonable margin on a step-down week; continue pacing discipline through remaining outdoor rides",
-    "Step-down week absorption is critical: if legs feel good on Sunday's 11-miler, the peak block consolidated properly and taper timing is correct"
+    "Peak block absorbed successfully -- 95mi bike + 18mi run completed without breakdown, validating race-distance readiness",
+    "Sleep inconsistency is the primary risk to taper quality -- three more weeks of sub-optimal sleep could blunt race-day sharpness",
+    "Bike pacing discipline demonstrated on peak ride (17.2mph on 95mi) translates directly to Sacramento race strategy"
   ],
-  "recommended_adjustments": [],
+  "recommended_adjustments": [
+    "Target 7.5+ hours sleep every night through race week -- treat it as non-negotiable as any workout",
+    "If SpO2 drops below 92% again tonight, evaluate sleep environment (position, room temp, possible apnea screening)",
+    "Today's 75min ride: confirm avg speed stays at or below 17mph -- this is step-down week, not a fitness test"
+  ],
   "generatedAt": "2026-09-23",
   "daysToRace": 25,
   "currentWeek": 10,
