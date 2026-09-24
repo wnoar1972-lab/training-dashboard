@@ -484,5 +484,23 @@
     "headline": "A 6.57-mile effort with wildly fluctuating pacing but steady heart rate control through the mid-140s",
     "analysis": "Your pace swung dramatically from 9:18 to 10:58 per mile across the middle splits, yet you held your average heart rate remarkably steady at 142 bpm throughout\u2014showing good cardiovascular consistency even when the legs weren't cooperating. That abbreviated mile 7 at 6:29 pace suggests you found another gear to finish, and your cadence of 83.5 steps per minute indicates there's room to quicken your turnover for more efficient running. The 140 suffer score reflects honest work across 63.6 minutes of moving time.",
     "relative_effort": 140.0
+  },
+  {
+    "strava_id": "20305199904",
+    "date": "2026-09-23",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN Canada 2021 40km",
+    "headline": "Virtual IRONMAN Canada course ride showcases terrain variety with massive pace swings from 1:48 to 7:58 per mile",
+    "analysis": "Your 24.89-mile indoor ride simulated the demanding 40km IRONMAN Canada course with dramatic elevation changes evident in the split pacing\u2014crushing mile 14 at 1:48/mi before hitting a steep climb at mile 10 (7:58/mi). Heart rate stayed impressively controlled at 112.9 bpm average despite the varied terrain, though your 59.3 RPM cadence suggests you were grinding through resistance rather than spinning efficiently. The low relative effort score of 29 indicates you kept this aerobic and controlled, well below your 30-day average pace of 3:45/mi.",
+    "relative_effort": 29.0
+  },
+  {
+    "strava_id": "20305432490",
+    "date": "2026-09-23",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Steady effort with a blazing final push that dropped nearly 5 minutes per mile off your pace",
+    "analysis": "You held a consistent rhythm through miles 1-3 at 10:10-10:21 pace while your heart rate climbed steadily from 138 to 147 bpm, right around your 30-day average of 10:12/mi. Then you unleashed a 5:45/mi final segment that spiked your heart rate to 163 bpm and earned you a relative effort of 85. That kind of finishing speed shows you've got plenty of top-end gear\u2014just watch that cadence of 82 spm, which is on the lower side for efficient running.",
+    "relative_effort": 85.0
   }
 ]

@@ -834,5 +834,38 @@
     "avgHR": 141.0,
     "distance": 10574.6,
     "duration": 3803.0
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 36.0,
+    "np": 0,
+    "avgHR": 142.0,
+    "distance": 5698.3,
+    "duration": 2145.0
+  },
+  {
+    "date": "2026-09-23",
+    "title": "ROUVY - IRONMAN Canada 2021 40km",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 34.0,
+    "np": 0,
+    "avgHR": 113.0,
+    "distance": 40050.0,
+    "duration": 5106.0
+  },
+  {
+    "date": "2026-09-23",
+    "title": "ROUVY - IRONMAN Canada 2021 40km",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 2.0,
+    "np": 0,
+    "avgHR": 88.0,
+    "distance": 1953.1,
+    "duration": 487.0
   }
 ]
