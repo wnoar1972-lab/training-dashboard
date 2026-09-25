@@ -502,5 +502,14 @@
     "headline": "Steady effort with a blazing final push that dropped nearly 5 minutes per mile off your pace",
     "analysis": "You held a consistent rhythm through miles 1-3 at 10:10-10:21 pace while your heart rate climbed steadily from 138 to 147 bpm, right around your 30-day average of 10:12/mi. Then you unleashed a 5:45/mi final segment that spiked your heart rate to 163 bpm and earned you a relative effort of 85. That kind of finishing speed shows you've got plenty of top-end gear\u2014just watch that cadence of 82 spm, which is on the lower side for efficient running.",
     "relative_effort": 85.0
+  },
+  {
+    "strava_id": "20318583318",
+    "date": "2026-09-24",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid aerobic foundation work over 2800 yards at a controlled intensity",
+    "analysis": "You spent just under an hour in the water maintaining a heart rate average of 106 bpm, which stayed comfortably aerobic with a max of only 121 bpm. Your stroke rate of 21.1 strokes per minute suggests you're focusing on efficiency and distance per stroke rather than turnover. With a suffer score of just 31, this session was all about building base endurance without digging deep\u2014smart training compared to your recent 2:10/100yd average pace.",
+    "relative_effort": 31.0
   }
 ]
