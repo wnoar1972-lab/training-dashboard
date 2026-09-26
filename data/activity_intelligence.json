@@ -511,5 +511,14 @@
     "headline": "Solid aerobic foundation work over 2800 yards at a controlled intensity",
     "analysis": "You spent just under an hour in the water maintaining a heart rate average of 106 bpm, which stayed comfortably aerobic with a max of only 121 bpm. Your stroke rate of 21.1 strokes per minute suggests you're focusing on efficiency and distance per stroke rather than turnover. With a suffer score of just 31, this session was all about building base endurance without digging deep\u2014smart training compared to your recent 2:10/100yd average pace.",
     "relative_effort": 31.0
+  },
+  {
+    "strava_id": "20338709152",
+    "date": "2026-09-25",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid hour in the pool building aerobic base with controlled effort",
+    "analysis": "You logged just over 2,700 yards in 61 minutes at a steady effort, keeping your heart rate remarkably controlled with an average of 109 bpm and a max of only 123. Your stroke rate of 28 strokes per minute shows you maintained consistent technique throughout. With a relative effort score of just 32, this was clearly an endurance-focused session that builds your aerobic foundation without digging deep.",
+    "relative_effort": 32.0
   }
 ]
