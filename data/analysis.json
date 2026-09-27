@@ -1,53 +1,48 @@
 {
-  "date": "September 26, 2026",
+  "date": "September 27, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's open water swim was 2778yd vs. a scheduled 1300yd easy aerobic session -- you more than doubled the planned distance. For a step-down week 22 days out from race day, this is the opposite of what the plan called for. TSS 23 and HR 108 suggest the intensity stayed aerobic, but the volume overshoot is a recovery-week discipline issue worth noting.",
-  "todayRecommendation": "Today's easy ride is 60 minutes outdoor, step-down intent. Keep it truly easy -- this is a recovery slot after last Saturday's peak 18-mile run. No session logged yet; go ride easy and call it done.",
-  "weekProgress": "Week 10 of 13 stands at 243 of 400 TSS (61% complete) with today's 60-minute ride and Sunday's 11-mile long run remaining. The week is back-loaded by design; you're on track to hit the target if both sessions complete as planned.",
-  "keyInsight": "You are 22 days out from Sacramento, in a step-down week, and recovery score is holding at 7/10 despite a 76/100 sleep average -- the training absorption is working, but discipline on planned distance/duration (yesterday's swim doubling) matters now more than adding volume.",
+  "yesterdayAnalysis": "Saturday's easy 60-minute ride delivered 1h38m at 27.6mi and 47 TSS, properly aligned with the step-down week intent. Avg speed of 16.8mph was appropriately under the 17mph race-pacing target\u2014this is exactly the disciplined holding-back that a flat course demands, not underperformance. HR 116 confirms easy aerobic intensity throughout.",
+  "todayRecommendation": "Today's long run is already complete: 11.1mi in 1h56m for 105 TSS at HR 138. That's a proper step-down execution (down from the 13.1mi peak). Focus now on hydration, fuel, and easy mobility work\u2014no additional training today. Monday brings a double (pool swim + easy run), so sleep is the priority tonight.",
+  "weekProgress": "Week 10 of 13 closes at 395 of 400 TSS (99% complete). All scheduled sessions executed, volume stepped down appropriately from peak, and run frequency maintained as planned\u2014this week absorbed the prior peak block exactly as designed.",
+  "keyInsight": "With 21 days to race, the step-down week was executed cleanly and sleep is tracking at 76/100 seven-day average\u2014recovery capacity is holding but not deep, making the next two weeks' taper sleep discipline critical.",
   "alerts": [
-    "Yesterday's swim was 2778yd vs. 1300yd scheduled -- volume discipline matters in step-down weeks",
-    "7-day sleep average is 76/100 (recovery readiness engine flags this at 83/100) -- one night at 55/100 is dragging the average",
-    "One night below 92% SpO2 (Sept 22 at 90%) -- monitor for patterns but not yet concerning"
+    "Sleep score 7-day avg is 76/100\u2014serviceable but not strong; two nights this week were 72-73, limiting recovery depth heading into taper",
+    "SpO2 dipped to 90% on Sep 22 and averaged 93.7% across the week\u2014monitor for any worsening trend, though single low night may be artifact"
   ],
   "positives": [
-    "Peak 18-mile run on Sept 20 completed at 3h22m with no hip/pain flags reported -- this was the defining readiness test and you passed it",
-    "Brick #9 executed on Sept 23 (85min ride + 35min run) -- nine bricks in the build is solid race-rehearsal volume",
-    "Swim TSS tracking well at 98/100 readiness -- race pace sets are being practiced consistently"
+    "Bike pacing discipline is holding: 16.8mph avg on Saturday's easy ride stayed under the 17mph target, reinforcing the patience needed for Sacramento's flat course",
+    "All nine scheduled sessions this week completed as written, including the step-down long run today at proper volume and HR",
+    "Brick count now at 9 total\u2014two race-rehearsal bricks remain in the plan, on track for the pre-taper goal"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: overall 88/100, swim 98/100, bike 92/100, run 78/100, recovery 83/100",
-    "Week 10 TSS: 243 of 400 (61% complete)",
-    "7-day sleep average: 76/100, 1 night below 92% SpO2",
-    "Peak run Sept 20: 18.1mi in 3h22m, TSS 202, HR 141",
-    "Brick count: 9 completed in build"
+    "Readiness engine: overall 89/100, recovery 83/100, run 82/100",
+    "Week TSS: 395 of 400 (99% complete per CURRENT TRAINING STATUS)",
+    "7-day avg sleep score: 76/100 from Garmin sleep data",
+    "Today's completed activity log: 11.1mi run, 1h56m, TSS 105, HR 138",
+    "Yesterday's ride: 27.6mi, 1h38m, 16.8mph avg, HR 116"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Readiness engine scoring across all disciplines, complete activity logs for the past 7 days, sleep data tracked nightly, and the defining peak long run (18mi) is now logged with no adverse events -- only HRV and detailed nutrition intake remain untracked."
+    "reason": "83 activities logged across 10 weeks of build, complete sleep tracking for 7 nights, readiness engine scoring all four systems, and today's session already recorded with full metrics\u2014only nutrition logging and HRV are not yet tracked."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes, right hip) -- no pain flags from peak 18mi run Sept 20",
-    "Walk/run 9:1 protocol applied to all runs",
-    "Active race: Sacramento IM Oct 18 (22 days out)",
-    "Step-down week intent (Week 10 focus: absorb peak block before taper)",
-    "Bike fit completed after Oregon 70.3 pain issues"
+    "Age 54, step-down week 10 of 13 build",
+    "Walk/run 9:1 protocol applied to today's long run",
+    "Hip history (Perthes, right side)\u2014long run load stepped down appropriately from 13.1mi peak",
+    "Bike fit completed post-Oregon, pacing discipline reinforced on flat Sacramento course",
+    "Race in 21 days (Ironman California, Oct 18)"
   ],
   "race_implications": [
-    "Peak 18mi run completed without hip/pain issues -- run durability is validated for Sacramento 26.2mi",
-    "Brick count at 9 with 22 days to race -- race-rehearsal volume is solid, focus now shifts to taper execution",
-    "Recovery score 7/10 in a step-down week is appropriate -- you're absorbing the peak load correctly"
+    "Step-down week executed cleanly with 21 days to race\u2014volume reduction is absorbing peak load as planned before taper begins",
+    "Bike pacing discipline (16.8mph vs 17mph target) demonstrates the patience needed to protect the run on Sacramento's flat course",
+    "Sleep averaging 76/100 is functional but not deep\u2014two taper weeks ahead are the window to bank quality rest before race day"
   ],
-  "recommended_adjustments": [
-    "Today's 60min ride: outdoor preferred, truly easy -- do not extend or add intensity",
-    "Tomorrow's 11mi long run: step down from the 18mi peak, legs should feel good -- this is a confirmation run, not a stress test",
-    "Sleep: target 8+ hours tonight and tomorrow to lift the 7-day average above 80/100 heading into final taper weeks"
-  ],
-  "generatedAt": "2026-09-26",
-  "daysToRace": 22,
+  "recommended_adjustments": [],
+  "generatedAt": "2026-09-27",
+  "daysToRace": 21,
   "currentWeek": 10,
   "weekPhase": "Build"
 }

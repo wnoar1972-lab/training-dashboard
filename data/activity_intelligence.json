@@ -520,5 +520,23 @@
     "headline": "Solid hour in the pool building aerobic base with controlled effort",
     "analysis": "You logged just over 2,700 yards in 61 minutes at a steady effort, keeping your heart rate remarkably controlled with an average of 109 bpm and a max of only 123. Your stroke rate of 28 strokes per minute shows you maintained consistent technique throughout. With a relative effort score of just 32, this was clearly an endurance-focused session that builds your aerobic foundation without digging deep.",
     "relative_effort": 32.0
+  },
+  {
+    "strava_id": "20342796551",
+    "date": "2026-09-26",
+    "disc": "bike",
+    "title": "Lunch Ride",
+    "headline": "43 PRs and a leisurely 116 bpm cruise make for a workout that's more exploration than exertion",
+    "analysis": "Your 27.63-mile ride came in at a relaxed 3:32/mi average pace\u20147% easier than your 30-day norm of 3:47/mi\u2014while your 116 average heart rate stayed well below your 138 max throughout. Those big slowdowns at miles 14 (24:21/mi) and 25 (12:47/mi) with heart rates dipping to 104-105 bpm suggest extended stops or navigation breaks that split up otherwise consistent 3:10-3:40/mi segments. With a modest suffer score of 54, this looks like an opportunity ride that prioritized route discovery over intensity.",
+    "relative_effort": 54.0
+  },
+  {
+    "strava_id": "20355948472",
+    "date": "2026-09-27",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Steady aerobic effort with a major slowdown at mile 10 derailing your pace consistency",
+    "analysis": "You held a solid rhythm for the first seven miles, staying between 10:08 and 11:13 pace while heart rate climbed steadily from 132 to 141 bpm. Mile 10's 16:24 pace stands out dramatically\u2014likely a stop or route deviation\u2014before you recovered to finish mile 11 at 12:39. Overall pace of 10:37/mi is slightly slower than your 30-day average of 10:17/mi, but your heart rate averaging 139 bpm suggests controlled aerobic work across the 11.08 miles.",
+    "relative_effort": 225.0
   }
 ]
