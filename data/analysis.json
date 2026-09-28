@@ -2,48 +2,47 @@
   "date": "September 28, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's 11.1mi long run completed the scheduled 11mi step-down session cleanly at 138 HR average, delivering 105 TSS. Distance, duration (1h56m), and heart rate all aligned with the taper phase -- this is exactly what a step-down long run should look like three weeks out from race day. Legs should feel good coming out of this.",
-  "todayRecommendation": "Today's session is pool swim 2,175yd (4x100 race pace) plus easy run 3mi (walk/run with 4x30 sec strides). This is the last race-pace swim set of the build -- execute the 4x100 intervals sharply but controlled, then keep the run truly easy with crisp strides to feel springy, not fatigued. Nothing logged yet, so get it done.",
-  "weekProgress": "Week 11 of 13: 0 of 320 TSS (0% complete) with 6 days remaining, including today. Week TSS is typically back-loaded toward the long sessions, and the week just started -- no concern at this point. This is a sharpener week with last race-pace efforts through Wednesday, then nothing hard after that.",
-  "keyInsight": "Sleep score remains the largest limiter at 75/100 seven-day average (recovery readiness 83/100) -- with 20 days to race day, sleep quality now directly determines race-day sharpness and resilience.",
+  "yesterdayAnalysis": "Yesterday's 11.1mi long run hit the 11mi target cleanly with HR 138 and TSS 105 -- right on profile for a step-down week taper run. Duration 1h56m puts the moving pace around 10:27/mi (inclusive of walk breaks), which is right in the race-target 10:50-11:30/mi window and shows the legs are responding well to the taper. This was a solid execution of a taper-volume run with no red flags.",
+  "todayRecommendation": "Today's swim (2,175yd with 4x100 race pace) and easy 3mi run (with 4x30 sec strides) are both sharpeners -- hit the race-pace swim efforts crisply but not aggressively, then keep the run easy (walk/run protocol) with the strides quick and relaxed to wake up leg turnover. No grinding -- feel sharp, not tired.",
+  "weekProgress": "Week 11 of 13: 0 of 320 TSS (0% complete) with 6 days remaining. This is normal for a Monday start in a week where TSS is typically back-loaded toward the long run (already done yesterday in the prior week). Today's swim+run and the remaining taper sessions will accumulate the target load without issue.",
+  "keyInsight": "Yesterday's long run pace and HR confirm the taper is working -- legs are moving at race-target speed without overreaching, and the step-down volume is letting fitness sharpen rather than fade.",
   "alerts": [
-    "Sleep score 7-day avg is 75/100 (recovery readiness 83/100) -- two nights this week scored 55 and 72, dragging the average down during a taper phase when recovery quality matters most",
-    "One night (Sep 22) showed 90% SpO2 -- may be artifact from night sweating, but monitor for pattern"
+    "Sleep score 7-day avg is 75/100 (readiness engine flags recovery at 83/100) -- two nights in the last week scored 72-73, and one dropped to 55. Taper week is the time to prioritize sleep: aim for 8+ hours every night through race day.",
+    "SpO2 avg is 93.7% with one night below 92% -- monitor for night sweating or other sleep-quality disruptors, especially as race week approaches."
   ],
   "positives": [
-    "Yesterday's 11.1mi long run executed cleanly at 138 HR avg -- distance, HR, and feel all aligned with step-down taper intent",
-    "Swim readiness 98/100 and bike readiness 91/100 -- both disciplines are dialed in heading into the sharpener week",
-    "Nine brick workouts completed through the build -- race-rehearsal execution is practiced and validated"
+    "Yesterday's 11.1mi run at 10:27/mi pace (walk/run inclusive) is right in the race-target 10:50-11:30/mi window -- pacing discipline is holding through the taper.",
+    "Bike TSS is 1738 total across the build with 866 TSS in the last 28 days vs. 898 expected -- volume is strong and readiness engine scores bike at 91/100.",
+    "Nine brick workouts completed across the build -- race-rehearsal execution is well-practiced and validated."
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: Overall 88/100, Swim 98/100, Bike 91/100, Run 80/100, Recovery 83/100",
-    "Last 7 nights sleep: 75/100 avg score, 93.7% avg SpO2, 1 night below 92%",
-    "Yesterday's activity: 11.1mi run, 105 TSS, 138 HR avg, 1h56m duration",
-    "Week TSS: 0 of 320 (0%) with 6 days remaining in Week 11 of 13"
+    "Readiness engine overall 88/100 (bike 91/100, run 80/100, recovery 83/100)",
+    "Yesterday's run: 11.1mi, HR 138, TSS 105, duration 1h56m vs. scheduled 11mi",
+    "Garmin sleep: 7-day avg score 75/100, avg SpO2 93.7%, one night below 92%",
+    "Week TSS: 0 of 320 (0% complete) with 6 days remaining in Week 11 of 13"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete training log with HR, TSS, distance, and duration for all activities; 10+ weeks of build data; readiness engine scores across all disciplines; comprehensive sleep tracking with SpO2 -- only nutrition intake detail is missing, but execution patterns are well established."
+    "reason": "Full training log across 83 activities in the build, complete sleep data for the last 7 nights, and readiness engine output covering all three disciplines -- the taper pattern and race-readiness trajectory are clear and well-documented."
   },
   "athlete_context_considered": [
-    "Age 54, taper week discipline",
     "Walk/run 9/1 protocol on all runs",
-    "Hip history (Perthes, stable) -- watch back-to-back run load",
-    "20 days to Ironman California (Oct 18)",
-    "Professional bike fit completed post-Oregon",
-    "Sharpener week: last race-pace efforts through Wed, nothing hard after"
+    "Age 54, Perthes hip history (stable, no pain noted in recent runs)",
+    "Race target: Ironman California 2026-10-18 (20 days out)",
+    "Run target pace 10:50-11:30/mi -- yesterday's 10:27/mi is on-target",
+    "Taper sharpener week (Week 11 of 13) -- last race-pace efforts, nothing hard after Wed"
   ],
   "race_implications": [
-    "Sleep quality at 75/100 avg now -- 20 days out is when taper sleep debt vs. sharpness trade-off becomes critical; poor sleep this week blunts race-day resilience",
-    "Swim and bike readiness (98/100, 91/100) are race-ready -- run readiness at 80/100 is the remaining discipline to sharpen over the next three weeks",
-    "Step-down long run yesterday (11.1mi at 138 HR) showed controlled execution -- if the sharpener week delivers crisp race-pace efforts Mon-Wed, taper momentum will be clean"
+    "Yesterday's long run pace at race-target speed with controlled HR confirms run fitness is race-ready and the taper is working as intended.",
+    "Sleep quality (75/100 avg) is the largest limiter flagged by the readiness engine -- prioritizing 8+ hours nightly through race day will protect the taper gains.",
+    "Bike readiness at 91/100 and nine completed bricks mean pacing discipline and race execution are well-rehearsed -- stay patient on the bike at 17mph to protect the run."
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hours sleep every night this week -- two sub-75 sleep scores in seven days is a taper-phase liability; address sleep hygiene, bedtime discipline, or environmental factors now",
-    "Execute today's 4x100 race-pace swim set sharply but not all-out, then keep the 3mi run truly easy with crisp strides -- feel springy, not fatigued",
-    "After Wednesday's easy ride (moved from Thursday per standing swap), nothing hard through race week -- resist any temptation to 'test fitness' or push pace in the final 17 days"
+    "Prioritize 8+ hours of sleep every night for the next 20 days -- sleep score dropped to 55 one night last week, and recovery is the weakest readiness metric (83/100). Taper fitness only sharpens if recovery is prioritized.",
+    "Today's race-pace swim efforts (4x100) should feel crisp and controlled, not a test -- the goal is neuromuscular sharpness, not a PR attempt.",
+    "Monitor SpO2 and any night sweating or sleep disruptions -- if the pattern continues, consider sleep position, hydration timing, or room temperature adjustments to protect sleep quality heading into race week."
   ],
   "generatedAt": "2026-09-28",
   "daysToRace": 20,
