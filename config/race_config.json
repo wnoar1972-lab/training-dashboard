@@ -23,7 +23,8 @@
     "bike_target_power_note": "TBD pending professional bike fit -- the Oregon target of 145-152w does not apply to Sacramento.",
     "bike_target_speed_mph": 17,
     "run_target_pace": "10:50-11:30/mi",
-    "run_walk_strategy": "9:1"
+    "run_walk_strategy": "9:1",
+    "run_pacing_plan": "Miles 1-6: 11:15-11:30/mi -- deliberately slow end, legs feel great off the bike, that's the trap. Miles 7-9: 11:00-11:15/mi -- ease into target pace. Miles 10-16: 10:50-11:10/mi -- CRITICAL WATCH ZONE, this is where the Oregon fade happened (miles 10-13 of that half marathon, driven by zero run fueling), and this time there's more accumulated fatigue entering it (112mi bike vs. Oregon's 56mi) -- gel every 20-25min without exception through here regardless of how good it feels. Miles 17-22: 10:50-11:10/mi -- hold target pace if legs/fueling have cooperated, don't chase faster. Miles 23-26.2: 10:30-10:50/mi if it's there -- only place to let pace drop; if the early discipline paid off this is the reward zone, if not hold steady rather than force it. All segments still run walk/run 9:1 plus a walk at every aid station -- paces already account for that."
   },
   "course_notes": "Flat, 2-loop bike course -- pacing discipline matters more than raw power. River swim.",
   "climate_notes": "October in Sacramento -- heat preparation still relevant, though cooler than a summer race.",
