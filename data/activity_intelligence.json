@@ -538,5 +538,14 @@
     "headline": "Steady aerobic effort with a major slowdown at mile 10 derailing your pace consistency",
     "analysis": "You held a solid rhythm for the first seven miles, staying between 10:08 and 11:13 pace while heart rate climbed steadily from 132 to 141 bpm. Mile 10's 16:24 pace stands out dramatically\u2014likely a stop or route deviation\u2014before you recovered to finish mile 11 at 12:39. Overall pace of 10:37/mi is slightly slower than your 30-day average of 10:17/mi, but your heart rate averaging 139 bpm suggests controlled aerobic work across the 11.08 miles.",
     "relative_effort": 225.0
+  },
+  {
+    "strava_id": "20372343643",
+    "date": "2026-09-28",
+    "disc": "swim",
+    "title": "Evening Swim",
+    "headline": "Solid 2450-yard evening session with controlled heart rate and consistent stroke tempo",
+    "analysis": "You spent just over 50 minutes in the pool, working at a pace slightly easier than your 30-day average of 2:10/100yd while keeping your heart rate remarkably steady at 108 bpm average. Your stroke rate of 21.5 strokes per minute shows good rhythm and control throughout the session. With a relatively low suffer score of 29, this looks like quality aerobic base work that didn't dig too deep into the tank.",
+    "relative_effort": 29.0
   }
 ]
