@@ -1,53 +1,51 @@
 {
-  "date": "September 29, 2026",
+  "date": "September 30, 2026",
   "overallStatus": "Needs Attention",
   "statusColor": "yellow",
-  "yesterdayAnalysis": "Monday's pool swim hit 2,450yd against a 2,175yd target\u2014good execution on the race-pace 4x100 set. The second half of the scheduled session (easy run 3mi with 4x30sec strides) was skipped entirely. That's a missing taper sharpener that was specifically programmed to maintain leg turnover and neuromuscular readiness 19 days out from race day.",
-  "todayRecommendation": "Run Club is on the schedule tonight\u2014walk/run protocol, taper intensity, and enjoy it. This is a social recovery run, not a hard session. Last night's sleep was catastrophic (56 score, 4.7h, only 25min REM) and you're carrying a skipped run from yesterday\u2014keep today truly easy and prioritize an early bedtime tonight to stop the sleep debt from compounding.",
-  "weekProgress": "Week 11 of 13: 18 of 320 TSS (6% complete). Five days remain including today, and the week is typically back-loaded toward the long run Sunday and the OW gear-test swim Saturday, so the low percentage is structurally normal. However, yesterday's missing run means the week is already behind one scheduled session.",
-  "keyInsight": "Last night's 4.7-hour sleep with 56 score and minimal REM is a red flag this close to race day\u2014one bad night happens, but if it repeats you're undermining every taper benefit you've earned in the previous 10 weeks.",
+  "yesterdayAnalysis": "Yesterday's Run Club session was 6.0mi in 59min (walk/run) with HR 143 and TSS 63 -- solid execution for taper week, matching the scheduled easy effort. Pace discipline was appropriate for this point in the taper, keeping the stimulus moderate while maintaining run mechanics.",
+  "todayRecommendation": "Today's easy ride is 45 min with NP under 140w (taper intensity, moved from Thursday via standing Wed/Thu swap). Keep this truly easy -- this is about movement and neuromuscular priming, not fitness stimulus. With two consecutive poor sleep nights (scores 42 and 56), treat this as active recovery and prioritize rest afterward.",
+  "weekProgress": "Week 11 of 13 shows 81 of 320 target TSS (25% complete) with 4 days remaining. This is normal early-week tracking with the long run (9mi, significant TSS) still ahead on Sunday, but sleep quality is undermining taper effectiveness -- two of the last three nights scored below 60/100, with last night showing zero REM sleep.",
+  "keyInsight": "Sleep disruption in taper week (scores 42 and 56 the last two nights, zero REM last night) is directly threatening race readiness 18 days out -- this is when the body should be banking adaptation, not accumulating deficit.",
   "alerts": [
-    "Sleep crash last night: 56 score, 4.7h duration, only 25min REM\u20147-day avg dropped to 72 and recovery score is now 82/100",
-    "Monday's scheduled easy run 3mi + strides was skipped after the swim",
-    "Two poor sleep nights in the last 7 days (scores 55 and 56)\u2014taper should be improving sleep, not degrading it"
+    "Last night: sleep score 42/100, 7.3h duration but ZERO REM sleep -- this is a red flag for recovery quality in taper",
+    "7-day avg sleep score is 67/100 -- below the 75/100 threshold flagged by the readiness engine as the largest limiter",
+    "Two of last three nights scored below 60/100 -- sleep consistency is breaking down exactly when taper demands it most"
   ],
   "positives": [
-    "Monday's swim extended to 2,450yd and hit the race-pace 4x100 set as programmed",
-    "Sunday's 11.1mi long run executed at 138 HR with 105 TSS\u2014step-down volume handled well",
-    "Bike pacing discipline held on Thursday's 60min ride: 16.8mph avg, exactly on strategy for a flat-course race"
+    "Run Club yesterday executed correctly for taper -- 6.0mi, walk/run protocol, HR 143, appropriate stimulus control",
+    "Week TSS tracking is normal for early-week (25% with 4 days left, long run Sunday ahead)",
+    "Pool swim 2450yd on 9/28 slightly exceeded the 2175yd target with 4x100 race-pace work completed"
   ],
   "recoveryScore": 4,
-  "trainingLoadStatus": "Optimal",
+  "trainingLoadStatus": "Fatigued",
   "evidence": [
-    "Readiness engine: overall 88/100, recovery 82/100, run 79/100",
-    "Garmin sleep scores last 7 nights: 56, 79, 72, 73, 94, 55, 75 (7-day avg 72/100)",
-    "Last night's sleep: 56 score, 4.7h duration, 25min REM, 91min deep",
-    "Yesterday's activity log: 2,450yd swim completed, scheduled 3mi run skipped",
-    "Week TSS: 18 of 320 target (6% complete), 5 days remaining"
+    "Garmin sleep scores (last 7 nights: 42, 56, 79, 72, 73, 94, 55 -- avg 67/100)",
+    "Last night sleep architecture (0min REM, 65min deep from 7.3h total)",
+    "Readiness engine recovery score 82/100, flagging 7-day sleep avg 75/100 as largest limiter",
+    "Week TSS 81 of 320 target (25% complete, 4 days remaining)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete 11-week build history, daily sleep tracking, and readiness metrics all available; confidence is high on training execution but last night's sleep outlier introduces uncertainty about whether this is situational or the start of a pattern."
+    "reason": "Complete 7-day sleep data with detailed architecture (REM/deep), activity logs with HR/TSS/distance for all recent sessions, and readiness engine scoring across all disciplines -- zero REM sleep last night is unambiguous and objectively concerning."
   },
   "athlete_context_considered": [
-    "Age 54, 19 days to Ironman California",
-    "Walk/run 9min/1min protocol on all runs",
-    "Taper week 11 of 13\u2014last race-pace efforts, nothing hard after Wednesday",
-    "Perthes hip history\u2014watching for associations with back-to-back run load",
-    "Sleep quality as recovery limiter (readiness engine 82/100)"
+    "Age 54 -- recovery capacity and sleep quality are critical limiters at this age, especially in taper",
+    "18 days to Ironman California (2026-10-18) -- taper window where sleep becomes the primary adaptation driver",
+    "TRT protocol (clinician-managed) -- sleep disruption may interact with injection timing or dosing",
+    "Build week 11 of 13 (sharpener week) -- last race-pace efforts, then nothing hard after Wednesday"
   ],
   "race_implications": [
-    "One skipped sharpener isn't a fitness loss, but the taper is designed to preserve neuromuscular snap\u2014missing strides this close to race day means you're betting on race-day adrenaline to make up for it",
-    "Sleep is now the single largest controllable variable affecting race-day readiness\u2014another 4-5 hour night this week will directly erode the run target of 4:45",
-    "Taper should be making you feel springy and rested; instead recovery score dropped and a session was skipped\u2014this is the opposite trajectory you need 19 days out"
+    "Sleep deficit in taper directly erodes race-day performance -- adaptation happens during sleep, and zero REM sleep means zero consolidation of neuromuscular patterns",
+    "Two weeks of poor sleep consistency (67/100 avg) going into race week will leave fitness on the table even if training execution is perfect",
+    "If sleep does not improve in the next 7 days, race targets (12:59:59 finish, 4:45 run) are at material risk regardless of taper workouts"
   ],
   "recommended_adjustments": [
-    "Tonight after Run Club: lights out by 9:30 PM, no negotiation\u2014you need 8+ hours to reverse last night's damage and stabilize the 7-day sleep average before race week",
-    "If you can't identify why last night was only 4.7 hours (late obligation, insomnia, etc.), treat it as a warning and actively manage sleep hygiene through race day\u2014dark room, cool temp, no screens after 8 PM",
-    "Consider adding the skipped strides to Wednesday's easy 45min ride cooldown (4x30sec high-cadence spin-ups, easy gear) to preserve some neuromuscular sharpness without scheduling a makeup run"
+    "Immediate: identify and address sleep disruption causes tonight -- review sleep hygiene (room temp, light, caffeine cutoff), consider whether TRT injection timing is affecting sleep architecture, and prioritize an 8+ hour sleep opportunity",
+    "Track sleep score and REM/deep architecture daily for the next 7 nights -- if scores remain below 70/100 or REM stays suppressed, consult your clinician about TRT timing or other medical factors before race week",
+    "Consider moving today's easy ride to mid-morning rather than evening if that improves tonight's sleep window -- 45min NP<140w can happen any time, but sleep tonight cannot be recovered later"
   ],
-  "generatedAt": "2026-09-29",
-  "daysToRace": 19,
+  "generatedAt": "2026-09-30",
+  "daysToRace": 18,
   "currentWeek": 11,
   "weekPhase": "Taper"
 }

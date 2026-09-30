@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "calculation_version": "1.0.0",
   "race_type": "full_distance_triathlon",
   "current_week": 11,
@@ -7,8 +7,8 @@
   "overall_score": 88,
   "overall_status": "Strong",
   "overall_confidence": "moderate",
-  "strongest_positive_factor": "bike (92/100): Volume: 866 TSS in the last 28 days vs. an expected ~885 (blended across each week's own target in that window).",
-  "largest_limiter": "recovery (82/100): 7-day-avg sleep score is 76/100.",
+  "strongest_positive_factor": "bike (92/100): Volume: 866 TSS in the last 28 days vs. an expected ~871 (blended across each week's own target in that window).",
+  "largest_limiter": "recovery (82/100): 7-day-avg sleep score is 75/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
     "swim": 0.225,
@@ -20,7 +20,7 @@
     "swim": {
       "score": 98,
       "status": "Strong",
-      "top_factor": "Volume: 374 TSS in the last 28 days vs. an expected ~319 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 374 TSS in the last 28 days vs. an expected ~314 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest swim session is 4025yd (95% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer swim sessions (already on the schedule) will directly raise this score.",
       "trend": "improving",
@@ -32,7 +32,7 @@
     "bike": {
       "score": 92,
       "status": "Strong",
-      "top_factor": "Volume: 866 TSS in the last 28 days vs. an expected ~885 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 866 TSS in the last 28 days vs. an expected ~871 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest bike session is 96.6mi (86% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer bike sessions (already on the schedule) will directly raise this score.",
       "trend": "improving",
@@ -42,9 +42,9 @@
       "confidence": "moderate"
     },
     "run": {
-      "score": 79,
+      "score": 80,
       "status": "On track",
-      "top_factor": "Volume: 1111 TSS in the last 28 days vs. an expected ~1253 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 1109 TSS in the last 28 days vs. an expected ~1233 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 18.1mi (69% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer run sessions (already on the schedule) will directly raise this score.",
       "trend": "improving",
@@ -56,8 +56,8 @@
     "recovery": {
       "score": 82,
       "status": "Recovered",
-      "top_factor": "Resting HR is 54.1 bpm, -0.4 bpm vs. the all-time baseline of 54.5 bpm.",
-      "top_limiter": "7-day-avg sleep score is 76/100.",
+      "top_factor": "Resting HR is 54.2 bpm, -0.4 bpm vs. the all-time baseline of 54.6 bpm.",
+      "top_limiter": "7-day-avg sleep score is 75/100.",
       "how_to_improve": "Sleep quality is the limiter -- prioritize consistent bed/wake times and duration over the next week or two; this responds faster than most training changes.",
       "trend": "stable",
       "evidence_window_days": 28,

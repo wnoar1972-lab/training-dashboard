@@ -547,5 +547,14 @@
     "headline": "Solid 2450-yard evening session with controlled heart rate and consistent stroke tempo",
     "analysis": "You spent just over 50 minutes in the pool, working at a pace slightly easier than your 30-day average of 2:10/100yd while keeping your heart rate remarkably steady at 108 bpm average. Your stroke rate of 21.5 strokes per minute shows good rhythm and control throughout the session. With a relatively low suffer score of 29, this looks like quality aerobic base work that didn't dig too deep into the tank.",
     "relative_effort": 29.0
+  },
+  {
+    "strava_id": "20387266118",
+    "date": "2026-09-29",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Solid hour of work settling into a steady rhythm before fading in the final miles",
+    "analysis": "You held a consistent 10:02-10:14/mi pace through miles 2-4 while your heart rate climbed steadily from 136 to 149 bpm, showing good aerobic control just under your 30-day average of 10:20/mi. The wheels came off in miles 5-6, slowing to 11:22 and 11:12/mi respectively, though your heart rate stayed elevated at 149 and 144 bpm. That 147 suffer score for 60 minutes suggests you pushed hard enough to feel it\u2014next time, consider starting slightly more conservatively to maintain that sub-10:15 pace all the way through.",
+    "relative_effort": 147.0
   }
 ]
