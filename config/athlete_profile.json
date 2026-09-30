@@ -111,6 +111,11 @@
       "date": "2026-09-21",
       "category": "equipment",
       "note": "Bike going to the shop for a tune-up, ~4-5 business days (shop closed Wed/Sun). Plan: drop off Saturday 9/26 after that day's scheduled ride, expected back ~Fri 10/2-Sat 10/3. Athlete has a separate bike trainer available, so any ride falling during the shop window (Sat 9/26's already done by drop-off time; Thu 10/1's easy ride is the one at risk) gets substituted on the trainer rather than skipped -- no aero position during trainer substitution, but that's negligible for an easy taper-phase session. No conflict with the Oct 9 travel date -- travel is actually Oct 15 (see 2026-10 schedule correction)."
+    },
+    {
+      "date": "2026-09-30",
+      "category": "sleep",
+      "note": "Sleep score 42/100 (\"Poor\"), driven almost entirely by REM=0min -- total duration (7.3h) and deep sleep (65min) were both normal, and athlete reported the sleep felt genuinely restful. Explanation: took cannabis edibles before bed, and THC is well-documented to suppress REM sleep even when total sleep time/subjective quality are unaffected; also plausibly explains resting HR running a few points higher than the prior two nights (55-56 -> 59), a known mild/temporary THC effect on HR. Not a true recovery concern -- do not read this night as a fatigue or overtraining signal. 7-day recovery score barely moved (82, \"Recovered\") since it's already rolling-averaged."
     }
   ]
 }
