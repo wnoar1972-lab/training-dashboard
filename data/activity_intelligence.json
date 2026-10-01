@@ -556,5 +556,14 @@
     "headline": "Solid hour of work settling into a steady rhythm before fading in the final miles",
     "analysis": "You held a consistent 10:02-10:14/mi pace through miles 2-4 while your heart rate climbed steadily from 136 to 149 bpm, showing good aerobic control just under your 30-day average of 10:20/mi. The wheels came off in miles 5-6, slowing to 11:22 and 11:12/mi respectively, though your heart rate stayed elevated at 149 and 144 bpm. That 147 suffer score for 60 minutes suggests you pushed hard enough to feel it\u2014next time, consider starting slightly more conservatively to maintain that sub-10:15 pace all the way through.",
     "relative_effort": 147.0
+  },
+  {
+    "strava_id": "20400852505",
+    "date": "2026-09-30",
+    "disc": "bike",
+    "title": "ROUVY - Avenue of the Giants | California | USA",
+    "headline": "Variable terrain on the Avenue of the Giants kept your cadence low but heart rate steady through climbs and descents",
+    "analysis": "Your 19.88-mile virtual ride showed the route's rolling profile with mile splits swinging from a fast 2:37/mi descent on mile 7 to a 6:10/mi grind on mile 4. Your average cadence of 56.9 RPM suggests you were grinding through resistance rather than spinning, especially evident on the Miranda climb segment at 491 seconds. Heart rate stayed remarkably controlled at 113 average despite the terrain changes, though you ramped up to 130 by mile 19 as fatigue set in.",
+    "relative_effort": 28.0
   }
 ]

@@ -933,5 +933,16 @@
     "avgHR": 143.0,
     "distance": 9677.1,
     "duration": 3586.0
+  },
+  {
+    "date": "2026-09-30",
+    "title": "ROUVY - Avenue of the Giants | Californi",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 24.0,
+    "np": 0,
+    "avgHR": 113.0,
+    "distance": 32000.2,
+    "duration": 4122.0
   }
 ]
