@@ -1,51 +1,52 @@
 {
-  "date": "October 01, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Easy ride executed at 19.9mi in 1h08m, 17.4mph avg, TSS 24, HR 113 -- pace discipline violated the taper prescription. The scheduled session called for NP under 140w and explicitly noted this is taper week, but 17.4mph avg on a flat course is meaningfully above the 17mph pacing target and signals you pushed harder than the plan required. This is a pacing-discipline red flag heading into race week, not a fitness win.",
-  "todayRecommendation": "Pool swim 2,175yd scheduled today with race-pace work -- execute the intervals sharp but controlled, then get off your feet. After two consecutive nights of severely disrupted sleep (scores 42 and 56, 4.7h and 7.3h duration), prioritize an early bedtime tonight to recover the sleep debt before race week starts.",
-  "weekProgress": "Week 11 of 13: 105 of 320 TSS (33% complete) with 3 days remaining including today. The long run Sunday and today's swim will carry the bulk of the remaining load, so the TSS percentage is tracking normally for a Thursday in taper -- no sessions have been skipped.",
-  "keyInsight": "Yesterday's easy ride was ridden 0.4mph over the race pacing target despite explicit taper instructions to stay under 140w -- this is a pacing-discipline concern 17 days out, and combined with two nights of poor sleep (42 and 56 scores) it signals you need to throttle back and prioritize rest, not push efforts.",
+  "date": "October 02, 2026",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "Yesterday's pool swim was 2,200yd against a scheduled 2,175yd race-pace session -- target met, duration 46min was efficient. HR 109 is appropriate for a taper-week race-pace effort. Execution was clean and on schedule.",
+  "todayRecommendation": "Today's session is a very light 1,100yd pool swim (very easy) -- this is a new Friday taper swim, purely for feel and turnover. Keep it truly easy, no race-pace surges, and treat it as active recovery. Tomorrow's open water swim at La Jolla is the WIN.MAX goggle test in bright morning sun.",
+  "weekProgress": "Week 11 of 13: 123 of 320 TSS complete (38%). This is a sharpener/taper week with load intentionally back-loaded toward the weekend long run (9mi Sunday). No sessions skipped, and the percentage is normal for Friday morning in a week with a Sunday long effort. On track.",
+  "keyInsight": "Sleep quality is the limiting factor right now -- 7-day average is 70/100, dragged down by two very poor nights (score 42 and 56) midweek, which directly impacts the recovery score of 83/100 with 16 days to race.",
   "alerts": [
-    "Sleep scores 42 (7.3h, 0min REM) and 56 (4.7h) on Sep 30 and 29 -- two consecutive severely disrupted nights with minimal REM recovery heading into final taper",
-    "Yesterday's easy ride ridden at 17.4mph avg vs 17mph pacing target -- taper week is not the time to test fitness, and overpacing a flat course risks the run (your own Oregon lesson)",
-    "7-day avg sleep score 73/100 flags recovery limiter at 83/100 in readiness engine -- sleep debt is real and needs addressing before race week"
+    "Sleep: Two nights this week (Sep 29: 4.7h, score 56; Sep 30: 7.3h, score 42) were significantly below recovery standard in the final taper phase",
+    "Recovery score 83/100 is the largest limiter per readiness engine -- prioritize sleep quality and duration over the next 16 days"
   ],
   "positives": [
-    "Run club Tuesday executed at 6.0mi, TSS 63, HR 143 -- solid controlled effort in taper week with good attendance at the session",
-    "Long run Sunday completed 11.1mi in 1h56m, TSS 105, HR 138 -- clean execution of the step-down long run with legs reportedly feeling good",
-    "Last night's sleep rebounded to 92 score, 8.0h duration, 129min REM, RHR 52 -- strong recovery night after two poor ones"
+    "All scheduled sessions this week completed as planned with no skips or shortenings",
+    "Bike pacing discipline held: Wednesday's easy ride was 17.4mph avg (only 0.4mph over the 17mph target) at NP under target, appropriate for a taper easy spin",
+    "Swim execution remains strong: 2,200yd race-pace session yesterday was efficient (46min) and on-target for distance"
   ],
-  "recoveryScore": 5,
-  "trainingLoadStatus": "Fatigued",
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (recovery 83/100, bike 90/100, run 78/100)",
-    "Garmin sleep (7-day avg 73/100, two consecutive nights scored 42 and 56)",
-    "CURRENT TRAINING STATUS (105 of 320 TSS, 33% complete)",
-    "YESTERDAY'S WORKOUT (avg speed 17.4mph vs 17mph pacing target)"
+    "Readiness engine: overall 88/100, swim 98/100, bike 90/100, run 79/100, recovery 83/100",
+    "Garmin sleep: 7-day avg 70/100, two nights (Sep 29, Sep 30) scored 56 and 42",
+    "Week TSS: 123 of 320 (38% complete), per CURRENT TRAINING STATUS",
+    "Bike pacing: Wednesday 17.4mph vs 17mph target (within 0.4mph)",
+    "Yesterday swim: 2,200yd vs 2,175yd scheduled"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "86 activities logged across 11 weeks of structured build with complete sleep tracking, readiness engine scores, and HR data -- the pacing overshoot and sleep disruption are both clearly documented and directly measurable against targets."
+    "level": "moderate",
+    "reason": "Strong data completeness on TSS, sleep scores, pacing, and session execution over 11 weeks; confidence limited by lack of HRV tracking, no nutrition log to validate race-day fueling readiness, and the two recent poor sleep nights introducing recovery uncertainty in the final taper window."
   },
   "athlete_context_considered": [
-    "17 days to Ironman California (race Oct 18)",
-    "Bike pacing target 17mph on flat course -- discipline to hold back is explicitly the strategy",
-    "Oregon 70.3 lesson: bike position and run nutrition failures -- pacing discipline on the bike protects the run",
-    "Age 54, TRT, Perthes hip -- recovery capacity is a real constraint and sleep debt compounds quickly"
+    "Age 54, 16 days to Ironman California",
+    "Taper week (Week 11 of 13, sharpener phase)",
+    "Prior race lesson: bike position fixed, run nutrition validated",
+    "Walk/run 9:1 protocol",
+    "Hip history (Perthes, right) -- monitoring load associations"
   ],
   "race_implications": [
-    "Overpacing yesterday's easy ride by 0.4mph in taper week suggests you are still inclined to push when the plan says hold back -- this exact impulse will cost you on race day if you ride 18+ mph early and blow up the run",
-    "Two nights of poor sleep (42, 56 scores) in final taper erode recovery capacity heading into race week -- you cannot carry sleep debt into a 140.6 and expect to execute a 12:59 finish",
-    "Recovery score 5/10 and fatigued status 17 days out means the next 10 days must prioritize rest, not fitness -- all the fitness is built, what you need now is freshness"
+    "Swim readiness is very strong (98/100) -- race-pace sessions are crisp and on-target, supporting the 1:20 swim goal",
+    "Bike readiness (90/100) and pacing discipline are solid, but sleep deficits could compromise race-day cognitive sharpness for the flat 112mi patience strategy",
+    "Recovery deficit (83/100) from poor sleep may limit run performance (79/100 readiness) -- prioritize sleep quality in the next 16 nights to support the 4:45 run target"
   ],
   "recommended_adjustments": [
-    "Execute today's pool swim as scheduled, then prioritize an early bedtime tonight (target 9+ hours in bed) to recover the sleep debt from the last two nights before race week starts",
-    "This weekend's easy OW swim Saturday and 9mi long run Sunday: treat both as strictly aerobic, no tempo creep -- if you feel frisky, bank that energy for race day, do not spend it in taper",
-    "Next week (Week 12) and the following race week (Week 13): watch bike pacing on every ride like a hawk -- any session ridden meaningfully over 17mph avg is a red flag, and you need to internalize that holding back is the correct execution, not underperformance"
+    "Sleep: Aggressively prioritize 8+ hours and address whatever caused the 4.7h and 7.3h nights (Sep 29, Sep 30) -- consider earlier bedtime, sleep hygiene check, or clinician consultation if patterns persist",
+    "Tomorrow's open water swim: Confirm WIN.MAX goggles aren't too dark at sunrise before committing to them for Sacramento race morning",
+    "No training adjustments needed -- taper is on schedule, hold the plan and resist any urge to add volume or intensity"
   ],
-  "generatedAt": "2026-10-01",
-  "daysToRace": 17,
+  "generatedAt": "2026-10-02",
+  "daysToRace": 16,
   "currentWeek": 11,
   "weekPhase": "Taper"
 }

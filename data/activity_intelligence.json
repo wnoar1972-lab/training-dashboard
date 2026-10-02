@@ -565,5 +565,14 @@
     "headline": "Variable terrain on the Avenue of the Giants kept your cadence low but heart rate steady through climbs and descents",
     "analysis": "Your 19.88-mile virtual ride showed the route's rolling profile with mile splits swinging from a fast 2:37/mi descent on mile 7 to a 6:10/mi grind on mile 4. Your average cadence of 56.9 RPM suggests you were grinding through resistance rather than spinning, especially evident on the Miranda climb segment at 491 seconds. Heart rate stayed remarkably controlled at 113 average despite the terrain changes, though you ramped up to 130 by mile 19 as fatigue set in.",
     "relative_effort": 28.0
+  },
+  {
+    "strava_id": "20414685244",
+    "date": "2026-10-01",
+    "disc": "swim",
+    "title": "Evening Swim",
+    "headline": "Solid 2200-yard session with controlled heart rate and steady rhythm",
+    "analysis": "You maintained a pace of 2:06 per 100 yards over this 46-minute swim, which is 4 seconds faster per 100 than your 30-day average of 2:10. Your heart rate stayed remarkably controlled, averaging just 108 bpm and topping out at 121, while you held a consistent 21.2 strokes per minute throughout. The low relative effort score of 26 suggests this was a well-paced aerobic builder that should support your base fitness without excessive fatigue.",
+    "relative_effort": 26.0
   }
 ]
