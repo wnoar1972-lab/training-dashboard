@@ -2,48 +2,47 @@
   "date": "October 02, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's pool swim was 2,200yd against a scheduled 2,175yd race-pace session -- target met, duration 46min was efficient. HR 109 is appropriate for a taper-week race-pace effort. Execution was clean and on schedule.",
-  "todayRecommendation": "Today's session is a very light 1,100yd pool swim (very easy) -- this is a new Friday taper swim, purely for feel and turnover. Keep it truly easy, no race-pace surges, and treat it as active recovery. Tomorrow's open water swim at La Jolla is the WIN.MAX goggle test in bright morning sun.",
-  "weekProgress": "Week 11 of 13: 123 of 320 TSS complete (38%). This is a sharpener/taper week with load intentionally back-loaded toward the weekend long run (9mi Sunday). No sessions skipped, and the percentage is normal for Friday morning in a week with a Sunday long effort. On track.",
-  "keyInsight": "Sleep quality is the limiting factor right now -- 7-day average is 70/100, dragged down by two very poor nights (score 42 and 56) midweek, which directly impacts the recovery score of 83/100 with 16 days to race.",
+  "yesterdayAnalysis": "Thursday's pool swim executed cleanly at 2,200yd against a 2,175yd target, hitting race-pace intensity appropriately at TSS 18 and HR 109. This was the final race-pace swim session before taper lightens further -- the athlete should feel sharp and fast heading into the final two weeks. Execution was on-target for a taper week.",
+  "todayRecommendation": "Today's 1,100yd pool swim is very easy recovery work only -- keep effort conversational, HR under 115, no fast sets. Tomorrow's open water swim at La Jolla is the critical gear test: wear the WIN.MAX polarized/mirrored goggles in bright morning sun to validate they aren't too dark at race-start light levels before committing to them for Sacramento.",
+  "weekProgress": "Week 11 of 13 shows 123 of 320 TSS (38% complete) with two days remaining, including today's light swim and Sunday's 9-mile taper long run. The week is appropriately back-loaded and on pace -- Mon/Tue/Wed/Thu executed as scheduled, no missed sessions.",
+  "keyInsight": "Sleep quality remains the single largest limiter at 70/100 seven-day average with two very poor nights (42 and 56 scores on Sep 29-30, including one night with zero REM sleep) dragging the week down -- prioritize sleep hygiene and full nights through race day.",
   "alerts": [
-    "Sleep: Two nights this week (Sep 29: 4.7h, score 56; Sep 30: 7.3h, score 42) were significantly below recovery standard in the final taper phase",
-    "Recovery score 83/100 is the largest limiter per readiness engine -- prioritize sleep quality and duration over the next 16 days"
+    "7-day avg sleep score is 70/100 -- two nights (Sep 29: 4.7h/56 score, Sep 30: 7.3h/42 score with 0min REM) were significantly disrupted and are affecting recovery readiness heading into race week",
+    "Recovery score from readiness engine is 83/100 -- not critical, but sleep debt is the documented cause and needs attention in the final 16 days"
   ],
   "positives": [
-    "All scheduled sessions this week completed as planned with no skips or shortenings",
-    "Bike pacing discipline held: Wednesday's easy ride was 17.4mph avg (only 0.4mph over the 17mph target) at NP under target, appropriate for a taper easy spin",
-    "Swim execution remains strong: 2,200yd race-pace session yesterday was efficient (46min) and on-target for distance"
+    "Swim execution has been precise and consistent -- 2,450yd Mon, 2,200yd Thu both hit targets with appropriate HR (109) and race-pace sharpness",
+    "Bike pacing discipline held on Wed's easy ride: 17.4mph avg against 17mph target, staying close to race-pace strategy on a taper week",
+    "Run volume appropriately stepped down (11.1mi last Sunday, 6mi Tue Run Club) as taper progresses -- legs should feel springy for Sunday's final 9mi long run"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: overall 88/100, swim 98/100, bike 90/100, run 79/100, recovery 83/100",
-    "Garmin sleep: 7-day avg 70/100, two nights (Sep 29, Sep 30) scored 56 and 42",
-    "Week TSS: 123 of 320 (38% complete), per CURRENT TRAINING STATUS",
-    "Bike pacing: Wednesday 17.4mph vs 17mph target (within 0.4mph)",
-    "Yesterday swim: 2,200yd vs 2,175yd scheduled"
+    "Readiness engine overall 88/100 (Swim 98/100, Bike 90/100, Run 79/100, Recovery 83/100)",
+    "Garmin sleep data (7-day avg score 70/100, two poor nights with scores 42 and 56)",
+    "Intervals.icu planned vs actual for Week 11 (123 of 320 TSS, 38% complete)",
+    "Last 7 days activity log showing completed sessions against scheduled targets"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Strong data completeness on TSS, sleep scores, pacing, and session execution over 11 weeks; confidence limited by lack of HRV tracking, no nutrition log to validate race-day fueling readiness, and the two recent poor sleep nights introducing recovery uncertainty in the final taper window."
+    "level": "high",
+    "reason": "Complete activity logs with HR/TSS/distance/duration for all recent sessions, structured readiness scores across all disciplines, and detailed sleep data including REM/deep/SpO2 provide a full picture 16 days out from race day."
   },
   "athlete_context_considered": [
-    "Age 54, 16 days to Ironman California",
-    "Taper week (Week 11 of 13, sharpener phase)",
-    "Prior race lesson: bike position fixed, run nutrition validated",
-    "Walk/run 9:1 protocol",
-    "Hip history (Perthes, right) -- monitoring load associations"
+    "Age 54, Ironman California Oct 18 (16 days out)",
+    "Walk/run 9min/1min protocol",
+    "Perthes disease right hip (stable, no load concerns flagged)",
+    "Taper week 11 of 13 -- intentionally light TSS, final race-pace efforts done",
+    "Sacramento sun-glare sighting issue requiring mirrored+polarized goggle validation"
   ],
   "race_implications": [
-    "Swim readiness is very strong (98/100) -- race-pace sessions are crisp and on-target, supporting the 1:20 swim goal",
-    "Bike readiness (90/100) and pacing discipline are solid, but sleep deficits could compromise race-day cognitive sharpness for the flat 112mi patience strategy",
-    "Recovery deficit (83/100) from poor sleep may limit run performance (79/100 readiness) -- prioritize sleep quality in the next 16 nights to support the 4:45 run target"
+    "Swim readiness is excellent (98/100) -- race-pace work completed, taper sharpening on schedule, gear test tomorrow will finalize goggle selection for downstream sun glare",
+    "Bike and run fitness are solid (90/100, 79/100) but sleep debt is cutting into recovery capacity with only 16 days left -- two more full nights like Sep 29-30 would elevate risk",
+    "Overall readiness at 88/100 is strong for this point in taper, but the recovery score (83/100) means the final two weeks need disciplined sleep hygiene to hold race-day sharpness"
   ],
   "recommended_adjustments": [
-    "Sleep: Aggressively prioritize 8+ hours and address whatever caused the 4.7h and 7.3h nights (Sep 29, Sep 30) -- consider earlier bedtime, sleep hygiene check, or clinician consultation if patterns persist",
-    "Tomorrow's open water swim: Confirm WIN.MAX goggles aren't too dark at sunrise before committing to them for Sacramento race morning",
-    "No training adjustments needed -- taper is on schedule, hold the plan and resist any urge to add volume or intensity"
+    "Prioritize 8+ hour sleep opportunities every night through race day -- address any controllable factors (caffeine cutoff, room temp, screen time) that may have contributed to the Sep 29-30 disruptions",
+    "Tomorrow's La Jolla open water swim: explicitly test the WIN.MAX mirrored/polarized goggles in bright morning sun at race-start light levels and confirm sighting clarity before committing to them for Sacramento",
+    "Sunday's 9mi taper long run should feel springy and controlled -- if legs feel flat or hip discomfort appears, note it immediately as it would be the first such flag in recent weeks"
   ],
   "generatedAt": "2026-10-02",
   "daysToRace": 16,
