@@ -1,51 +1,52 @@
 {
-  "date": "October 02, 2026",
+  "date": "October 03, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Thursday's pool swim executed cleanly at 2,200yd against a 2,175yd target, hitting race-pace intensity appropriately at TSS 18 and HR 109. This was the final race-pace swim session before taper lightens further -- the athlete should feel sharp and fast heading into the final two weeks. Execution was on-target for a taper week.",
-  "todayRecommendation": "Today's 1,100yd pool swim is very easy recovery work only -- keep effort conversational, HR under 115, no fast sets. Tomorrow's open water swim at La Jolla is the critical gear test: wear the WIN.MAX polarized/mirrored goggles in bright morning sun to validate they aren't too dark at race-start light levels before committing to them for Sacramento.",
-  "weekProgress": "Week 11 of 13 shows 123 of 320 TSS (38% complete) with two days remaining, including today's light swim and Sunday's 9-mile taper long run. The week is appropriately back-loaded and on pace -- Mon/Tue/Wed/Thu executed as scheduled, no missed sessions.",
-  "keyInsight": "Sleep quality remains the single largest limiter at 70/100 seven-day average with two very poor nights (42 and 56 scores on Sep 29-30, including one night with zero REM sleep) dragging the week down -- prioritize sleep hygiene and full nights through race day.",
+  "yesterdayAnalysis": "Rest day yesterday -- the Friday pool swim (1,100yd easy) was scheduled but not logged. In taper week 15 days out, a missed easy swim is not a fitness concern, but it does mean the Friday easy swim protocol (new this build to keep turnover without fatigue) wasn't tested. Sleep recovered well (score 76, 9.3h duration) after two rough nights mid-week.",
+  "todayRecommendation": "Today's OW swim is scheduled for 1,650yd easy aerobic at La Jolla with a critical gear test: wear the WIN.MAX polarized/mirrored goggles in bright morning sun and confirm they aren't too dark at a near-sunrise start before committing to them for Sacramento race day. Keep the swim easy, treat this as equipment validation, not a fitness session.",
+  "weekProgress": "Week 11 of 13: 123 of 320 target TSS (38% complete) with 1 day remaining. This is taper week with intentionally light load -- the low percentage is expected and correct. Sunday's 9mi long run will add meaningful TSS, and the week will finish appropriately light for sharpening 15 days out.",
+  "keyInsight": "Sleep quality rebounded to 82 last night after two very poor nights (scores 42 and 56, with 0min REM on Sep 30), but the 7-day average is still only 71/100 -- prioritize consistent sleep through race week to protect the taper gains.",
   "alerts": [
-    "7-day avg sleep score is 70/100 -- two nights (Sep 29: 4.7h/56 score, Sep 30: 7.3h/42 score with 0min REM) were significantly disrupted and are affecting recovery readiness heading into race week",
-    "Recovery score from readiness engine is 83/100 -- not critical, but sleep debt is the documented cause and needs attention in the final 16 days"
+    "Friday easy swim (1,100yd) was scheduled but not logged -- confirm whether it was skipped or just not synced",
+    "Two catastrophic sleep nights mid-week (Sep 29: 4.7h, score 56; Sep 30: 7.3h, 0min REM, score 42) -- identify and eliminate the cause before race week"
   ],
   "positives": [
-    "Swim execution has been precise and consistent -- 2,450yd Mon, 2,200yd Thu both hit targets with appropriate HR (109) and race-pace sharpness",
-    "Bike pacing discipline held on Wed's easy ride: 17.4mph avg against 17mph target, staying close to race-pace strategy on a taper week",
-    "Run volume appropriately stepped down (11.1mi last Sunday, 6mi Tue Run Club) as taper progresses -- legs should feel springy for Sunday's final 9mi long run"
+    "Monday swim (2,450yd in 50min) and Thursday swim (2,200yd in 46min) both exceeded scheduled 2,175yd race-pace sessions -- swim fitness is sharp",
+    "Wednesday easy ride stayed disciplined at 17.4mph avg (just 0.4mph over the 17mph pacing target) and NP stayed under taper cap -- good restraint",
+    "Sunday long run (11.1mi, 1h56m, TSS 105, HR 138) executed cleanly on the step-down week -- walk/run protocol holding up"
   ],
   "recoveryScore": 7,
-  "trainingLoadStatus": "Optimal",
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine overall 88/100 (Swim 98/100, Bike 90/100, Run 79/100, Recovery 83/100)",
-    "Garmin sleep data (7-day avg score 70/100, two poor nights with scores 42 and 56)",
-    "Intervals.icu planned vs actual for Week 11 (123 of 320 TSS, 38% complete)",
-    "Last 7 days activity log showing completed sessions against scheduled targets"
+    "Readiness engine (overall 88/100, recovery 83/100, run 80/100)",
+    "Week TSS 123 of 320 target (38% complete, back-loaded)",
+    "7-day avg sleep score 71/100, last night 82/100",
+    "Last 7 days training log (5 sessions, 1 rest day, 1 likely missed swim)",
+    "Bike avg speed vs 17mph pacing target"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Complete activity logs with HR/TSS/distance/duration for all recent sessions, structured readiness scores across all disciplines, and detailed sleep data including REM/deep/SpO2 provide a full picture 16 days out from race day."
+    "level": "moderate",
+    "reason": "Good sync coverage across swim/bike/run and sleep tracking, but Friday's swim may be a sync gap rather than a true skip, and two unexplained sleep disasters mid-week (0min REM, 4.7h duration) limit confidence in recovery stability heading into race week."
   },
   "athlete_context_considered": [
-    "Age 54, Ironman California Oct 18 (16 days out)",
-    "Walk/run 9min/1min protocol",
-    "Perthes disease right hip (stable, no load concerns flagged)",
-    "Taper week 11 of 13 -- intentionally light TSS, final race-pace efforts done",
-    "Sacramento sun-glare sighting issue requiring mirrored+polarized goggle validation"
+    "Age 54, Ironman California 2026-10-18 (15 days out)",
+    "Taper week 11 of 13 (sharpener phase)",
+    "Sacramento River sun-glare sighting problem (gear test focus today)",
+    "Walk/run 9min/1min protocol on all runs",
+    "Bike pacing discipline at 17mph (flat course, patience required)"
   ],
   "race_implications": [
-    "Swim readiness is excellent (98/100) -- race-pace work completed, taper sharpening on schedule, gear test tomorrow will finalize goggle selection for downstream sun glare",
-    "Bike and run fitness are solid (90/100, 79/100) but sleep debt is cutting into recovery capacity with only 16 days left -- two more full nights like Sep 29-30 would elevate risk",
-    "Overall readiness at 88/100 is strong for this point in taper, but the recovery score (83/100) means the final two weeks need disciplined sleep hygiene to hold race-day sharpness"
+    "Swim fitness is race-ready (98/100 readiness, recent sessions exceeding targets) -- today's gear test is the final open-water validation before race day",
+    "Sleep instability mid-week is a real concern 15 days out -- two nights of poor/zero REM sleep can blunt taper adaptations and must be corrected now",
+    "Taper load is appropriate and discipline is holding (bike pace restraint, run walk/run protocol intact) -- stay the course through next week's final sharpening"
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hour sleep opportunities every night through race day -- address any controllable factors (caffeine cutoff, room temp, screen time) that may have contributed to the Sep 29-30 disruptions",
-    "Tomorrow's La Jolla open water swim: explicitly test the WIN.MAX mirrored/polarized goggles in bright morning sun at race-start light levels and confirm sighting clarity before committing to them for Sacramento",
-    "Sunday's 9mi taper long run should feel springy and controlled -- if legs feel flat or hip discomfort appears, note it immediately as it would be the first such flag in recent weeks"
+    "Confirm Friday swim status (skipped vs sync gap) -- if skipped, don't make it up, but note whether the easy Friday swim felt necessary or redundant for future planning",
+    "Identify and eliminate the cause of the two catastrophic sleep nights (Sep 29-30) before race week -- review caffeine timing, stress, hydration, or environmental factors",
+    "After today's OW gear test, decide on race-day goggle choice (WIN.MAX polarized/mirrored vs ZIONOR backup) and lock it in -- no new equipment after today"
   ],
-  "generatedAt": "2026-10-02",
-  "daysToRace": 16,
+  "generatedAt": "2026-10-03",
+  "daysToRace": 15,
   "currentWeek": 11,
   "weekPhase": "Taper"
 }
