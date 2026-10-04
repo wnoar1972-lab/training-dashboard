@@ -574,5 +574,23 @@
     "headline": "Solid 2200-yard session with controlled heart rate and steady rhythm",
     "analysis": "You maintained a pace of 2:06 per 100 yards over this 46-minute swim, which is 4 seconds faster per 100 than your 30-day average of 2:10. Your heart rate stayed remarkably controlled, averaging just 108 bpm and topping out at 121, while you held a consistent 21.2 strokes per minute throughout. The low relative effort score of 26 suggests this was a well-paced aerobic builder that should support your base fitness without excessive fatigue.",
     "relative_effort": 26.0
+  },
+  {
+    "strava_id": "20438073595",
+    "date": "2026-10-03",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "A quick 65-yard dip to keep the feel for the water",
+    "analysis": "This brief 1.6-minute swim served as a short technical session rather than a workout, with your heart rate staying remarkably low at an average of 110 bpm and maxing at just 121 bpm. Your stroke rate held steady at 29 strokes per minute throughout. While this wasn't the place to chase your typical 2:10/100yd pace, it's a smart way to maintain your connection to the water between more demanding sessions.",
+    "relative_effort": 0.0
+  },
+  {
+    "strava_id": "20438077219",
+    "date": "2026-10-03",
+    "disc": "swim",
+    "title": "Lunch Swim",
+    "headline": "Solid midday volume at a steady aerobic effort over 2000 yards",
+    "analysis": "You logged 2034 yards in 45.3 minutes at an average heart rate of 143.5 bpm, staying well controlled with a max of just 161. Your stroke rate of 26.2 strokes per minute shows good rhythm throughout this moderate suffer score of 158. This effort builds valuable aerobic base compared to your recent 30-day average pace of 2:10 per 100 yards.",
+    "relative_effort": 158.0
   }
 ]
