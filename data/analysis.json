@@ -2,46 +2,47 @@
   "date": "October 05, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Long run executed correctly: 9.0mi at 151 avg HR, 126 TSS, matching the scheduled 9mi taper long run with walk/run 9/1 protocol. Legs should have felt springy per the session intent -- this is exactly the kind of controlled, race-prep volume needed 13 days out. Pace and effort were appropriate for a taper long run.",
-  "todayRecommendation": "Complete today's ROUVY 30 min easy spin as scheduled -- this is race week prep, very easy intensity only, focus on legs spinning freely with no load. Keep cadence comfortable, power well under race effort, treat this as active recovery and final bike confidence before packing for travel.",
-  "weekProgress": "Week 12 of 13, true taper week. Week TSS so far is 0 of 250 target (0% complete). Six days remain including today, and the schedule is intentionally light (30min spins, short pool swims, easy 3mi jog Sunday) -- the 250 TSS target will not be reached, and that is 100% correct for a true taper week 13 days before an Ironman. Low weekly TSS this week is the plan, not a problem.",
-  "keyInsight": "Sleep score dropped to 72/100 7-day average (down from 76 last check), with two very poor nights (42 and 56) earlier in the week -- prioritize sleep quality this final taper window, as recovery score is now the largest limiter per readiness engine.",
+  "yesterdayAnalysis": "Yesterday's 9-mile long run (TSS 126, HR 151, 1h34m) hit the scheduled distance exactly and executed the walk/run protocol cleanly. This is your final taper long run, and the 151 avg HR sits in a reasonable aerobic zone while maintaining control 13 days out. The legs should feel springy -- if they don't, note that in your log.",
+  "todayRecommendation": "Today's ROUVY 30-minute easy spin is exactly what it says: very easy, race week prep only. This is not a fitness session -- keep watts well under any threshold work, spin smooth, confirm the bike feels dialed. Nothing to prove here.",
+  "weekProgress": "Week 12 of 13, true taper week. Week TSS so far: 0 of 250 target (0% complete). This is normal -- Monday is the start, and the week's load is scheduled across the remaining 6 days with light, race-prep sessions only. Nothing is behind.",
+  "keyInsight": "You are 13 days out from Sacramento with 91 activities logged in this build, race-distance bike exposure at 96.6 miles (86% of 112), and 9 brick sessions banked -- the work is done, this week is about staying sharp and fresh, not adding fitness.",
   "alerts": [
-    "7-day avg sleep score is 72/100, down from prior week -- two nights (Sep 29: 56, Sep 30: 42) dragged the average down significantly",
-    "Sep 30 night showed 0 minutes REM sleep -- sensor artifact or real sleep disruption worth monitoring tonight"
+    "7-day avg sleep score is 72/100, down from the readiness engine's 76/100 -- two nights (Sep 29-30) showed scores of 56 and 42 with very low REM (25min, 0min). Sleep quality matters more now than volume.",
+    "Last night's REM was only 71min on 7.4h sleep -- not a red flag on its own, but watch the trend through race week."
   ],
   "positives": [
-    "Long run yesterday (9mi, 126 TSS) executed at correct taper intensity and walk/run protocol -- exactly what was scheduled",
-    "OW swim Oct 3 gear test completed (2034yd La Jolla, WIN.MAX goggles tested in bright morning sun) -- race-day sighting gear now validated",
-    "Bike pacing discipline held on Sep 30 easy ride (17.4mph avg, just 0.4mph over 17mph target, NP likely under 140w as prescribed)"
+    "9-mile taper long run executed exactly as scheduled with controlled HR and walk/run protocol dialed in",
+    "2034yd open water swim at La Jolla (Oct 3) validated the WIN.MAX polarized/mirrored goggles in bright morning sun -- gear choice confirmed for Sacramento's downstream glare problem",
+    "Bike pacing discipline held on Sep 30 easy ride: 17.4mph avg matches the 17mph race target, demonstrating you can hold the discipline when it counts"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: overall 85/100, recovery 84/100 (largest limiter)",
-    "Garmin sleep: 7-day avg score 72/100, two nights below 60",
-    "Yesterday's run: 9.0mi actual vs 9mi scheduled, 151 HR, 126 TSS",
-    "Week 12 TSS: 0 of 250 (0% complete, 6 days remain)"
+    "Readiness engine: Overall 85/100, Swim 98/100, Bike 82/100, Run 80/100, Recovery 84/100",
+    "Garmin sleep: 7-day avg score 72/100, avg SpO2 94.6%, 0 nights below 92%",
+    "Yesterday's completed run: 9.0mi, TSS 126, HR 151, 1h34m vs scheduled 9mi",
+    "Week 12 TSS: 0 of 250 (0% complete), 6 days remaining including today",
+    "Bike pacing data: Sep 30 ride 17.4mph avg vs 17mph target"
   ],
   "confidence": {
     "level": "high",
-    "reason": "91 activities logged across the build, complete sleep data for 7 nights, readiness engine showing strong bike/run preparation (82/100 and 80/100), and clear scheduled vs actual alignment for recent sessions -- only gap is HRV not tracked, but sleep/HR/TSS give a complete taper picture."
+    "reason": "91 activities logged across 12 weeks of this build, complete sleep data for 7 nights, readiness engine output with moderate confidence, and clear scheduled vs actual comparisons -- the dataset is robust and current."
   },
   "athlete_context_considered": [
-    "Age 54, full Ironman 13 days out (Oct 18 Sacramento)",
-    "Walk/run 9/1 protocol maintained on yesterday's long run",
-    "Perthes hip (stable) -- no load concerns flagged with 9mi run yesterday",
-    "WIN.MAX polarized/mirrored goggles tested Oct 3 for Sacramento River sun-glare sighting problem"
+    "Age 54, IM California Sacramento Oct 18 (13 days out)",
+    "Walk/run 9/1 protocol on all runs",
+    "Bike pacing target 17mph (flat course, discipline = hold back)",
+    "Oregon 70.3 lessons: bike fit completed, run nutrition validated, zero ortho red flags from hip history",
+    "True taper week (Week 12 of 13): volume -60%, race prep focus"
   ],
   "race_implications": [
-    "Sleep is now the largest readiness limiter (84/100) -- two more weeks of poor sleep could blunt race-day sharpness, prioritize 8+ hours and sleep hygiene this final window",
-    "Long run fitness confirmed at 9mi with correct walk/run pacing -- run target of 4:45 (10:50-11:30/mi) remains realistic based on taper execution",
-    "Bike packed Thursday, travel Friday Oct 15 -- all race-prep milestones on schedule for Oct 18 start"
+    "Swim readiness is 98/100 -- open water gear validated, race-pace work banked, nothing left to build in 13 days",
+    "Bike readiness 82/100 with 96.6mi longest ride (86% of 112mi) -- you have the distance exposure, now it's about fresh legs and pacing discipline on race day",
+    "Run readiness 80/100 with walk/run protocol dialed and nutrition plan validated from Oregon -- the 9-mile taper long run confirms the strategy is locked in"
   ],
   "recommended_adjustments": [
-    "Prioritize 8+ hours sleep every night this week -- set a strict bedtime, limit screens after 9pm, and monitor for another night with 0min REM like Sep 30",
-    "Today's 30min ROUVY spin should be truly easy (conversational effort, power well under 140w) -- do not let race-week energy turn this into a workout",
-    "Confirm bike mechanical check Thursday includes torque wrench and structured checklist per Oregon lessons -- no unforced mechanicals at Sacramento"
+    "Prioritize sleep quality over duration this week -- two nights of very low REM (Sep 29-30) are behind you, but avoid late screens, caffeine after noon, and anything that disrupts REM architecture in the final 13 days",
+    "Today's 30min ROUVY spin should feel boring -- if you're tempted to push watts or duration, that's a red flag for taper discipline, not a fitness opportunity"
   ],
   "generatedAt": "2026-10-05",
   "daysToRace": 13,
