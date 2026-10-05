@@ -592,5 +592,23 @@
     "headline": "Solid midday volume at a steady aerobic effort over 2000 yards",
     "analysis": "You logged 2034 yards in 45.3 minutes at an average heart rate of 143.5 bpm, staying well controlled with a max of just 161. Your stroke rate of 26.2 strokes per minute shows good rhythm throughout this moderate suffer score of 158. This effort builds valuable aerobic base compared to your recent 30-day average pace of 2:10 per 100 yards.",
     "relative_effort": 158.0
+  },
+  {
+    "strava_id": "20452751813",
+    "date": "2026-10-04",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Solid 9-miler with disciplined pacing despite a steady cardiovascular drift that pushed you to 189 bpm",
+    "analysis": "You held remarkably consistent splits from miles 1-7 (10:06-10:41), all faster than your 30-day average of 11:19/mi, but the heart rate story tells a different tale\u2014climbing from 126 bpm in mile 1 to 170 bpm by mile 9 even as your pace slowed. That 43-beat drift over the course of 94.8 minutes and a suffer score of 299 suggests you were working progressively harder to maintain output, likely due to heat, fatigue, or fueling. Your cadence of 82 steps per minute is on the lower side, so focusing on quicker turnover could help you maintain pace with less cardiovascular strain on these longer efforts.",
+    "relative_effort": 299.0
+  },
+  {
+    "strava_id": "20452967469",
+    "date": "2026-10-04",
+    "disc": "run",
+    "title": "Lunch Walk",
+    "headline": "Easy-paced recovery walk keeping the body moving without pushing intensity",
+    "analysis": "You covered 0.91 miles in just over 20 minutes at a very relaxed 28:42/mi pace with a cadence of 60 steps per minute\u2014this is classic active recovery territory. Your heart rate stayed comfortably low, averaging 122 bpm and maxing at just 133 bpm, showing solid restraint compared to your typical 11:19/mi run efforts. The low suffer score of 11 confirms this was all about gentle movement and recovery rather than training stress.",
+    "relative_effort": 11.0
   }
 ]

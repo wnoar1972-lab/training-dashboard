@@ -977,5 +977,27 @@
     "avgHR": 110.0,
     "distance": 59.7,
     "duration": 85.0
+  },
+  {
+    "date": "2026-10-04",
+    "title": "San Diego County Walking",
+    "type": "Walk",
+    "disc": "run",
+    "tss": 11.0,
+    "np": 0,
+    "avgHR": 121.0,
+    "distance": 1460.8,
+    "duration": 1230.0
+  },
+  {
+    "date": "2026-10-04",
+    "title": "San Diego County Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 126.0,
+    "np": 0,
+    "avgHR": 151.0,
+    "distance": 14519.5,
+    "duration": 5690.0
   }
 ]
