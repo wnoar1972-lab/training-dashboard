@@ -1678,11 +1678,6 @@
             "disc": "bike",
             "label": "ROUVY 30 min easy",
             "note": "very easy spin · race week prep"
-          },
-          {
-            "disc": "run",
-            "label": "Easy jog 3mi",
-            "note": "walk/run · 4 strides · feel fresh"
           }
         ]
       },
@@ -1710,9 +1705,9 @@
             "note": "shakeout swim -- moved here from Thursday, standing Wed/Thu swap"
           },
           {
-            "disc": "run",
-            "label": "Easy jog 15 min",
-            "note": "4 strides · feel fast · no effort"
+            "disc": "bike",
+            "label": "Easy bike 30 min",
+            "note": "recovery ride -- foot precaution, run swapped for bike this week"
           }
         ]
       },
