@@ -999,5 +999,27 @@
     "avgHR": 151.0,
     "distance": 14519.5,
     "duration": 5690.0
+  },
+  {
+    "date": "2026-10-05",
+    "title": "ROUVY - Madison River Canyon | Montana",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 14.0,
+    "np": 0,
+    "avgHR": 119.0,
+    "distance": 20130.7,
+    "duration": 2184.0
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 13.0,
+    "np": 0,
+    "avgHR": 114.0,
+    "distance": 1554.5,
+    "duration": 1810.0
   }
 ]

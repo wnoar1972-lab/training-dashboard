@@ -610,5 +610,23 @@
     "headline": "Easy-paced recovery walk keeping the body moving without pushing intensity",
     "analysis": "You covered 0.91 miles in just over 20 minutes at a very relaxed 28:42/mi pace with a cadence of 60 steps per minute\u2014this is classic active recovery territory. Your heart rate stayed comfortably low, averaging 122 bpm and maxing at just 133 bpm, showing solid restraint compared to your typical 11:19/mi run efforts. The low suffer score of 11 confirms this was all about gentle movement and recovery rather than training stress.",
     "relative_effort": 11.0
+  },
+  {
+    "strava_id": "20467875255",
+    "date": "2026-10-05",
+    "disc": "bike",
+    "title": "ROUVY - Madison River Canyon | Montana",
+    "headline": "Solid virtual climb through Montana with a controlled effort well below your threshold",
+    "analysis": "Your 12.51-mile ride through Madison River Canyon averaged 2:54 per mile\u2014notably faster than your 30-day average of 3:47/mi\u2014while keeping your heart rate controlled at 119 bpm average. The terrain variation shows in your split times, with your fastest work coming in miles 2-4 (2:15-2:24/mi) before the canyon walls kicked up resistance in the back half. At 63 RPM average cadence, you were grinding through some resistance, but the low suffer score of 24 suggests this was more about finding your rhythm on the trainer than pushing limits.",
+    "relative_effort": 24.0
+  },
+  {
+    "strava_id": "20474586725",
+    "date": "2026-10-06",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 1700-yard morning effort with controlled intensity and steady rhythm",
+    "analysis": "You maintained a pace of 1:47 per 100 yards over this half-hour session, which is 23 seconds faster than your 30-day average of 2:10 per 100 yards\u2014nice progression. Your heart rate stayed remarkably controlled with an average of just 107 bpm and a max of 136 bpm, paired with a consistent 23.6 strokes per minute. The moderate effort score of 27 suggests you're building fitness without overreaching, perfect for a weekday morning swim.",
+    "relative_effort": 27.0
   }
 ]
