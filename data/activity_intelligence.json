@@ -628,5 +628,14 @@
     "headline": "Solid 1700-yard morning effort with controlled intensity and steady rhythm",
     "analysis": "You maintained a pace of 1:47 per 100 yards over this half-hour session, which is 23 seconds faster than your 30-day average of 2:10 per 100 yards\u2014nice progression. Your heart rate stayed remarkably controlled with an average of just 107 bpm and a max of 136 bpm, paired with a consistent 23.6 strokes per minute. The moderate effort score of 27 suggests you're building fitness without overreaching, perfect for a weekday morning swim.",
     "relative_effort": 27.0
+  },
+  {
+    "strava_id": "20483133622",
+    "date": "2026-10-06",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Textbook negative split execution with a 38-second fade per mile from miles 1-3, then a strategic fourth mile",
+    "analysis": "You dropped from 10:33 to 9:55 pace over the first three miles while letting your heart rate climb steadily from 129 to 140 bpm\u2014controlled progressive effort. That fourth mile at 11:02 (HR 142) suggests you hit a tough segment or took a breather, but your overall 9:57/mi average still beats your 30-day baseline of 11:17/mi by a solid 80 seconds per mile. With a cadence of 82 spm and max HR only hitting 152, you had more gears left in the tank.",
+    "relative_effort": 70.0
   }
 ]
