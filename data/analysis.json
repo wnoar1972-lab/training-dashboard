@@ -2,46 +2,49 @@
   "date": "October 07, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Both sessions executed as planned. Pool swim hit 1,700yd against a 1,650yd target, with controlled HR averaging 114bpm. Run club covered 4.1mi in 40min (HR 136bpm avg), appropriately easy for race week. Both sessions were correctly scaled for taper, maintaining touch without adding stress.",
-  "todayRecommendation": "Complete today's shakeout swim (1,100yd easy) and 30-minute recovery bike as scheduled. These are minimal-stress sessions designed to maintain feel without adding fatigue 11 days out from Sacramento. Keep both truly easy.",
-  "weekProgress": "Week 12 of 13 shows 62 of 250 TSS target (25% complete) with 4 days remaining. This is race-week taper -- volume is intentionally slashed by 60%. The low percentage is exactly correct at this point in a true taper week.",
-  "keyInsight": "Sleep scores crashed to 49 and 47 the last two nights (7-day avg now 72/100) -- with 11 days to race, sleep quality is the single highest priority right now, more important than any remaining workout.",
+  "yesterdayAnalysis": "Yesterday's swim and run club executed well -- 1,700yd pool swim hit the 1,650yd target, and the 4.1mi run at HR 136 was appropriately easy for race week. Both sessions aligned with the taper plan, keeping touch on the disciplines without adding fatigue. The TSS contribution (48 total) was correct for this phase.",
+  "todayRecommendation": "Today's planned 1,100yd easy swim plus 30min easy bike are both light shakeout sessions -- execute them exactly as written, no heroics. The bike is explicitly a recovery ride and foot-precaution swap for a run, so keep it genuinely easy (well under race effort). After completion, focus on hydration, sleep recovery (last two nights scored 49 and 47), and staying off your feet.",
+  "weekProgress": "Week 12 of 13 is tracking at 62 of 250 TSS (25% complete) with 4 days remaining including today. This is a true taper week with volume down 60%, so the low absolute TSS is intentional and correct -- the remaining sessions (today's swim/bike, Thursday bike check, Saturday pool swim, Sunday 3mi jog) are all short shakeout work designed to keep feel without adding load. Week is on track for taper goals.",
+  "keyInsight": "Sleep quality dropped hard the last two nights (scores 49 and 47) after a strong run earlier in the week -- prioritize sleep hygiene and rest over any impulse to add volume in these final 11 days before Sacramento.",
   "alerts": [
-    "Sleep scores 49/100 and 47/100 on Oct 6-7 -- investigate stressors, bedroom environment, caffeine timing, and pre-bed routine immediately",
-    "REM sleep only 27min on Oct 6 (down from 85-129min prior nights) -- classic taper anxiety or life stress pattern"
+    "Sleep scores 49 (last night) and 47 (night before) are well below the 7-day avg of 72 and represent a sharp drop -- this is your recovery limiter right now",
+    "REM sleep last night was only 27 minutes (vs 71-129min the prior 5 nights) -- address sleep environment or stressors if possible"
   ],
   "positives": [
-    "Swim sessions remain consistent and controlled -- 1,700yd yesterday, 2,034yd OW on Oct 3, hitting targets without strain",
-    "Oct 4 long run completed 9.0mi at 151bpm avg HR, legs should feel springy per plan -- executed correctly",
-    "Overall readiness engine scores strong: 87/100 overall, swim 98/100, bike 86/100, run 80/100"
+    "9mi long run on Oct 4 at HR 151 delivered 126 TSS and showed strong taper legs -- exactly what you want to see 2 weeks out",
+    "Swim volume staying consistent through taper (1,700yd, 2,034yd OW, 2,200yd in last 7 days) keeps feel sharp without fatigue",
+    "Yesterday's run club at HR 136 for 4.1mi was disciplined and easy -- good race-week restraint"
   ],
-  "recoveryScore": 5,
-  "trainingLoadStatus": "Fresh",
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Garmin sleep data (last 7 nights, scores 49-92, avg 72/100)",
-    "Readiness engine output (87/100 overall, recovery 84/100)",
-    "Intervals.icu planned vs actual (Week 12: 62/250 TSS, 25% complete)",
-    "Yesterday's completed sessions (1,700yd swim TSS 13, 4.1mi run TSS 35)"
+    "Readiness engine (recovery 84/100, overall 87/100)",
+    "Garmin sleep scores (7-day avg 72, last 2 nights 49/47)",
+    "Week TSS 62 of 250 target (25% complete, 4 days remaining)",
+    "Last 7 days training log (TSS, HR, distance, duration)",
+    "YESTERDAY'S WORKOUT actual vs scheduled comparison"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete 7-day sleep dataset, 94 logged activities across 12-week build, and readiness engine metrics provide strong evidence; only nutrition intake logging is missing but sleep disruption is objectively documented."
+    "reason": "Full 12-week build history, complete sleep data, detailed activity logs with HR/TSS/distance/duration, and clear taper plan -- only nutrition intake detail is missing, but sleep trend is unambiguous and actionable."
   },
   "athlete_context_considered": [
-    "Age 54, 11 days from Ironman California",
-    "Week 12 of 13 true taper (volume -60%)",
-    "Walk/run protocol 9min/1min",
+    "Age 54, TRT managed",
+    "11 days to Ironman California Sacramento",
+    "True taper week (volume -60%)",
+    "Walk/run 9/1 protocol",
+    "Hip history (Perthes) -- foot precaution swap (run \u2192 bike) this week",
     "Prior race lesson: bike position fixed, run nutrition validated"
   ],
   "race_implications": [
-    "Sleep deficits this close to race day directly threaten recovery capacity and race-day cognitive function (pacing discipline, nutrition execution)",
-    "Two more nights of sub-50 sleep scores would materially compromise race readiness despite otherwise strong training completion",
-    "Remaining 11 days offer enough time to restore sleep quality if addressed aggressively now"
+    "Sleep drop is the single largest risk to race readiness right now -- two more nights like this and you'll arrive in Sacramento under-recovered",
+    "Taper TSS is on plan, fitness is banked -- the only job now is to rest, recover, and show up fresh",
+    "Swim/bike/run feel are all holding -- no discipline-specific concerns 11 days out"
   ],
   "recommended_adjustments": [
-    "Tonight: strict sleep hygiene -- no screens 90min pre-bed, room temp 65-68\u00b0F, complete darkness, consider melatonin 1-3mg if not contraindicated by TRT protocol",
-    "Identify and eliminate taper-week stressors -- travel logistics, work obligations, race-day mental rehearsal anxiety -- address directly or delegate",
-    "If sleep scores remain below 60 for two more nights, consider shortening or dropping Sunday's 3mi easy jog to prioritize rest over minimal-gain session"
+    "Prioritize sleep tonight: aim for 8+ hours, address any environmental or stress factors limiting REM/deep sleep",
+    "Keep today's swim and bike truly easy -- no temptation to 'test fitness' or push pace this close to race day",
+    "Review pre-Sacramento checklist (bike packed, nutrition loaded, travel plan confirmed for Oct 15) to reduce mental load and improve sleep quality"
   ],
   "generatedAt": "2026-10-07",
   "daysToRace": 11,
