@@ -637,5 +637,23 @@
     "headline": "Textbook negative split execution with a 38-second fade per mile from miles 1-3, then a strategic fourth mile",
     "analysis": "You dropped from 10:33 to 9:55 pace over the first three miles while letting your heart rate climb steadily from 129 to 140 bpm\u2014controlled progressive effort. That fourth mile at 11:02 (HR 142) suggests you hit a tough segment or took a breather, but your overall 9:57/mi average still beats your 30-day baseline of 11:17/mi by a solid 80 seconds per mile. With a cadence of 82 spm and max HR only hitting 152, you had more gears left in the tank.",
     "relative_effort": 70.0
+  },
+  {
+    "strava_id": "20496349108",
+    "date": "2026-10-07",
+    "disc": "bike",
+    "title": "Afternoon Ride",
+    "headline": "Strong negative splits with a 2:56 close that crushed your 3:45 average pace",
+    "analysis": "You built this ride beautifully, starting controlled at 3:49 in mile 1 and progressively finding your rhythm through a blistering 2:59 in mile 8 and 2:56 in mile 10\u2014both well under your 30-day average of 3:45/mi. Your heart rate stayed remarkably steady in the 115-125 range for most miles despite the pace variance, only jumping to 134 in that final 0.35-mile push. The 28 suffer score and 119 average HR suggest you found an aerobic sweet spot while still delivering speed when it counted.",
+    "relative_effort": 28.0
+  },
+  {
+    "strava_id": "20502900571",
+    "date": "2026-10-08",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid yardage session building your aerobic base with controlled heart rate work",
+    "analysis": "You covered 2242 yards in 49 minutes, working at a comfortable pace about 9 seconds slower per 100 yards than your recent 2:10/100yd average\u2014perfect for an aerobic endurance build. Your heart rate stayed remarkably steady, averaging 102 bpm and never exceeding 117 bpm, showing excellent control and restraint. The consistent 24 strokes per minute suggests you maintained good rhythm throughout this low-effort session.",
+    "relative_effort": 14.0
   }
 ]
