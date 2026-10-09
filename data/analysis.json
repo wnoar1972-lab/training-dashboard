@@ -1,46 +1,44 @@
 {
-  "date": "October 08, 2026",
+  "date": "October 09, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Wednesday's easy 30-minute bike (12.4mi, 17.6mph avg, TSS 21, HR 119) hit the prescribed recovery ride exactly -- duration matched, intensity was appropriately easy, and the pace was within 0.6mph of race target pacing discipline (17mph). This was the intentional run-to-bike swap due to the foot precaution noted in the schedule, so no run volume was missing. The execution was clean and served its purpose as a shakeout ride in true taper week.",
-  "todayRecommendation": "Today's pool swim (2242yd, 49min, TSS 15, HR 103) is already complete -- that's well over the scheduled 20-minute bike check and delivered a proper shakeout swim instead. The bike check itself (confirm shifting, brakes, nutrition loaded) still needs to happen today as a separate non-training task before tomorrow's rest day. Take 15-20 minutes to run through the mechanical checklist: shifting smooth through all gears, brakes grabbing cleanly, nutrition/hydration loaded and secured, torque-check critical bolts if you have the wrench handy.",
-  "weekProgress": "Week 12 of 13: 98 of 250 target TSS (39% complete) with 3 days remaining. This is intentionally low -- true taper week at -60% volume with most sessions already done (Mon ROUVY, Tue swim+run club, Wed swim+bike, Thu swim complete). Only the Thu bike check (non-TSS task), Fri rest, Sat easy pool swim (875yd), and Sun easy 3mi jog remain. The week is tracking perfectly for race-week prep -- TSS will land well under target by design.",
-  "keyInsight": "Ten days out from race day, taper execution is dialed in: volume is appropriately slashed, intensity is easy across all three disciplines, and the athlete is getting the mechanical/logistics checklist done without cramming training volume into race week.",
+  "yesterdayAnalysis": "You logged a 2,242yd pool swim yesterday (49min, TSS 15, HR 103) when the schedule called for a 20min bike check. The swim was moved from today's schedule to yesterday -- taper volume is appropriate, execution was clean, and the HR confirms easy aerobic effort. The bike check still needs completion before travel (now Oct 15), but shifting easy sessions around in taper week is fine as long as the work gets done.",
+  "todayRecommendation": "Today is scheduled rest -- off feet, easy day, true taper. Nothing logged yet, which is correct. Stay off your feet, hydrate, and focus on sleep quality (7-day avg is 71/100, which is the current recovery limiter). Use this day to complete the bike mechanical check if you haven't already.",
+  "weekProgress": "Week 12 of 13: 98 of 250 TSS target (39% complete). With 2 days remaining including today (Fri rest + Sat 875yd easy swim + Sun 3mi easy jog), you're on track to hit ~150-160 TSS by Sunday. This is a true taper week with -60% volume reduction -- being under the nominal target is intentional and correct, not a deficit.",
+  "keyInsight": "Nine days out from Sacramento, the taper is executing cleanly -- swim and bike volume are dialed back appropriately, and the Sunday 3mi jog will be your last run stimulus before race week.",
   "alerts": [],
   "positives": [
-    "Sleep rebounded to 80/100 last night (6.8hr, RHR 55, 91min REM) after two rough nights in the 47-49 range -- 7-day avg is 70/100, which is adequate for taper week",
-    "Wednesday's bike showed excellent pacing discipline at 17.6mph avg (only 0.6mph over the 17mph race target) -- this athlete is internalizing the flat-course hold-back strategy heading into Sacramento",
-    "All scheduled taper sessions this week have been executed or appropriately swapped (run-to-bike Wednesday for foot precaution) -- no missed workouts, no volume creep, no last-minute panic training"
+    "Taper discipline is holding -- no junk miles, no pacing overreach, easy sessions staying truly easy",
+    "Swim execution remains consistent: La Jolla OW gear test (2,034yd, TSS 48) plus two quality pool sessions this week show you're race-ready in the water",
+    "Sleep rebounded to 80/100 last two nights after the midweek dip (scores 47-49 Oct 6-7) -- keep prioritizing this in the final 9 days"
   ],
-  "recoveryScore": 8,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine overall 85/100 (Swim 98/100, Bike 82/100, Run 79/100, Recovery 84/100)",
-    "Week 12 TSS: 98 of 250 target (39% complete) with 3 days remaining",
-    "Last 7 days actual training log (5 activities: 3 swims, 2 bikes, 2 runs)",
-    "Garmin sleep data (7-day avg score 70/100, last night 80/100)",
-    "Bike avg speed field (17.6mph Wednesday vs 17mph race target)"
+    "Readiness engine: overall 86/100, recovery 84/100",
+    "Garmin sleep: 7-day avg 71/100, last 2 nights 80/100",
+    "Week TSS: 98 of 250 (39% complete, 2 days remaining)",
+    "Last 7 days training log: taper volume confirmed, no pacing violations"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Twelve weeks of complete structured data (96 activities logged across swim/bike/run), readiness engine scores across all four dimensions, sleep tracking through last night, and clear taper-week schedule adherence -- the only gap is real-time HRV trends, but sleep/HR/TSS paint a consistent fresh-status picture heading into race week."
+    "reason": "Full 13-week build data (96 activities logged), sleep tracking current, readiness engine calibrated, and we are in the final taper window where patterns are stable and predictable."
   },
   "athlete_context_considered": [
-    "Age 54, full Ironman race in 10 days (Sacramento 2026-10-18)",
-    "Hip history (Perthes, right) -- watching for pain associations with load, none flagged this week",
-    "Bike fit completed after Oregon (back/foot pain traced to position) -- no position complaints in recent rides",
-    "17mph bike pacing target (flat course, discipline to hold back) -- Wednesday's 17.6mph shows internalization",
-    "Walk/run 9min/1min protocol on all runs",
-    "Week 12 of 13: true taper at -60% volume, bike packed for travel"
+    "Sacramento race Oct 18 (9 days out)",
+    "True taper week (-60% volume)",
+    "Walk/run protocol",
+    "Bike fit completed post-Oregon",
+    "Sleep quality as current recovery limiter (readiness engine flag)"
   ],
   "race_implications": [
-    "Taper is executing as designed -- the athlete will arrive at race day fresh, not fatigued or under-recovered, with 10 days of intentionally reduced load behind them",
-    "Pacing discipline on the bike is holding in training (17.6mph Wednesday) -- if this translates to race day, the 6:37 bike target and subsequent run are realistic and within reach",
-    "Sleep quality rebounded after two rough nights (now 80/100) -- prioritize maintaining this through travel to Sacramento (Oct 15) and race week to preserve the recovery gains"
+    "Fitness is banked -- the readiness engine confirms strong swim (98/100), solid bike (83/100), and competent run (80/100) going into race week",
+    "Recovery score (84/100) is the smallest margin -- prioritize sleep over any optional activity in the final 9 days",
+    "Sunday's 3mi jog is your last run stimulus before race week -- keep it truly easy (walk/run 9:1, conversational effort) to stay fresh"
   ],
   "recommended_adjustments": [],
-  "generatedAt": "2026-10-08",
-  "daysToRace": 10,
+  "generatedAt": "2026-10-09",
+  "daysToRace": 9,
   "currentWeek": 12,
   "weekPhase": "Taper"
 }
