@@ -655,5 +655,14 @@
     "headline": "Solid yardage session building your aerobic base with controlled heart rate work",
     "analysis": "You covered 2242 yards in 49 minutes, working at a comfortable pace about 9 seconds slower per 100 yards than your recent 2:10/100yd average\u2014perfect for an aerobic endurance build. Your heart rate stayed remarkably steady, averaging 102 bpm and never exceeding 117 bpm, showing excellent control and restraint. The consistent 24 strokes per minute suggests you maintained good rhythm throughout this low-effort session.",
     "relative_effort": 14.0
+  },
+  {
+    "strava_id": "20529998884",
+    "date": "2026-10-10",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 1930-yard session with controlled effort and consistent stroke rhythm",
+    "analysis": "You maintained a steady average stroke rate of 26.2 strokes per minute throughout this 44-minute workout, keeping your heart rate nicely controlled with an average of 112 bpm and a max of just 128 bpm. The relative effort score of 30 suggests you approached this as an aerobic base builder rather than a hard push. This controlled approach aligns well with building endurance while staying close to your 30-day average pace of 2:10 per 100 yards.",
+    "relative_effort": 30.0
   }
 ]
