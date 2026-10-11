@@ -1,52 +1,53 @@
 {
-  "date": "October 10, 2026",
+  "date": "October 11, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Rest day as scheduled -- exactly what you should be doing 8 days out from race day. Sleep score of 80 with 8.1h duration and RHR of 55 shows the body is responding well to the taper volume reduction.",
-  "todayRecommendation": "Today's swim is already done -- 1930yd open water vs 875yd pool scheduled, and you executed it as an open water session instead. That's 2.2x the planned volume and switches venue from controlled pool to open water conditions. In true taper week, stick to the plan: less volume, fewer variables. Tomorrow's easy 3mi jog is your last run before race week -- execute it strictly easy, honor the 9:1 walk/run, and treat it as a final systems check, not a fitness test.",
-  "weekProgress": "Week 12 of 13: 117 of 250 target TSS (47% complete). One day remains. The 19 TSS swim today plus tomorrow's easy 3mi run (~35-40 TSS) will land you around 170-175 total for the week, well short of the 250 target, but that's intentional taper math -- volume is deliberately down 60% this week, and you're meant to arrive at race day fresh, not fatigued from chasing a number.",
-  "keyInsight": "You doubled the planned swim volume and switched venue to open water 8 days out -- in true taper, less is more, and deviating upward from the plan introduces unnecessary fatigue risk.",
+  "yesterdayAnalysis": "Yesterday's open water swim was 2x the scheduled 875yd pool session, logging 1930yd in 44 minutes at HR 112. This was well above taper prescription -- in race week minus 7 days, doubling the volume contradicts the 'true taper' intent. That said, the session stayed aerobic (HR 112), and if this was the WIN.MAX goggle validation in bright conditions at La Jolla as documented in your equipment notes, it served a legitimate race-prep purpose beyond just swimming.",
+  "todayRecommendation": "Today's easy 3mi walk/run is the last run before race week -- keep it genuinely easy, respect the 9:1 protocol, and treat it as a mobility check, not a fitness test. This is about confirming everything feels loose and ready, not logging one more hard effort.",
+  "weekProgress": "Week 12 of 13: 117 of 250 TSS, 47% complete. With only today's easy 3mi run remaining, this week will finish well short of target -- but this is intentional taper volume at race week minus 7 days. The schedule called for low-stress sessions all week, and TSS deficit in taper is expected and correct.",
+  "keyInsight": "You are 7 days out from Sacramento with swim readiness at 98/100, run at 84/100, bike at 74/100 -- the work is done, and the only job left is to stay off your feet, sleep well, and not second-guess the taper.",
   "alerts": [
-    "Today's swim was 1930yd open water vs 875yd pool scheduled -- 2.2x planned volume in race week",
-    "7-day avg sleep score is 71/100 -- two nights (Oct 6-7) at 47-49 are dragging the average down heading into race week",
-    "Oct 4 long run was scheduled for 9mi but you logged a 0.9mi walk + 9.0mi run separately -- total distance met, but the walk split suggests something interrupted the session"
+    "Sleep score 7-day avg is 71/100 (down from 74/100 prior week) -- two nights (Oct 6-7) scored 47 and 49, likely suppressing recovery in race week minus 7-10 days",
+    "Yesterday's open water swim was 2x the scheduled taper volume (1930yd vs 875yd) -- validate this was the goggle test and not taper anxiety driving extra work"
   ],
   "positives": [
-    "Bike check completed Oct 8 (swim logged instead, but mechanical prep is done)",
-    "Open water swim today confirms comfort in race conditions -- HR 112 avg is controlled and relaxed",
-    "Last two nights (Oct 9-10) delivered sleep scores of 80 and 86 -- recovery is trending up as you enter race week"
+    "9 brick sessions completed across the build -- race-rehearsal execution is dialed in",
+    "Longest bike session hit 96.6mi (86% of race distance) -- you have the physical proof you can sit on the saddle for 6+ hours",
+    "Sleep quality rebounded strongly Oct 9-10 (scores 80, 86) after the rough Oct 6-7 nights -- recovery is trending the right direction heading into race week"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine overall 87/100, recovery 84/100",
-    "7-day avg sleep score 71/100 (Garmin)",
-    "Week TSS 117 of 250 (47% complete, Intervals.icu)",
-    "Today's activity log: San Diego Open Water Swimming 1930yd, TSS 19",
-    "Scheduled session: Pool swim 875yd easy"
+    "Readiness engine (swim 98/100, bike 74/100, run 84/100, recovery 84/100)",
+    "Garmin sleep (7-day avg 71/100, SpO2 94.0%, RHR 50-57)",
+    "Week TSS 117 of 250 target (47% complete, taper week)",
+    "LAST 7 DAYS training log (5 sessions, all taper-appropriate intensity)",
+    "Brick count (9 completed sessions across build)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete data for all three disciplines over 12 weeks, sleep tracking across 7 nights, and clear taper plan with 8 days to race -- the picture is clear and the training phase is well-defined."
+    "reason": "97 activities logged across 12 weeks, readiness engine scores available, sleep/HR data complete for past 7 nights, and race-distance exposure documented at 96.6mi bike -- the only gap is run nutrition rehearsal logging, but brick count confirms execution practice happened."
   },
   "athlete_context_considered": [
-    "Active race: Ironman California 8 days away (Oct 18)",
-    "True taper week: volume intentionally -60%",
-    "Swim target 1:20, wetsuit legal",
-    "Prior lesson: validate equipment and execution under race conditions"
+    "Age 54",
+    "Perthes right hip (stable, competing successfully)",
+    "Walk/run 9:1 protocol",
+    "Bike fit completed post-Oregon",
+    "Sacramento race Oct 18 (7 days away)",
+    "WIN.MAX goggle testing for race-day sun glare"
   ],
   "race_implications": [
-    "Swim fitness is clearly in place -- 1930yd open water at controlled HR confirms readiness for the 2.4mi wetsuit swim",
-    "Taper execution matters: adding volume now doesn't build fitness, it only adds fatigue that won't clear by race day",
-    "Sleep quality needs to stabilize in the 80+ range this week to arrive fully recovered -- two nights in the 40s earlier this week are a yellow flag"
+    "Swim readiness at 98/100 gives you margin on the 1:20 target -- the discipline in the water is proven, just execute the sighting plan with the mirrored lenses",
+    "Bike at 74/100 reflects the 96.6mi exposure but also the incomplete race-distance validation -- hold 17mph discipline on race day and trust the fit work you did",
+    "Run at 84/100 with 9 bricks completed means the walk/run protocol and nutrition timing are rehearsed -- execute the 20-25min fueling cadence and don't let the bike pace steal the run"
   ],
   "recommended_adjustments": [
-    "Tomorrow's 3mi easy jog: strict walk/run 9:1, HR ceiling 140, treat as a final systems check only -- do not test pace or push effort",
-    "Remaining 6 nights before race: prioritize sleep hygiene (consistent bedtime, cool room, hydration cutoff) to land every night in the 80+ score range",
-    "Next week (race week): if any session feels harder than expected or sleep dips again, cut volume further rather than pushing through -- you cannot gain fitness now, only lose freshness"
+    "Prioritize 8+ hours sleep every night from now through race day -- the Oct 6-7 sleep debt (47, 49 scores) needs full erasure before race morning",
+    "Confirm yesterday's OW swim was the planned goggle validation, not taper anxiety -- if it was the latter, recognize it and reset to the prescribed easy volumes this week",
+    "After today's 3mi easy run, get off your feet until race week -- no 'just one more' sessions, no extra walks, no standing around packing the car for hours"
   ],
-  "generatedAt": "2026-10-10",
-  "daysToRace": 8,
+  "generatedAt": "2026-10-11",
+  "daysToRace": 7,
   "currentWeek": 12,
   "weekPhase": "Taper"
 }
