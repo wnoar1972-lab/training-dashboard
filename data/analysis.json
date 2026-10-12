@@ -2,49 +2,42 @@
   "date": "October 12, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Yesterday's 3.0mi run in 31min was exactly on target for the scheduled easy 3mi jog, final run before race week. HR 141 was controlled and appropriate for taper. The 1.8mi/3h06m walking activity logged separately (HR 70) appears to be casual movement, not training load\u2014this is fine in taper.",
-  "todayRecommendation": "Execute today's planned 1,300yd swim (easy with 4x50 at race pace). Keep it relaxed\u2014this is about feel and rhythm, not fitness. Race week taper is working as designed; honor the reduced volume.",
-  "weekProgress": "Week 13 of 13. Week TSS so far: 0 of 150 target (0% complete). This is Monday of race week\u2014TSS will come from today's swim, Tuesday's shakeout, and Friday's course preview. Zero TSS this early in the week is completely normal and expected.",
-  "keyInsight": "You are 6 days out from Ironman California with 13 weeks of disciplined work behind you\u2014race week is about arrival sharp, not building fitness.",
-  "alerts": [
-    "7-day avg sleep score is 71/100, down from recent weeks\u2014prioritize sleep discipline this week, especially Wed/Thu nights before travel and Sat night before race",
-    "Oct 6-7 sleep scores (47, 49) were notably low\u2014watch for any patterns or stressors affecting rest as race week progresses"
-  ],
+  "yesterdayAnalysis": "Yesterday's 3.0mi easy run was executed exactly as scheduled at appropriate taper intensity (HR 141, TSS 31). The second logged entry (1.8mi walk, HR 70, 3h06m duration) appears to be casual daily activity, not a training session, which is appropriate rest behavior in race week. Clean execution on the final run before race week taper begins.",
+  "todayRecommendation": "Complete today's easy 1,300yd swim (4x50 at race pace). This is the last quality touch point before race week -- the 4x50 segments at race pace are not high effort, just neuromuscular pacing reinforcement. Stay relaxed, confirm sighting mechanics are crisp, and hydrate well afterward.",
+  "weekProgress": "Week 13 of 13: race week has begun. Week TSS so far is 0 of 150 target (0% complete). This is Monday morning with 6 days remaining -- the weekly target is very achievable with today's swim, Tuesday's easy spin/jog, and Friday's practice swim in Sacramento. No red flags.",
+  "keyInsight": "You are 6 days out from Ironman California with all primary race-distance exposure complete, nine brick sessions banked, bike fit validated, and run nutrition strategy practiced -- the work is done, now execute the taper and travel plan.",
+  "alerts": [],
   "positives": [
-    "Yesterday's easy run executed perfectly\u20143.0mi in 31min at HR 141, hitting taper volume and intensity exactly as scheduled",
-    "Last week's training wrapped cleanly: Oct 10 OW swim (1,930yd), Oct 8 pool swim (2,242yd), Oct 7 bike (12.4mi at 17.6mph), all on or above targets",
-    "9 brick workouts completed across the build\u2014race-rehearsal exposure is solid"
+    "Sleep quality rebounded: 80/100 score last night with 8.8h duration and strong REM/deep sleep after two lower-scoring nights",
+    "Yesterday's final pre-race-week run executed cleanly at appropriate taper intensity (HR 141, 3.0mi, TSS 31)",
+    "Last swim (Oct 10) was 1,930yd, well above the scheduled 875yd easy session -- solid voluntary volume in taper showing confidence and readiness"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 8,
   "trainingLoadStatus": "Fresh",
   "evidence": [
     "Readiness engine: overall 83/100, recovery 84/100",
-    "7-day avg sleep score 71/100 (Garmin sleep data)",
-    "Week 13 TSS: 0 of 150 (0% complete, Monday of race week)",
-    "Yesterday's run: 3.0mi/31min/HR 141 vs scheduled easy 3mi",
-    "Last 7 days: 5 workouts logged, all matching scheduled sessions"
+    "7-day avg sleep score 71/100 (note: two very low nights Oct 6-7 are dragging average down, but last 3 nights show rebound: 80, 86, 80)",
+    "Last 7 days training log: taper volumes executed as scheduled",
+    "CURRENT TRAINING STATUS: Week 13 of 13, TSS 0/150 (0%), race in 6 days"
   ],
   "confidence": {
     "level": "high",
-    "reason": "13 weeks of complete activity data, Garmin sleep tracking, readiness engine scoring, and clear race-week taper schedule\u2014only gap is real-time HRV trends, but sleep/HR data sufficient for race-week guidance."
+    "reason": "Complete 13-week training log with 99 activities, readiness engine scoring across all disciplines, detailed sleep/recovery data, and race-distance exposure validated (96.6mi longest bike, 86% of race distance) -- strong evidence base for race-week assessment."
   },
   "athlete_context_considered": [
-    "Age 54, hip history (Perthes, stable)",
-    "IM California Oct 18 (6 days out)",
-    "Walk/run 9:1 protocol",
-    "Professional bike fit completed post-Oregon",
-    "Travel to Sacramento Thu Oct 15 (moved from Wed per schedule note)"
+    "Age 54",
+    "Perthes disease right hip (stable, no recent pain flags)",
+    "Walk/run 9min/1min protocol",
+    "Bike fit completed post-Oregon addressing back/foot pain",
+    "Race week taper schedule (travel Wed, practice swim Fri, race Sun)",
+    "Sub-13:00 finish goal at IM California"
   ],
   "race_implications": [
-    "Taper is progressing correctly\u2014fitness is banked, race week is about sharpness and arrival rested",
-    "Sleep quality dip (71/100 avg) is the only limiter showing\u2014prioritize 8+ hours/night Mon-Sat to arrive at the line recovered",
-    "Swim readiness is 98/100 per engine\u2014today's 1,300yd session keeps that sharp without adding fatigue"
+    "Taper is on schedule -- race-distance bike exposure (96.6mi) and 9 brick sessions provide strong race-readiness foundation",
+    "Sleep quality rebound (80/100 last night) after two low-scoring nights is critical timing with travel and race stress ahead -- protect sleep aggressively Mon-Tue before Wednesday travel",
+    "Travel to Sacramento on Thursday begins the final countdown -- stay off feet, hydrate, and arrive ready for Friday's practice swim and Saturday's check-in"
   ],
-  "recommended_adjustments": [
-    "Prioritize 8+ hours sleep every night this week, especially Wed (last night home), Thu (travel night), and Sat (night before race)",
-    "Execute today's swim as written (1,300yd easy + 4x50 race pace)\u2014no additions, no extensions",
-    "Confirm all race-day nutrition is packed and quantities verified before Wed departure (130g/hr run lesson from Oregon)"
-  ],
+  "recommended_adjustments": [],
   "generatedAt": "2026-10-12",
   "daysToRace": 6,
   "currentWeek": 13,
