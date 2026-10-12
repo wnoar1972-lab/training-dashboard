@@ -1065,5 +1065,27 @@
     "avgHR": 112.0,
     "distance": 1765.1,
     "duration": 2662.0
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 31.0,
+    "np": 0,
+    "avgHR": 141.0,
+    "distance": 4882.3,
+    "duration": 1860.0
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Long Beach Walking",
+    "type": "Walk",
+    "disc": "run",
+    "tss": 3.0,
+    "np": 0,
+    "avgHR": 70.0,
+    "distance": 2901.0,
+    "duration": 11164.0
   }
 ]

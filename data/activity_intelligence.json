@@ -664,5 +664,23 @@
     "headline": "Solid 1930-yard session with controlled effort and consistent stroke rhythm",
     "analysis": "You maintained a steady average stroke rate of 26.2 strokes per minute throughout this 44-minute workout, keeping your heart rate nicely controlled with an average of 112 bpm and a max of just 128 bpm. The relative effort score of 30 suggests you approached this as an aerobic base builder rather than a hard push. This controlled approach aligns well with building endurance while staying close to your 30-day average pace of 2:10 per 100 yards.",
     "relative_effort": 30.0
+  },
+  {
+    "strava_id": "20547345663",
+    "date": "2026-10-11",
+    "disc": "run",
+    "title": "Lunch Walk",
+    "headline": "Easy recovery walk with plenty of breaks at a relaxed 24:26 per mile average pace and minimal cardiovascular demand",
+    "analysis": "Your 1.8 mile walk kept things exceptionally light with an average heart rate of just 72 bpm and a max of only 92 bpm, earning a minimal suffer score of 4. The 54.7 steps per minute cadence and highly variable mile splits (53:35 then 132:34 per mile) suggest this was more of a leisurely stroll with stops than a continuous effort. This kind of active recovery at well below your 30-day run average of 18:04 per mile is perfect for promoting blood flow without adding training stress.",
+    "relative_effort": 4.0
+  },
+  {
+    "strava_id": "20549211955",
+    "date": "2026-10-11",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Negative split evening run clocks a 10:14/mi average pace, crushing your recent 18:04/mi baseline",
+    "analysis": "You picked up the tempo beautifully across the 3.03 miles, dropping from 10:27/mi in mile 1 to 9:55/mi in mile 3 while your heart rate only climbed from 139 to 145 bpm. That's a 32-second improvement over three miles with excellent cardiovascular control. Your 82 spm cadence suggests there's opportunity to increase turnover, but this controlled negative split at a 68 suffer score shows smart pacing discipline.",
+    "relative_effort": 68.0
   }
 ]
