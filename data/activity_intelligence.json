@@ -682,5 +682,14 @@
     "headline": "Negative split evening run clocks a 10:14/mi average pace, crushing your recent 18:04/mi baseline",
     "analysis": "You picked up the tempo beautifully across the 3.03 miles, dropping from 10:27/mi in mile 1 to 9:55/mi in mile 3 while your heart rate only climbed from 139 to 145 bpm. That's a 32-second improvement over three miles with excellent cardiovascular control. Your 82 spm cadence suggests there's opportunity to increase turnover, but this controlled negative split at a 68 suffer score shows smart pacing discipline.",
     "relative_effort": 68.0
+  },
+  {
+    "strava_id": "20561918124",
+    "date": "2026-10-12",
+    "disc": "swim",
+    "title": "Afternoon Swim",
+    "headline": "Solid 1500-yard effort with controlled intensity and steady rhythm",
+    "analysis": "You maintained a pace of 1:59/100yd through this 1500-yard session, coming in 11 seconds per 100 yards faster than your 30-day average of 2:10/100yd. Your heart rate stayed moderate with an average of 110 bpm and a max of 130 bpm, while your stroke rate of 22.6 strokes per minute suggests good efficiency. The relative effort of 23 confirms this was a solid aerobic workout without excessive strain.",
+    "relative_effort": 23.0
   }
 ]
