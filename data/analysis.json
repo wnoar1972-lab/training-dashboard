@@ -1,43 +1,46 @@
 {
-  "date": "October 13, 2026",
+  "date": "October 14, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Monday's pool swim executed cleanly: 1,500yd logged against a 1,300yd target, easy pace (29min), HR 112 avg \u2014 well within aerobic range and appropriate for race week. The 4x50 race-pace segment was embedded as scheduled. Volume slightly over target is fine this close to race day when intensity stayed controlled.",
-  "todayRecommendation": "Today's session is a 20min easy spin plus 15min easy jog with 4x20sec strides \u2014 this is pure neuromuscular activation, not a workout. Keep the spin genuinely easy (conversational effort), and on the jog treat the strides as fast feel, zero strain. This is the last movement day before you fly out Wednesday.",
-  "weekProgress": "Week 13 of 13, race week: 12 of 150 TSS logged (8% complete). This is exactly where it should be on Tuesday \u2014 Monday's swim is in, today's short activation session adds minimal TSS, and the plan explicitly tapers volume into travel Thursday and race Sunday. No deficit, no concern.",
-  "keyInsight": "You are 5 days out from race day with fitness proven, taper executed, and sleep rebounding (94 score last night) \u2014 the work is done, now protect it with discipline on these final easy sessions and stay off your feet starting Wednesday.",
+  "yesterdayAnalysis": "Yesterday's easy spin (21min, 6.9mi, HR 100, TSS 6) and easy jog with strides (15min, 1.5mi, HR 136, TSS 14) were both executed exactly as prescribed -- very light load, correct race-week intensity. The bike average speed of 19.7mph is irrelevant on a 21-minute indoor spin; this was about loosening the legs, not pacing discipline. Combined TSS of 20 is perfect for this point in race week.",
+  "todayRecommendation": "Today is a scheduled rest day -- off feet, pack bags, final gear check, hydrate. This is your last day at home before flying out tomorrow. Stay off your feet, confirm all race nutrition is packed, double-check your torque wrench and mechanical checklist are in the bike case, and focus on hydration. No training.",
+  "weekProgress": "Week 13 of 13 shows 32 of 150 target TSS (21% complete) with 4 days remaining. This is exactly where you should be -- race week is front-loaded with rest. Monday swim (12 TSS) and Tuesday spin+jog (20 TSS combined) are complete. Today is rest, Thursday is travel, Friday is a preview swim (low TSS), Saturday is logistics, Sunday is race day. The plan is on track.",
+  "keyInsight": "You are 4 days out from Ironman California with all key sessions complete, bike fit validated, run nutrition protocol practiced, and 10 brick workouts logged -- the work is done, now execute the taper and travel plan.",
   "alerts": [],
   "positives": [
-    "Sleep score rebounded to 94 last night (7.8h, 100min deep, 126min REM) after mid-taper dip earlier in the week",
-    "Monday's swim hit race-pace segments as scheduled with controlled HR (112 avg) \u2014 sighting and pacing dialed in",
-    "13-week build completed: 100 activities, 9 brick sessions, 1,797 bike TSS, and race-distance exposure achieved (96.6mi longest ride)"
+    "Sleep rebounded to 94/100 on 2026-10-13 after a 63/100 night -- 7.8h, RHR 50, excellent REM (126min)",
+    "Race week sessions executed exactly as prescribed -- easy spin and jog with strides hit target intensity and duration",
+    "Readiness engine shows 86/100 overall (Strong) with swim at 98/100 and run at 84/100 heading into race week"
   ],
-  "recoveryScore": 9,
+  "recoveryScore": 8,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: Overall 84/100, Swim 98/100, Bike 76/100, Run 80/100, Recovery 85/100",
-    "Garmin sleep: 7-day avg 78/100, last night 94/100 (7.8h, 100min deep, 126min REM)",
-    "LAST 7 DAYS OF TRAINING: taper volume confirmed (Mon swim 1,500yd, Fri run 3mi, Thu OW 1,930yd)",
-    "CURRENT TRAINING STATUS: Week 13 of 13, TSS 12 of 150 (8%), race Sunday Oct 18"
+    "Readiness engine (overall 86/100, swim 98/100, bike 79/100, run 84/100)",
+    "Garmin sleep (7-day avg 80/100, last night 94/100)",
+    "Intervals.icu planned vs actual (Week 13: 32 of 150 TSS, 21% complete)",
+    "Last 7 days training log (Oct 8-13)",
+    "Brick count (10 completed)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Full 13-week build data captured, sleep tracking consistent last 7 nights, readiness engine scores stable, and race-week taper plan is explicit and on schedule \u2014 only race-day execution remains unknown."
+    "reason": "13 weeks of structured data, 102 activities logged, sleep tracked nightly, readiness engine calibrated, and race-week plan is explicit with minimal variance possible -- the only unknowns now are race-day execution variables outside training control."
   },
   "athlete_context_considered": [
-    "Age 54, Perthes right hip (stable, competing successfully)",
-    "Walk/run protocol 9min/1min on all runs",
-    "Bike fit completed post-Oregon, back/foot pain resolved",
-    "IM California Oct 18 (5 days away): 12:59:59 goal, swim 1:20 / bike 6:37 @ 17mph / run 4:45"
+    "Age 54",
+    "Hip history (Perthes, stable, competing successfully)",
+    "Active race (IM California 2026-10-18, 4 days away)",
+    "Walk/run protocol (9min run/1min walk)",
+    "Prior race lessons (bike fit validated, run nutrition practiced, brick work complete)",
+    "Race week taper protocol"
   ],
   "race_implications": [
-    "Taper is on schedule with appropriate volume drop and sleep recovery \u2014 arrive Sacramento fresh, not undertrained or fatigued",
-    "Swim fitness confirmed at 98/100 readiness and race-pace execution clean on Monday \u2014 1:20 target is realistic",
-    "Brick count (9 sessions) and race-distance bike exposure (96.6mi) give you the endurance foundation to execute the 17mph bike / 4:45 run plan under race load"
+    "All key limiter fixes from Oregon 70.3 are validated -- bike fit complete, run nutrition protocol practiced in 10 bricks, mechanical checklist ready",
+    "Swim readiness at 98/100 supports the 1:20 wetsuit target; bike at 79/100 reflects 96.6mi longest ride (86% of race distance) which is appropriate exposure for a 54yo athlete",
+    "Sleep averaging 80/100 over 7 days with last night at 94/100 positions you well for travel and race-week stress -- prioritize sleep Thursday and Friday nights in Sacramento"
   ],
   "recommended_adjustments": [],
-  "generatedAt": "2026-10-13",
-  "daysToRace": 5,
+  "generatedAt": "2026-10-14",
+  "daysToRace": 4,
   "currentWeek": 13,
   "weekPhase": "Race Week"
 }

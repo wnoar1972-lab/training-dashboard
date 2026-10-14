@@ -691,5 +691,23 @@
     "headline": "Solid 1500-yard effort with controlled intensity and steady rhythm",
     "analysis": "You maintained a pace of 1:59/100yd through this 1500-yard session, coming in 11 seconds per 100 yards faster than your 30-day average of 2:10/100yd. Your heart rate stayed moderate with an average of 110 bpm and a max of 130 bpm, while your stroke rate of 22.6 strokes per minute suggests good efficiency. The relative effort of 23 confirms this was a solid aerobic workout without excessive strain.",
     "relative_effort": 23.0
+  },
+  {
+    "strava_id": "20576256646",
+    "date": "2026-10-13",
+    "disc": "bike",
+    "title": "ROUVY - Las Vegas at Night | USA",
+    "headline": "Strong negative splits on the virtual Vegas Strip with a 28-second gap between your slowest and fastest miles",
+    "analysis": "You started conservatively at 3:19 pace with an 87 bpm heart rate in mile 1, then found your rhythm by mile 4 where you hit your fastest pace of 2:51 and pushed your max heart rate to 113. Your average pace of 3:03/mi came in 40 seconds faster per mile than your 30-day average, though your cadence of 68 RPM suggests there's room to spin a bit quicker on future indoor rides.",
+    "relative_effort": 4.0
+  },
+  {
+    "strava_id": "20576430290",
+    "date": "2026-10-13",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Short but explosive effort with a lightning-fast second mile that crushed your usual pace",
+    "analysis": "You covered 1.51 miles in just over 15 minutes, but the real story is in those splits: after a steady 10:15 first mile at 135 bpm, you absolutely flew through the second mile at 5:04 pace with your heart rate jumping to 144. That second mile represents a massive acceleration\u2014nearly 60% faster than your 30-day average of 18:13/mi\u2014though the short 0.51-mile distance suggests this was a strong finishing kick rather than a sustained tempo.",
+    "relative_effort": 28.0
   }
 ]
