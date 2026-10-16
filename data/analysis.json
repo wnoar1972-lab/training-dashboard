@@ -1,44 +1,44 @@
 {
-  "date": "October 15, 2026",
+  "date": "October 16, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Rest day executed correctly -- off feet, no training logged. This was the final day at home before travel, scheduled for packing, gear check, and hydration. Zero activity was the target and you delivered zero activity. Clean execution of race-week discipline.",
-  "todayRecommendation": "Travel day to Sacramento. Stay off your feet during the flight/drive, hydrate aggressively (airplane cabins are dry), and arrive ready. No training today -- just logistics and positioning for race execution.",
-  "weekProgress": "Week 13 of 13: 32 of 150 TSS (21% complete). This is race week with minimal volume by design -- Mon swim, Tue shake-out, Wed rest, Thu travel, Fri preview swim, Sat check-in, Sun race. TSS intentionally front-loaded to Mon-Tue, then near-zero through race day. Week is tracking exactly as planned.",
-  "keyInsight": "You are 3 days out from race start with all race-critical sessions completed -- the work is done, now it's about logistics, rest, and execution.",
+  "yesterdayAnalysis": "Rest day as scheduled for travel to Sacramento. This was 100% correct execution in race week -- staying off feet, hydrating, and arriving ready is exactly what the plan called for. No training stimulus needed or wanted two days before race start.",
+  "todayRecommendation": "Today's 875yd Sacramento River practice swim is scheduled to happen today. Execute it easy -- this is wetsuit check, sighting practice, and course preview only. Do not push pace or effort. Validate the WIN.MAX mirrored lenses if conditions allow sighting practice downstream into the sun. Stay hydrated and off feet after the swim.",
+  "weekProgress": "Week 13 of 13, race week. TSS so far is 32 of 150 target (21% complete). This is 100% normal and correct for race week -- the only planned session before today was Monday's pool swim (completed 1500yd on Oct 12) and Tuesday's easy spin/jog (completed Oct 13). The remaining TSS target is irrelevant; race day itself will deliver the load. The taper is tracking exactly as designed.",
+  "keyInsight": "You are two days out from race start with all key prep sessions complete, sleep averaging 79/100 over the last week, and readiness at 85/100 -- you have done the work, now execute the plan.",
   "alerts": [],
   "positives": [
-    "7-day sleep average 80/100 with 8.1h last night (score 79) -- solid recovery heading into travel",
-    "Perfect race-week discipline: rest day executed as scheduled with zero training logged",
-    "10 brick sessions completed across the build -- race-rehearsal exposure is in the bank"
+    "10 brick workouts completed across the build -- race-rehearsal execution is practiced and validated",
+    "Last week's taper sessions executed as scheduled: 1500yd pool swim, easy spin/jog with strides, and 3mi easy run all done",
+    "Sleep score rebounded to 79/100 7-day average after the Oct 14 dip (63), with solid recovery nights bookending travel"
   ],
   "recoveryScore": 8,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine overall 85/100 (Strong)",
-    "7-day avg sleep score 80/100",
-    "Week TSS 32 of 150 (21%) with race-week taper schedule",
-    "TODAY'S ACTIVITY LOG (empty, matching rest/travel day)",
-    "YESTERDAY'S WORKOUT (rest day, zero activities logged)"
+    "Readiness engine overall 85/100, bike 78/100, run 84/100, recovery 84/100",
+    "Week 13 TSS 32 of 150 (21% complete) -- race week taper by design",
+    "7-day avg sleep score 79/100, no nights below 92% SpO2",
+    "Last 7 days: Mon swim 1500yd, Tue spin 6.9mi + run 1.5mi, Thu 3mi run, Fri OW 1930yd, Wed rest, Thu rest (travel)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "13 weeks of complete training data, sleep tracking, and race-week schedule are all clear -- the only unknown is travel logistics and race-day weather, neither of which affects readiness assessment."
+    "reason": "102 activities across 13 weeks, complete swim/bike/run data with HR and TSS, 7 nights of sleep tracking, and readiness engine output all available -- data is complete and current for race-week assessment."
   },
   "athlete_context_considered": [
-    "Race day Oct 18 (3 days away)",
-    "Race-week taper protocol (minimal TSS by design)",
-    "Travel logistics (Thu fly/drive to Sacramento)",
-    "Age 54, hip history (rest and positioning are protective)"
+    "Age 54, IM California race Oct 18 (2 days out)",
+    "Bike fit completed after Oregon 70.3 to address back/foot pain",
+    "Walk/run 9min/1min protocol on all runs",
+    "WIN.MAX mirrored lenses for Sacramento River sun-glare sighting issues",
+    "Right hip Perthes history (stable, no current pain flags in recent training)"
   ],
   "race_implications": [
-    "Race readiness is 85/100 (Strong) -- you have the fitness to execute the race plan",
-    "Swim 98/100, Bike 76/100, Run 84/100 -- swim is strongest, bike exposure at 96.6mi (86% of race distance) is sufficient, run training is solid",
-    "Sleep and recovery are tracking well (80/100 avg) heading into final prep days -- stay disciplined with hydration and sleep Thu-Sat"
+    "Swim readiness 98/100 -- today's river preview will validate wetsuit, sighting, and mirrored lens setup for race morning",
+    "Bike readiness 78/100 with 96.6mi longest ride (86% of race distance) -- you have the endurance, now execute 17mph pacing discipline and trust the bike fit to avoid Oregon's back/foot issues",
+    "Run readiness 84/100 -- Oregon's run-nutrition lesson (130g carbs missing caused the fade) is locked into the race plan, practice validated, and walk/run protocol rehearsed in 10 bricks"
   ],
   "recommended_adjustments": [],
-  "generatedAt": "2026-10-15",
-  "daysToRace": 3,
+  "generatedAt": "2026-10-16",
+  "daysToRace": 2,
   "currentWeek": 13,
   "weekPhase": "Race Week"
 }
