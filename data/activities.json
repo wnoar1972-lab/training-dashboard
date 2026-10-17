@@ -1120,5 +1120,16 @@
     "avgHR": 100.0,
     "distance": 11150.1,
     "duration": 1269.0
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Sacramento Open Water Swimming",
+    "type": "OpenWate",
+    "disc": "swim",
+    "tss": 8.0,
+    "np": 0,
+    "avgHR": 0,
+    "distance": 371.8,
+    "duration": 555.0
   }
 ]
