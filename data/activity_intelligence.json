@@ -718,5 +718,50 @@
     "headline": "Quick 407-yard splash keeping the rhythm steady at 29 strokes per minute",
     "analysis": "This 9.3-minute swim session shows you maintaining a consistent stroke rate of 28.9 strokes per minute through just over 400 yards. While we don't have pace data for this specific swim, you're averaging 2:08/100yd over your last 30 days, so this quick lunch session likely kept you right in that familiar rhythm. Short and focused\u2014a solid way to keep the feel for the water during a busy day.",
     "relative_effort": null
+  },
+  {
+    "strava_id": "20642631958",
+    "date": "2026-10-18",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Strong 3800-yard morning session keeps you right on pace with your recent benchmark",
+    "analysis": "You held a steady rhythm for over 65 minutes in the pool, maintaining an average heart rate of 114 bpm that never spiked above 128\u2014excellent aerobic control for a longer swim. Your stroke rate of 27 strokes per minute shows consistent technique throughout, and you're tracking right in line with your 30-day average pace of 2:05/100yd. This kind of controlled volume work builds the endurance base you need.",
+    "relative_effort": 53.0
+  },
+  {
+    "strava_id": "20642631963",
+    "date": "2026-10-18",
+    "disc": "other",
+    "title": "Morning Workout",
+    "headline": "Quick 0.6-mile session at a sharp 10:25 pace shows controlled effort with heart rate capped at 133 bpm",
+    "analysis": "You covered this short outing 30 seconds per mile faster than your 30-day average of 10:55/mi, maintaining a steady 116 bpm average heart rate throughout. The low cadence of 80 steps per minute and minimal suffer score of 3.0 suggest this was more of a recovery effort or warm-up than a hard push. Solid execution for what looks like an easy, controlled session.",
+    "relative_effort": 3.0
+  },
+  {
+    "strava_id": "20642632010",
+    "date": "2026-10-18",
+    "disc": "bike",
+    "title": "Morning Ride",
+    "headline": "Full-distance century ride with 49 PRs and surgical pacing control through 112 miles",
+    "analysis": "You locked into a remarkably consistent effort over 6+ hours, averaging 3:18/mi against your 30-day average of 3:42/mi\u2014that's 24 seconds per mile faster sustained across 112 miles. Your heart rate discipline was textbook: starting controlled in the high 80s-low 90s through miles 4-15, building methodically to the mid-120s by mile 20, then holding steady in the 125-135 range for the final 90 miles with only brief dips during what appear to be technical sections or stops. The massive spike to 8:12/mi at mile 57 suggests a significant stop or mechanical, but you bounced right back to sub-3:10 pace and maintained that composure all the way through mile 112.",
+    "relative_effort": 353.0
+  },
+  {
+    "strava_id": "20642631948",
+    "date": "2026-10-18",
+    "disc": "other",
+    "title": "Afternoon Workout",
+    "headline": "Short but effective workout clocking 5.5 minutes at a purposeful pace",
+    "analysis": "You covered 0.28 miles at a 10:23/mi pace, which is 32 seconds faster than your 30-day average of 10:55/mi. Your heart rate averaged 138.8 bpm and peaked at 167, showing you pushed the intensity during this brief session. The cadence of 80 steps per minute suggests this may have been strength-focused work rather than traditional running.",
+    "relative_effort": 9.0
+  },
+  {
+    "strava_id": "20642631998",
+    "date": "2026-10-18",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "A marathon-plus effort with exceptional pacing discipline through 26.24 miles and 14 PRs",
+    "analysis": "You held a remarkably consistent 10:00-10:52 pace through miles 1-9, then managed the inevitable slowdown with smart heart rate control\u2014your average HR dropped from the low 150s in the first half to the low 140s by mile 15, helping you push through to the finish. That 15:16 split at mile 21 shows you hit a rough patch, but you bounced back with sub-14:00 pacing for miles 23 and 26, demonstrating real mental toughness. With an average pace of 11:48/mi across the full distance and 14 PRs earned, this was a breakthrough performance well below your 30-day average of 18:25/mi.",
+    "relative_effort": 794.0
   }
 ]

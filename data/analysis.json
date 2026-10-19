@@ -1,46 +1,52 @@
 {
-  "date": "October 18, 2026",
-  "overallStatus": "On Track",
-  "statusColor": "green",
-  "yesterdayAnalysis": "Rest day before race day -- exactly as scheduled. Athlete check-in, briefing, and early night were the prescribed tasks. Sleep score 86/100 with 7.8h duration is excellent pre-race preparation. RHR at 49bpm confirms good recovery state heading into the gun.",
-  "todayRecommendation": "Race day is here. Execute the plan: 1:20 swim, 17mph bike (discipline on the flats -- no heroics), 4:45 run at walk/run 9/1 with nutrition every 20-25 min. You have done the work across 103 sessions and 10 bricks. Trust the taper, trust the fit, trust the protocol. Sub-13:00 is on the table.",
-  "weekProgress": "Week 13 of 13 TSS is 40 of 150 target (27% complete). This is race week -- low TSS through Wednesday travel/rest, Friday practice swim, Saturday check-in, and today's race is the entire point of the build. The taper executed correctly.",
-  "keyInsight": "You are standing on the start line of a full Ironman at 54 years old with 1803 bike TSS, 10 bricks, validated nutrition fixes, a professional bike fit, and a disciplined taper -- this is what readiness looks like.",
-  "alerts": [],
-  "positives": [
-    "103 activities completed across 13 weeks -- the volume is in the bank",
-    "10 brick workouts done, including race-rehearsal efforts -- run-off-bike execution is validated",
-    "Sleep score 86/100 last night with 7.8h duration and RHR 49bpm -- you are rested and ready",
-    "Bike fit completed, run nutrition protocol practiced, pacing targets clear -- the Oregon lessons were learned and applied"
+  "date": "October 19, 2026",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "You finished your first full Ironman. Sacramento complete: 1:05 swim (15 minutes faster than the 1:20 target), 6:09 bike at 18.2mph (32 minutes faster than the 6:37 target, and 1.2mph over the 17mph pacing target), 5:10 marathon. Total time and placement data weren't provided, but you covered the distance. The bike pace overshoot is notable -- 18.2mph vs the 17mph discipline target on a flat course -- and will be worth examining in the post-race debrief to understand whether that cost you on the run or whether fitness simply exceeded the conservative plan.",
+  "todayRecommendation": "Do not train today. You raced a full Ironman yesterday -- your body needs complete rest, not a 2,725yd swim and 3-4 mile run. Sleep score last night was 32/100 with 5.8 hours and zero REM sleep, which is a physiological red flag after that load. Focus entirely on hydration, nutrition, sleep, and gentle movement (walking only). Training resumes when sleep normalizes and resting HR returns to baseline.",
+  "weekProgress": "Week 13 of 13 shows 640 TSS of 150 target (427% complete), entirely from yesterday's race. This is race week -- the plan called for the race itself, and you did it. The excessive TSS percentage reflects the full Ironman load vs a taper-week target. No further structured training this week.",
+  "keyInsight": "You completed a full Ironman distance at 54 years old with Perthes disease in your right hip -- that is the only result that matters today, and mandatory rest is now the training.",
+  "alerts": [
+    "Sleep score 32/100 last night (5.8h, 0min REM, RHR 55) -- physiological stress response to race, monitor closely",
+    "Do NOT execute today's scheduled swim and run -- race recovery overrides the plan",
+    "Bike pacing was 18.2mph vs 17mph target -- 1.2mph overpace on a flat course, examine run impact in debrief"
   ],
-  "recoveryScore": 9,
-  "trainingLoadStatus": "Fresh",
+  "positives": [
+    "Swim 1:05 -- 15 minutes under the 1:20 target, strong execution",
+    "Bike 6:09 -- 32 minutes under the 6:37 target, though pace discipline will need review",
+    "Completed 26.2 mile run and full 140.6 mile race distance"
+  ],
+  "recoveryScore": 2,
+  "trainingLoadStatus": "Overreached",
   "evidence": [
-    "Readiness engine: overall 80/100, run 84/100, bike 60/100, swim 98/100, recovery 85/100",
-    "7-day avg sleep score 80/100, last night 86/100 with 7.8h",
-    "Week 13 taper: 40 TSS through race-eve (low load by design)",
-    "Build totals: 103 activities, 1803 bike TSS, 10 bricks",
-    "RHR 49bpm on race morning"
+    "Garmin sleep 2026-10-19 (32/100, 5.8h, 0min REM, RHR 55)",
+    "Yesterday's race data (TSS 600 total, 12h32m elapsed across all segments)",
+    "Readiness engine recovery 84/100 (but pre-race, not post-race)",
+    "Week 13 TSS 640 of 150 target"
   ],
   "confidence": {
     "level": "high",
-    "reason": "13 weeks of structured data, complete taper execution, validated sleep/recovery metrics on race morning, and readiness engine confirmation across all disciplines -- every available data source confirms race-ready status."
+    "reason": "Race completion data is clear, sleep data shows acute post-race stress response, and the coaching directive (mandatory rest after full IM) is unambiguous regardless of what the scheduled plan says."
   },
   "athlete_context_considered": [
     "Age 54",
-    "Oregon 70.3 lessons: bike fit completed, run nutrition protocol validated, pacing discipline reinforced",
-    "Walk/run 9/1 protocol",
-    "Hip history (Perthes) -- stable, no flare noted in taper",
-    "Flat Sacramento course -- 17mph bike pacing discipline is the strategy"
+    "Perthes disease right hip (orthopedic constraint)",
+    "First full Ironman distance",
+    "Prior lesson from Oregon 70.3: bike position and run nutrition discipline",
+    "Walk/run 9:1 protocol"
   ],
   "race_implications": [
-    "Sub-13:00 finish is realistic: 1:20 swim + 6:37 bike + 4:45 run + transitions = 12:50-12:55 projected finish if you execute the pacing plan",
-    "Bike discipline at 17mph is non-negotiable -- going faster today costs you the run, per Oregon fade-mile evidence",
-    "Run nutrition every 20-25 min is the fix for the Oregon bonk -- do not skip a single feed"
+    "Race goal (sub-13:00 finish at IM California) was the objective -- outcome data (final time, placement) not provided in sync, but distance was covered",
+    "Swim and bike both came in well under target times, run duration suggests walk/run protocol was executed",
+    "Bike pacing 1.2mph over target warrants post-race review -- did the overpace cost run performance, or was the bike target simply too conservative given actual fitness?"
   ],
-  "recommended_adjustments": [],
-  "generatedAt": "2026-10-18",
-  "daysToRace": 0,
+  "recommended_adjustments": [
+    "Cancel today's scheduled swim and run -- replace with complete rest, hydration, and sleep prioritization",
+    "Monitor sleep score and resting HR over the next 3-5 days -- training does not resume until both normalize to baseline",
+    "Schedule a post-race debrief (this week, once rested) to review: bike pacing discipline vs outcome, run nutrition execution, and any pain/equipment issues that surfaced during the race"
+  ],
+  "generatedAt": "2026-10-19",
+  "daysToRace": -1,
   "currentWeek": 13,
   "weekPhase": "Race Week"
 }

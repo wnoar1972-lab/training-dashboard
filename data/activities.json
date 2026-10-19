@@ -1131,5 +1131,60 @@
     "avgHR": 0,
     "distance": 371.8,
     "duration": 555.0
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Sacramento Multisport",
+    "type": "Run",
+    "disc": "run",
+    "tss": 338.0,
+    "np": 0,
+    "avgHR": 145.0,
+    "distance": 42238.5,
+    "duration": 18659.0
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Sacramento Multisport",
+    "type": "Transiti",
+    "disc": "other",
+    "tss": 8.0,
+    "np": 0,
+    "avgHR": 134.0,
+    "distance": 449.9,
+    "duration": 195.0
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Sacramento Multisport",
+    "type": "Ride",
+    "disc": "bike",
+    "tss": 223.0,
+    "np": 0,
+    "avgHR": 122.0,
+    "distance": 180444.3,
+    "duration": 22153.0
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Sacramento Multisport",
+    "type": "Transiti",
+    "disc": "other",
+    "tss": 3.0,
+    "np": 0,
+    "avgHR": 113.0,
+    "distance": 1002.0,
+    "duration": 381.0
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Sacramento Multisport",
+    "type": "OpenWate",
+    "disc": "swim",
+    "tss": 28.0,
+    "np": 0,
+    "avgHR": 114.0,
+    "distance": 3475.7,
+    "duration": 3921.0
   }
 ]
