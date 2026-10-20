@@ -1828,6 +1828,1832 @@
           }
         ]
       }
+    },
+    "2026-10-19": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,200yd easy",
+            "note": "form focus, no pushing"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy bike 40 min",
+            "note": "very easy spin"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,200yd easy",
+            "note": "form focus, no pushing"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy bike 55 min",
+            "note": "easy spin, no brick"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet, hydrate"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy outdoor ride 70 min",
+            "note": "conversational, easy gears"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy walk/run 20 min",
+            "note": "walk/run 9/1, nothing hard"
+          }
+        ]
+      }
+    },
+    "2026-10-26": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,500yd easy",
+            "note": "form focus, no pushing"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy bike 45 min",
+            "note": "very easy spin"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,500yd easy",
+            "note": "form focus, no pushing"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy bike 60 min",
+            "note": "easy spin, no brick"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet, hydrate"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy outdoor ride 75 min",
+            "note": "conversational, easy gears"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy walk/run 30 min",
+            "note": "walk/run 9/1, nothing hard"
+          }
+        ]
+      }
+    },
+    "2026-11-02": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,000yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,000yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 60 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 20 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 90 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 6mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-11-09": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,200yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,200yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 60 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 20 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation starts - no structured training",
+            "note": "Nov 13-20"
+          }
+        ]
+      },
+      "6": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training"
+          }
+        ]
+      },
+      "0": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training"
+          }
+        ]
+      }
+    },
+    "2026-11-16": {
+      "1": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training",
+            "note": "Nov 13-20 trip"
+          }
+        ]
+      },
+      "2": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training",
+            "note": "Nov 13-20 trip"
+          }
+        ]
+      },
+      "3": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training",
+            "note": "Nov 13-20 trip"
+          }
+        ]
+      },
+      "4": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training",
+            "note": "Nov 13-20 trip"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Vacation - no structured training",
+            "note": "Nov 13-20 trip"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy bike 45 min",
+            "note": "back from vacation, easy"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy walk/run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-11-23": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 35 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 25 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 105 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 7mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-11-30": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 120 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 8mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-12-07": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 135 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 9mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-12-14": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,000yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,000yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 35 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 150 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 10mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-12-21": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,000yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,000yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 165 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 10mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2026-12-28": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,500yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,500yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 35 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 135 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 9mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-01-04": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,200yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,200yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 165 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 11mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-01-11": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 180 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 11mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-01-18": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 195 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-01-25": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 100 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 210 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-02-01": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,600yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,600yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 100 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 225 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 13mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-02-08": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 195 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-02-15": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,800yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,800yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 100 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 225 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 13mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-02-22": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,400yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 90 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 180 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 11mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-03-01": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,600yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 3,600yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 100 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 45 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 210 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-03-08": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 35 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 150 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 9mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-03-15": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,200yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 30 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,200yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 60 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 20 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 105 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 7mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-03-22": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,800yd",
+            "note": "steady sets"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 25 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,800yd",
+            "note": "threshold sets"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 45 min + brick",
+            "note": "aero conditioning"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 15 min",
+            "note": "walk/run 9/1"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 60 min",
+            "note": "nutrition practice · outdoor"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 5mi",
+            "note": "walk/run 9/1"
+          }
+        ]
+      }
+    },
+    "2027-03-29": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,000yd easy",
+            "note": "easy, loosen up"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 15 min + 4 strides",
+            "note": "feel fast, no effort"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 600yd + 4x50 race pace",
+            "note": "race-pace touches only"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy spin 20 min",
+            "note": "gear check, nothing hard"
+          }
+        ]
+      },
+      "5": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Practice swim 500yd + athlete check-in",
+            "note": "course preview, bib pickup, transition walk-through"
+          }
+        ]
+      },
+      "6": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "RACE DAY - IRONMAN 70.3 OCEANSIDE",
+            "note": "Goal: sub-5:57:28 (beat 2026 PR). Stay patient on the bike, walk/run 9/1, gels or chews every 20 min on the run"
+          }
+        ]
+      },
+      "0": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Recovery",
+            "note": "easy walk, hydrate, celebrate"
+          }
+        ]
+      }
     }
   }
 }
