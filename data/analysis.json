@@ -1,32 +1,56 @@
 {
   "date": "October 20, 2026",
-  "overallStatus": "On Track",
-  "statusColor": "green",
-  "yesterdayAnalysis": "Analysis temporarily unavailable -- check back tomorrow.",
-  "todayRecommendation": "Follow today's scheduled session: Run Club (walk/run protocol \u00b7 fixed Tuesday evening slot).",
-  "weekProgress": "Week 13 of 13 -- 640 of 150 TSS (427% complete).",
-  "keyInsight": "-2 days to Ironman California.",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "Yesterday was a scheduled rest day, but you skipped the Monday pool swim (1,200yd easy). That's the first session of the build and you're already behind the plan. Recovery week doesn't mean skipping workouts -- it means executing them at the prescribed easy intensity. The sleep score of 32 on 10/19 with zero REM and only 5.8h duration suggests something disrupted your night badly, which may have contributed to the skip.",
+  "todayRecommendation": "Get the 40-minute easy bike spin done today as scheduled -- very easy, conversational effort, nothing pushed. This is mandatory recovery-week work, not optional. If you miss today's session, you'll be 0-for-2 to start the build, which is a red flag for discipline and race readiness.",
+  "weekProgress": "Week 1 of 24: 0 of 150 TSS so far (0% complete). You've already skipped Monday's swim, and nothing is logged yet today. While TSS is typically back-loaded, missing scheduled sessions this early in a recovery week is concerning -- these easy sessions are part of active recovery and build the habit of executing the plan.",
+  "keyInsight": "You're 165 days from Oceanside and already skipping scheduled recovery-week sessions -- this is a discipline problem that will compound if not corrected immediately.",
   "alerts": [
-    "Unexpected error generating analysis: Unterminated string starting at: line 46 column 5 (char 5060)"
+    "Skipped Monday's scheduled 1,200yd pool swim (first session of build)",
+    "Zero activities logged in the last 7 days despite scheduled recovery-week sessions",
+    "Sleep score 32 on 10/19 (5.8h, zero REM) indicates severe sleep disruption",
+    "Today's 40min easy bike not yet logged -- session needs to be completed"
   ],
   "positives": [
-    "Training is progressing",
-    "Consistency is key"
+    "Resting HR at 54.1 bpm is stable and only 0.1 bpm above all-time baseline (strong cardiovascular recovery)",
+    "Last night's sleep rebounded to 77 score with 8.9h duration after the disrupted night",
+    "Recovery score is 84/100 according to readiness engine -- physiologically ready to train easy"
   ],
-  "recoveryScore": 8,
-  "trainingLoadStatus": "Optimal",
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Fallback -- Claude API unavailable"
+    "Readiness engine (recovery 84/100, overall 15/100)",
+    "Garmin sleep data (7-day avg 69/100, 10/19 score 32)",
+    "LAST 7 DAYS OF TRAINING (zero activities)",
+    "YESTERDAY'S WORKOUT (rest day, skipped scheduled swim)",
+    "TODAY'S ACTIVITY LOG SO FAR (empty)",
+    "CURRENT TRAINING STATUS (Week 1 TSS 0 of 150)"
   ],
   "confidence": {
-    "level": "low",
-    "reason": "Unexpected error generating analysis: Unterminated string starting at: line 46 column 5 (char 5060)"
+    "level": "high",
+    "reason": "Seven days of complete training data (showing zero activity) and seven nights of sleep data provide clear evidence of the current state -- the gap between readiness (84/100 recovery) and execution (zero activities logged) is unambiguous."
   },
-  "athlete_context_considered": [],
-  "race_implications": [],
-  "recommended_adjustments": [],
+  "athlete_context_considered": [
+    "Week 1 of 24 is mandatory post-IM California recovery",
+    "Recovery week protocol: easy sessions only, no pushing",
+    "54 years old with Perthes disease (stable) -- progressive build structure is critical",
+    "IRONMAN 70.3 Oceanside 2027-04-03 (165 days out)",
+    "Coaching philosophy: accurate feedback over false reassurance"
+  ],
+  "race_implications": [
+    "Skipping recovery-week sessions now establishes a pattern of non-execution that will sabotage the 23 harder weeks ahead",
+    "Readiness engine shows 0/100 in all three disciplines (swim/bike/run) -- every scheduled session matters to close that gap",
+    "You have 165 days to build from 0% race-distance exposure in the swim to 1.2mi ocean swim readiness -- missing early sessions makes that timeline tighter"
+  ],
+  "recommended_adjustments": [
+    "Complete today's 40min easy bike as scheduled -- treat it as non-negotiable",
+    "Get back to the pool Wednesday for the 1,200yd easy swim (form focus, no pushing) -- do not skip two swim sessions in a row",
+    "Review what caused the 10/19 sleep disruption (score 32, zero REM) and address it -- recovery-week execution depends on actual recovery",
+    "Book the professional bike fit this week if not already scheduled -- it's a critical dependency for the Sacramento build ahead"
+  ],
   "generatedAt": "2026-10-20",
-  "daysToRace": -2,
-  "currentWeek": 13,
-  "weekPhase": "Race Week"
+  "daysToRace": 165,
+  "currentWeek": 1,
+  "weekPhase": "Recovery"
 }
