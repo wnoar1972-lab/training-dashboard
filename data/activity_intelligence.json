@@ -763,5 +763,14 @@
     "headline": "A marathon-plus effort with exceptional pacing discipline through 26.24 miles and 14 PRs",
     "analysis": "You held a remarkably consistent 10:00-10:52 pace through miles 1-9, then managed the inevitable slowdown with smart heart rate control\u2014your average HR dropped from the low 150s in the first half to the low 140s by mile 15, helping you push through to the finish. That 15:16 split at mile 21 shows you hit a rough patch, but you bounced back with sub-14:00 pacing for miles 23 and 26, demonstrating real mental toughness. With an average pace of 11:48/mi across the full distance and 14 PRs earned, this was a breakthrough performance well below your 30-day average of 18:25/mi.",
     "relative_effort": 794.0
+  },
+  {
+    "strava_id": "20682741254",
+    "date": "2026-10-21",
+    "disc": "swim",
+    "title": "Evening Swim",
+    "headline": "Solid 875-yard evening session at a controlled effort with a low heart rate ceiling",
+    "analysis": "You kept this swim aerobic with an average heart rate of just 94 bpm and a max of 129 bpm, resulting in a low suffer score of 11. Your stroke rate of 23.3 strokes per minute suggests you maintained a steady rhythm throughout the 18-minute workout. This kind of lower-intensity volume work builds your aerobic base without the recovery cost of harder efforts.",
+    "relative_effort": 11.0
   }
 ]

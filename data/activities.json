@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "date": "2026-10-21",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 7.0,
+    "np": 0,
+    "avgHR": 106.0,
+    "distance": 800.1,
+    "duration": 1081.0
+  }
+]
