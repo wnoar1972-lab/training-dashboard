@@ -1,52 +1,53 @@
 {
-  "date": "October 22, 2026",
+  "date": "October 23, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Pool swim was 875yd in 18 minutes, scheduled 1,200yd easy. This is 73% of the scheduled distance -- you cut it 325yd short. In a mandatory recovery week, the goal is still to complete the easy volume as written to maintain feel and rhythm. If you're cutting recovery swims short, that's a signal to evaluate why: genuine fatigue requiring more rest, or just impatience with easy effort.",
-  "todayRecommendation": "Today's session is an easy bike 55 minutes (easy spin, no brick). Complete the full 55 minutes at truly conversational effort. This is recovery, not fitness-building -- hold back and use the time to feel out the bike after IM California. Do not cut this one short like yesterday's swim.",
-  "weekProgress": "Week 1 of 24: 7 of 150 TSS (5% complete). This is a mandatory post-IM California recovery week -- low TSS is intentional and correct. However, you still need to complete the scheduled easy sessions as written, not abbreviated versions. 3 days remain including today, with a 70-min ride Saturday and 20-min walk/run Sunday still to come.",
-  "keyInsight": "You're shortening recovery sessions (yesterday's swim was 73% of scheduled distance) in a week where the entire point is controlled easy volume -- cutting easy work short defeats the purpose of active recovery.",
+  "yesterdayAnalysis": "Scheduled easy bike 55 min was skipped -- no activities logged. This is Week 1 recovery after IM California, so the miss is less critical than it would be in a build week, but holding to the recovery protocol matters for clearing fatigue and preparing for the 24-week block ahead. Two consecutive rest days (Tuesday skipped, Thursday skipped) extends recovery but also delays getting back into movement rhythm.",
+  "todayRecommendation": "Today is scheduled rest -- off feet, hydrate. This is exactly what should happen. With two sessions skipped earlier this week, tomorrow's easy 70-min outdoor ride and Sunday's 20-min walk/run become the only chances to execute the planned recovery movement this week -- show up for both.",
+  "weekProgress": "Week 1 of 24: 7 of 150 TSS (5% complete). Only one activity logged so far (swim, 875yd vs 1,200yd scheduled). Two scheduled easy bike sessions (Tuesday 40min, Thursday 55min) were skipped. With 2 days remaining (Saturday outdoor ride, Sunday walk/run), the week will finish well short of the 150 TSS target, but this is a mandatory recovery week post-IM California where low TSS is intentional and correct -- the concern is not the TSS miss, it's the pattern of skipping scheduled sessions entirely.",
+  "keyInsight": "Recovery week execution is weak -- two planned easy sessions skipped, and the one completed swim was 325yd short of target -- consistency matters even when the intensity is low.",
   "alerts": [
-    "Yesterday's swim was 325yd short of the scheduled 1,200yd -- even in recovery, complete the prescribed easy volume",
-    "Last night's sleep scored 65 with only 17min REM and RHR of 51 -- watch for cumulative fatigue if sleep quality stays suppressed",
-    "Zero bike sessions logged so far in this build (bike readiness 0/100) -- today's easy spin is your first chance to assess post-race bike feel"
+    "Tuesday easy bike 40min skipped",
+    "Thursday easy bike 55min skipped",
+    "Wednesday swim was 875yd vs 1,200yd scheduled (73% of target)",
+    "Bike fit not yet booked -- this is the recovery week window to schedule it before build starts"
   ],
   "positives": [
-    "Resting HR is 53.8 bpm, -0.3 bpm below all-time baseline -- cardiovascular recovery is holding steady",
-    "Recovery score is 83/100, confirming you're rebounding well from IM California overall",
-    "Sleep duration has been strong (7-8.9h most nights) even when quality metrics vary"
+    "Sleep quality averaging 69/100 with solid durations (7-9h most nights)",
+    "Resting HR 53.7 bpm is stable at baseline (54.0 bpm) -- cardiovascular recovery intact",
+    "Recovery score 84/100 shows the body is clearing IM California fatigue effectively"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 8,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (recovery 83/100, bike 0/100)",
-    "Yesterday's swim actual vs scheduled (875yd vs 1,200yd)",
-    "Last 7 nights sleep data (avg score 69, SpO2 93.7%)",
-    "Week 1 TSS tracking (7 of 150, 5%)",
-    "Resting HR 53.8 bpm vs 54.1 baseline"
+    "Readiness engine (overall 27/100, recovery 84/100, bike 0/100, run 0/100)",
+    "Week 1 TSS 7 of 150 target (5%)",
+    "Garmin sleep scores (69/100 avg, RHR 53.7 bpm)",
+    "Activity log: 1 swim completed, 2 bikes skipped",
+    "Scheduled sessions vs actual from LAST 7 DAYS and YESTERDAY'S WORKOUT"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Only 1 activity logged so far in the build, and it was shortened relative to plan -- not enough data yet to assess training execution patterns or post-race adaptation, but recovery metrics (HR, readiness score) are clear and consistent."
+    "level": "high",
+    "reason": "Week 1 schedule is fully defined, sleep data is complete for 6 of 7 nights, and activity log clearly shows which sessions were done vs skipped -- confidence is high on what happened, though only 1 activity in the build limits any fitness assessment."
   },
   "athlete_context_considered": [
-    "Mandatory Week 1 recovery block post-IM California",
-    "Age 54 -- recovery weeks are not optional",
-    "Bike fit completed but no post-fit bike sessions logged yet",
-    "163 days to Oceanside 70.3"
+    "Week 1 mandatory recovery after IM California (Oct 19-25)",
+    "Age 54 -- recovery consistency matters for clearing fatigue",
+    "Hip history (Perthes) -- gentle reintroduction to movement after full-distance race",
+    "Bike fit identified as pre-build priority after Oregon foot/back pain"
   ],
   "race_implications": [
-    "Bike readiness is 0/100 because you haven't logged a single bike session yet -- today starts the long road to 56mi race-ready fitness",
-    "Oceanside is 163 days out -- plenty of runway, but only if you execute the plan as written, not abbreviated versions",
-    "Recovery discipline now (completing easy sessions fully) builds the consistency habit needed across 24 weeks"
+    "162 days to Oceanside 70.3 -- 23 full build weeks remain after this recovery week closes, but skipping easy sessions now establishes a pattern that will hurt in harder weeks",
+    "Bike readiness 0/100 (longest ride 0mi) -- every skipped session delays closing the race-distance exposure gap",
+    "Bike fit window is now -- if not booked during this recovery week, it pushes into build weeks where fitting changes will disrupt training rhythm"
   ],
   "recommended_adjustments": [
-    "Complete today's 55-min easy bike in full -- no shortcuts, even in recovery week",
-    "If you're cutting sessions short due to genuine fatigue (not impatience), take a full rest day instead of doing partial work -- half-done easy sessions don't accomplish recovery OR fitness",
-    "Book or confirm your bike fit appointment this week if not already done -- the plan assumes a post-fit position check before real loading begins in Week 2"
+    "Execute Saturday 70min easy outdoor ride and Sunday 20min walk/run as scheduled -- no negotiation, these are the last two chances to honor the recovery protocol this week",
+    "Book the professional bike fit appointment this week while training load is intentionally low -- waiting pushes it into Week 2 or later when workload increases",
+    "Week 2 starts Monday Oct 26 -- build intensity increases, so skipping sessions will no longer be a minor recovery-week issue, it will directly erode race readiness"
   ],
-  "generatedAt": "2026-10-22",
-  "daysToRace": 163,
+  "generatedAt": "2026-10-23",
+  "daysToRace": 162,
   "currentWeek": 1,
   "weekPhase": "Recovery"
 }
