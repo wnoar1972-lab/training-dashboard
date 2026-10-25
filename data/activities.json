@@ -9,5 +9,27 @@
     "avgHR": 106.0,
     "distance": 800.1,
     "duration": 1081.0
+  },
+  {
+    "date": "2026-10-24",
+    "title": "ROUVY - Cape Point | Cape Town | South A",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 30.0,
+    "np": 0,
+    "avgHR": 108.0,
+    "distance": 27700.1,
+    "duration": 4247.0
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 26.0,
+    "np": 0,
+    "avgHR": 139.0,
+    "distance": 4927.6,
+    "duration": 1579.0
   }
 ]

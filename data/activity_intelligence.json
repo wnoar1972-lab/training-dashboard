@@ -772,5 +772,23 @@
     "headline": "Solid 875-yard evening session at a controlled effort with a low heart rate ceiling",
     "analysis": "You kept this swim aerobic with an average heart rate of just 94 bpm and a max of 129 bpm, resulting in a low suffer score of 11. Your stroke rate of 23.3 strokes per minute suggests you maintained a steady rhythm throughout the 18-minute workout. This kind of lower-intensity volume work builds your aerobic base without the recovery cost of harder efforts.",
     "relative_effort": 11.0
+  },
+  {
+    "strava_id": "20716751252",
+    "date": "2026-10-24",
+    "disc": "bike",
+    "title": "ROUVY - Cape Point | Cape Town | South Africa",
+    "headline": "Virtual Cape Point tour mirrors your steady endurance pace, but that 63.7 RPM cadence left power on the table",
+    "analysis": "You held remarkably close to your 30-day average of 4:07/mi across 17.21 miles, though the wildly varied splits\u2014from a 2:01/mi rip on mile 10 to an 8:15/mi grind on mile 5\u2014reveal Cape Point's punchy terrain. Your heart rate averaged just 107.8 bpm with a max of only 131, indicating you stayed comfortably aerobic throughout this 70-minute ride. That cadence of 63.7 RPM is notably low for sustained riding; targeting 80-90 RPM on your next indoor session will help you generate smoother power and reduce muscular fatigue.",
+    "relative_effort": 20.0
+  },
+  {
+    "strava_id": "20729139469",
+    "date": "2026-10-25",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Strong negative split execution with a 43-second fade from mile 1 to mile 3",
+    "analysis": "You knocked out a solid progression run, dropping from 9:01 on mile 1 down to 8:18 on mile 3\u2014well under your 30-day average of 8:35/mi. Your heart rate climbed steadily through the effort, from 128 bpm in the first mile to 147 bpm by mile 3, showing good cardiovascular response to the increased pace. That effort earned you 2 PRs and a relative effort score of 54, demonstrating quality work in under 27 minutes.",
+    "relative_effort": 54.0
   }
 ]

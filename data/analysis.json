@@ -1,55 +1,53 @@
 {
-  "date": "October 24, 2026",
+  "date": "October 25, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Rest day as scheduled on day 5 of the post-IM California recovery week. This was the correct call -- zero activity is exactly what was planned. Recovery metrics are solid: resting HR at 53.5 bpm is essentially at baseline (53.9 bpm), and last night's sleep score of 87 with 8.1h duration shows good physiological recovery is happening.",
-  "todayRecommendation": "Complete the scheduled 70-minute easy outdoor ride at conversational effort, easy gears only. This is not a TSS builder or a fitness test -- it's a recovery spin to keep the legs moving without digging a hole. Stay well below the 19.2mph pacing target; slower is better today.",
-  "weekProgress": "Week 1 of 24: 7 of 150 TSS completed (5%). This is a mandatory post-IM recovery week, and the low TSS is intentional and correct. Monday's swim was 875yd (short of the scheduled 1,200yd but acceptable for a recovery focus), and Tuesday/Wednesday bikes were skipped entirely. Today's ride and Sunday's walk/run remain to close out the week -- hitting 150 TSS is not the goal here; rest is.",
-  "keyInsight": "Recovery week execution is inconsistent -- the Monday swim was shortened and both scheduled Tuesday and Wednesday sessions were skipped outright, which is fine if you needed the rest, but if you're feeling recovered enough to ride today, those earlier easy sessions should have happened.",
+  "yesterdayAnalysis": "Saturday's 70-minute easy ride delivered exactly what the recovery week called for: 30 TSS, heart rate at 108 (very easy), and 17.2 miles at 14.6mph average. The low speed confirms this was appropriately easy effort \u2014 well below the 19.2mph race-pace target, which is exactly right for a recovery ride this week. Completed as prescribed.",
+  "todayRecommendation": "Today's easy 20-minute walk/run is already complete \u2014 26 minutes, 3.1 miles, 26 TSS at HR 139. That's slightly longer than the 20-minute target and produced more TSS than expected for an easy recovery jog, but it's done. Focus now on hydration, fueling, and staying off your feet for the rest of the day. This recovery week ends tonight.",
+  "weekProgress": "Week 1 of 24 is tracking at 63 of 150 TSS (42% complete) with only today's session remaining. This is a mandatory post-IM California recovery week where low TSS is intentional and correct \u2014 you were scheduled for easy-only work, and that's exactly what you've done. The week served its purpose.",
+  "keyInsight": "You're recovering appropriately after IM California, but you missed two of the week's three scheduled swim sessions (only 875yd completed vs. 2,400yd total scheduled), and that swim deficit is already your largest race-readiness limiter heading into the build.",
   "alerts": [
-    "Week 1 TSS is only 5% complete with 1 day remaining -- Tuesday easy bike 40min and Wednesday pool swim 1,200yd were both skipped",
-    "Monday swim was 875yd vs. 1,200yd scheduled (73% of target distance)",
-    "Sleep score averaged 69/100 over the last 7 days with one night at 32/100 (Oct 19) -- recovery sleep quality is inconsistent",
-    "One night (Oct 21) showed SpO2 at 91%, below the 92% threshold"
+    "Swim sessions: only 1 of 3 completed this week (875yd vs. 2,400yd scheduled) \u2014 readiness engine flags swim at 54/100 with only 7 TSS in the last 28 days vs. expected ~81",
+    "Today's run produced 26 TSS in 26 minutes at HR 139 \u2014 higher than expected for a 20-minute easy jog; watch for accumulated fatigue as the build starts tomorrow",
+    "Sleep: 7-day average score 70/100 with one night at 32/100 (Oct 19, 5.8h, 0min REM) and one night with SpO2 at 91% \u2014 adequate but not strong heading into Week 2"
   ],
   "positives": [
-    "Resting HR is 53.5 bpm, essentially at the all-time baseline of 53.9 bpm -- cardiovascular recovery is on track",
-    "Last night's sleep was strong: 87 score, 8.1h duration, 169min REM -- best night of the week",
-    "Recovery score from the readiness engine is 84/100, confirming physiological readiness to resume structured training next week"
+    "Bike and run sessions this week were executed at appropriately easy intensity (bike HR 108, well-controlled pacing at 14.6mph)",
+    "Recovery score is strong at 83/100 despite being only 5 days post-full-IM \u2014 physiology is bouncing back well",
+    "Sleep duration averaging 8.1 hours over the last 7 nights with generally solid REM and deep sleep (except Oct 19)"
   ],
-  "recoveryScore": 8,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (recovery 84/100, overall 27/100)",
-    "Garmin sleep (7-day avg 69/100, last night 87/100)",
-    "Resting HR 53.5 bpm vs. baseline 53.9 bpm",
-    "Week TSS 7 of 150 (5%)",
-    "LAST 7 DAYS OF TRAINING (1 swim, 0 bike, 0 run)",
-    "This week's schedule vs. actual completion"
+    "Readiness engine (swim 54/100, bike 56/100, run 54/100, recovery 83/100)",
+    "Week 1 TSS actuals vs. scheduled sessions (63 of 150 TSS, 42% complete)",
+    "Last 7 days activity log (3 sessions: 1 bike, 1 swim, 1 run)",
+    "Garmin sleep data (7-day avg score 70/100, avg SpO2 93.6%)",
+    "Today's completed run activity (26min, 3.1mi, 26 TSS, HR 139)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "7 days of sleep data and resting HR provide solid recovery markers, but only 1 activity logged in 6 days limits insight into how the body is responding to light training load -- HRV and nutrition logs are not tracked, and the build is only 1 week old."
+    "reason": "One full recovery week of data post-race with clear activity logs, sleep scores, and readiness metrics, but only 3 total activities in the build so far limits pattern visibility \u2014 no HRV data, nutrition logging, or subjective recovery notes tracked yet."
   },
   "athlete_context_considered": [
-    "Week 1 of 24 (post-IM California mandatory recovery)",
-    "Age 54, Perthes disease right hip (stable, no new symptoms noted)",
-    "IM 70.3 Oceanside 2027-04-03 (161 days out)",
-    "Bike fit completed post-Oregon to address run pain",
-    "Walk/run 9/1 protocol"
+    "Week 1 mandatory post-IM California recovery block",
+    "Hip history (Perthes, right) \u2014 watching for associations with back-to-back run load",
+    "Walk/run 9/1 protocol applied to today's session",
+    "Age 54, TRT management",
+    "Bike fit completed before this build to address prior run-leg pain"
   ],
   "race_implications": [
-    "161 days to Oceanside leaves 23 structured build weeks after this recovery block -- the timeline is workable, but only if Week 2 starts clean and consistent",
-    "Readiness engine shows bike at 0/100 and run at 0/100 with 0mi longest bike and 0 brick sessions -- the base-building phase starting Week 2 needs to begin immediately to establish aerobic foundation",
-    "Inconsistent execution even in an easy recovery week is a red flag for adherence once structured workload ramps in Week 2 and beyond"
+    "Swim readiness is the largest current limiter at 54/100 \u2014 missing 2 of 3 scheduled swims this week puts immediate pressure on Week 2 to rebuild pool consistency or the 0:45 Oceanside ocean-swim target is at real risk",
+    "Bike exposure is very thin (longest session 17.2mi, only 31% of 56-mile race distance) \u2014 the next 23 weeks must build that systematically or the 2:55 bike target won't be achievable",
+    "Recovery metrics are solid post-IM California, which means the foundation is there to start building volume in Week 2 without digging a hole"
   ],
   "recommended_adjustments": [
-    "Complete today's 70min easy ride and Sunday's 20min walk/run to close the recovery week -- if you're skipping sessions, know why (fatigue, schedule conflict, motivation) and name it so we can address it before Week 2 starts",
-    "Week 2 begins Monday Oct 26 -- expect the schedule to include 3 swims, 3 bikes, 2-3 runs, and a weekend brick; review it Sunday night and block the time now",
-    "If the Tuesday/Wednesday skips were due to lingering fatigue or soreness, say so explicitly -- that's useful data for how hard to push Week 2"
+    "Week 2 starts tomorrow \u2014 prioritize hitting all three scheduled swim sessions to arrest the volume deficit before it compounds further into the build",
+    "If swim sessions continue to be missed, name the obstacle directly (pool access, scheduling conflict, motivation) so we can solve it now rather than 12 weeks from race day",
+    "Monitor tomorrow's first session of Week 2 for any lingering post-race fatigue (especially run legs or hip discomfort) \u2014 if you feel flat or sore, communicate it immediately; recovery mode ends today but that doesn't mean you're bulletproof yet"
   ],
-  "generatedAt": "2026-10-24",
-  "daysToRace": 161,
+  "generatedAt": "2026-10-25",
+  "daysToRace": 160,
   "currentWeek": 1,
   "weekPhase": "Recovery"
 }
