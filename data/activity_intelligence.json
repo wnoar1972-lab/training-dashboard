@@ -790,5 +790,14 @@
     "headline": "Strong negative split execution with a 43-second fade from mile 1 to mile 3",
     "analysis": "You knocked out a solid progression run, dropping from 9:01 on mile 1 down to 8:18 on mile 3\u2014well under your 30-day average of 8:35/mi. Your heart rate climbed steadily through the effort, from 128 bpm in the first mile to 147 bpm by mile 3, showing good cardiovascular response to the increased pace. That effort earned you 2 PRs and a relative effort score of 54, demonstrating quality work in under 27 minutes.",
     "relative_effort": 54.0
+  },
+  {
+    "strava_id": "20759626353",
+    "date": "2026-10-27",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Steady 4.59-mile effort with a strong kick finish despite slower-than-usual overall pace",
+    "analysis": "You averaged 11:07-11:34 per mile for the first four miles at a heart rate climbing from 129 to 144 bpm, running about 1:30-2:00 per mile slower than your 30-day average of 9:43. The real standout was your final partial mile at 8:33 pace\u2014dropping more than 2:30 per mile while keeping your heart rate steady at 138 bpm. Your cadence of 82 steps per minute suggests there's room to increase turnover, which could help bring those early miles closer to your typical training pace.",
+    "relative_effort": 93.0
   }
 ]

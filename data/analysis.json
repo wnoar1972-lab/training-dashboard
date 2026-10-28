@@ -1,54 +1,52 @@
 {
-  "date": "October 27, 2026",
-  "overallStatus": "Recovery Mode",
-  "statusColor": "blue",
-  "yesterdayAnalysis": "Rest day on 2026-10-26 -- but a pool swim (1,500yd easy) was scheduled and was not completed. This is the second missed swim in Week 2 (Monday's 1,500yd session was also skipped). In a recovery week, skipping easy sessions isn't catastrophic, but the pattern is concerning given swim readiness is already the largest limiter at 54/100 and volume is 7 TSS versus an expected ~83 over the last 28 days.",
-  "todayRecommendation": "Today's planned session is a 45-minute easy bike (very easy spin). If not yet done, execute it as prescribed -- no pushing, conversational effort only. This is a recovery week; the purpose is adaptation, not fitness gain. If already completed, check the data sync to confirm it logged correctly.",
-  "weekProgress": "Week 2 of 24: 0 of 200 TSS target (0% complete). 5 days remain including today. Two scheduled swims (Monday and Wednesday) have been skipped so far. Weekly TSS is typically back-loaded, so the percentage isn't alarming yet -- but the missed swims are a real gap. The week is still salvageable if the remaining sessions (today's bike, Thursday's bike, Saturday's ride, Sunday's run) are completed as planned.",
-  "keyInsight": "Two consecutive scheduled swims skipped in a recovery week is a red flag -- swim readiness is already the weakest discipline at 54/100, and this pattern will compound the deficit heading into Week 3.",
+  "date": "October 28, 2026",
+  "overallStatus": "Needs Attention",
+  "statusColor": "yellow",
+  "yesterdayAnalysis": "You ran 4.6 miles instead of doing the scheduled 45-minute easy bike spin. The run TSS (46) was appropriate for easy intensity (HR 137), but this is the second schedule deviation in the recovery block -- Saturday's 70-minute bike became 17.2 miles at 14.6mph (well below the 19.2mph target, which is appropriate for easy work), and now Tuesday's bike became a run. Substituting disciplines in a recovery week isn't inherently harmful, but it reflects either planning breakdown or reactive training instead of executing the structured recovery block as designed.",
+  "todayRecommendation": "Today's scheduled 1,500-yard easy pool swim has not been logged yet. Get in the pool and complete it as written -- form focus, no pushing. This is the second scheduled swim this week and you've completed zero swim sessions so far in the build (7 TSS in the last 28 days vs. expected ~84). Swim is your largest limiter (54/100) and skipping another one puts you further behind.",
+  "weekProgress": "Week 2 of 24: 46 of 200 TSS (23% complete). Four days remain including today, with easy bike (60 min Thu), rest (Fri), easy outdoor ride (75 min Sat), and easy walk/run (30 min Sun) still scheduled. The TSS deficit is recoverable if you execute the remaining sessions as written, but the pattern of discipline substitutions and the complete absence of swim work so far this week are both concerns.",
+  "keyInsight": "You have completed zero swim sessions in the first 8 days of this build despite two being scheduled, and swim is already your weakest discipline at 54/100 -- every skipped pool session compounds the race-readiness gap.",
   "alerts": [
-    "Two scheduled pool swims (Mon 1,500yd, Wed 1,500yd) skipped in Week 2 -- swim volume gap widening",
-    "Swim readiness 54/100, largest limiter: 7 TSS last 28 days vs expected ~83",
-    "Sleep score 50/100 on 2026-10-26 (RHR 55, SpO2 95%) -- recovery quality dipped"
+    "Zero swim sessions completed in build so far (0 of 2 scheduled this week)",
+    "Swim volume 7 TSS in last 28 days vs. expected ~84 (largest limiter, 54/100)",
+    "Two schedule deviations in recovery week (Sat bike shortened, Tue bike became run)",
+    "Sleep score last night 49/100 (8.3h duration but poor quality)"
   ],
   "positives": [
-    "Recovery score strong at 83/100 overall",
-    "Sleep rebounded to 81/100 last night (7.8h, RHR 52, SpO2 96%)",
-    "Last Saturday's 70min bike (17.2mi) executed at correct easy intensity (14.6mph avg, well below 19.2mph race target)",
-    "Last Saturday's 26min run (3.1mi) completed as scheduled at easy effort (HR 139)"
+    "Run execution appropriate for easy intensity (HR 137, TSS 46)",
+    "Recovery score strong at 84/100 overall",
+    "Week TSS recoverable with 4 days and 154 TSS remaining if you execute as scheduled"
   ],
-  "recoveryScore": 8,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: swim 54/100 (largest limiter), bike 56/100, run 54/100, recovery 83/100",
-    "CURRENT TRAINING STATUS: 0 of 200 TSS, Week 2 of 24, recovery block",
-    "YESTERDAY'S WORKOUT: rest day (scheduled swim not completed)",
-    "LAST 7 DAYS: 1 swim (875yd vs 1,200yd scheduled), 1 bike (17.2mi, 70min), 1 run (3.1mi, 26min)",
-    "Garmin sleep: 7-day avg 73/100, last night 81/100, 2026-10-26 dip to 50/100"
+    "Readiness engine (swim 54/100, bike 56/100, run 61/100, recovery 84/100)",
+    "Week 2 training log (1 bike, 0 swim, 2 run vs. scheduled 2 bike, 2 swim, 2 run so far)",
+    "Garmin sleep (last night 49/100, 7-day avg 69/100)",
+    "28-day swim TSS deficit (7 actual vs. ~84 expected)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Only 3 activities logged across 7 days and 2 weeks of build, with 2 scheduled swims skipped -- limited data to assess adherence trends, but swim deficit and sleep quality are clear from what's available; no HRV or nutrition tracking limits deeper recovery/fueling insight."
+    "reason": "Eight days of build data plus prior race history provide clear patterns on discipline execution and swim avoidance, but the build is only 8% complete (week 2 of 24) -- not yet enough volume to assess whether deviations are one-off or systemic."
   },
   "athlete_context_considered": [
-    "Age 54, Perthes disease right hip (stable)",
-    "Week 2 of 24 recovery block (easy only)",
-    "IRONMAN 70.3 Oceanside 2027-04-03 (158 days out)",
-    "Swim largest limiter at 54/100 readiness",
-    "Coaching philosophy: accurate feedback over false reassurance"
+    "Swim is largest limiter (54/100) per readiness engine",
+    "Recovery block week (easy intensity appropriate)",
+    "157 days to Oceanside 70.3 (sub-5:57:28 target)",
+    "Prior race lesson: structured execution matters (run fueling, transitions)"
   ],
   "race_implications": [
-    "Swim volume deficit (7 TSS vs ~83 expected) directly threatens the 0:45 ocean swim target -- skipping scheduled sessions now extends the catch-up period",
-    "Recovery week skips won't destroy fitness, but pattern adherence matters -- if swim sessions continue to be skipped in build weeks, race readiness will suffer",
-    "158 days to race allows recovery from this gap, but only if swim consistency improves starting this week"
+    "Swim target is 0:45 for ocean 1.2mi -- zero pool work in first 8 days of a 24-week build puts that target at serious risk if the pattern continues",
+    "Schedule deviations in a low-stakes recovery week suggest planning or commitment issues that will become critical when build intensity increases",
+    "Oceanside is 157 days out -- you have time to correct course, but only if swim discipline becomes non-negotiable starting today"
   ],
   "recommended_adjustments": [
-    "Make up one of the two missed swims this week if schedule allows (Friday is rest day -- if energy/time permits, slot a short 1,000-1,200yd easy swim there without cutting into actual rest needs)",
-    "If makeup isn't realistic, accept the gap but commit to 100% adherence on Thursday's bike, Saturday's ride, and Sunday's run to close the week at a defensible TSS total",
-    "Book or confirm the professional bike fit appointment if not already done -- it was identified as a key fix from IM California and must happen before the next full-distance build"
+    "Complete today's 1,500-yard pool swim as scheduled -- no substitutions, no skips",
+    "Review your weekly calendar and block swim sessions as non-negotiable appointments for the remainder of this build",
+    "If pool access or scheduling is a barrier to completing swims as written, address it now before Week 3 starts"
   ],
-  "generatedAt": "2026-10-27",
-  "daysToRace": 158,
+  "generatedAt": "2026-10-28",
+  "daysToRace": 157,
   "currentWeek": 2,
   "weekPhase": "Recovery"
 }
