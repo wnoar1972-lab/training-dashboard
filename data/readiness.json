@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "calculation_version": "1.0.0",
   "race_type": "half_distance_triathlon",
   "current_week": 2,
@@ -33,7 +33,7 @@
       "score": 56,
       "status": "Needs attention",
       "top_factor": "Race-distance exposure: longest bike session is 17.2mi (31% of race distance).",
-      "top_limiter": "Volume: 30 TSS in the last 28 days vs. an expected ~231 (blended across each week's own target in that window).",
+      "top_limiter": "Volume: 30 TSS in the last 28 days vs. an expected ~234 (blended across each week's own target in that window).",
       "how_to_improve": "Volume is the limiter -- you're averaging ~0.2 bike session(s)/week over the last 28 days. Closing that gap toward what's scheduled is the fastest way to raise this score.",
       "trend": "improving",
       "evidence_window_days": 28,
@@ -45,7 +45,7 @@
       "score": 61,
       "status": "Needs attention",
       "top_factor": "Race-distance exposure: longest run session is 4.6mi (35% of race distance).",
-      "top_limiter": "Volume: 72 TSS in the last 28 days vs. an expected ~328 (blended across each week's own target in that window).",
+      "top_limiter": "Volume: 72 TSS in the last 28 days vs. an expected ~332 (blended across each week's own target in that window).",
       "how_to_improve": "Volume is the limiter -- you're averaging ~0.5 run session(s)/week over the last 28 days. Closing that gap toward what's scheduled is the fastest way to raise this score.",
       "trend": "improving",
       "evidence_window_days": 28,
@@ -56,12 +56,12 @@
     "recovery": {
       "score": 84,
       "status": "Recovered",
-      "top_factor": "Resting HR is 53.1 bpm, -0.5 bpm vs. the all-time baseline of 53.6 bpm.",
-      "top_limiter": "7-day-avg sleep score is 72/100.",
+      "top_factor": "Resting HR is 52.9 bpm, -0.7 bpm vs. the all-time baseline of 53.6 bpm.",
+      "top_limiter": "7-day-avg sleep score is 73/100.",
       "how_to_improve": "Sleep quality is the limiter -- prioritize consistent bed/wake times and duration over the next week or two; this responds faster than most training changes.",
-      "trend": "declining",
+      "trend": "stable",
       "evidence_window_days": 28,
-      "nights_in_window": 28,
+      "nights_in_window": 27,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     }
