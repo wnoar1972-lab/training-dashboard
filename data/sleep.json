@@ -7,6 +7,37 @@
     "rem": 92,
     "spo2": 95.0,
     "rhr": 52,
+    "stress": 23.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 22,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 61,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 17,
+        "rating": "Good"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -17,6 +48,37 @@
     "rem": 92,
     "spo2": 89.0,
     "rhr": 55,
+    "stress": 21.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 18,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 67,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -27,6 +89,37 @@
     "rem": 94,
     "spo2": 94.0,
     "rhr": 59,
+    "stress": 30.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 18,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 72,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 10,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -37,6 +130,37 @@
     "rem": 0,
     "spo2": 94.0,
     "rhr": 59,
+    "stress": 31.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 0,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 84,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 16,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -47,6 +171,37 @@
     "rem": 54,
     "spo2": 94.0,
     "rhr": 52,
+    "stress": 17.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 10,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 69,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 21,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -57,6 +212,37 @@
     "rem": 128,
     "spo2": 93.0,
     "rhr": 53,
+    "stress": 15.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Good"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 27,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 60,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -67,6 +253,37 @@
     "rem": 124,
     "spo2": 93.0,
     "rhr": 53,
+    "stress": 29.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 25,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 67,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 8,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -77,6 +294,37 @@
     "rem": 64,
     "spo2": 92.0,
     "rhr": 53,
+    "stress": 16.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 80,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 7,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -87,6 +335,37 @@
     "rem": 59,
     "spo2": 93.0,
     "rhr": 51,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Good"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 75,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 11,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -97,6 +376,37 @@
     "rem": 125,
     "spo2": 89.0,
     "rhr": 55,
+    "stress": 21.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 25,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 59,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 17,
+        "rating": "Good"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -107,6 +417,37 @@
     "rem": 39,
     "spo2": 94.0,
     "rhr": 56,
+    "stress": 21.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 8,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 81,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 11,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -117,6 +458,37 @@
     "rem": 136,
     "spo2": 94.0,
     "rhr": 50,
+    "stress": 13.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 26,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 60,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -127,6 +499,37 @@
     "rem": 55,
     "spo2": 95.0,
     "rhr": 52,
+    "stress": 25.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 73,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -137,6 +540,37 @@
     "rem": 37,
     "spo2": 92.0,
     "rhr": 51,
+    "stress": 18.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Good"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 9,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 80,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 11,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -147,6 +581,37 @@
     "rem": 57,
     "spo2": 93.0,
     "rhr": 57,
+    "stress": 27.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 67,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 21,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -157,6 +622,37 @@
     "rem": 104,
     "spo2": 95.0,
     "rhr": 51,
+    "stress": 15.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Good"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 24,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 61,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -167,6 +663,37 @@
     "rem": 140,
     "spo2": 93.0,
     "rhr": 50,
+    "stress": 13.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 25,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 63,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -177,6 +704,37 @@
     "rem": 48,
     "spo2": 97.0,
     "rhr": 56,
+    "stress": 28.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 73,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -187,6 +745,37 @@
     "rem": 41,
     "spo2": 91.0,
     "rhr": 55,
+    "stress": 25.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 9,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 81,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 10,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -197,6 +786,37 @@
     "rem": 62,
     "spo2": 91.0,
     "rhr": 55,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 16,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 65,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 19,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -207,6 +827,37 @@
     "rem": 48,
     "spo2": 93.0,
     "rhr": 54,
+    "stress": 28.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 11,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 84,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 5,
+        "rating": "Poor"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -217,6 +868,37 @@
     "rem": 61,
     "spo2": 93.0,
     "rhr": 49,
+    "stress": 6.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 64,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 22,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -227,6 +909,37 @@
     "rem": 47,
     "spo2": 90.0,
     "rhr": 55,
+    "stress": 25.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 66,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 22,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -237,6 +950,37 @@
     "rem": 87,
     "spo2": 95.0,
     "rhr": 58,
+    "stress": 29.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 17,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 70,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -247,6 +991,37 @@
     "rem": 28,
     "spo2": 94.0,
     "rhr": 55,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 7,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "lightPercentage": {
+        "value": 79,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -257,6 +1032,37 @@
     "rem": 135,
     "spo2": 95.0,
     "rhr": 51,
+    "stress": 14.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Good"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 25,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 59,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 16,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -267,6 +1073,37 @@
     "rem": 63,
     "spo2": 96.0,
     "rhr": 55,
+    "stress": 28.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 71,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 16,
+        "rating": "Good"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -277,6 +1114,37 @@
     "rem": 56,
     "spo2": 93.0,
     "rhr": 58,
+    "stress": 30.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 68,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 19,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -287,6 +1155,37 @@
     "rem": 104,
     "spo2": 93.0,
     "rhr": 56,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 18,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 74,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 7,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -297,6 +1196,37 @@
     "rem": 25,
     "spo2": 93.0,
     "rhr": 55,
+    "stress": 26.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 9,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 59,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 32,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -307,6 +1237,37 @@
     "rem": 0,
     "spo2": 94.0,
     "rhr": 59,
+    "stress": 49.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Good"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 0,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 85,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -317,6 +1278,37 @@
     "rem": 129,
     "spo2": 96.0,
     "rhr": 52,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 27,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 51,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 22,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -327,6 +1319,37 @@
     "rem": 124,
     "spo2": 94.0,
     "rhr": 52,
+    "stress": 19.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 22,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 69,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 9,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -337,6 +1360,37 @@
     "rem": 107,
     "spo2": 95.0,
     "rhr": 55,
+    "stress": 22.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 21,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 67,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -347,6 +1401,37 @@
     "rem": 100,
     "spo2": 95.0,
     "rhr": 56,
+    "stress": 28.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 20,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 54,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 26,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -357,6 +1442,37 @@
     "rem": 71,
     "spo2": 95.0,
     "rhr": 57,
+    "stress": 22.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 16,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 69,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -367,6 +1483,78 @@
     "rem": 27,
     "spo2": 96.0,
     "rhr": 56,
+    "stress": 32.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Good"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 6,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "lightPercentage": {
+        "value": 79,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
+    "quality": "Poor"
+  },
+  {
+    "date": "2026-10-07",
+    "score": 49,
+    "total": 8.5,
+    "deep": 41,
+    "rem": 85,
+    "spo2": 94.0,
+    "rhr": 56,
+    "stress": 37.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 17,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 75,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 8,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -377,6 +1565,37 @@
     "rem": 91,
     "spo2": 92.0,
     "rhr": 55,
+    "stress": 18.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 22,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 64,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -387,6 +1606,37 @@
     "rem": 98,
     "spo2": 92.0,
     "rhr": 55,
+    "stress": 22.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 20,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 66,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -397,6 +1647,37 @@
     "rem": 114,
     "spo2": 95.0,
     "rhr": 50,
+    "stress": 17.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 22,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 66,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -407,6 +1688,37 @@
     "rem": 77,
     "spo2": 94.0,
     "rhr": 54,
+    "stress": 19.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 19,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 71,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 10,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -417,6 +1729,37 @@
     "rem": 88,
     "spo2": 97.0,
     "rhr": 55,
+    "stress": 22.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 17,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 72,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 11,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -427,6 +1770,37 @@
     "rem": 126,
     "spo2": 95.0,
     "rhr": 50,
+    "stress": 12.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 27,
+        "rating": "Excellent"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 52,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 21,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -437,6 +1811,37 @@
     "rem": 44,
     "spo2": 93.0,
     "rhr": 55,
+    "stress": 30.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 11,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 73,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 16,
+        "rating": "Good"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -447,6 +1852,37 @@
     "rem": 49,
     "spo2": 94.0,
     "rhr": 50,
+    "stress": 21.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 10,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 78,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -457,6 +1893,37 @@
     "rem": 65,
     "spo2": 95.0,
     "rhr": 48,
+    "stress": 14.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 18,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 65,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 17,
+        "rating": "Good"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -467,6 +1934,37 @@
     "rem": 191,
     "spo2": 96.0,
     "rhr": 49,
+    "stress": 12.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "remPercentage": {
+        "value": 41,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 46,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -477,6 +1975,37 @@
     "rem": 0,
     "spo2": 94.0,
     "rhr": 55,
+    "stress": 74.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "remPercentage": {
+        "value": 0,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "lightPercentage": {
+        "value": 81,
+        "rating": "Poor"
+      },
+      "deepPercentage": {
+        "value": 19,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -487,6 +2016,37 @@
     "rem": 72,
     "spo2": 93.0,
     "rhr": 53,
+    "stress": 31.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 65,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 21,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -497,6 +2057,37 @@
     "rem": 70,
     "spo2": 91.0,
     "rhr": 52,
+    "stress": 23.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 74,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -507,6 +2098,37 @@
     "rem": 17,
     "spo2": 93.0,
     "rhr": 51,
+    "stress": 19.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Good"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 4,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 77,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 19,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -517,6 +2139,37 @@
     "rem": 98,
     "spo2": 95.0,
     "rhr": 53,
+    "stress": 23.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 18,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 73,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 9,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -527,6 +2180,37 @@
     "rem": 169,
     "spo2": 96.0,
     "rhr": 47,
+    "stress": 9.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 35,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 51,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -537,6 +2221,37 @@
     "rem": 88,
     "spo2": 93.0,
     "rhr": 49,
+    "stress": 20.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 20,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 71,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 10,
+        "rating": "Fair"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -547,6 +2262,37 @@
     "rem": 74,
     "spo2": 95.0,
     "rhr": 55,
+    "stress": 35.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 16,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 61,
+        "rating": "Good"
+      },
+      "deepPercentage": {
+        "value": 23,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -557,6 +2303,37 @@
     "rem": 79,
     "spo2": 96.0,
     "rhr": 52,
+    "stress": 19.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 17,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 73,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 10,
+        "rating": "Fair"
+      }
+    },
     "quality": "Good"
   },
   {
@@ -567,6 +2344,37 @@
     "rem": 74,
     "spo2": 0,
     "rhr": 55,
+    "stress": 41.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "lightPercentage": {
+        "value": 77,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 8,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   },
   {
@@ -577,6 +2385,37 @@
     "rem": 71,
     "spo2": 94.0,
     "rhr": 52,
+    "stress": 14.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Good"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 22,
+        "rating": "Good"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 56,
+        "rating": "Excellent"
+      },
+      "deepPercentage": {
+        "value": 23,
+        "rating": "Excellent"
+      }
+    },
     "quality": "Fair"
   },
   {
@@ -587,6 +2426,37 @@
     "rem": 56,
     "spo2": 93.0,
     "rhr": 56,
+    "stress": 38.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 12,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 74,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      }
+    },
     "quality": "Poor"
   }
 ]

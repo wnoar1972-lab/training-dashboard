@@ -1,30 +1,51 @@
 {
   "date": "October 30, 2026",
-  "overallStatus": "On Track",
-  "statusColor": "green",
-  "yesterdayAnalysis": "Analysis temporarily unavailable -- check back tomorrow.",
-  "todayRecommendation": "Today's session already logged: - ROUVY - Ubbhult | Sweden (bike) | TSS: 44.0 | HR: 125.0 | Distance: 22.4mi | Duration: 1h18m | Avg speed: 17.2mph avg",
-  "weekProgress": "Week 1 of 20 -- 0 of 100 TSS (0% complete).",
-  "keyInsight": "155 days to IRONMAN 70.3 Oceanside.",
+  "overallStatus": "Needs Attention",
+  "statusColor": "yellow",
+  "yesterdayAnalysis": "Skipped yesterday's scheduled easy bike (60 min easy spin, no brick). This is Week 1, Cabo trip and return -- the point is rebuilding the habit, not pushing TSS. Missing an easy maintenance session on a return week is a pattern to reverse quickly.",
+  "todayRecommendation": "Today's planned rest day wasn't taken as scheduled -- you rode 78 minutes (ROUVY Ubbhult) on what was supposed to be off feet and hydration. The session itself was fine (44 TSS, easy HR 125), but trading a rest day for a ride when yesterday's easy bike was skipped shows schedule drift. Focus on sticking to the actual plan tomorrow (easy outdoor ride 75 min) and Sunday's easy walk/run.",
+  "weekProgress": "Week 1 of 20: 44 TSS of 100 target (44% complete). This is the Cabo trip and return week -- TSS is intentionally low, and the goal is consistency and habit. Two days remain (Saturday easy outdoor ride 75 min, Sunday easy walk/run 30 min). Hitting those two sessions as scheduled will close the week cleanly.",
+  "keyInsight": "You're swapping scheduled sessions (skipped Thursday's easy bike, rode Friday's rest day instead) rather than following the plan -- in a return/rebuild week, sticking to the schedule matters more than the TSS total.",
   "alerts": [
-    "Unexpected error generating analysis: Unterminated string starting at: line 45 column 5 (char 4543)"
+    "Skipped Thursday's scheduled easy bike (60 min)",
+    "Rode on Friday's scheduled rest day instead of taking the day off",
+    "Sleep score last night was 49/100 (7.6h duration, low deep/REM) -- second sub-50 score this week",
+    "7-day avg sleep score 66/100 -- well below the target for recovery in a maintenance week"
   ],
   "positives": [
-    "Training is progressing",
-    "Consistency is key"
+    "Ran twice this week (Oct 25, Oct 27) with decent TSS (26, 46) and controlled HR (137-139) -- showing up for runs consistently",
+    "Today's bike HR was appropriately easy at 125 despite the schedule mix-up",
+    "SpO2 avg 94.5% over 7 days with zero nights below 92% -- respiratory health stable"
   ],
-  "recoveryScore": 8,
-  "trainingLoadStatus": "Optimal",
+  "recoveryScore": 5,
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Fallback -- Claude API unavailable"
+    "Readiness engine (recovery 83/100, 7-day sleep score 72/100)",
+    "Garmin sleep (7-day avg score 66/100, two sub-50 nights this week)",
+    "TODAY'S ACTIVITY LOG showing ROUVY ride on scheduled rest day",
+    "YESTERDAY'S WORKOUT showing rest day when easy bike was scheduled",
+    "LAST 7 DAYS showing two runs completed as scheduled"
   ],
   "confidence": {
-    "level": "low",
-    "reason": "Unexpected error generating analysis: Unterminated string starting at: line 45 column 5 (char 4543)"
+    "level": "high",
+    "reason": "Complete activity and sleep data for the past 7 days, clear schedule vs. actual logs for this week, and readiness engine scores all available -- the session-swapping pattern is unambiguous."
   },
-  "athlete_context_considered": [],
-  "race_implications": [],
-  "recommended_adjustments": [],
+  "athlete_context_considered": [
+    "Week 1 Cabo trip and return focus (easy maintenance, rebuild habit)",
+    "Age 54, orthopedic hip history (requires careful load progression)",
+    "Walk/run 9/1 protocol",
+    "155 days to IRONMAN 70.3 Oceanside"
+  ],
+  "race_implications": [
+    "Week 1 is about re-establishing routine before the structured build starts Nov 23 -- trading rest for rides and skipping easy sessions undermines that foundation",
+    "Sleep scores of 49-50 twice this week limit adaptation and recovery capacity heading into 19 more build weeks",
+    "Following the plan exactly (even when it feels easy or boring) builds the discipline required for 20-week consistency"
+  ],
+  "recommended_adjustments": [
+    "Saturday: Execute the easy outdoor ride 75 min exactly as scheduled (conversational, easy gears) -- no swaps, no skips",
+    "Sunday: Complete the easy walk/run 30 min (walk/run 9/1, nothing hard) to close Week 1 cleanly",
+    "Next week (Week 2, structured build starts Nov 23): Treat the scheduled rest days as non-negotiable -- if you feel fresh and want more volume, ask first rather than swapping sessions on your own"
+  ],
   "generatedAt": "2026-10-30",
   "daysToRace": 155,
   "currentWeek": 1,
