@@ -7,7 +7,7 @@
   "swim_miles": 1.2,
   "bike_miles": 56,
   "run_miles": 13.1,
-  "goal_finish": "sub-5:57:28 (beat 2026 PR)",
+  "goal_finish": "sub-5:45 (12 min faster than 2026 Oceanside 5:57:28)",
   "build": {
     "start_date": "2026-11-16",
     "total_weeks": 20,
@@ -38,7 +38,7 @@
     "checklist_notes": "Torque wrench and mechanical checklist one week before race."
   },
   "coaching_themes": [
-    "Beat the 5:57:28 PR",
+    "Break 5:45 (2026 Oceanside was 5:57:28)",
     "Controlled bike at 19+ mph",
     "Fixed run fueling every 20 min",
     "Transition practice",
