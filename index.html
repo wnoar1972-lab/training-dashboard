@@ -468,7 +468,7 @@ footer{text-align:center;padding:1.25rem;font-family:'JetBrains Mono',monospace;
       <div class="sc" style="border-color:#fb923c"><div class="sc-lbl">Resting HR</div><div class="sc-val" style="color:#ea580c" id="h-rhr">—</div><div class="sc-sub">bpm</div></div>
     </div>
     <div class="sec"><div class="sec-lbl">Sleep log</div><div class="sec-rule"></div></div>
-    <div class="sleep-card"><table class="sleep-table"><thead><tr><th>Date</th><th>Score</th><th>Duration</th><th>SpO2</th><th>RHR</th><th>Quality</th></tr></thead><tbody id="sleepTableBody"></tbody></table></div>
+    <div class="sleep-card"><table class="sleep-table"><thead><tr><th>Date</th><th>Score</th><th>Duration</th><th>SpO2</th><th>RHR</th><th>Stress</th><th>Quality</th></tr></thead><tbody id="sleepTableBody"></tbody></table></div>
     <div id="spo2Alert"></div>
   </div>
 </div>
@@ -1938,7 +1938,7 @@ function buildSleepTable(){
   var tb = document.getElementById('sleepTableBody');
   if(!tb) return;
   var data = sleepData.slice().reverse();
-  if(!data.length){ tb.innerHTML='<tr><td colspan="6" style="padding:1rem;color:#94a3b8;text-align:center">No sleep data loaded yet</td></tr>'; return; }
+  if(!data.length){ tb.innerHTML='<tr><td colspan="7" style="padding:1rem;color:#94a3b8;text-align:center">No sleep data loaded yet</td></tr>'; return; }
 
   var scores = data.filter(s=>s.score>0).map(s=>s.score);
   var spo2s  = data.filter(s=>s.spo2>0).map(s=>s.spo2);
@@ -1961,12 +1961,16 @@ function buildSleepTable(){
     var spo2Class = s.spo2>=95?'spo2-ok':s.spo2>=92?'spo2-warn':'spo2-low';
     var qClass = s.quality==='Good'?'q-good':s.quality==='Fair'?'q-fair':'q-poor';
     var scoreColor = s.score>=75?'#059669':s.score>=60?'#d97706':'#dc2626';
+    var c = s.contributors||{};
+    var tip = Object.keys(c).map(function(k){ return k+': '+(c[k].rating||'—'); }).join(' · ');
+    var stressRating = c.stress && c.stress.rating ? ' ('+c.stress.rating+')' : '';
     return '<tr>'
       +'<td style="font-family:JetBrains Mono,monospace;font-size:12px">'+s.date+'</td>'
-      +'<td><strong style="color:'+scoreColor+'">'+s.score+'</strong></td>'
+      +'<td><strong style="color:'+scoreColor+'" title="'+tip.replace(/"/g,'&quot;')+'">'+s.score+'</strong></td>'
       +'<td>'+s.total+'h</td>'
       +'<td class="'+spo2Class+'">'+(s.spo2>0?s.spo2+'%':'—')+'</td>'
       +'<td style="font-family:JetBrains Mono,monospace">'+(s.rhr>0?s.rhr:'—')+'</td>'
+      +'<td style="font-family:JetBrains Mono,monospace">'+(s.stress>0?s.stress+stressRating:'—')+'</td>'
       +'<td><span class="'+qClass+'">'+s.quality+'</span></td>'
     +'</tr>';
   }).join('');

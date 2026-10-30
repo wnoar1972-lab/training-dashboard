@@ -179,6 +179,21 @@ if GARMIN_EMAIL and GARMIN_PASSWORD:
                                 try: rhr=int(v); break
                                 except: pass
                         if rhr: break
+                    # Average stress while asleep, plus Garmin's rating for each sleep-score contributor
+                    stress_avg = 0
+                    for src in [dto, raw]:
+                        v = src.get("avgSleepStress")
+                        if v:
+                            try: stress_avg=round(float(v),1); break
+                            except: pass
+                    contributors = {}
+                    if sleep_scores and isinstance(sleep_scores, dict):
+                        for name, c in sleep_scores.items():
+                            if name=="overall" or not isinstance(c, dict): continue
+                            contributors[name] = {
+                                "value":  c.get("value"),
+                                "rating": str(c.get("qualifierKey","")).title()
+                            }
                     total = int(dto.get("sleepTimeSeconds") or dto.get("totalSleepSeconds") or 0)
                     deep  = int(dto.get("deepSleepSeconds") or 0)
                     rem   = int(dto.get("remSleepSeconds") or 0)
@@ -200,6 +215,8 @@ if GARMIN_EMAIL and GARMIN_PASSWORD:
                             "rem":     round(rem/60),
                             "spo2":    spo2,
                             "rhr":     rhr,
+                            "stress":  stress_avg,
+                            "contributors": contributors,
                             "quality": qual
                         })
             except Exception: pass
