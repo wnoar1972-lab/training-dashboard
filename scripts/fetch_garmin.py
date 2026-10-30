@@ -30,6 +30,10 @@ RACE_DATE = date.fromisoformat(RACE_CONFIG["date"])
 # START_DATE's weekday. Week 13 lands exactly on RACE_DATE's Sunday.
 WEEK_ANCHOR = START_DATE - timedelta(days=START_DATE.weekday())
 
+# Activities are pulled from 60 days back (matching sleep) so sessions logged
+# before the build starts still show up. Weekly TSS only counts build weeks.
+ACTIVITY_START = min(START_DATE, TODAY - timedelta(days=60))
+
 # ── CREDENTIALS ───────────────────────────────────────────────────────────────
 GARMIN_EMAIL    = os.environ.get("GARMIN_EMAIL")
 GARMIN_PASSWORD = os.environ.get("GARMIN_PASSWORD")
@@ -55,9 +59,9 @@ def sf(v, d=0):
 activities = []
 if INTERVALS_KEY and INTERVALS_ID:
     try:
-        print(f"Fetching activities from Intervals.icu ({START_DATE} to {TODAY})...")
+        print(f"Fetching activities from Intervals.icu ({ACTIVITY_START} to {TODAY})...")
         url = (f"https://intervals.icu/api/v1/athlete/{INTERVALS_ID}/activities"
-               f"?oldest={START_DATE}&newest={TODAY}&cols=name,type,start_date_local,"
+               f"?oldest={ACTIVITY_START}&newest={TODAY}&cols=name,type,start_date_local,"
                f"distance,moving_time,tss,normalized_power,average_heartrate,icu_training_load,load")
         resp = requests.get(url, auth=("API_KEY", INTERVALS_KEY))
         print(f"Intervals.icu status: {resp.status_code}")
