@@ -1,52 +1,32 @@
 {
-  "date": "October 29, 2026",
-  "overallStatus": "Recovery Mode",
-  "statusColor": "blue",
-  "yesterdayAnalysis": "Rest day scheduled, but the Wednesday pool swim (1,500yd easy) was skipped. This is the second missed session this week -- Monday's pool swim was also not completed. Week 1 is intentionally light volume for Cabo trip recovery, but the pattern of skipping the planned easy swims needs to stop now if you're going to rebuild the habit before the structured build starts November 23.",
-  "todayRecommendation": "Today's easy bike 60 min (easy spin, no brick) is not yet logged. Get it done -- this is a habit-rebuild week, and consistency on the easy sessions matters more than the TSS itself. Keep it truly easy; this is not a fitness session, it's a routine-reestablishment session.",
-  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). Low TSS is intentional during the Cabo trip and return week, but zero activities logged so far means the habit rebuild hasn't started yet. Three days remain including today -- the easy bike today, the Saturday outdoor ride (75 min), and Sunday's easy walk/run (30 min) are all still on the table.",
-  "keyInsight": "You are 156 days out from Oceanside with zero swim yards logged in this build and two consecutive scheduled pool swims already skipped -- the swim is your largest limiter (0/100 readiness), and skipping the easy habit-rebuild sessions in Week 1 is how athletes arrive at race day unprepared.",
+  "date": "October 30, 2026",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "Analysis temporarily unavailable -- check back tomorrow.",
+  "todayRecommendation": "Today's session already logged: - ROUVY - Ubbhult | Sweden (bike) | TSS: 44.0 | HR: 125.0 | Distance: 22.4mi | Duration: 1h18m | Avg speed: 17.2mph avg",
+  "weekProgress": "Week 1 of 20 -- 0 of 100 TSS (0% complete).",
+  "keyInsight": "155 days to IRONMAN 70.3 Oceanside.",
   "alerts": [
-    "Two consecutive scheduled pool swims skipped (Mon, Wed) -- swim readiness is 0/100 and longest session is 0yd vs. 1.2mi race distance",
-    "Zero activities logged in last 7 days -- habit rebuild has not started",
-    "Sleep score 49/100 last night with 55 RHR (elevated vs. 52.9 avg) -- watch for illness or travel fatigue affecting consistency"
+    "Unexpected error generating analysis: Unterminated string starting at: line 45 column 5 (char 4543)"
   ],
   "positives": [
-    "Resting HR 52.9 bpm is -0.7 bpm below all-time baseline (53.6 bpm) -- cardiovascular recovery is solid",
-    "Recovery score 84/100 per readiness engine -- physiologically ready to train when you choose to show up",
-    "Week 1 is appropriately scheduled as easy maintenance -- the plan itself is correct for this phase"
+    "Training is progressing",
+    "Consistency is key"
   ],
-  "recoveryScore": 7,
-  "trainingLoadStatus": "Fresh",
+  "recoveryScore": 8,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (overall 15/100, recovery 84/100, swim 0/100)",
-    "LAST 7 DAYS OF TRAINING (zero activities)",
-    "YESTERDAY'S WORKOUT (rest day, scheduled swim skipped)",
-    "Garmin sleep 7-day avg 70/100, last night 49/100",
-    "Resting HR trend 52.9 bpm vs. 53.6 baseline"
+    "Fallback -- Claude API unavailable"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Seven days of sleep data, clear readiness metrics, and zero logged activities make the pattern unambiguous -- no workouts have been completed yet in this build, and two scheduled sessions have been skipped."
+    "level": "low",
+    "reason": "Unexpected error generating analysis: Unterminated string starting at: line 45 column 5 (char 4543)"
   },
-  "athlete_context_considered": [
-    "Week 1 Cabo trip context (easy maintenance intentional)",
-    "Swim as largest limiter (0/100 readiness)",
-    "156 days to Oceanside 70.3",
-    "Structured build starts Nov 23 (Week 2)"
-  ],
-  "race_implications": [
-    "Swim readiness is 0/100 with 0yd longest session vs. 1.2mi race distance (2,112yd) -- skipping the easy pool sessions now delays the base you need to build safely toward that target",
-    "Oceanside swim target is 0:45 in the ocean -- that requires consistent weekly volume starting now, not in Week 2 or Week 3",
-    "Habit consistency in Week 1 predicts adherence through the 20-week build -- two skips in three scheduled sessions is a red flag for the structured weeks ahead"
-  ],
-  "recommended_adjustments": [
-    "Complete today's easy bike 60 min as scheduled -- no intensity, just saddle time and routine",
-    "Do not skip Saturday's outdoor ride (75 min) or Sunday's walk/run (30 min) -- three completions out of the remaining three sessions salvages Week 1",
-    "Add a makeup pool swim Friday if possible (1,000-1,500yd easy) to get at least one swim session logged this week before the structured build starts"
-  ],
-  "generatedAt": "2026-10-29",
-  "daysToRace": 156,
+  "athlete_context_considered": [],
+  "race_implications": [],
+  "recommended_adjustments": [],
+  "generatedAt": "2026-10-30",
+  "daysToRace": 155,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }
