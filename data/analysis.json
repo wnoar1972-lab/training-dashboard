@@ -1,52 +1,52 @@
 {
   "date": "October 29, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Rest day taken on 2026-10-28, but a 1,500yd easy pool swim was scheduled. This is the second missed swim session in Week 2 (Monday's was also skipped). The readiness engine already flags swim as the largest limiter at 54/100, with only 7 TSS logged in the last 28 days against an expected ~84. Missing scheduled swims in a recovery week compounds an already critical volume deficit.",
-  "todayRecommendation": "Complete today's scheduled 60min easy bike as planned. Keep it truly easy (conversational effort, no brick) and do not push pace or watts. After today, prioritize getting into the pool Friday or Saturday if the schedule allows -- the swim volume gap is now a race-readiness concern that needs immediate correction.",
-  "weekProgress": "Week 2 of 24: 46 of 200 TSS complete (23%). Three days remain, including today's 60min bike. The week is back-loaded by design (Saturday 75min ride, Sunday 30min run still ahead), so the TSS percentage is not yet concerning. However, two scheduled swim sessions have been skipped, and swim is already the weakest discipline by a wide margin.",
-  "keyInsight": "Swim volume is now a critical race-readiness gap -- 7 TSS in 28 days vs. expected ~84, and two more skipped sessions this week make it worse.",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "Rest day scheduled, but the Wednesday pool swim (1,500yd easy) was skipped. This is the second missed session this week -- Monday's pool swim was also not completed. Week 1 is intentionally light volume for Cabo trip recovery, but the pattern of skipping the planned easy swims needs to stop now if you're going to rebuild the habit before the structured build starts November 23.",
+  "todayRecommendation": "Today's easy bike 60 min (easy spin, no brick) is not yet logged. Get it done -- this is a habit-rebuild week, and consistency on the easy sessions matters more than the TSS itself. Keep it truly easy; this is not a fitness session, it's a routine-reestablishment session.",
+  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). Low TSS is intentional during the Cabo trip and return week, but zero activities logged so far means the habit rebuild hasn't started yet. Three days remain including today -- the easy bike today, the Saturday outdoor ride (75 min), and Sunday's easy walk/run (30 min) are all still on the table.",
+  "keyInsight": "You are 156 days out from Oceanside with zero swim yards logged in this build and two consecutive scheduled pool swims already skipped -- the swim is your largest limiter (0/100 readiness), and skipping the easy habit-rebuild sessions in Week 1 is how athletes arrive at race day unprepared.",
   "alerts": [
-    "Two swim sessions missed this week (Mon 1,500yd, Wed 1,500yd) -- swim is already the largest limiter at 54/100",
-    "Only 7 swim TSS logged in last 28 days vs. expected ~84 -- this is a significant structural deficit",
-    "Sleep score 49/100 last night with only 41min deep sleep and 74min REM -- recovery may be compromised heading into today's session"
+    "Two consecutive scheduled pool swims skipped (Mon, Wed) -- swim readiness is 0/100 and longest session is 0yd vs. 1.2mi race distance",
+    "Zero activities logged in last 7 days -- habit rebuild has not started",
+    "Sleep score 49/100 last night with 55 RHR (elevated vs. 52.9 avg) -- watch for illness or travel fatigue affecting consistency"
   ],
   "positives": [
-    "2026-10-27 run executed well: 4.6mi in 49min with HR 137, clean TSS 46 delivery even though an easy bike was scheduled that day",
-    "Recovery score remains strong at 84/100 overall, showing the body is handling current load well despite the swim gaps",
-    "Saturday 2026-10-24 bike completed at 17.2mi in 1h10m (longest bike session in build so far, 31% of race distance)"
+    "Resting HR 52.9 bpm is -0.7 bpm below all-time baseline (53.6 bpm) -- cardiovascular recovery is solid",
+    "Recovery score 84/100 per readiness engine -- physiologically ready to train when you choose to show up",
+    "Week 1 is appropriately scheduled as easy maintenance -- the plan itself is correct for this phase"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: swim 54/100 (largest limiter), bike 56/100, run 61/100, recovery 84/100",
-    "Week 2 TSS: 46 of 200 (23%) with 3 days remaining",
-    "Last 7 days activity log: 1 bike (30 TSS), 2 runs (46 TSS, 26 TSS), 2 swims skipped",
-    "Garmin sleep: 7-day avg 70/100, last night 49/100 (8.3h, 41min deep, 74min REM)",
-    "Scheduled vs actual: Mon swim skipped, Tue bike swapped for run, Wed swim skipped"
+    "Readiness engine (overall 15/100, recovery 84/100, swim 0/100)",
+    "LAST 7 DAYS OF TRAINING (zero activities)",
+    "YESTERDAY'S WORKOUT (rest day, scheduled swim skipped)",
+    "Garmin sleep 7-day avg 70/100, last night 49/100",
+    "Resting HR trend 52.9 bpm vs. 53.6 baseline"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Two weeks of data in build with clear activity logs and sleep tracking, but swim deficit pattern is now well-established and two more skips this week deepen the concern -- the data is clear, but the athlete's ability to correct course on swim volume is not yet demonstrated."
+    "level": "high",
+    "reason": "Seven days of sleep data, clear readiness metrics, and zero logged activities make the pattern unambiguous -- no workouts have been completed yet in this build, and two scheduled sessions have been skipped."
   },
   "athlete_context_considered": [
-    "Week 2 of 24-week build to IM 70.3 Oceanside (156 days out)",
-    "Recovery week structure (easy-only sessions) following prior race",
-    "Swim target 0:45 for ocean 1.2mi (readiness engine shows this is the weakest discipline)",
-    "Back-loaded week design (Saturday 75min ride, Sunday 30min run still ahead)"
+    "Week 1 Cabo trip context (easy maintenance intentional)",
+    "Swim as largest limiter (0/100 readiness)",
+    "156 days to Oceanside 70.3",
+    "Structured build starts Nov 23 (Week 2)"
   ],
   "race_implications": [
-    "Swim volume deficit (7 TSS vs. ~84 expected in last 28 days) directly threatens the 0:45 ocean swim target -- ocean swims are harder than pool, and this gap will not close without consistent weekly volume starting now",
-    "Two more missed swims this week mean 22 weeks remain to build from a weaker-than-planned baseline -- every skipped session now makes the climb steeper",
-    "Current swim readiness (54/100) is 10+ points behind bike and run -- this imbalance will cost time in T1 positioning and early-race energy management"
+    "Swim readiness is 0/100 with 0yd longest session vs. 1.2mi race distance (2,112yd) -- skipping the easy pool sessions now delays the base you need to build safely toward that target",
+    "Oceanside swim target is 0:45 in the ocean -- that requires consistent weekly volume starting now, not in Week 2 or Week 3",
+    "Habit consistency in Week 1 predicts adherence through the 20-week build -- two skips in three scheduled sessions is a red flag for the structured weeks ahead"
   ],
   "recommended_adjustments": [
-    "Add a makeup swim session Friday or Saturday (1,500-2,000yd easy) to stop the bleed on swim volume this week -- two skips is already too many",
-    "Review what is blocking the scheduled pool swims (access, time, motivation) and address it directly -- this pattern cannot continue into Week 3",
-    "Prioritize sleep quality tonight and tomorrow (last night's 49 score with low deep sleep is a recovery flag) -- consider earlier bedtime or sleep hygiene adjustments to support the remaining workload this week"
+    "Complete today's easy bike 60 min as scheduled -- no intensity, just saddle time and routine",
+    "Do not skip Saturday's outdoor ride (75 min) or Sunday's walk/run (30 min) -- three completions out of the remaining three sessions salvages Week 1",
+    "Add a makeup pool swim Friday if possible (1,000-1,500yd easy) to get at least one swim session logged this week before the structured build starts"
   ],
   "generatedAt": "2026-10-29",
   "daysToRace": 156,
-  "currentWeek": 2,
-  "weekPhase": "Recovery"
+  "currentWeek": 1,
+  "weekPhase": "Maintenance"
 }
