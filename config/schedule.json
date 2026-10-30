@@ -1956,9 +1956,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "bike",
-            "label": "Easy outdoor ride 75 min",
-            "note": "conversational, easy gears"
+            "disc": "run",
+            "label": "Easy walk/run 30 min",
+            "note": "walk/run 9/1, nothing hard"
           }
         ]
       },
@@ -1966,9 +1966,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "run",
-            "label": "Easy walk/run 30 min",
-            "note": "walk/run 9/1, nothing hard"
+            "disc": "bike",
+            "label": "Easy outdoor ride 75 min",
+            "note": "conversational, easy gears"
           }
         ]
       }
