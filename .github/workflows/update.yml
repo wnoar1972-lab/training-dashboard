@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 15 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/update.yml']
 
 jobs:
   update-dashboard:
