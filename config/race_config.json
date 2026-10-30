@@ -25,7 +25,8 @@
     "bike_target_speed_mph": 19.2,
     "run_target_pace": "8:45-9:00/mi walk/run",
     "run_walk_strategy": "9:1",
-    "run_pacing_plan": "Hold back miles 1-4 (walk/run 9/1). Miles 5-10 at target pace. Miles 11-13.1 hold steady, do not chase. A walk at every aid station."
+    "run_pacing_plan": "Hold back miles 1-4 (walk/run 9/1). Miles 5-10 at target pace. Miles 11-13.1 hold steady, do not chase. A walk at every aid station.",
+    "bike_headwind_plan": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind."
   },
   "course_notes": "Confirm course details from the official Oceanside course map before finalizing the bike target.",
   "climate_notes": "April in Oceanside: cool, marine-layer mornings. Plan layers for the swim start.",
@@ -119,5 +120,44 @@
     "19": "Taper. Race pace touches only.",
     "20": "Race week. Race Sat Apr 3."
   },
-  "week1_special_rule": "If current_week == 1 (Nov 16-22, 2026), this is the Cabo trip and return week, before the structured build starts Nov 23. Low or zero TSS is intentional. Encourage consistency, easy sessions, sleep, and getting back into the routine. Never flag low volume as behind."
+  "week1_special_rule": "If current_week == 1 (Nov 16-22, 2026), this is the Cabo trip and return week, before the structured build starts Nov 23. Low or zero TSS is intentional. Encourage consistency, easy sessions, sleep, and getting back into the routine. Never flag low volume as behind.",
+  "course_profile": {
+    "source": "Strava 2026-03-28 race ride (activity 17894293430), GPS-smoothed. Confirm against the official course map.",
+    "total_gain_ft_approx": 2359,
+    "segments": [
+      {
+        "miles": "0-12",
+        "terrain": "rolling, net downhill (~-145 ft)"
+      },
+      {
+        "miles": "12-28",
+        "terrain": "rolling, flat to mild climbs"
+      },
+      {
+        "miles": "29-37",
+        "terrain": "main climb, ~+470 ft, steepest near miles 35-37"
+      },
+      {
+        "miles": "37-40",
+        "terrain": "big descent (~-400 ft), recover here"
+      },
+      {
+        "miles": "40-42",
+        "terrain": "second climb (~+200 ft, ~2% average)"
+      },
+      {
+        "miles": "42-44",
+        "terrain": "descent (~-300 ft)"
+      },
+      {
+        "miles": "44-50",
+        "terrain": "rolling, mostly flat"
+      },
+      {
+        "miles": "50-56",
+        "terrain": "descent to finish with rolling bumps"
+      }
+    ],
+    "headwind_note": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind."
+  }
 }
