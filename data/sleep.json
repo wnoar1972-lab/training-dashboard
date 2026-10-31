@@ -1,46 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "score": 81,
-    "total": 6.9,
-    "deep": 69,
-    "rem": 92,
-    "spo2": 95.0,
-    "rhr": 52,
-    "stress": 23.0,
-    "contributors": {
-      "totalDuration": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "stress": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "awakeCount": {
-        "value": null,
-        "rating": "Excellent"
-      },
-      "remPercentage": {
-        "value": 22,
-        "rating": "Good"
-      },
-      "restlessness": {
-        "value": null,
-        "rating": "Excellent"
-      },
-      "lightPercentage": {
-        "value": 61,
-        "rating": "Good"
-      },
-      "deepPercentage": {
-        "value": 17,
-        "rating": "Good"
-      }
-    },
-    "quality": "Good"
-  },
-  {
     "date": "2026-09-01",
     "score": 84,
     "total": 8.6,
@@ -2458,5 +2417,46 @@
       }
     },
     "quality": "Poor"
+  },
+  {
+    "date": "2026-10-31",
+    "score": 78,
+    "total": 7.5,
+    "deep": 61,
+    "rem": 63,
+    "spo2": 95.0,
+    "rhr": 56,
+    "stress": 26.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 72,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 14,
+        "rating": "Fair"
+      }
+    },
+    "quality": "Fair"
   }
 ]

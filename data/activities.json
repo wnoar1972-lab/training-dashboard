@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "title": "Oceanside Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 38.0,
-    "np": 0,
-    "avgHR": 139.0,
-    "distance": 6607.5,
-    "duration": 2393.0
-  },
-  {
-    "date": "2026-08-31",
-    "title": "Pool Swim",
-    "type": "Swim",
-    "disc": "swim",
-    "tss": 29.0,
-    "np": 0,
-    "avgHR": 109.0,
-    "distance": 3200.4,
-    "duration": 4497.0
-  },
-  {
     "date": "2026-09-01",
     "title": "Carlsbad Running",
     "type": "Run",
@@ -735,5 +713,16 @@
     "avgHR": 125.0,
     "distance": 36009.0,
     "duration": 4683.0
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Carlsbad Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 31.0,
+    "np": 0,
+    "avgHR": 134.0,
+    "distance": 5710.8,
+    "duration": 2242.0
   }
 ]

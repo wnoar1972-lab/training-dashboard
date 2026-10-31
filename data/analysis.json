@@ -1,53 +1,53 @@
 {
-  "date": "October 30, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Yesterday was a scheduled easy 60-minute bike, but nothing was logged -- that's a missed session. In Week 1 (the Cabo return week), the goal is rebuilding consistency and habit, not pushing TSS, but skipping a scheduled easy spin means the routine isn't taking hold yet.",
-  "todayRecommendation": "Today's session (78-minute indoor ride, 44 TSS) was already completed -- it was scheduled as a rest day, so you added an unplanned bike instead of staying off your feet. The ride itself was fine (easy HR 125, reasonable TSS), but swapping rest for activity two days in a row (yesterday's skip, today's add) breaks the rhythm you need to establish in Week 1. Tomorrow's easy 30-minute walk/run is on the calendar -- do it as written, walk/run 9/1, nothing hard.",
-  "weekProgress": "Week 1 of 20: 44 TSS of 100 target (44% complete) with 2 days remaining. Two sessions were not followed as written (Thursday's easy bike skipped, Friday's rest day swapped for a ride). In a week explicitly built around easy consistency and returning to routine after Cabo, execution discipline is more important than the TSS number itself.",
-  "keyInsight": "You're not following the Week 1 schedule as written -- missed easy sessions and swapped rest for activity -- which undermines the entire purpose of this rebuild-the-habit week before the structured 19-week block starts November 23.",
+  "date": "October 31, 2026",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "Yesterday was scheduled as a rest day (off feet, hydrate), but you rode 1h18m indoors at 17.2mph avg for 44 TSS. The intensity was easy (HR 125), but you added volume on a planned zero day during what's supposed to be a maintenance week coming off Cabo. The pacing was well below the 19.2mph target, so no discipline concern there -- but the extra session wasn't on the schedule.",
+  "todayRecommendation": "Today's easy walk/run 30min is already complete -- 3.5mi in 37min, 31 TSS, HR 134. Solid execution, right effort level for a maintenance week. Tomorrow's easy outdoor ride (75min) closes the week -- keep it conversational and easy gears as scheduled, then you're into Week 2 on Monday where the structured build begins.",
+  "weekProgress": "Week 1 of 20: 0 of 100 target (0% complete). This is the Cabo trip and return week -- low TSS is intentional before the structured build starts Nov 23. You've logged 4 activities this week (2 runs, 1 bike, plus today's run already done) for roughly 121 TSS total, which is fine for a maintenance/reentry week. One day remains (Sunday's 75min easy ride).",
+  "keyInsight": "You're adding unscheduled sessions (yesterday's ride on a rest day, extra run volume earlier this week) during what's designed as an easy maintenance week -- dial back the initiative and follow the schedule as written so you're fresh when the real build starts Monday.",
   "alerts": [
-    "Thursday's scheduled easy 60min bike was skipped entirely",
-    "Friday's rest day was replaced with an unplanned 78min bike ride",
-    "Sleep score dropped to 49/100 last night (7.6h duration, but poor quality) -- 7-day avg is 66/100, well below the recovery score of 72/100 flagged by the readiness engine",
-    "Week 1 schedule adherence is inconsistent -- 2 of 5 sessions so far were not executed as written"
+    "Yesterday's bike ride was not scheduled (rest day) -- adding volume on planned zero days defeats the purpose of a maintenance week",
+    "Sleep score 7-day avg is 65/100 (readiness engine shows 72/100, but raw data here is 65) -- below optimal, particularly Oct 28 and Oct 30 with scores of 49",
+    "You've now logged 121 TSS in a week targeting 100 for maintenance -- you're treating this like a training week instead of a reentry week"
   ],
   "positives": [
-    "The bike ride completed today was appropriately easy (HR 125, 44 TSS, 17.2mph avg -- well below the 19.2mph pacing target)",
-    "Sunday's run (Oct 27, 4.6mi, 46 TSS, HR 137) and Friday's run (Oct 25, 3.1mi, 26 TSS, HR 139) were both solid efforts that show run fitness is holding",
-    "Sunday's easy bike (Oct 24, 70min, 30 TSS, HR 108) was executed exactly as prescribed for that day"
+    "Today's run executed exactly as planned -- 30min easy walk/run, appropriate HR (134), right duration",
+    "Run consistency is strong -- 3 runs completed this week with appropriate easy effort levels",
+    "Bike pacing discipline is solid -- yesterday's 17.2mph avg was well below the 19.2mph target, showing restraint"
   ],
-  "recoveryScore": 5,
-  "trainingLoadStatus": "Fresh",
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine overall 97/100 (recovery 83/100)",
-    "7-day avg sleep score 66/100 from Garmin",
-    "Last night sleep score 49/100 (7.6h, RHR 56, deep 61min, REM 56min)",
-    "Week 1 TSS 44 of 100 target (44% complete) with 2 days remaining",
-    "LAST 7 DAYS OF TRAINING showing completed activities vs 'Scheduled that day' labels",
-    "TODAY'S ACTIVITY LOG showing Friday's ride already completed"
+    "Readiness engine (overall 97/100, recovery 83/100)",
+    "Garmin sleep (7-day avg 65/100, two nights at 49/100)",
+    "Intervals.icu planned vs actual (extra session on rest day, week TSS ~121 vs 100 target)",
+    "TODAY'S ACTIVITY LOG (run already complete)",
+    "LAST 7 DAYS OF TRAINING (4 sessions, 3 runs + 1 bike)"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete activity logs with TSS/HR/duration, 7 nights of Garmin sleep data, and explicit 'Scheduled that day' labels for every past session make schedule adherence tracking straightforward -- no gaps in the data needed to assess Week 1 consistency."
+    "reason": "Complete activity data for the past 7 days with HR, TSS, distance, and duration; 7 nights of sleep data; readiness engine providing multi-factor assessment; clear schedule vs actual comparison available for the current week"
   },
   "athlete_context_considered": [
-    "Week 1 of 20 focus: Cabo trip return, easy maintenance, rebuild habit before structured build starts Nov 23",
-    "Age 54, competing successfully with stable Perthes hip",
-    "Prior race lessons: pacing discipline (bike) and execution consistency matter more than chasing TSS"
+    "Week 1 of 20 build (Cabo trip/return, maintenance only)",
+    "Walk/run 9/1 protocol on all runs",
+    "Hip history (Perthes) -- watching for associations with back-to-back run days",
+    "Age 54 -- recovery capacity matters during maintenance weeks",
+    "Bike pacing discipline (19.2mph target as guardrail)"
   ],
   "race_implications": [
-    "IRONMAN 70.3 Oceanside is 155 days out -- Week 1 is about building the routine foundation that the next 19 weeks depend on, not fitness stress",
-    "Schedule adherence in Week 1 sets the execution discipline needed to hold pacing targets (19.2mph bike, 8:45-9:00/mi run) on race day",
-    "Poor sleep quality (49/100 last night, 7-day avg 66/100) limits recovery capacity as structured training ramps starting Week 2"
+    "Adding volume now in a maintenance week risks carrying fatigue into Week 2 when the structured build starts -- you need to arrive Monday fresh, not pre-fatigued",
+    "Sleep quality (65/100 avg) is below what you'll need to absorb the real workload starting next week -- prioritize sleep this weekend",
+    "Pacing discipline on the bike is solid (17.2mph vs 19.2 target) -- maintain that restraint when the long rides ramp up"
   ],
   "recommended_adjustments": [
-    "Execute Saturday's easy 30min walk/run and Sunday's easy 75min outdoor ride exactly as written -- no swaps, no skips, no additions",
-    "Prioritize sleep quality this weekend: target 8+ hours and address factors causing the low scores (SpO2 93%, fragmented sleep architecture)",
-    "Starting Week 2 (Nov 23), treat the schedule as non-negotiable -- if life forces a skip, move the session rather than replacing rest with activity"
+    "Follow the schedule exactly through Sunday -- no bonus sessions, no extending durations -- this is a reentry week, not a training week",
+    "Prioritize sleep this weekend (target 7.5-8h, focus on sleep hygiene) to reset the 7-day avg above 70 before the real build starts Monday",
+    "Stop adding unscheduled sessions on rest days -- rest means rest, especially at 54 with a hip history and a 20-week build ahead"
   ],
-  "generatedAt": "2026-10-30",
-  "daysToRace": 155,
+  "generatedAt": "2026-10-31",
+  "daysToRace": 154,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }

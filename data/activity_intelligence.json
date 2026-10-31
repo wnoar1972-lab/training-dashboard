@@ -808,5 +808,14 @@
     "headline": "Swedish hills put your pacing to the test across 22 miles of varied terrain",
     "analysis": "This ROUVY ride through Ubbhult showed dramatic pace swings from a grinding 6:45/mi climb at mile 5 down to a flying 1:04/mi sprint finish at mile 23, reflecting the terrain's challenging profile. Your average cadence of 64.6 RPM suggests you were pushing through resistance rather than spinning freely, while your heart rate climbed steadily through the second half, peaking at 152 bpm and averaging 141 bpm during the tough mile 18 effort. The 73 suffer score and controlled average HR of 125 show solid endurance work, though those slower early miles and low cadence indicate plenty of virtual elevation to conquer.",
     "relative_effort": 73.0
+  },
+  {
+    "strava_id": "20807807074",
+    "date": "2026-10-31",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "Highly variable pacing tells the story of a controlled effort with strategic surges",
+    "analysis": "Your mile splits ranged dramatically from 5:53/mi in the final partial mile to 16:52/mi in mile 2, suggesting either terrain challenges or planned walk breaks that kept your average heart rate steady at 136 bpm throughout. That cadence of 83 steps per minute is notably low for running and reinforces the mixed-pace nature of this session. The suffer score of 61 is reasonable for the 37.6 minutes of work, and your heart rate staying well below your 150 bpm max suggests you kept things aerobically controlled despite the pace fluctuations.",
+    "relative_effort": 61.0
   }
 ]
