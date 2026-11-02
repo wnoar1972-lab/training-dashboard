@@ -817,5 +817,14 @@
     "headline": "Highly variable pacing tells the story of a controlled effort with strategic surges",
     "analysis": "Your mile splits ranged dramatically from 5:53/mi in the final partial mile to 16:52/mi in mile 2, suggesting either terrain challenges or planned walk breaks that kept your average heart rate steady at 136 bpm throughout. That cadence of 83 steps per minute is notably low for running and reinforces the mixed-pace nature of this session. The suffer score of 61 is reasonable for the 37.6 minutes of work, and your heart rate staying well below your 150 bpm max suggests you kept things aerobically controlled despite the pace fluctuations.",
     "relative_effort": 61.0
+  },
+  {
+    "strava_id": "20830522325",
+    "date": "2026-11-02",
+    "disc": "bike",
+    "title": "ROUVY - \u00c9guilly-sous-Bois to Cl\u00e9rey | France",
+    "headline": "Indoor adventure through French countryside with wildly varied terrain reflected in your pacing swings",
+    "analysis": "Your 26.75-mile ROUVY ride showed dramatic pace variation from 1:53/mi on mile 13 to 6:04/mi on mile 11, suggesting a route with significant elevation changes that kept you engaged throughout. Your average heart rate of 121 bpm stayed comfortably aerobic despite maxing at 141 bpm, though your 62.5 RPM cadence is notably low\u2014pushing a bigger gear than optimal. The middle miles (9-12) saw your highest sustained heart rates in the 128-132 bpm range, likely tackling the steepest climbs of the \u00c9guilly-sous-Bois to Cl\u00e9rey route.",
+    "relative_effort": 69.0
   }
 ]

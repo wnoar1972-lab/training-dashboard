@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "title": "Oceanside Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 50.0,
-    "np": 0,
-    "avgHR": 146.0,
-    "distance": 7537.8,
-    "duration": 2718.0
-  },
-  {
-    "date": "2026-09-02",
-    "title": "Cycling",
-    "type": "Ride",
-    "disc": "bike",
-    "tss": 91.0,
-    "np": 0,
-    "avgHR": 125.0,
-    "distance": 73147.7,
-    "duration": 9299.0
-  },
-  {
     "date": "2026-09-03",
     "title": "Pool Swim",
     "type": "Swim",
@@ -713,5 +691,16 @@
     "avgHR": 134.0,
     "distance": 5710.8,
     "duration": 2242.0
+  },
+  {
+    "date": "2026-11-02",
+    "title": "ROUVY - \u00c9guilly-sous-Bois to Cl\u00e9rey | Fr",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 52.0,
+    "np": 0,
+    "avgHR": 122.0,
+    "distance": 43050.1,
+    "duration": 5302.0
   }
 ]
