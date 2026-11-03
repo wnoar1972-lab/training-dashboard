@@ -2085,85 +2085,37 @@
       },
       "5": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, Nov 13-20"
-          }
-        ]
+        "planned": []
       },
       "6": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, Nov 13-20"
-          }
-        ]
+        "planned": []
       },
       "0": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, Nov 13-20"
-          }
-        ]
+        "planned": []
       }
     },
     "2026-11-16": {
       "1": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, back Sat Nov 21"
-          }
-        ]
+        "planned": []
       },
       "2": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, back Sat Nov 21"
-          }
-        ]
+        "planned": []
       },
       "3": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, back Sat Nov 21"
-          }
-        ]
+        "planned": []
       },
       "4": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, back Sat Nov 21"
-          }
-        ]
+        "planned": []
       },
       "5": {
         "rest": true,
-        "planned": [
-          {
-            "disc": "rest",
-            "label": "Vacation - no structured training",
-            "note": "Cabo trip, back Sat Nov 21"
-          }
-        ]
+        "planned": []
       },
       "6": {
         "rest": false,
