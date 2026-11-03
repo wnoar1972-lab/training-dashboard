@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "title": "Pool Swim",
-    "type": "Swim",
-    "disc": "swim",
-    "tss": 32.0,
-    "np": 0,
-    "avgHR": 114.0,
-    "distance": 3200.4,
-    "duration": 4636.0
-  },
-  {
     "date": "2026-09-04",
     "title": "Pool Swim",
     "type": "Swim",
@@ -702,5 +691,16 @@
     "avgHR": 122.0,
     "distance": 43050.1,
     "duration": 5302.0
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 19.0,
+    "np": 0,
+    "avgHR": 109.0,
+    "distance": 2286.0,
+    "duration": 2841.0
   }
 ]
