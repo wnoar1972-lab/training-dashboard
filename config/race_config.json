@@ -15,18 +15,19 @@
   },
   "target_splits": {
     "swim": "0:45 (ocean)",
-    "transitions": "0:10 combined (IM California T1+T2 was 21:22 -- drill these)",
-    "bike": "2:55 (~19.2 mph) -- 2026 PR bike was 3:01:26",
-    "run": "1:55 (~8:45-9:00/mi walk/run 9/1) -- 2026 PR run was 1:59:35"
+    "transitions": "0:11 combined (2026 Oceanside T1+T2 was 11:11)",
+    "bike": "2:57 (~19.0 mph, matches 2025 Oceanside bike 2:56:54) -- 2026 bike was 3:01:26",
+    "run": "1:52 (8:33/mi continuous, no walks) -- 2026 run was 1:59:35 at 9:09/mi continuous"
   },
   "strategy": {
     "bike_target_power_watts": null,
-    "bike_target_power_note": "Use FTP (221w) as the reference; set the target after the bike fit check.",
-    "bike_target_speed_mph": 19.2,
-    "run_target_pace": "8:45-9:00/mi walk/run",
-    "run_walk_strategy": "9:1",
-    "run_pacing_plan": "Hold back miles 1-4 (walk/run 9/1). Miles 5-10 at target pace. Miles 11-13.1 hold steady, do not chase. A walk at every aid station.",
-    "bike_headwind_plan": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind."
+    "bike_target_power_note": "Race plan: ~75-78% FTP (about 166-173 W on FTP 221) to hold ~19.0 mph on this course. Set the final number after the bike fit check and the Jan-Feb 60-minute race-watt blocks. Hold watts on the climbs and into the headwind; do not chase speed. 2025 pushed the bike (2:56:54) and the run faded to 2:15:57; 2026 held back (3:01:26) and ran 1:59:35. The goal is to hold race watts without fading the run.",
+    "bike_target_speed_mph": 19.0,
+    "run_target_pace": "8:33/mi continuous (1:52 run)",
+    "run_walk_strategy": "continuous, no scheduled walks (2026 Oceanside run had no walk breaks)",
+    "run_pacing_plan": "Continuous from the start. Miles 1-3 at 8:40-8:50; keep the first 10 minutes controlled (2026 HR was 165-177 early). Miles 4-10 at 8:30-8:35. Miles 11-13.1 hold 8:30-8:35 if HR and legs allow; do not chase. Take fluids on the move at aid stations. A 10-20 second walk is fine if needed, but not planned.",
+    "bike_headwind_plan": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind.",
+    "bike_fueling_rule": "Carbs 60-80 g/hr on the bike, every 20 min, with a timed log. Practice this on every Saturday ride. IM California lesson: under-fueling on the run cost the back half."
   },
   "course_notes": "Confirm course details from the official Oceanside course map before finalizing the bike target.",
   "climate_notes": "April in Oceanside: cool, marine-layer mornings. Plan layers for the swim start.",
@@ -45,13 +46,13 @@
     "Transition practice",
     "Bike fit and foot pressure",
     "Run quad fatigue and sodium",
-    "Walk-run discipline after mile 10"
+    "Hold 8:30-8:35/mi after mile 10 (continuous run)"
   ],
   "prior_race_lessons_carried_forward": [
     "Fixed run fueling every 20 min (IM California run intake was irregular).",
     "Drill T1 and T2 (IM California transitions 21:22).",
     "Bike fit check for foot pressure (IM California pain from ~mile 56).",
-    "Hold the walk-run plan after mile 10.",
+    "Hold controlled pace after mile 10. The 2026 Oceanside run was continuous at 9:09/mi with no fade; no walk breaks are planned.",
     "Track pain and equipment problems as structured events."
   ],
   "weekly_tss_targets": {
