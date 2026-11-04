@@ -21,13 +21,14 @@
   },
   "strategy": {
     "bike_target_power_watts": null,
-    "bike_target_power_note": "Race plan: ~75-78% FTP (about 166-173 W on FTP 221) to hold ~19.0 mph on this course. Set the final number after the bike fit check and the Jan-Feb 60-minute race-watt blocks. Hold watts on the climbs and into the headwind; do not chase speed. 2025 pushed the bike (2:56:54) and the run faded to 2:15:57; 2026 held back (3:01:26) and ran 1:59:35. The goal is to hold race watts without fading the run.",
+    "bike_target_power_note": "No power meter on the road bike; watts come from the trainer (Ruvy) for training only. Race-day bike control is by speed, heart rate, and perceived effort.",
     "bike_target_speed_mph": 19.0,
     "run_target_pace": "8:33/mi continuous (1:52 run)",
     "run_walk_strategy": "continuous, no scheduled walks (2026 Oceanside run had no walk breaks)",
     "run_pacing_plan": "Continuous from the start. Miles 1-3 at 8:40-8:50; keep the first 10 minutes controlled (2026 HR was 165-177 early). Miles 4-10 at 8:30-8:35. Miles 11-13.1 hold 8:30-8:35 if HR and legs allow; do not chase. Take fluids on the move at aid stations. A 10-20 second walk is fine if needed, but not planned.",
     "bike_headwind_plan": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind.",
-    "bike_fueling_rule": "Carbs 60-80 g/hr on the bike, every 20 min, with a timed log. Practice this on every Saturday ride. IM California lesson: under-fueling on the run cost the back half."
+    "bike_fueling_rule": "Carbs 60-80 g/hr on the bike, every 20 min, with a timed log. Practice this on every Saturday ride. IM California lesson: under-fueling on the run cost the back half.",
+    "bike_race_control": "Target 19.0 mph average on the flats. Average HR 138-142 across the bike (2026 averaged 132 at 18.5 mph). Ease back if HR holds above 145 for 15+ minutes, or if the lap average falls below 18.5 mph on flat ground with no wind. Climbs: hold HR, accept lower speed. Headwind miles: hold effort, not speed. Check the lap average every 10 miles."
   },
   "course_notes": "Confirm course details from the official Oceanside course map before finalizing the bike target.",
   "climate_notes": "April in Oceanside: cool, marine-layer mornings. Plan layers for the swim start.",
@@ -36,7 +37,7 @@
     "run_fueling": "Carry your own fuel; do not rely on aid stations. One chew serving (5 chews, 19 g carbs) every 20 min = ~57 g/hr from chews. Add a second serving at the midpoint of each 20-min block, or a carb drink, to reach 60-80 g/hr. Set a timer or watch alert every 20 min. Electrolytes at aid stations. Practice this exact plan on every long run in the build, with no skipped servings."
   },
   "equipment_plan": {
-    "bike": "Quintana Roo Kilo. Complete bike fit check on cleat and footbed position before Oceanside (IM California foot pressure from ~mile 56).",
+    "bike": "Quintana Roo Kilo. No power meter on the road bike; use the trainer (Ruvy) for watts. Complete bike fit check on cleat and footbed position before Oceanside (IM California foot pressure from ~mile 56).",
     "checklist_notes": "Torque wrench and mechanical checklist one week before race."
   },
   "coaching_themes": [

@@ -2175,7 +2175,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat"
+            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2252,7 +2252,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat"
+            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2329,7 +2329,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2406,7 +2406,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2483,7 +2483,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2560,7 +2560,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2637,7 +2637,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2714,7 +2714,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2791,7 +2791,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2816,7 +2816,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 195 min",
-            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at 75–78% FTP (~166–173 W), hold watts into the headwind, fuel 60–80 g/hr"
+            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at race effort (~19 mph on flats, HR 138–142), hold effort into the headwind, fuel 60–80 g/hr"
           }
         ]
       },
@@ -2868,7 +2868,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2893,7 +2893,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 210 min",
-            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at 75–78% FTP (~166–173 W), hold watts into the headwind, fuel 60–80 g/hr"
+            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at race effort (~19 mph on flats, HR 138–142), hold effort into the headwind, fuel 60–80 g/hr"
           }
         ]
       },
@@ -2945,7 +2945,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -2970,7 +2970,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 225 min",
-            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at 75–78% FTP (~166–173 W), hold watts into the headwind, fuel 60–80 g/hr"
+            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at race effort (~19 mph on flats, HR 138–142), hold effort into the headwind, fuel 60–80 g/hr"
           }
         ]
       },
@@ -3022,7 +3022,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3047,7 +3047,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 195 min",
-            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at 75–78% FTP (~166–173 W), hold watts into the headwind, fuel 60–80 g/hr"
+            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at race effort (~19 mph on flats, HR 138–142), hold effort into the headwind, fuel 60–80 g/hr"
           }
         ]
       },
@@ -3099,7 +3099,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3124,7 +3124,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 225 min",
-            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at 75–78% FTP (~166–173 W), hold watts into the headwind, fuel 60–80 g/hr"
+            "note": "nutrition practice · outdoor · include 2 x 470 ft climb repeats at race effort, last 60 min at race effort (~19 mph on flats, HR 138–142), hold effort into the headwind, fuel 60–80 g/hr"
           }
         ]
       },
@@ -3176,7 +3176,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3253,7 +3253,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "intensity: 2 x 15 min at 88–93% FTP, 5 min easy between"
+            "note": "intensity: 2 x 15 min at 88–93% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3330,7 +3330,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "intensity: 2 x 10 min at 88–93% FTP, 5 min easy between"
+            "note": "intensity: 2 x 10 min at 88–93% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3407,7 +3407,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 60 min + brick",
-            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between"
+            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
@@ -3484,7 +3484,7 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 45 min + brick",
-            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between"
+            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           },
           {
             "disc": "brick",
