@@ -1,51 +1,51 @@
 {
-  "date": "November 03, 2026",
-  "overallStatus": "On Track",
-  "statusColor": "green",
-  "yesterdayAnalysis": "Monday's 1h28m bike on ROUVY delivered 52 TSS at 18.2mph avg -- clean pacing discipline, just under the 19.2mph target, exactly what a maintenance week calls for. HR 122 held the conversational zone. The session was scheduled as a rest day, but adding light volume during a Cabo maintenance week is fine as long as intensity stays controlled, which it did.",
-  "todayRecommendation": "Today's planned easy 45min bike is already done -- you swapped it for a 2,500yd pool swim (47min, TSS 19, HR 109). The swap is fine; the swim was easy, form-focused, and you stayed in the aerobic zone. Rest tomorrow (Wednesday) as scheduled, then hit the easy 1,200yd pool session Thursday to keep the habit intact before the structured build starts Nov 23.",
-  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). This is the Cabo trip and return week -- maintenance volume only, and the structured build doesn't start until Nov 23. You've already logged 71 TSS across Monday's bike and today's swim, well above what a true maintenance week requires. Stay easy the rest of the week and prioritize getting back into routine and sleep.",
-  "keyInsight": "Sleep is the limiter right now -- 7-day avg score is 65/100 with three nights scoring 49 or below, and the readiness engine flags recovery at 81/100 despite strong swim/bike/run marks.",
+  "date": "November 04, 2026",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "Two-session day executed: 2,500yd pool swim (TSS 19, HR 109) plus 4.1mi run club (TSS 38, HR 143). Both sessions were scheduled and completed. The swim volume is more than double the current week's scheduled 1,200yd easy maintenance session, and the run was appropriate for the maintenance walk/run protocol. Combined TSS of 57 is solid work during what is designated as a Cabo trip/return week before the structured build begins Nov 23.",
+  "todayRecommendation": "Today is a scheduled rest day. Take it. Sleep is the bigger concern right now\u2014last night scored 48/100 with only 41min deep and 65min REM after 6.8hr duration. Prioritize an early bedtime tonight to recover from yesterday's double and stabilize the 7-day sleep average before Thursday's easy 1,200yd pool session.",
+  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). This is the Cabo trip and return week\u2014low or zero TSS is intentional by design. Yesterday's sessions (Nov 3) were the return from Cabo and not part of this week's count. Four days remain, all scheduled as easy maintenance or rest. Week is tracking exactly as intended for a pre-build transition.",
+  "keyInsight": "Sleep quality is erratic and dragging down recovery: 7-day average is 65/100, with three nights below 50 (including last night's 48) and one night at 46% SpO2 (Oct 31, likely sensor artifact from night sweating).",
   "alerts": [
-    "Sleep: 7-day avg 65/100, with 3 nights \u226449 -- deep sleep and REM are inconsistent (Nov 1: 24min deep, 39min REM; Oct 30: 61min deep, 56min REM; Oct 28: 41min deep, 74min REM)",
-    "SpO2 dropped to 89% on Nov 1 (below 92% threshold) -- watch for patterns if this persists, especially given night sweating history",
-    "Discipline swap: today's easy bike became a pool swim -- fine for maintenance, but once the structured build starts Nov 23, stick to the scheduled discipline unless there's a compelling reason to change"
+    "Last night: 48 sleep score, only 41min deep sleep, 65min REM\u2014well below recovery needs",
+    "7-day sleep average: 65/100, pulled down by three sub-50 nights in the last week",
+    "Oct 31 SpO2 at 89% is an outlier (likely night sweating artifact), but Nov 1 at 89% also flags\u2014monitor pattern"
   ],
   "positives": [
-    "Bike pacing discipline is locked in: Monday's 18.2mph avg stayed well under the 19.2mph target, showing restraint on a flat virtual route",
-    "Swim volume is solid: 2,500yd in 47min at HR 109 is efficient, aerobic work that builds the base without stress",
-    "Last night's sleep (Nov 3): score 87, 7.6h, 85min deep, 88min REM -- best night in the last week, showing you can recover when conditions are right"
+    "Yesterday's 2,500yd swim and 4.1mi run show you're back in the routine post-Cabo\u2014execution was clean",
+    "Run HR 143 is controlled and appropriate for maintenance intensity",
+    "Bike fitness remains strong: readiness engine shows 100/100 bike, 376 TSS in last 28 days vs ~149 expected"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 4,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (overall 97/100, recovery 81/100)",
-    "Garmin sleep scores (7-day avg 65/100, Nov 1/Oct 30/Oct 28 all \u226449)",
-    "Intervals.icu planned vs actual (Week 1: 0 of 100 TSS, maintenance week)",
-    "Activity logs (Nov 2 bike 52 TSS at 18.2mph, Nov 3 swim 19 TSS)"
+    "Readiness engine: overall 97/100, recovery limiter 81/100, 7-day sleep avg 70/100 (note: conflicts with raw 7-day calc of 65/100)",
+    "Garmin sleep scores: last 7 nights average 65/100, three nights below 50",
+    "Yesterday's activity log: 2,500yd swim TSS 19, 4.1mi run TSS 38",
+    "CURRENT TRAINING STATUS: Week 1 TSS 0 of 100 (0%)"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "Sleep data is complete for 7 days and shows a clear pattern (inconsistent scores, low deep/REM on bad nights), and readiness engine has full bike/swim/run/recovery visibility -- confidence is moderate (not high) because HRV, daily nutrition intake, and hip pain/mobility notes are not yet tracked, and this is Week 1 of a new build with limited recent structured-training trend data."
+    "reason": "Sleep data is complete and detailed (7 nights, scores/SpO2/RHR/stages), and activity logs are current through yesterday, but this is Week 1 of a new 20-week build with only maintenance sessions scheduled\u2014no structured workload pattern yet to assess trends, and no HRV or subjective readiness data to corroborate sleep impact."
   },
   "athlete_context_considered": [
-    "Cabo trip and return week (Week 1 of 20, maintenance volume only)",
-    "Hip history (Perthes, stable -- monitoring for pain/mobility associations)",
-    "Age 54, TRT managed",
-    "Coaching philosophy: accurate feedback, no false reassurance"
+    "Week 1 Cabo trip/return: low TSS is intentional, not a deficit",
+    "Age 54: recovery capacity is slower, making sleep quality critical",
+    "Hip history (Perthes): no back-to-back run days this week, protocol being followed",
+    "Oceanside 70.3 race target in 150 days: structured build starts Nov 23"
   ],
   "race_implications": [
-    "Sleep inconsistency will erode adaptation once structured volume starts Nov 23 -- address it now before TSS ramps",
-    "Bike pacing discipline (18.2mph vs 19.2mph target) is exactly what Oceanside race execution requires; carry this restraint into the build",
-    "Aerobic base (swim HR 109, bike HR 122) is solid going into the structured phase"
+    "Sleep debt now will compound as training load increases starting Week 2 (Nov 23)\u2014address it before structured volume begins",
+    "Current bike/swim/run readiness is 100/100 across all three disciplines, but recovery limiter at 81/100 will become the bottleneck if sleep doesn't stabilize",
+    "Three more maintenance days this week give you a window to bank quality sleep before the build starts\u2014use it"
   ],
   "recommended_adjustments": [
-    "Prioritize sleep: aim for 7.5\u20138h every night, and troubleshoot the nights that drop below 50 score (common pattern: low deep sleep + low REM) -- review pre-bed routine, room temp, and TRT timing if needed",
-    "Monitor SpO2: if it drops below 92% more than 1\u20132 nights per week or you notice night sweating patterns, flag it for your clinician",
-    "Stick to the maintenance plan the rest of this week: rest Wed/Fri, easy 1,200yd swim Thu, easy 60min outdoor ride Sat, easy 30min walk/run Sun -- no heroics, just rebuild the habit before the structured build starts Nov 23"
+    "Prioritize 7.5\u20138hr sleep opportunity tonight and every night this week\u2014target bed by 9:30pm if you're waking at 6am",
+    "If SpO2 drops below 92% again, check for night sweating or sensor positioning (two recent nights at 89% is a pattern worth watching)",
+    "No training adjustments needed\u2014this week's schedule is appropriate, just execute rest days as written and let sleep do the work"
   ],
-  "generatedAt": "2026-11-03",
-  "daysToRace": 151,
+  "generatedAt": "2026-11-04",
+  "daysToRace": 150,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }

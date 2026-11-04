@@ -835,5 +835,14 @@
     "headline": "Solid 2500-yard session with controlled effort and steady rhythm",
     "analysis": "You covered 2500 yards in 47.6 minutes at a controlled heart rate averaging 107 bpm, keeping the effort comfortable with a relative suffer score of just 29. Your average stroke rate of 23.1 strokes per minute suggests you maintained efficient, measured strokes throughout. This kind of steady aerobic work builds endurance without overstressing the system\u2014great foundation training.",
     "relative_effort": 29.0
+  },
+  {
+    "strava_id": "20851529736",
+    "date": "2026-11-03",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Strong negative splits with a 10:22 opening mile dropping to 8:31 in mile 2, showing solid pacing control",
+    "analysis": "You held an average heart rate of 144.9 bpm across 4.07 miles, with noticeable variations in your mile splits\u2014particularly the slower 13:03 third mile (HR 139.5) sandwiched between faster 8:31 and 8:52 efforts. Your cadence of 84.7 steps/min suggests room for improvement in turnover, which could help smooth out those pace fluctuations. The relative effort of 89 indicates this was a solid training stimulus, especially given the heart rate spikes to 157 bpm max.",
+    "relative_effort": 89.0
   }
 ]
