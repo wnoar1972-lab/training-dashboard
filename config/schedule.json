@@ -2145,7 +2145,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,400yd",
-            "note": "steady sets"
+            "note": "main set 8 x 100 at strong effort, 20 s rest"
           }
         ]
       },
@@ -2155,7 +2155,7 @@
           {
             "disc": "run",
             "label": "Easy run 35 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2165,7 +2165,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,400yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 200 steady, 20 s rest"
           }
         ]
       },
@@ -2175,12 +2175,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat"
           },
           {
             "disc": "brick",
             "label": "Brick run 25 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 4 x 2 min at 8:45/mi, 2 min easy between"
           }
         ]
       },
@@ -2200,7 +2200,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 105 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2210,7 +2210,7 @@
           {
             "disc": "run",
             "label": "Long run 7mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous, easy · 4 x 20 s strides at end · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2222,7 +2222,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,600yd",
-            "note": "steady sets"
+            "note": "main set 8 x 100 at strong effort, 20 s rest"
           }
         ]
       },
@@ -2232,7 +2232,7 @@
           {
             "disc": "run",
             "label": "Easy run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2242,7 +2242,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,600yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 200 steady, 20 s rest"
           }
         ]
       },
@@ -2252,12 +2252,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat"
           },
           {
             "disc": "brick",
             "label": "Brick run 30 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 4 x 2 min at 8:45/mi, 2 min easy between"
           }
         ]
       },
@@ -2277,7 +2277,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 120 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2287,7 +2287,7 @@
           {
             "disc": "run",
             "label": "Long run 8mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 2 mi at 9:15/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2299,7 +2299,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,800yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2309,7 +2309,7 @@
           {
             "disc": "run",
             "label": "Easy run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2319,7 +2319,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,800yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2329,12 +2329,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 30 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 15 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2354,7 +2354,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 135 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2364,7 +2364,7 @@
           {
             "disc": "run",
             "label": "Long run 9mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 3 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2376,7 +2376,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2386,7 +2386,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2396,7 +2396,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2406,12 +2406,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 35 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 20 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2431,7 +2431,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 150 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2441,7 +2441,7 @@
           {
             "disc": "run",
             "label": "Long run 10mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 4 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2453,7 +2453,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2463,7 +2463,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2473,7 +2473,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,000yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2483,12 +2483,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 20 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2508,7 +2508,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 165 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2518,7 +2518,7 @@
           {
             "disc": "run",
             "label": "Long run 10mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 4 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2530,7 +2530,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,500yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2540,7 +2540,7 @@
           {
             "disc": "run",
             "label": "Easy run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2550,7 +2550,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,500yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2560,12 +2560,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 35 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 15 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2585,7 +2585,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 135 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2595,7 +2595,7 @@
           {
             "disc": "run",
             "label": "Long run 9mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 3 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2607,7 +2607,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,200yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2617,7 +2617,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2627,7 +2627,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,200yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2637,12 +2637,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2662,7 +2662,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 165 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2672,7 +2672,7 @@
           {
             "disc": "run",
             "label": "Long run 11mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 5 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2684,7 +2684,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "steady sets"
+            "note": "main set 10 x 100 at threshold, 15 s rest, then 4 x 50 fast"
           }
         ]
       },
@@ -2694,7 +2694,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2704,7 +2704,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "threshold sets"
+            "note": "main set 6 x 200 steady, 15 s rest"
           }
         ]
       },
@@ -2714,12 +2714,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning · hill work: 3 x 4 min climbs at controlled effort, easy spin down"
+            "note": "intensity: 2 x 20 min sweet spot at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -2739,7 +2739,7 @@
           {
             "disc": "bike",
             "label": "Outdoor long ride 180 min",
-            "note": "nutrition practice · outdoor"
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort, easy spin down"
           }
         ]
       },
@@ -2749,7 +2749,7 @@
           {
             "disc": "run",
             "label": "Long run 11mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 5 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2761,7 +2761,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -2771,7 +2771,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2781,7 +2781,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -2791,12 +2791,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -2826,7 +2826,7 @@
           {
             "disc": "run",
             "label": "Long run 12mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 6 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2838,7 +2838,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -2848,7 +2848,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2858,7 +2858,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -2868,12 +2868,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -2903,7 +2903,7 @@
           {
             "disc": "run",
             "label": "Long run 12mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 6 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2915,7 +2915,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,600yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -2925,7 +2925,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -2935,7 +2935,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,600yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -2945,12 +2945,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 30 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -2980,7 +2980,7 @@
           {
             "disc": "run",
             "label": "Long run 13mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 8 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -2992,7 +2992,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -3002,7 +3002,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -3012,7 +3012,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -3022,12 +3022,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -3057,7 +3057,7 @@
           {
             "disc": "run",
             "label": "Long run 12mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 8 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3069,7 +3069,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,800yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -3079,7 +3079,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -3089,7 +3089,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,800yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -3099,12 +3099,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 30 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -3134,7 +3134,7 @@
           {
             "disc": "run",
             "label": "Long run 13mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · all 13 mi at 8:45/mi (race simulation) · fallback: if you fade past 9:15/mi, take 1-min walks every 9 min and log it · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3146,7 +3146,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "steady sets"
+            "note": "main set 5 x 300 at race effort, 20 s rest"
           }
         ]
       },
@@ -3156,7 +3156,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 6 x 20 s strides at end"
           }
         ]
       },
@@ -3166,7 +3166,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,400yd",
-            "note": "threshold sets"
+            "note": "main set 3 x 500 steady, 20 s rest, 4 x 50 fast at the end"
           }
         ]
       },
@@ -3176,12 +3176,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 90 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 15 min at 88–93% FTP (~195–205 W), 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 40 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 25 min at 8:35–8:45/mi, rest easy"
           }
         ]
       },
@@ -3211,7 +3211,7 @@
           {
             "disc": "run",
             "label": "Long run 11mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 5 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3223,7 +3223,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,600yd",
-            "note": "steady sets"
+            "note": "main set 6 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3233,7 +3233,7 @@
           {
             "disc": "run",
             "label": "Easy run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 4 x 20 s strides at end"
           }
         ]
       },
@@ -3243,7 +3243,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 3,600yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3253,12 +3253,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 100 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 2 x 15 min at 88–93% FTP, 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 45 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 20 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -3288,7 +3288,7 @@
           {
             "disc": "run",
             "label": "Long run 12mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 4 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3300,7 +3300,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,800yd",
-            "note": "steady sets"
+            "note": "main set 6 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3310,7 +3310,7 @@
           {
             "disc": "run",
             "label": "Easy run 35 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 4 x 20 s strides at end"
           }
         ]
       },
@@ -3320,7 +3320,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,800yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3330,12 +3330,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 2 x 10 min at 88–93% FTP, 5 min easy between"
           },
           {
             "disc": "brick",
             "label": "Brick run 30 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 10 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -3365,7 +3365,7 @@
           {
             "disc": "run",
             "label": "Long run 9mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 2 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3377,7 +3377,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,200yd",
-            "note": "steady sets"
+            "note": "main set 6 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3387,7 +3387,7 @@
           {
             "disc": "run",
             "label": "Easy run 30 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 4 x 20 s strides at end"
           }
         ]
       },
@@ -3397,7 +3397,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 2,200yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3407,12 +3407,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 60 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between"
           },
           {
             "disc": "brick",
             "label": "Brick run 20 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 5 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -3442,7 +3442,7 @@
           {
             "disc": "run",
             "label": "Long run 7mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · last 1 mi at 8:45/mi · chews every 20 min, practice race fueling"
           }
         ]
       }
@@ -3454,7 +3454,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 1,800yd",
-            "note": "steady sets"
+            "note": "main set 6 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3464,7 +3464,7 @@
           {
             "disc": "run",
             "label": "Easy run 25 min",
-            "note": "walk/run 9/1"
+            "note": "continuous, conversational · 4 x 20 s strides at end"
           }
         ]
       },
@@ -3474,7 +3474,7 @@
           {
             "disc": "swim",
             "label": "Pool swim 1,800yd",
-            "note": "threshold sets"
+            "note": "main set 4 x 100 at race pace, 20 s rest"
           }
         ]
       },
@@ -3484,12 +3484,12 @@
           {
             "disc": "bike",
             "label": "Outdoor ride 45 min + brick",
-            "note": "aero conditioning"
+            "note": "intensity: 3 x 3 min at 95–100% FTP, full recovery between"
           },
           {
             "disc": "brick",
             "label": "Brick run 15 min",
-            "note": "walk/run 9/1"
+            "note": "continuous · 3 min at 8:45/mi, rest easy"
           }
         ]
       },
@@ -3519,7 +3519,7 @@
           {
             "disc": "run",
             "label": "Long run 5mi",
-            "note": "walk/run 9/1 · chews every 20 min, practice race fueling"
+            "note": "continuous · steady, no goal-pace miles · chews every 20 min, practice race fueling"
           }
         ]
       }
