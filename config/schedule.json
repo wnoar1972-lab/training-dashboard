@@ -2395,8 +2395,8 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Open water swim 1,500yd",
-            "note": "wetsuit · first ocean swim of the build · easy, sight every 10 strokes · swim with a buddy and buoy · stop if numb"
+            "label": "Pool swim 3,000yd",
+            "note": "threshold sets"
           }
         ]
       },
@@ -2416,12 +2416,12 @@
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "off feet"
+            "disc": "swim",
+            "label": "Open water swim 1,500yd",
+            "note": "wetsuit · first ocean swim of the build · easy, sight every 10 strokes · swim with a buddy and buoy · stop if numb"
           }
         ]
       },
@@ -3088,8 +3088,8 @@
         "planned": [
           {
             "disc": "swim",
-            "label": "Open water swim 2,000yd",
-            "note": "race-distance swim · wetsuit · sight every 10 strokes, hold race effort through the middle · swim with a buddy and buoy"
+            "label": "Pool swim 3,800yd",
+            "note": "threshold sets"
           }
         ]
       },
@@ -3109,12 +3109,12 @@
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "off feet"
+            "disc": "swim",
+            "label": "Open water swim 2,000yd",
+            "note": "race-distance swim · wetsuit · sight every 10 strokes, hold race effort through the middle · swim with a buddy and buoy"
           }
         ]
       },
