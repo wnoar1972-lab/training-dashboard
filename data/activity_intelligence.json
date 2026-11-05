@@ -844,5 +844,14 @@
     "headline": "Strong negative splits with a 10:22 opening mile dropping to 8:31 in mile 2, showing solid pacing control",
     "analysis": "You held an average heart rate of 144.9 bpm across 4.07 miles, with noticeable variations in your mile splits\u2014particularly the slower 13:03 third mile (HR 139.5) sandwiched between faster 8:31 and 8:52 efforts. Your cadence of 84.7 steps/min suggests room for improvement in turnover, which could help smooth out those pace fluctuations. The relative effort of 89 indicates this was a solid training stimulus, especially given the heart rate spikes to 157 bpm max.",
     "relative_effort": 89.0
+  },
+  {
+    "strava_id": "20871241506",
+    "date": "2026-11-05",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+    "headline": "Virtual Oceanside course recon tackles 34.6 miles with a cadence challenge and highly variable terrain",
+    "analysis": "Your 121.9-minute ride averaged 3:31/mi, just 4 seconds slower than your 30-day pace, while navigating dramatic elevation changes\u2014mile 30's 8:40 climb and mile 25's 4:49 grind bookended stretches of 2:30-2:40 downhill speed. The standout issue is your 58.8 RPM average cadence, which is well below the efficient 85-95 range and likely contributed to the moderate 115 suffer score despite controlled heart rate averaging 124.6 bpm. Focus on spinning lighter gears to bring that cadence up for race day efficiency.",
+    "relative_effort": 115.0
   }
 ]
