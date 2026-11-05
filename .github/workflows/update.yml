@@ -1,9 +1,6 @@
 name: Update Dashboard Daily
 
 on:
-  push:
-    branches: [main]
-    paths: ['.github/workflows/update.yml']
   schedule:
     - cron: '0 15 * * *'
   workflow_dispatch:
