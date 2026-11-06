@@ -1,52 +1,50 @@
 {
-  "date": "November 05, 2026",
-  "overallStatus": "Needs Attention",
-  "statusColor": "yellow",
-  "yesterdayAnalysis": "Rest day as scheduled. No issues.",
-  "todayRecommendation": "Today's scheduled easy pool swim (1,200yd maintenance/form session) was not done -- instead you rode 34.6mi on the Oceanside GPX course for 65 TSS at 17.1mph avg. The ride itself was clean (good HR discipline at 125, stayed well under the 19mph pacing target), but you skipped the swim completely. Get back on schedule tomorrow with the planned easy outdoor ride.",
-  "weekProgress": "Week 1 of 20. Week TSS so far: 0 of 100 target (0% complete). This is the Cabo trip and return week before the structured build starts Nov 23 -- low volume is intentional and expected. You're logging workouts consistently (bike Mon/Thu, swim Sun, run Tue), which is exactly what this maintenance week asks for.",
-  "keyInsight": "You substituted today's scheduled swim with an unscheduled bike ride -- discipline on following the plan matters more than logging extra volume during a maintenance week.",
+  "date": "November 06, 2026",
+  "overallStatus": "Recovery Mode",
+  "statusColor": "blue",
+  "yesterdayAnalysis": "Yesterday's indoor ride session replaced the scheduled easy 1,200yd swim. The 65 TSS bike was appropriate recovery intensity (HR 125), but the 34.6mi ride at 17.1mph avg was well below the 19.0mph race pacing target -- which is correct during this maintenance week, not a concern. The session shows good discipline holding back on a flat virtual course rather than pushing race effort during recovery.",
+  "todayRecommendation": "Today's planned rest was overridden -- you completed a 2,050yd pool swim (21 TSS, HR 120, 38min). The session was appropriate recovery intensity and the distance exceeded the typical 1,200yd maintenance swim target. Focus on sleep recovery tonight; your 7-day average is 68/100 with three nights scoring below 70 this week.",
+  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). This is the Cabo trip maintenance week where low TSS is intentional by design -- you're logging sessions (swim Wed, run Tue, bikes Sat/Sun completed early) and staying active, which is exactly the plan before the structured build begins Nov 23.",
+  "keyInsight": "Sleep quality is the primary limiter right now -- three nights below 70/100 this week, and the Nov 1 and Nov 4 scores (46, 48) with low REM/deep sleep are undermining recovery capacity heading into the structured build.",
   "alerts": [
-    "Skipped today's scheduled easy pool swim (1,200yd) -- replaced with an unscheduled 34.6mi bike ride",
-    "7-day avg sleep score is 64/100 -- below the readiness engine's 71/100 baseline and flagged as the largest limiter (recovery 82/100)",
-    "Two nights in the last 7 had sleep scores below 50 (Nov 1: 46, Nov 4: 48) -- both with poor REM/deep sleep"
+    "Sleep: 7-day avg 68/100, with scores of 46, 48, 69 in last week -- prioritize sleep duration and consistency",
+    "SpO2 dipped to 89% on Nov 1 (may be night sweating artifact, but worth monitoring)"
   ],
   "positives": [
-    "Bike pacing discipline strong on today's ride: 17.1mph avg, well under the 19.0mph target -- holding back appropriately on a flat course",
-    "Consistent training logged through the maintenance week despite being in Cabo trip window (bike Mon/Thu, swim Sun, run Tue)",
-    "HR control solid across all recent sessions (122-125 on bikes, 109 on swim, 134-143 on runs) -- no signs of overreaching"
+    "Bike pacing discipline: yesterday's 17.1mph avg stayed well under the 19.0mph target during maintenance week",
+    "Consistency: logging swims, runs, and rides during the Cabo maintenance week despite no formal structure",
+    "Swim volume: today's 2,050yd and Wed's 2,500yd both exceed the 1,200yd maintenance targets"
   ],
   "recoveryScore": 6,
-  "trainingLoadStatus": "Optimal",
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (recovery 82/100, bike 100/100, swim 100/100, run 100/100)",
-    "7-day avg sleep score 64/100 from Garmin",
-    "TODAY'S ACTIVITY LOG (bike 65 TSS, 34.6mi, 17.1mph avg)",
-    "Week 1 TSS: 0 of 100 (0%)",
-    "This week's schedule vs actual logged activities"
+    "Readiness engine: recovery 82/100, 7-day sleep avg 71/100",
+    "Garmin sleep scores: 68/100 7-day avg, three nights <70",
+    "Week 1 TSS: 0 of 100 (intentional maintenance week)",
+    "Yesterday bike: 65 TSS, HR 125, 17.1mph avg vs 19.0mph target",
+    "Today swim: 2,050yd, 21 TSS, HR 120 vs planned rest"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete Garmin sleep data for 7 nights, readiness engine scores across all disciplines, and detailed activity logs including HR/pace/TSS for every session -- only gap is HRV tracking, which isn't yet in use."
+    "reason": "Complete data on sleep, TSS, HR, and pacing for the last 7 days; clear maintenance-week context; readiness engine scoring recovery specifically at 82/100 with sleep as the documented limiter."
   },
   "athlete_context_considered": [
-    "Week 1 maintenance window (Cabo trip Nov 13-20, return week)",
-    "Bike pacing discipline target (19.0mph on flat Oceanside course)",
-    "Professional bike fit completed post-Oregon (no position issues flagged on today's 2hr ride)",
-    "Sleep quality flagged as largest readiness limiter"
+    "Cabo maintenance week (Nov 16-22) -- low TSS intentional",
+    "Bike pacing discipline (19.0mph target, flat course strategy)",
+    "148 days to Oceanside 70.3",
+    "Sleep quality as recovery limiter per readiness engine"
   ],
   "race_implications": [
-    "Skipping scheduled swims now will compound into a deficit when the structured build starts Nov 23 -- swim volume is already the smallest bucket and can't be made up later",
-    "Sleep scores trending below baseline (64 vs 71) -- recovery debt accumulates and will limit adaptation once Week 2 volume ramps",
-    "Bike pacing discipline on today's ride (17.1mph) demonstrates you can hold back appropriately on flat terrain -- this is the exact skill needed to protect the run at Oceanside"
+    "Sleep deficits now will compound when structured training resumes Nov 23 -- addressing sleep quality in this low-volume window is the highest-value prep for the 20-week build",
+    "Bike pacing discipline is solid -- holding 17.1mph in maintenance shows you can resist the temptation to overpace on flat virtual courses"
   ],
   "recommended_adjustments": [
-    "Do not substitute scheduled swims with extra bike rides -- swim volume is non-negotiable and cannot be replaced by another discipline",
-    "Prioritize sleep quality this week: target 7.5+ hours with focus on getting to bed earlier (two recent nights had poor scores despite 6.8-8.4hr duration)",
-    "Follow Friday-Sunday schedule exactly (easy 60min outdoor ride Sat, easy 30min walk/run Sun) -- no additions, no substitutions"
+    "Prioritize 7.5+ hours sleep nightly for the remainder of this week -- target REM and deep sleep improvement before structured training resumes",
+    "Monitor SpO2 if it drops below 92% again; note any correlation with night sweating or sleeping position",
+    "Continue logging any activity during Cabo trip (Nov 13-20) but do not force sessions -- consistency and rest are the priorities"
   ],
-  "generatedAt": "2026-11-05",
-  "daysToRace": 149,
+  "generatedAt": "2026-11-06",
+  "daysToRace": 148,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }

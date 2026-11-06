@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "calculation_version": "1.0.0",
   "race_type": "half_distance_triathlon",
   "current_week": 1,
@@ -20,7 +20,7 @@
     "swim": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 108 TSS in the last 28 days vs. an expected ~54 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 114 TSS in the last 28 days vs. an expected ~54 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest swim session is 4025yd (191% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer swim sessions (already on the schedule) will directly raise this score.",
       "trend": "declining",
