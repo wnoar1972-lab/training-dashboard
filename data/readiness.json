@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "calculation_version": "1.0.0",
   "race_type": "half_distance_triathlon",
   "current_week": 1,
@@ -56,7 +56,7 @@
     "recovery": {
       "score": 82,
       "status": "Recovered",
-      "top_factor": "Resting HR is 53.3 bpm, -0.5 bpm vs. the all-time baseline of 53.8 bpm.",
+      "top_factor": "Resting HR is 53.4 bpm, -0.5 bpm vs. the all-time baseline of 53.9 bpm.",
       "top_limiter": "7-day-avg sleep score is 71/100.",
       "how_to_improve": "Sleep quality is the limiter -- prioritize consistent bed/wake times and duration over the next week or two; this responds faster than most training changes.",
       "trend": "stable",
