@@ -862,5 +862,14 @@
     "headline": "Solid 2050-yard effort with controlled intensity and steady rhythm",
     "analysis": "You held a steady stroke rate of 23.1 strokes per minute through this 38.8-minute session, keeping your heart rate well-controlled with an average of 113 bpm and a max of 149. With a relative effort score of 47, this was a moderately challenging workout that likely reinforced your aerobic base without overreaching. Your consistent rhythm through over 2000 yards shows solid technique and endurance building.",
     "relative_effort": 47.0
+  },
+  {
+    "strava_id": "20901942787",
+    "date": "2026-11-07",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "A wild pace rollercoaster with a blazing 9:46 third mile that crushed your 30-day average",
+    "analysis": "Your pacing was all over the map today\u2014from an 11:18 opener to a 13:37 second mile before dropping the hammer with a 9:46 third mile that's nearly half your recent 20:23/mi average pace. Your heart rate climbed steadily through the effort, peaking at 156 bpm as you finished strong. That low 82.9 spm cadence suggests you were grinding through some serious terrain on those Big Rock Park loops.",
+    "relative_effort": 55.0
   }
 ]

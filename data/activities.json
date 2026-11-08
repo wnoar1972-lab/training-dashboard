@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "title": "Carlsbad Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 63.0,
-    "np": 0,
-    "avgHR": 139.0,
-    "distance": 10639.4,
-    "duration": 3947.0
-  },
-  {
     "date": "2026-09-09",
     "title": "Oceanside Running",
     "type": "Run",
@@ -680,5 +669,16 @@
     "avgHR": 120.0,
     "distance": 1874.5,
     "duration": 2315.0
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Santee Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 26.0,
+    "np": 0,
+    "avgHR": 137.0,
+    "distance": 5025.2,
+    "duration": 1776.0
   }
 ]
