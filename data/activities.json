@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "title": "Oceanside Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 65.0,
-    "np": 0,
-    "avgHR": 145.0,
-    "distance": 9700.6,
-    "duration": 3597.0
-  },
-  {
-    "date": "2026-09-09",
-    "title": "Cycling",
-    "type": "Ride",
-    "disc": "bike",
-    "tss": 104.0,
-    "np": 0,
-    "avgHR": 127.0,
-    "distance": 74294.1,
-    "duration": 9625.0
-  },
-  {
     "date": "2026-09-10",
     "title": "Pool Swim",
     "type": "Swim",
@@ -680,5 +658,16 @@
     "avgHR": 137.0,
     "distance": 5025.2,
     "duration": 1776.0
+  },
+  {
+    "date": "2026-11-08",
+    "title": "San Diego Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 40.0,
+    "np": 0,
+    "avgHR": 146.0,
+    "distance": 6180.6,
+    "duration": 2132.0
   }
 ]

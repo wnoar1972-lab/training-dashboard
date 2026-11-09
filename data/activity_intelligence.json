@@ -1,23 +1,5 @@
 [
   {
-    "strava_id": "19689786252",
-    "date": "2026-08-10",
-    "disc": "run",
-    "title": "Evening Run",
-    "headline": "Short brick run off the bike \u2014 cadence held steady and effort stayed easy.",
-    "analysis": "Just over a mile in 10.2 minutes (about 10:04/mi) straight off the ROUVY ride, with cadence steady at 83 spm and heart rate topping out at 138 bpm. Relative effort was minimal at 9 \u2014 exactly what a short transition run should be.",
-    "relative_effort": 9
-  },
-  {
-    "strava_id": "19689615450",
-    "date": "2026-08-10",
-    "disc": "bike",
-    "title": "ROUVY - IRONMAN Jacksonville (First 42km)",
-    "headline": "Steady aerobic ride at controlled power \u2014 textbook base-building effort.",
-    "analysis": "87 minutes averaging 111w and 112 bpm \u2014 comfortably aerobic with a relative effort of just 28. Cadence sat lower than usual at 59 rpm, consistent with the course's terrain profile.",
-    "relative_effort": 28
-  },
-  {
     "strava_id": "19696856237",
     "date": "2026-08-11",
     "disc": "swim",
@@ -871,5 +853,14 @@
     "headline": "A wild pace rollercoaster with a blazing 9:46 third mile that crushed your 30-day average",
     "analysis": "Your pacing was all over the map today\u2014from an 11:18 opener to a 13:37 second mile before dropping the hammer with a 9:46 third mile that's nearly half your recent 20:23/mi average pace. Your heart rate climbed steadily through the effort, peaking at 156 bpm as you finished strong. That low 82.9 spm cadence suggests you were grinding through some serious terrain on those Big Rock Park loops.",
     "relative_effort": 55.0
+  },
+  {
+    "strava_id": "20914183376",
+    "date": "2026-11-08",
+    "disc": "run",
+    "title": "Lunch Run",
+    "headline": "Wild pacing variation tells the story of this 3.84-mile effort with a 6-minute swing between fastest and slowest miles",
+    "analysis": "Your mile splits ranged dramatically from 9:00 to 15:07 per mile, with that second mile at 15:07 pace standing out as significantly slower than your other splits (all under 10:30). Heart rate tells part of the story\u2014you averaged 143-145 bpm through miles 1-2, then pushed harder in mile 3 (154 bpm average) where you hit your fastest 9:00 pace. That slow second mile likely corresponds to the 250-second La Cuenta Climb, but overall you're running well faster than your 30-day average of 19:16/mi.",
+    "relative_effort": 101.0
   }
 ]

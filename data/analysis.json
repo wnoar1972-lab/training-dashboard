@@ -1,53 +1,52 @@
 {
-  "date": "November 08, 2026",
+  "date": "November 09, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Yesterday's workout was a 3.1mi run (29min, TSS 26, HR 137) when a 60min easy outdoor bike ride was scheduled. The athlete substituted disciplines -- not a missed session, but a departure from the plan. The run itself was executed at an appropriate easy intensity (HR 137), though the continuous run protocol should be in effect per the Dec 7 build start date guidance.",
-  "todayRecommendation": "Today's planned session is a 30min easy walk/run (9:1 protocol). If not yet completed, execute as scheduled to close out the week. If already done, focus on sleep quality -- last night's 42 score (7.0h, 0min REM, SpO2 93%) is a red flag.",
-  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). This is the Cabo trip and return week before the structured build starts Nov 23 -- low or zero TSS is intentional and expected. The goal this week is consistency, easy sessions, and sleep, not volume.",
-  "keyInsight": "Sleep quality is the limiter right now -- last night's 42 score with zero REM sleep is a recovery problem that will undercut the entire build if it continues.",
+  "yesterdayAnalysis": "Yesterday's run (3.8mi, 35min, HR 146) was scheduled as a 30min easy walk/run with 9/1 protocol. The session went 5min longer and the HR of 146 suggests it was run continuously at moderate effort, not the prescribed easy walk/run. Deviating from the recovery-week protocol adds load when the plan explicitly calls for maintenance.",
+  "todayRecommendation": "Today is scheduled rest. Honor it. You're in the Cabo trip week (Week 1, Nov 16-22) before the structured build starts Nov 23. Sleep scores are averaging 62/100 over 7 days with several nights in the 40s\u2014use today to prioritize rest and sleep quality, not to squeeze in extra work.",
+  "weekProgress": "Week 1 of 20. Week TSS so far: 0 of 100 target (0% complete). This is the Cabo trip and return week\u2014low or zero TSS is intentional by design. The structured build begins Nov 23. No concern.",
+  "keyInsight": "Sleep quality is the biggest limiter right now: 7-day average is 62/100 with four nights scoring below 50, directly impacting the recovery score of 81/100 from the readiness engine.",
   "alerts": [
-    "Last night: 42 sleep score, 0min REM, 7.0h duration -- poorest night in the 7-day window",
-    "7-day avg sleep score is 66/100 -- below optimal for recovery",
-    "Yesterday: ran instead of the scheduled bike ride (discipline substitution)"
+    "Yesterday's run deviated from the prescribed 9/1 walk/run protocol\u2014it was run continuously at moderate effort (HR 146) instead of easy intervals",
+    "Sleep scores below 50 on four of the last seven nights (Nov 9: 44, Nov 8: 42, Nov 7: 62, Nov 4: 48)",
+    "Nov 9 sleep: only 10min deep, 62min REM in 6.3h\u2014fragmented architecture"
   ],
   "positives": [
-    "TSS accumulation over the past 7 days (220 TSS across 5 sessions) demonstrates good movement consistency during the transition/recovery phase",
-    "Nov 5 trainer session (2h01m, 34.6mi, TSS 65) showed solid endurance work even during a maintenance window",
-    "HR control has been appropriate across all disciplines -- yesterday's run at 137bpm was correctly easy"
+    "Bike readiness at 100/100 with 420 TSS in the last 28 days vs. expected ~149\u2014strong aerobic base carried into this recovery week",
+    "Run readiness at 100/100 despite the maintenance phase\u2014fitness is holding",
+    "Swim and run workouts last week all completed (Nov 3 swim 2500yd, Nov 3 run club, Nov 6 swim 2050yd, Nov 8 run 3.8mi)"
   ],
   "recoveryScore": 4,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine (recovery 82/100, 7-day sleep avg 69/100)",
-    "Garmin sleep data (Nov 8: 42 score, 0min REM)",
-    "LAST 7 DAYS OF TRAINING (5 sessions, 220 total TSS)",
-    "Week 1 TSS: 0 of 100 target",
-    "Yesterday's actual vs scheduled (run done, bike scheduled)"
+    "Readiness engine overall 97/100 (bike 100/100, run 100/100, swim 100/100, recovery 81/100)",
+    "Garmin sleep scores 7-day avg 62/100",
+    "LAST 7 DAYS OF TRAINING activity log with HR, TSS, distance, duration",
+    "CURRENT TRAINING STATUS week TSS 0 of 100 (0%)",
+    "TODAY'S ACTIVITY LOG SO FAR shows nothing logged yet"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Complete 7-day sleep, training, and readiness data available; current week is intentionally low-volume (Cabo trip), so lack of structured workouts is not a data gap."
+    "level": "moderate",
+    "reason": "Complete activity and sleep data for the past 7 days; readiness engine scores provided; this is an intentional low-volume recovery week (Cabo trip) so the absence of HRV or detailed nutrition logs does not limit the core recommendation to rest and sleep."
   },
   "athlete_context_considered": [
-    "Week 1 Cabo trip context (no planned workouts, log anything you do)",
-    "Walk/run protocol (9:1) specified for today's session",
-    "Age 54, TRT managed",
-    "Hip history (stable, no pain flags in recent data)",
-    "Build starts Nov 23 (Week 2)"
+    "Week 1 of 20 is Cabo trip (Nov 16-22, 2026)\u2014maintenance phase before structured build Nov 23",
+    "Hip history (Perthes, right hip)\u2014stable, but caution against abrupt load increases",
+    "Walk/run protocol active during maintenance phase",
+    "Age 54, TRT managed clinically"
   ],
   "race_implications": [
-    "Sleep deficits now will compound through the 20-week build -- address immediately",
-    "Recovery capacity at 54 on TRT requires excellent sleep hygiene, not just adequate duration",
-    "Discipline substitutions (run for bike) in maintenance weeks are low-risk, but pattern-tracking matters as structured training begins"
+    "Recovery quality now sets the foundation for the 19-week structured build starting Nov 23\u2014poor sleep undermines adaptation",
+    "The structured build requires consistent recovery to support the weekly TSS ramp from 100 (Week 1) toward peak weeks",
+    "Oceanside sub-5:45 goal (Apr 3, 2027) is 145 days out\u2014this recovery week is the last unstructured block before the real work begins"
   ],
   "recommended_adjustments": [
-    "Prioritize sleep duration and quality this week -- target 7.5-8h nightly with focus on REM recovery (consider sleep environment, alcohol intake, screen time)",
-    "Complete today's 30min walk/run as scheduled if not yet done; if already done, no additional training today",
-    "Week 2 (Nov 23 start): return to scheduled discipline adherence -- no more run-for-bike swaps without cause"
+    "Prioritize 7+ hours of sleep tonight and tomorrow\u2014target sleep scores above 70 to pull the 7-day average up before the structured build starts",
+    "Tuesday Run Club (Nov 10) is scheduled walk/run 9/1\u2014execute the protocol as written, do not run it continuously or push the effort",
+    "No additional sessions this week beyond what's scheduled (Tue run club, Thu easy swim 1200yd)\u2014resist the urge to add volume during a planned recovery week"
   ],
-  "generatedAt": "2026-11-08",
-  "daysToRace": 146,
+  "generatedAt": "2026-11-09",
+  "daysToRace": 145,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }
