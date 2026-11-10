@@ -1,23 +1,5 @@
 [
   {
-    "strava_id": "19696856237",
-    "date": "2026-08-11",
-    "disc": "swim",
-    "title": "Morning Swim",
-    "headline": "Solid long swim \u2014 nearly 3,250yd with heart rate holding in a comfortable aerobic range.",
-    "analysis": "3,250yd in just over 70 minutes, averaging 115 bpm and topping out at 129 \u2014 clearly aerobic, sustainable pacing for a swim of this length. The relative effort of 75 reflects the volume more than the intensity.",
-    "relative_effort": 75
-  },
-  {
-    "strava_id": "19705256074",
-    "date": "2026-08-11",
-    "disc": "run",
-    "title": "Evening Run",
-    "headline": "Massive effort \u2014 your longest run of the build and by far the hardest, with heart rate climbing into the 180s\u2013190s late.",
-    "analysis": "12 miles in 115 minutes (about 9:34/mi), with 3 new PRs set along the way. Heart rate built steadily through the walk/run intervals, peaking at 190 bpm in the back third \u2014 a relative effort of 327 makes this the single biggest session logged this build. Worth extra recovery attention given the spike.",
-    "relative_effort": 327
-  },
-  {
     "strava_id": "19719135917",
     "date": "2026-08-12",
     "disc": "bike",
@@ -862,5 +844,14 @@
     "headline": "Wild pacing variation tells the story of this 3.84-mile effort with a 6-minute swing between fastest and slowest miles",
     "analysis": "Your mile splits ranged dramatically from 9:00 to 15:07 per mile, with that second mile at 15:07 pace standing out as significantly slower than your other splits (all under 10:30). Heart rate tells part of the story\u2014you averaged 143-145 bpm through miles 1-2, then pushed harder in mile 3 (154 bpm average) where you hit your fastest 9:00 pace. That slow second mile likely corresponds to the 250-second La Cuenta Climb, but overall you're running well faster than your 30-day average of 19:16/mi.",
     "relative_effort": 101.0
+  },
+  {
+    "strava_id": "20934880191",
+    "date": "2026-11-10",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+    "headline": "Virtual Oceanside 70.3 course preview shows erratic pacing and room for sustained power development",
+    "analysis": "Your 30-mile ROUVY ride averaged 3:48/mi overall\u2014considerably slower than your 30-day average of 3:31/mi\u2014with dramatic pace swings ranging from 2:36/mi (mile 4) to 10:02/mi (mile 30). Heart rate told a controlled story at 115 average with a modest 137 max, but your 66 RPM cadence suggests you were grinding gears rather than spinning efficiently through the virtual course's elevation changes. The suffer score of 58 indicates moderate effort, but tightening up those pace fluctuations and raising cadence closer to 80-90 RPM will translate to more sustainable race-day power.",
+    "relative_effort": 58.0
   }
 ]
