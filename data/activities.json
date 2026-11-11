@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "title": "Pool Swim",
-    "type": "Swim",
-    "disc": "swim",
-    "tss": 30.0,
-    "np": 0,
-    "avgHR": 115.0,
-    "distance": 2766.1,
-    "duration": 3735.0
-  },
-  {
     "date": "2026-09-12",
     "title": "Cycling",
     "type": "Ride",
@@ -658,6 +647,17 @@
     "avgHR": 146.0,
     "distance": 6180.6,
     "duration": 2132.0
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Carlsbad Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 39.0,
+    "np": 0,
+    "avgHR": 145.0,
+    "distance": 6531.1,
+    "duration": 2183.0
   },
   {
     "date": "2026-11-10",

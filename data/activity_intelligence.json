@@ -1,23 +1,5 @@
 [
   {
-    "strava_id": "19719135917",
-    "date": "2026-08-12",
-    "disc": "bike",
-    "title": "Afternoon Ride",
-    "headline": "Nearly 24 miles at an easy aerobic effort, with three new segment PRs along the way.",
-    "analysis": "88 minutes covering 23.9 miles, averaging 118 bpm (max 144) \u2014 solidly Zone 2. Relative effort was moderate at 57, and you picked up three bronze segment PRs without pushing outside the aerobic zone.",
-    "relative_effort": 57
-  },
-  {
-    "strava_id": "19719490963",
-    "date": "2026-08-12",
-    "disc": "run",
-    "title": "Evening Run",
-    "headline": "Solid brick run off the bike \u2014 legs held up well at a steady aerobic effort.",
-    "analysis": "3.3 miles in just under 31 minutes (about 9:19/mi) directly after the ride, averaging 139 bpm. An effort score of 59 reflects a controlled, sustainable brick \u2014 exactly the kind of session that builds bike-to-run durability.",
-    "relative_effort": 59
-  },
-  {
     "strava_id": "19726062970",
     "date": "2026-08-13",
     "disc": "swim",
@@ -853,5 +835,14 @@
     "headline": "Virtual Oceanside 70.3 course preview shows erratic pacing and room for sustained power development",
     "analysis": "Your 30-mile ROUVY ride averaged 3:48/mi overall\u2014considerably slower than your 30-day average of 3:31/mi\u2014with dramatic pace swings ranging from 2:36/mi (mile 4) to 10:02/mi (mile 30). Heart rate told a controlled story at 115 average with a modest 137 max, but your 66 RPM cadence suggests you were grinding gears rather than spinning efficiently through the virtual course's elevation changes. The suffer score of 58 indicates moderate effort, but tightening up those pace fluctuations and raising cadence closer to 80-90 RPM will translate to more sustainable race-day power.",
     "relative_effort": 58.0
+  },
+  {
+    "strava_id": "20941570122",
+    "date": "2026-11-10",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "Mile 2 surges 65 seconds faster than your 30-day average before settling into a variable-effort finish",
+    "analysis": "Your 8:43 second mile dropped well below your typical 9:48 pace, spiking your heart rate to 151 before the effort caught up with you. Miles 3 and 4 slowed considerably to 10:53 and 10:19 respectively, both holding steady around 147 bpm as you managed the fatigue. That early push delivered a suffer score of 100 across 4.06 miles\u2014a solid effort that shows you've got the speed, now it's about sustaining it.",
+    "relative_effort": 100.0
   }
 ]
