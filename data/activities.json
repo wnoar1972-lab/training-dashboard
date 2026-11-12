@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "title": "Cycling",
-    "type": "Ride",
-    "disc": "bike",
-    "tss": 167.0,
-    "np": 0,
-    "avgHR": 118.0,
-    "distance": 145760.8,
-    "duration": 19789.0
-  },
-  {
     "date": "2026-09-13",
     "title": "San Diego Running",
     "type": "Run",
@@ -669,5 +658,16 @@
     "avgHR": 115.0,
     "distance": 48482.8,
     "duration": 6879.0
+  },
+  {
+    "date": "2026-11-12",
+    "title": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 40.0,
+    "np": 0,
+    "avgHR": 118.0,
+    "distance": 37283.1,
+    "duration": 4843.0
   }
 ]

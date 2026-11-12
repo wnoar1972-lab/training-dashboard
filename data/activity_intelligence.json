@@ -1,23 +1,5 @@
 [
   {
-    "strava_id": "19726062970",
-    "date": "2026-08-13",
-    "disc": "swim",
-    "title": "Morning Swim",
-    "headline": "Easy recovery swim \u2014 heart rate stayed low the entire session.",
-    "analysis": "3,350yd in just over 71 minutes with average heart rate at only 108 bpm (max 122) \u2014 a clearly easy, recovery-paced swim. The relative effort of 39 confirms this was about volume and technique, not intensity.",
-    "relative_effort": 39
-  },
-  {
-    "strava_id": "19733178585",
-    "date": "2026-08-13",
-    "disc": "run",
-    "title": "Evening Run",
-    "headline": "Strong finish with real negative splits \u2014 you pushed into the anaerobic zone over the final two miles.",
-    "analysis": "4 miles negative-split from 10:26/mi down to 9:35/mi, with heart rate climbing into the 170s\u2013190s bpm range over the back half. Relative effort of 108 and cadence holding steady at 82 spm \u2014 a well-executed progression run.",
-    "relative_effort": 108
-  },
-  {
     "strava_id": "19759493255",
     "date": "2026-08-15",
     "disc": "bike",
@@ -844,5 +826,14 @@
     "headline": "Mile 2 surges 65 seconds faster than your 30-day average before settling into a variable-effort finish",
     "analysis": "Your 8:43 second mile dropped well below your typical 9:48 pace, spiking your heart rate to 151 before the effort caught up with you. Miles 3 and 4 slowed considerably to 10:53 and 10:19 respectively, both holding steady around 147 bpm as you managed the fatigue. That early push delivered a suffer score of 100 across 4.06 miles\u2014a solid effort that shows you've got the speed, now it's about sustaining it.",
     "relative_effort": 100.0
+  },
+  {
+    "strava_id": "20961543716",
+    "date": "2026-11-12",
+    "disc": "bike",
+    "title": "ROUVY - IRONMAN 70.3 Oceanside GPX",
+    "headline": "IRONMAN 70.3 Oceanside course simulation completed with wildly variable pacing across technical virtual terrain",
+    "analysis": "Your 23.17-mile ROUVY ride at 3:29/mi average pace showcased the lumpy nature of the Oceanside course, with splits swinging from a blazing 1:42/mi on mile 9 to a grinding 7:34/mi climb on mile 11. Heart rate remained remarkably controlled throughout at 118 bpm average despite these pace variations, suggesting you're pacing well for the longer effort ahead. That 63 RPM average cadence is on the lower side\u2014working on spinning closer to 80-90 RPM could help you run better off the bike on race day.",
+    "relative_effort": 49.0
   }
 ]

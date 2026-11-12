@@ -1,51 +1,52 @@
 {
-  "date": "November 11, 2026",
+  "date": "November 12, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Yesterday (Nov 10) showed discipline violations that need to stop: you ran a Tuesday Run Club session AND added an unscheduled 2-hour trainer ride on the Oceanside course. The bike was ridden at 15.8mph avg, well below the 19.0mph target, but it wasn't scheduled at all -- this is a recovery week before the Cabo trip, and adding 48 TSS of bike work plus 39 TSS of running (87 total) when the week calls for easy maintenance is exactly the kind of undisciplined volume creep that leads to fatigue and injury.",
-  "todayRecommendation": "Today is scheduled as Rest. Take it. You're leaving for Cabo soon (Nov 13-20), and this week's job is to arrive fresh, not tired from unscheduled workouts.",
-  "weekProgress": "Week 1 of 20: 0 of 100 TSS target (0% complete). This is the Cabo trip week -- low TSS is intentional, and you're not behind. The structured build begins Nov 23 when you return. However, yesterday's extra session violated the recovery intent of this week.",
-  "keyInsight": "Adding unscheduled sessions in a designated recovery week is a red flag for race readiness -- you cannot execute a 20-week build if you ignore rest when it's programmed.",
+  "yesterdayAnalysis": "Yesterday was a scheduled rest day and logged correctly. The last hard session was Nov 10 (brick: 30mi bike + 4mi run), which was appropriate for the final training week before the Cabo trip. The rest day was needed and executed as planned.",
+  "todayRecommendation": "Today's scheduled easy pool swim (1,200yd) was replaced with a 23.2mi bike session on the Oceanside GPX course at 17.2mph avg. The bike was well below the 19.0mph pacing target, which is fine for an easy maintenance ride during the Cabo week. No swim was logged. If you still want the pool session for form work, get it in this afternoon; otherwise, the bike covers today's maintenance intention and you're clear to continue resting into the trip.",
+  "weekProgress": "Week 1 of 20 is the intentional Cabo trip and return week before the structured build starts Nov 23. Week TSS so far: 0 of 100 target (0% complete). Low or zero TSS this week is by design\u2014this is maintenance and transition time, not a training deficit.",
+  "keyInsight": "Sleep quality over the last 7 days is concerning: 60/100 avg with three nights scoring below 50, including near-zero REM on Nov 8 and only 10min deep sleep Nov 9\u2014use the Cabo week to prioritize sleep recovery before the 20-week structured build begins.",
   "alerts": [
-    "Unscheduled 2hr bike ride added Nov 10 (48 TSS) in a recovery week",
-    "Sleep score 7-day avg: 61/100 -- trending down from 79 on Nov 6 to 42-44 mid-week",
-    "REM sleep on Nov 8 logged as 0 minutes -- sensor issue or actual sleep disruption needs review"
+    "7-day avg sleep score is 60/100 with multiple nights under 50\u2014sleep debt is accumulating heading into the trip",
+    "Today's scheduled pool swim (1,200yd form work) was skipped; bike session logged instead",
+    "Recovery score from readiness engine is 81/100, flagged as the largest current limiter"
   ],
   "positives": [
-    "Run Club executed Nov 10 at HR 145 for 4.1mi in 36min -- maintained consistency",
-    "No hip/back pain notes in recent training logs",
-    "SpO2 7-day avg stable at 94.3%, no nights below 92%"
+    "Bike pacing discipline today was solid: 17.2mph avg is appropriately below the 19.0mph race target for a maintenance ride",
+    "Nov 10 brick (30mi bike + 4mi run) executed well with good HR control (115 bike, 145 run)",
+    "61 total activities logged in the build so far shows strong tracking and engagement"
   ],
   "recoveryScore": 5,
-  "trainingLoadStatus": "Fatigued",
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: recovery 80/100, 7-day sleep score 66/100",
-    "Garmin sleep Nov 8-10: scores 42, 44, 71 with REM disruption",
-    "Intervals.icu Nov 10: unscheduled bike (48 TSS) added to Run Club day",
-    "CURRENT TRAINING STATUS: Week 1 TSS 0 of 100 (0%), Cabo recovery week"
+    "Readiness engine: overall 97/100, recovery 81/100",
+    "7-day sleep data: avg 60/100, SpO2 94%, multiple nights <50 score",
+    "Week 1 TSS: 0 of 100 (intentional Cabo maintenance week)",
+    "Today's activity log: bike session completed, scheduled swim not done",
+    "Last 7 days: brick Nov 10, rest Nov 11, bike Nov 12"
   ],
   "confidence": {
     "level": "high",
-    "reason": "Complete activity log, sleep data, and readiness engine scores for the past 7 days provide clear evidence of training load and recovery status -- the unscheduled session and sleep degradation are documented facts, not estimates."
+    "reason": "Complete sleep data, readiness scores, and activity logs for the past week provide clear picture; confidence is high that the low TSS and session swap are intentional for this maintenance week, and that sleep quality is the priority issue heading into Cabo."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes) -- caution against abrupt load increases",
-    "Cabo trip Nov 13-20 -- this week is intentional taper/recovery",
-    "Week 1 of 20 build -- structured training begins Nov 23",
-    "Age 54 -- recovery capacity requires discipline around programmed rest"
+    "Week 1 Cabo trip: no planned workouts, maintenance only",
+    "Sleep score flagged by readiness engine as largest limiter",
+    "Bike pacing target 19.0mph for Oceanside course discipline",
+    "Professional bike fit completed (no position pain expected)"
   ],
   "race_implications": [
-    "Ignoring rest days now sets a pattern that will break down under peak training load in weeks 12-18",
-    "Sleep quality declining (61/100 avg) heading into a trip suggests you're not managing recovery demand -- this will compound when hard sessions resume Nov 23",
-    "The structured build cannot deliver a sub-5:45 Oceanside if you freelance volume additions when rest is programmed"
+    "Sleep debt heading into a 20-week build is a real concern\u2014chronic poor sleep will limit adaptation and increase injury risk as volume ramps",
+    "The Cabo week is your last true rest block before structured training begins Nov 23\u2014use it to bank sleep and arrive fresh",
+    "Bike pacing discipline today (well under 19mph) shows you can hold back when intended, which is critical for the flat Oceanside course strategy"
   ],
   "recommended_adjustments": [
-    "Take all remaining rest days this week (today Wed, Fri, Sat, Sun) exactly as scheduled -- no optional workouts",
-    "Use the Cabo trip to prioritize sleep: target 7.5+ hours nightly and address the REM disruption pattern visible Nov 7-8",
-    "When the build resumes Nov 23, treat scheduled rest days as non-negotiable -- adding sessions is not optional decision-making, it's a violation of the training plan"
+    "Make sleep the primary focus during Cabo: target 8+ hours nightly, address factors causing low REM/deep sleep (alcohol, late meals, room temp, etc.)",
+    "If you want pool form work this week, log one easy 1,200yd session before Nov 16; otherwise accept the bike swap and move on",
+    "Starting Nov 23, track sleep scores daily and flag any week where the 7-day avg drops below 65\u2014sleep is your recovery limiter right now and needs active management"
   ],
-  "generatedAt": "2026-11-11",
-  "daysToRace": 143,
+  "generatedAt": "2026-11-12",
+  "daysToRace": 142,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }
