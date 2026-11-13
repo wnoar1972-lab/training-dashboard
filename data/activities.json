@@ -1,27 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "title": "San Diego Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 174.0,
-    "np": 0,
-    "avgHR": 143.0,
-    "distance": 26110.9,
-    "duration": 9834.0
-  },
-  {
-    "date": "2026-09-13",
-    "title": "Morning Walk",
-    "type": "Walk",
-    "disc": "run",
-    "tss": 5.0,
-    "np": 0,
-    "avgHR": 83.0,
-    "distance": 2181.0,
-    "duration": 1309.0
-  },
-  {
     "date": "2026-09-14",
     "title": "San Diego Open Water Swimming",
     "type": "OpenWate",

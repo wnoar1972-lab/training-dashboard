@@ -1,46 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "score": 73,
-    "total": 7.1,
-    "deep": 47,
-    "rem": 37,
-    "spo2": 92.0,
-    "rhr": 51,
-    "stress": 18.0,
-    "contributors": {
-      "totalDuration": {
-        "value": null,
-        "rating": "Good"
-      },
-      "stress": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "awakeCount": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "remPercentage": {
-        "value": 9,
-        "rating": "Poor"
-      },
-      "restlessness": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "lightPercentage": {
-        "value": 80,
-        "rating": "Poor"
-      },
-      "deepPercentage": {
-        "value": 11,
-        "rating": "Fair"
-      }
-    },
-    "quality": "Fair"
-  },
-  {
     "date": "2026-09-14",
     "score": 78,
     "total": 7.8,
@@ -2376,5 +2335,87 @@
       }
     },
     "quality": "Fair"
+  },
+  {
+    "date": "2026-11-11",
+    "score": 44,
+    "total": 6.1,
+    "deep": 56,
+    "rem": 25,
+    "spo2": 95.0,
+    "rhr": 60,
+    "stress": 37.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Poor"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 7,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 78,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
+    "quality": "Poor"
+  },
+  {
+    "date": "2026-11-13",
+    "score": 58,
+    "total": 5.4,
+    "deep": 75,
+    "rem": 10,
+    "spo2": 94.0,
+    "rhr": 57,
+    "stress": 21.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "remPercentage": {
+        "value": 3,
+        "rating": "Poor"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Good"
+      },
+      "lightPercentage": {
+        "value": 74,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 23,
+        "rating": "Excellent"
+      }
+    },
+    "quality": "Poor"
   }
 ]
