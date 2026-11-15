@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "title": "Pool Swim",
-    "type": "Swim",
-    "disc": "swim",
-    "tss": 33.0,
-    "np": 0,
-    "avgHR": 108.0,
-    "distance": 3680.5,
-    "duration": 5239.0
-  },
-  {
     "date": "2026-09-16",
     "title": "Oceanside Running",
     "type": "Run",
