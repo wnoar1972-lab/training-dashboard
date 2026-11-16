@@ -1,32 +1,5 @@
 [
   {
-    "strava_id": "19780538974",
-    "date": "2026-08-17",
-    "disc": "bike",
-    "title": "ROUVY - IRONMAN 70.3 HRADEC KRALOVE 2024",
-    "headline": "Steady Zone 2 endurance builder through the IRONMAN 70.3 course, but that 54 rpm cadence is leaving watts on the table",
-    "analysis": "You kept this controlled at 115 bpm average heart rate (maxing at just 133) over 2 hours\u2014textbook aerobic base work. However, your 54 rpm average cadence is well below the efficient 85-95 range, which means you're grinding through those climbs like the 13.5-minute Naho\u0159any segment rather than spinning smoothly. Focus on higher cadence drills in your next indoor session to develop that neuromuscular efficiency before race day.",
-    "relative_effort": 55.0
-  },
-  {
-    "strava_id": "19780868039",
-    "date": "2026-08-17",
-    "disc": "run",
-    "title": "Morning Run",
-    "headline": "Short but steady effort with a strong finish at a faster-than-average pace",
-    "analysis": "You covered 1.51 miles in 15:12, working at a controlled average pace of 10:04/mi that's actually quicker than your 30-day average of 9:43/mi. Your heart rate climbed steadily from 150 bpm in mile 1 to 154 bpm in the final 0.51 miles, showing good cardiovascular engagement throughout. That cadence of 82.7 spm is on the lower side\u2014try to target 85-90 to improve efficiency and reduce ground contact time on future runs.",
-    "relative_effort": 50.0
-  },
-  {
-    "strava_id": "19787681293",
-    "date": "2026-08-17",
-    "disc": "swim",
-    "title": "Evening Swim",
-    "headline": "Solid 2,325-yard swim at a brisk 2:03/100yd pace with heart rate well controlled",
-    "analysis": "You covered 2,325 yards in 47.8 minutes, averaging 2:03 per 100 yards with heart rate holding around 107 bpm -- a controlled aerobic effort. Relative effort of 24 reflects steady, sustainable work rather than a hard push, solid technique-focused volume.",
-    "relative_effort": 24.0
-  },
-  {
     "strava_id": "19809164388",
     "date": "2026-08-19",
     "disc": "run",
@@ -826,5 +799,14 @@
     "headline": "IRONMAN 70.3 Oceanside course simulation completed with wildly variable pacing across technical virtual terrain",
     "analysis": "Your 23.17-mile ROUVY ride at 3:29/mi average pace showcased the lumpy nature of the Oceanside course, with splits swinging from a blazing 1:42/mi on mile 9 to a grinding 7:34/mi climb on mile 11. Heart rate remained remarkably controlled throughout at 118 bpm average despite these pace variations, suggesting you're pacing well for the longer effort ahead. That 63 RPM average cadence is on the lower side\u2014working on spinning closer to 80-90 RPM could help you run better off the bike on race day.",
     "relative_effort": 49.0
+  },
+  {
+    "strava_id": "21002996125",
+    "date": "2026-11-15",
+    "disc": "bike",
+    "title": "Lunch Ride",
+    "headline": "Solid endurance ride with steady zone 2 effort and notable terrain variability",
+    "analysis": "You covered 42.08 miles in just under 2 hours 36 minutes with an average heart rate of 118 bpm, staying comfortably aerobic for most of the ride despite hitting 151 bpm max. The wide pace variation\u2014from a speedy 2:41 min/mi at mile 15 to an 8:29 crawl at mile 25 and that massive 15:26 spike at mile 37\u2014tells the story of a route with significant stops, terrain changes, or wind shifts. Your heart rate response stayed impressively controlled through these pace swings, suggesting good aerobic efficiency even when the route threw challenges your way.",
+    "relative_effort": 105.0
   }
 ]
