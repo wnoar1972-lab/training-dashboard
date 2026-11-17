@@ -614,5 +614,16 @@
     "avgHR": 146.0,
     "distance": 6860.4,
     "duration": 2414.0
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Indio Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 41.0,
+    "np": 0,
+    "avgHR": 144.0,
+    "distance": 6553.1,
+    "duration": 2218.0
   }
 ]

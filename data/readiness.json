@@ -44,12 +44,12 @@
     "run": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 292 TSS in the last 28 days vs. an expected ~211 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 333 TSS in the last 28 days vs. an expected ~211 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 26.2mi (200% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer run sessions (already on the schedule) will directly raise this score.",
       "trend": "declining",
       "evidence_window_days": 28,
-      "sessions_in_window": 8,
+      "sessions_in_window": 9,
       "weeks_observed": 9,
       "confidence": "moderate"
     },

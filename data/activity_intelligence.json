@@ -817,5 +817,14 @@
     "headline": "A tale of two halves: uneven pacing but a strong finish salvages the effort",
     "analysis": "Your 4.26-mile run averaged 9:26/mi overall, slightly faster than your 30-day average of 9:44/mi, but the pacing was all over the map. After slowing from 10:15 in mile 1 to 11:15 in mile 2 (with your heart rate jumping from 139 to 153 bpm), you found your rhythm and closed with an impressive 8:51 fourth mile. That low cadence of 83.7 steps/min suggests there's room to improve efficiency\u2014most runners benefit from a cadence closer to 90.",
     "relative_effort": 109.0
+  },
+  {
+    "strava_id": "21026593838",
+    "date": "2026-11-17",
+    "disc": "run",
+    "title": "Lunch Run",
+    "headline": "A challenging 4-mile effort that steadily slowed as heart rate climbed into the fatigue zone",
+    "analysis": "This run tells a clear story of accumulated fatigue: you started at 9:53/mi with a HR of 138, but by mile 3 you'd slowed to 12:29/mi even as your heart rate held steady at 147. The final full mile saw your HR spike to 154 while pace dropped to 12:18/mi, nearly 2.5 minutes slower than your opening mile. With a relative effort of 98 and your cadence down at 84 steps/min, this was a tough grind that pushed well beyond your 30-day average pace of 9:40/mi.",
+    "relative_effort": 98.0
   }
 ]

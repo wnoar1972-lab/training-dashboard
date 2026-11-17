@@ -2,46 +2,48 @@
   "date": "November 17, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Yesterday was scheduled as a rest day during the Cabo trip week, but you logged a 4.3mi run at 40 minutes (9:18/mi pace) with 46 TSS and HR 146 avg. This was unscheduled training -- not necessarily problematic during a recovery week, but it means you chose to train when rest was planned. The pace and heart rate suggest easy effort, which is appropriate for this phase.",
-  "todayRecommendation": "Today is scheduled as rest. Take it -- you already added an unscheduled session yesterday, and sleep quality has been inconsistent (scores of 44, 58, 52 in the last 7 nights). Use this day for actual recovery before the structured build starts Nov 23.",
-  "weekProgress": "Week 1 of 20: 46 of 100 TSS target (46% complete). This is the Cabo trip week with minimal planned training -- low TSS is intentional. The structured build starts next week, so current volume is exactly where it should be for a recovery/transition week.",
-  "keyInsight": "Sleep quality is inconsistent (7-day avg 67/100, with three nights scoring 58 or below) heading into the structured build -- prioritize sleep consistency this week to start Week 2 in a better recovery state.",
+  "yesterdayAnalysis": "Yesterday was scheduled as a rest day (Cabo trip week), but you ran 4.3mi in 40 minutes at 146 HR for 46 TSS. That's roughly 9:18/mi pace, continuous running, easy effort by HR. Unscheduled but reasonable active recovery given the travel context -- not a red flag, but recognize you're adding volume to a week explicitly designed for minimal structure.",
+  "todayRecommendation": "Today was also scheduled as rest, but you've already logged a 4.1mi run in 36 minutes (144 HR, 41 TSS, approximately 8:47/mi pace). That's two consecutive days of running during a designated rest week. Take tomorrow (Wednesday) as a true rest day -- no run, no bike, nothing. You've banked 87 TSS this week already; the remaining schedule shows rest through Friday, then easy sessions Saturday/Sunday to ease back in. Respect the recovery window.",
+  "weekProgress": "Week 1 of 20: 87 of 100 TSS target (87% complete). This is the Cabo trip week with rest scheduled through Friday and two easy sessions over the weekend. You've already exceeded the low-volume intent by running yesterday and today -- both unscheduled. The structured build begins next week (Nov 23), so this week's purpose is transition and recovery, not volume accumulation.",
+  "keyInsight": "You ran two consecutive days during a designated rest week, adding 87 TSS when the week was designed for minimal load -- discipline around scheduled rest is as important as executing the hard sessions.",
   "alerts": [
-    "Sleep score averaged 67/100 over last 7 days, with 3 nights below 60",
-    "Unscheduled run yesterday (rest day) -- watch for adding volume when recovery is planned"
+    "Two back-to-back run days (Nov 16-17) during a rest week designed for recovery",
+    "7-day avg sleep score 67/100 -- recovery limiter flagged by readiness engine (79/100)",
+    "Sleep scores Nov 13 (58/100) and Nov 11 (44/100) show disrupted nights, likely travel-related"
   ],
   "positives": [
-    "Last night's sleep rebounded to 80/100 with 8.6h duration",
-    "SpO2 averaged 94% with zero nights below 92%",
-    "Bike readiness at 100/100 heading into structured training"
+    "Both runs were easy effort by HR (144-146 bpm) and reasonable pacing -- not junk miles",
+    "Sleep rebounded Nov 14-15 (85, 83 scores) and again Nov 17 (80 score, 8.6h duration)",
+    "Readiness engine shows strong discipline systems in place: bike 100/100, run 100/100, swim 94/100"
   ],
   "recoveryScore": 6,
-  "trainingLoadStatus": "Fresh",
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (bike 100/100, run 100/100, recovery 79/100)",
-    "Garmin sleep scores (7-day avg 67/100)",
-    "Week 1 TSS: 46 of 100 target",
-    "Yesterday's unscheduled run vs planned rest"
+    "Readiness engine: overall 95/100, recovery limiter 79/100, 7-day sleep avg 66/100",
+    "TODAY'S ACTIVITY LOG: 4.1mi run, 36min, 144 HR, 41 TSS (Nov 17)",
+    "YESTERDAY'S WORKOUT: 4.3mi run, 40min, 146 HR, 46 TSS (Nov 16, scheduled rest)",
+    "CURRENT TRAINING STATUS: Week 1 TSS 87 of 100 (87%), Cabo trip week Nov 16-22",
+    "LAST 7 NIGHTS SLEEP: 7-day avg 67/100, Nov 11/13 scores 44 and 58"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Sleep data is complete for 6 of last 7 nights and readiness metrics are current, but this is a recovery week with minimal planned training, so there's limited structured workout data to assess execution patterns as the build approaches."
+    "level": "high",
+    "reason": "Complete activity log for the last 7 days, structured sleep data with scores and durations, and clear readiness engine metrics; confidence is high for this recovery week assessment, though HRV and detailed nutrition logs are not yet tracked."
   },
   "athlete_context_considered": [
-    "Week 1 Cabo trip recovery week (intentionally low volume)",
-    "Hip history (Perthes disease -- watching for associations with training load)",
-    "Structured build starts Nov 23",
-    "Age 54 with TRT management"
+    "Hip history: back-to-back run days flagged as a guardrail watch item",
+    "Cabo trip Nov 13-20: unstructured week by design, before structured build Nov 23",
+    "Walk/run protocol: both runs were continuous, consistent with post-Dec 7 continuous running",
+    "Age 54, TRT: recovery capacity needs active management, especially sleep quality"
   ],
   "race_implications": [
-    "Recovery week execution is on track -- low TSS is intentional before structured build",
-    "Sleep inconsistency needs correction now to support the 20-week build starting next week",
-    "Bike and run readiness both at 100/100 -- strong starting position for Oceanside prep"
+    "Oceanside is 137 days out -- this rest week won't affect race readiness, but the pattern of adding volume to scheduled rest days can compromise adaptation if it continues into the structured build",
+    "Sleep quality (67/100 avg) is the current recovery limiter per the readiness engine -- prioritize sleep hygiene over optional training volume",
+    "Consecutive run days during a rest week create unnecessary orthopedic load with no race-prep benefit -- save the work capacity for the 19 structured weeks ahead"
   ],
   "recommended_adjustments": [
-    "Take today's scheduled rest -- you already added an unscheduled run yesterday",
-    "Prioritize sleep consistency (target 7.5-8.5h nightly) before the structured build starts Nov 23",
-    "Stick to planned sessions only for the remainder of this week -- resist the urge to add training when rest is scheduled"
+    "Take Wednesday (Nov 18) as a true rest day: no run, no bike, no swim -- break the consecutive-day pattern",
+    "Prioritize sleep Wed-Fri nights: target 8+ hours, minimize alcohol/late meals if travel permits",
+    "Stick to the Saturday/Sunday easy sessions as written (45min easy bike, 30min walk/run 9/1) -- do not add unscheduled volume to close out the week"
   ],
   "generatedAt": "2026-11-17",
   "daysToRace": 137,
