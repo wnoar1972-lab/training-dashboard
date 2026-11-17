@@ -808,5 +808,14 @@
     "headline": "Solid endurance ride with steady zone 2 effort and notable terrain variability",
     "analysis": "You covered 42.08 miles in just under 2 hours 36 minutes with an average heart rate of 118 bpm, staying comfortably aerobic for most of the ride despite hitting 151 bpm max. The wide pace variation\u2014from a speedy 2:41 min/mi at mile 15 to an 8:29 crawl at mile 25 and that massive 15:26 spike at mile 37\u2014tells the story of a route with significant stops, terrain changes, or wind shifts. Your heart rate response stayed impressively controlled through these pace swings, suggesting good aerobic efficiency even when the route threw challenges your way.",
     "relative_effort": 105.0
+  },
+  {
+    "strava_id": "21023387466",
+    "date": "2026-11-16",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "A tale of two halves: uneven pacing but a strong finish salvages the effort",
+    "analysis": "Your 4.26-mile run averaged 9:26/mi overall, slightly faster than your 30-day average of 9:44/mi, but the pacing was all over the map. After slowing from 10:15 in mile 1 to 11:15 in mile 2 (with your heart rate jumping from 139 to 153 bpm), you found your rhythm and closed with an impressive 8:51 fourth mile. That low cadence of 83.7 steps/min suggests there's room to improve efficiency\u2014most runners benefit from a cadence closer to 90.",
+    "relative_effort": 109.0
   }
 ]

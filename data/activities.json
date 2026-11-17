@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "title": "Pool Swim",
-    "type": "Swim",
-    "disc": "swim",
-    "tss": 27.0,
-    "np": 0,
-    "avgHR": 111.0,
-    "distance": 3017.5,
-    "duration": 4183.0
-  },
-  {
     "date": "2026-09-18",
     "title": "San Diego Open Water Swimming",
     "type": "OpenWate",
@@ -614,5 +603,16 @@
     "avgHR": 0,
     "distance": 0,
     "duration": 0
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Indio Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 46.0,
+    "np": 0,
+    "avgHR": 146.0,
+    "distance": 6860.4,
+    "duration": 2414.0
   }
 ]
