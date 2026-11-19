@@ -1,51 +1,46 @@
 {
-  "date": "November 18, 2026",
+  "date": "November 19, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Yesterday's 4.1mi run in 36 minutes (36 TSS, HR 144) was unscheduled -- this is Cabo trip recovery week where rest was planned. The run itself was fine in execution (steady HR, reasonable duration), but it's the second consecutive unscheduled run on a week designed for complete rest and travel recovery. The pattern of adding runs when rest is prescribed is a discipline issue that needs addressing now, before the structured 19-week build starts Nov 23.",
-  "todayRecommendation": "Today is scheduled rest -- take it. You're in Cabo on a designated recovery week before a 19-week build. The 87 TSS you've already logged (from two unscheduled runs plus the Nov 12 bike) has met 87% of a week that was supposed to be near-zero effort. Stop adding sessions. Use today and tomorrow to actually recover: sleep, hydrate, and get ready to execute the structured plan starting Saturday.",
-  "weekProgress": "Week 1 of 20: 87 of 100 TSS (87% complete). This is the Cabo trip week with intentionally minimal volume -- low TSS is expected and correct. The issue is not the total, it's that you've added two unscheduled runs when the plan called for rest every day until Saturday's easy 45-min bike. With 4 days left (Wed-Sat), the week is effectively done early, which defeats the recovery purpose.",
-  "keyInsight": "You're adding unscheduled runs during a designated recovery week -- that's a red flag for plan adherence before the real build even starts.",
+  "yesterdayAnalysis": "Rest day as scheduled. Sleep recovered well (82/100, 8.2h) after the previous night's poor score of 46/100. The two back-to-back runs on Nov 16-17 (4.3mi and 4.1mi, TSS 46 and 41) during the Cabo trip were unscheduled but reasonable easy efforts -- consistent with logging whatever you do during the trip week.",
+  "todayRecommendation": "Rest day as scheduled. Stay off your feet. Tomorrow is an easy 45-min bike (back from Cabo) -- keep it truly easy, do not push pace or intensity.",
+  "weekProgress": "Week 1 of 20. Week TSS so far: 87 of 100 target (87% complete). This is the Cabo trip and return week before the structured build starts Nov 23. Low or zero TSS is intentional, and the two runs logged already exceed what was expected. Volume is not a concern this week.",
+  "keyInsight": "Sleep volatility during the Cabo trip (scores swinging from 85 to 46 to 82) is now stabilizing -- prioritize consistent sleep as the structured build begins next week.",
   "alerts": [
-    "Two consecutive unscheduled runs (Nov 16-17) on a week that prescribed rest",
-    "Sleep score dropped to 46/100 last night (6.7h duration, only 30min REM) after running yesterday",
-    "7-day avg sleep 67/100 -- well below the recovery need for a rest week"
+    "7-day avg sleep score is 69/100, dragged down by three nights below 60/100 during the trip",
+    "Back-to-back runs Nov 16-17 during a planned rest week -- watch for any hip or fatigue carryover when structured run training resumes Nov 23"
   ],
   "positives": [
-    "Yesterday's run HR (144) and effort were controlled -- the execution was fine, the timing was wrong",
-    "You logged activity during travel, showing consistency and engagement with training data",
-    "Return-from-Cabo schedule (easy bike Sat, easy walk/run Sun) is appropriately conservative"
+    "Sleep rebounded to 82/100 last night after a rough 46/100 the night before",
+    "Logged two consistent easy runs during the Cabo trip despite no scheduled workouts",
+    "Week TSS already at 87% with 3 days remaining, entirely from optional activity"
   ],
-  "recoveryScore": 4,
-  "trainingLoadStatus": "Fatigued",
+  "recoveryScore": 7,
+  "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine recovery 79/100",
-    "Garmin sleep 7-day avg 67/100, last night 46/100",
-    "LAST 7 DAYS training log (unscheduled runs Nov 16-17)",
-    "CURRENT TRAINING STATUS Week 1 schedule vs actual",
-    "Week TSS 87 of 100 (87%)"
+    "Readiness engine (overall 94/100, recovery 80/100)",
+    "Garmin sleep scores (7-day avg 69/100, last night 82/100)",
+    "Week TSS 87 of 100 target (87%)",
+    "Last 7 days training log (2 runs, 1 other activity during Cabo trip)"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Full week of sleep data, complete activity log with HR/TSS for each session, and clear comparison between scheduled rest days and actual unscheduled runs -- the pattern is unambiguous and the concern is documented."
+    "level": "moderate",
+    "reason": "Sleep data is complete for 7 nights and shows clear volatility during travel; training log is accurate but week 1 is intentionally unstructured, so limited evidence for structured-build readiness yet."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes) -- back-to-back unscheduled runs are exactly the abrupt load increases to avoid",
-    "Build hasn't started yet (Nov 23) -- this is the designated recovery week",
-    "Coaching philosophy: direct feedback on plan adherence"
+    "Week 1 Cabo trip (Nov 13-20) with no planned workouts",
+    "Hip history (Perthes disease) -- flagged back-to-back runs as a watch item",
+    "Structured build begins Nov 23 (week 2)",
+    "135 days to IM 70.3 Oceanside"
   ],
   "race_implications": [
-    "Plan adherence now predicts plan adherence in peak weeks -- adding runs when rest is prescribed will sabotage taper and recovery weeks later",
-    "Poor sleep (46/100 last night, 67/100 avg) during a recovery week means you're not banking the adaptation you'll need for 19 weeks of structured load",
-    "If you can't hold back during a designated rest week, holding back on flat bike rides at 19mph (vs. hammering 20+) will be harder"
+    "Sleep consistency will be critical once structured training resumes -- address travel-related sleep disruption before week 2",
+    "Fresh legs and low training load provide a solid platform to start the 20-week build on Nov 23",
+    "Two unscheduled runs demonstrate consistency discipline, but watch hip response to back-to-back days when run frequency increases"
   ],
-  "recommended_adjustments": [
-    "Take today and tomorrow as prescribed rest -- no runs, no swims, no 'easy' additions",
-    "Saturday's 45-min easy bike is the first scheduled session back -- execute it easy (Z2 or lower, conversational effort, no concern for speed)",
-    "Sunday's 30-min easy walk/run should be 9:1 walk/run as written, truly easy pace -- this is not a tempo or fitness test"
-  ],
-  "generatedAt": "2026-11-18",
-  "daysToRace": 136,
+  "recommended_adjustments": [],
+  "generatedAt": "2026-11-19",
+  "daysToRace": 135,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }

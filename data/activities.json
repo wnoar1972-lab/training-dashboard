@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "title": "Cycling",
-    "type": "Ride",
-    "disc": "bike",
-    "tss": 197.0,
-    "np": 0,
-    "avgHR": 124.0,
-    "distance": 155515.4,
-    "duration": 20257.0
-  },
-  {
     "date": "2026-09-20",
     "title": "Oceanside Running",
     "type": "Run",
