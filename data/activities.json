@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "title": "Oceanside Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 202.0,
-    "np": 0,
-    "avgHR": 141.0,
-    "distance": 29062.7,
-    "duration": 12150.0
-  },
-  {
     "date": "2026-09-21",
     "title": "Oceanside Running",
     "type": "Run",
