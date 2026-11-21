@@ -1,44 +1,52 @@
 {
-  "date": "November 20, 2026",
+  "date": "November 21, 2026",
   "overallStatus": "Recovery Mode",
   "statusColor": "blue",
-  "yesterdayAnalysis": "Rest day as scheduled during the Cabo trip week. No activities logged. This is appropriate for a planned recovery week before the structured 20-week build begins Nov 23.",
-  "todayRecommendation": "Rest day as scheduled. Continue prioritizing recovery and sleep as you return from Cabo. Tomorrow's easy 45-minute bike is the first session back -- keep it truly easy.",
-  "weekProgress": "Week 1 of 20: 87 of 100 TSS target (87% complete). This is intentional -- Cabo trip week with no structured plan. The two runs logged (Nov 16-17, 41 and 46 TSS) were unscheduled but appropriate easy efforts. Tomorrow's easy bike and Sunday's walk/run will close the week.",
-  "keyInsight": "Sleep quality rebounded well the last two nights (78 and 82 scores) after the Nov 18 dip to 46, putting you in position to restart structured training Monday.",
-  "alerts": [],
-  "positives": [
-    "Sleep scores recovered to 78 and 82 the last two nights after travel disruption",
-    "Two unscheduled easy runs during Cabo (4.1mi and 4.3mi) maintained continuity without overreaching",
-    "Overall readiness engine shows 94/100 (Strong) heading into the structured build"
+  "yesterdayAnalysis": "Rest day as scheduled during the return from Cabo. No workout logged, which is correct for this transition week. The athlete is on track for returning to structured training Sunday.",
+  "todayRecommendation": "Easy bike 45 minutes is on the schedule today. Keep this genuinely easy\u2014this is a reactivation ride after travel, not a fitness session. Heart rate should stay conversational, power/effort should feel comfortable, and there is zero benefit to pushing the pace. Tomorrow's easy walk/run 30min (9/1 protocol) closes out the week before the structured build begins Nov 23.",
+  "weekProgress": "Week 1 of 20: 87 of 100 TSS target (87% complete). This is intentionally the Cabo trip and return week with minimal structure. The two runs logged Nov 16-17 (41 and 46 TSS) account for most of the weekly load. One day remains (Sunday easy walk/run) to complete the week\u2014on track for the planned low-stress transition.",
+  "keyInsight": "Sleep quality degraded significantly during travel (Nov 18 score 46, Nov 16 score 52), and while it has improved since return (Nov 19-20 scores 82 and 78), last night dropped back to 65\u2014watch this closely as structured training resumes next week.",
+  "alerts": [
+    "7-day avg sleep score 69/100 is well below the recovery limiter threshold (80/100) flagged by readiness",
+    "Last night (Nov 21) sleep score 65 with only 18min deep sleep\u2014significantly lower than recent better nights",
+    "REM sleep last night 177min is high, but deep sleep at 18min is very low compared to Nov 15 (95min) and Nov 20 (54min)"
   ],
-  "recoveryScore": 7,
+  "positives": [
+    "Two solid easy runs logged during Cabo trip (Nov 16-17, 4.3mi and 4.1mi) show discipline to stay active during travel",
+    "SpO2 7-day avg 94.4% with zero nights below 92%\u2014respiratory metrics remain stable",
+    "RHR holding steady 51-55 bpm range across the week despite travel disruption"
+  ],
+  "recoveryScore": 6,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine overall 94/100",
-    "Garmin sleep scores (7-day avg 72/100, recent two nights 78 and 82)",
-    "Week 1 TSS 87 of 100 target (87%)",
-    "LAST 7 DAYS training log (two easy runs Nov 16-17)",
-    "Current week schedule (Cabo trip, rest days)"
+    "Readiness engine output (recovery 80/100, 7-day sleep score 66/100)",
+    "Garmin sleep data last 7 nights (scores, deep/REM breakdown, SpO2)",
+    "Week TSS 87 of 100 target from CURRENT TRAINING STATUS",
+    "LAST 7 DAYS OF TRAINING showing Nov 16-17 runs during Cabo",
+    "Current week schedule showing transition/reactivation intent"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Complete sleep data, readiness engine output, and clear training log through the Cabo week; this is a planned low-volume transition week so low TSS is expected and not a gap in evidence."
+    "level": "moderate",
+    "reason": "One week of post-travel data is visible, sleep metrics are detailed and consistent with readiness engine concerns, but travel disruption makes it hard to establish a stable baseline\u2014true recovery picture will clarify once structured training resumes Nov 23."
   },
   "athlete_context_considered": [
-    "Week 1 Cabo trip context (intentional low volume)",
-    "Structured build starts Nov 23 (Week 2)",
-    "54-year-old athlete managing Perthes hip (caution on abrupt load increases)",
-    "Walk/run protocol (continuous running from Dec 7 build forward)"
+    "Week 1 Cabo trip context (low volume intentional)",
+    "54 years old (recovery sensitivity)",
+    "Hip history (progressive load guardrails apply starting next week)",
+    "Oceanside race 133 days out"
   ],
   "race_implications": [
-    "Fresh status and strong readiness (94/100) position you well to begin the 20-week Oceanside build Monday",
-    "Sleep recovery after travel disruption is critical -- continue prioritizing 8+ hours to support the upcoming training load",
-    "Easy sessions tomorrow and Sunday are the final tune-up before structured work resumes"
+    "Fresh training load and two weeks of low structure create a clean platform to begin the 19-week structured build",
+    "Sleep deficit accumulated during travel needs to resolve quickly\u2014sustained poor sleep will directly limit adaptation once volume ramps",
+    "Transition week discipline (easy runs logged, rest honored) demonstrates readiness to execute the plan"
   ],
-  "recommended_adjustments": [],
-  "generatedAt": "2026-11-20",
-  "daysToRace": 134,
+  "recommended_adjustments": [
+    "Prioritize sleep quality this weekend\u2014aim for conditions that support deeper sleep (cool room, consistent bedtime, limit alcohol/late meals)",
+    "Keep today's 45min bike genuinely easy: conversational effort, no tempo creep, treat it as a movement/reactivation session only",
+    "Monitor sleep scores closely next week (structured build starts Nov 23)\u2014if scores remain below 70, flag for potential session adjustment"
+  ],
+  "generatedAt": "2026-11-21",
+  "daysToRace": 133,
   "currentWeek": 1,
   "weekPhase": "Maintenance"
 }
