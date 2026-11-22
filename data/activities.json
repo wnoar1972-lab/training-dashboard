@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "title": "Carlsbad Running",
-    "type": "Run",
-    "disc": "run",
-    "tss": 63.0,
-    "np": 0,
-    "avgHR": 141.0,
-    "distance": 10574.6,
-    "duration": 3803.0
-  },
-  {
     "date": "2026-09-23",
     "title": "Oceanside Running",
     "type": "Run",
@@ -570,5 +559,16 @@
     "avgHR": 144.0,
     "distance": 6553.1,
     "duration": 2218.0
+  },
+  {
+    "date": "2026-11-21",
+    "title": "ROUVY - Wye Valley | Babble Ride Across ",
+    "type": "VirtualR",
+    "disc": "bike",
+    "tss": 35.0,
+    "np": 0,
+    "avgHR": 110.0,
+    "distance": 31000.1,
+    "duration": 4601.0
   }
 ]

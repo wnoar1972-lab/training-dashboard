@@ -1,14 +1,5 @@
 [
   {
-    "strava_id": "19870048798",
-    "date": "2026-08-23",
-    "disc": "run",
-    "title": "9 min run / 1 min walk",
-    "headline": "Massive two-hour suffer fest with 406 effort points and a heart rate battle into the 180s",
-    "analysis": "That opening 29:43 mile told the story early\u2014this was about controlled pacing through structured run/walk intervals, keeping your average heart rate at 156 across 12 miles. The real work happened in the back half: miles 10-12 saw your HR climb dramatically from 166 to 180 bpm, showing serious fatigue management as you pushed through. At 10:06/mile average, you crushed your 30-day baseline of 9:47 pace while racking up over 6.5 hours worth of relative effort in just two hours.",
-    "relative_effort": 406.0
-  },
-  {
     "strava_id": "19894943729",
     "date": "2026-08-25",
     "disc": "bike",
@@ -799,5 +790,14 @@
     "headline": "A challenging 4-mile effort that steadily slowed as heart rate climbed into the fatigue zone",
     "analysis": "This run tells a clear story of accumulated fatigue: you started at 9:53/mi with a HR of 138, but by mile 3 you'd slowed to 12:29/mi even as your heart rate held steady at 147. The final full mile saw your HR spike to 154 while pace dropped to 12:18/mi, nearly 2.5 minutes slower than your opening mile. With a relative effort of 98 and your cadence down at 84 steps/min, this was a tough grind that pushed well beyond your 30-day average pace of 9:40/mi.",
     "relative_effort": 98.0
+  },
+  {
+    "strava_id": "21078303478",
+    "date": "2026-11-21",
+    "disc": "bike",
+    "title": "ROUVY - Wye Valley | Babble Ride Across Britain",
+    "headline": "Virtual Wye Valley ride showcases wildly variable terrain with pace swings from 1:40 to 8:03 per mile",
+    "analysis": "This 19.26-mile ROUVY session through Wye Valley featured dramatic elevation changes reflected in your mile splits\u2014flying at 1:40/mi on mile 4's descent but grinding at 8:03/mi through mile 17's climb. Your heart rate told the climbing story too, peaking at 151 bpm while averaging 110 bpm across the ride, with the final three miles (17-19) pushing you into the 128-133 bpm range. At 68 RPM average cadence, you were muscling through resistance rather than spinning, fitting the hilly virtual route profile.",
+    "relative_effort": 32.0
   }
 ]
