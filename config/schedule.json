@@ -2166,6 +2166,11 @@
             "disc": "swim",
             "label": "Pool swim 2,400yd",
             "note": "main set 4 x 200 steady, 20 s rest"
+          },
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min",
+            "note": "moved from Thu (Thanksgiving) · intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
           }
         ]
       },
@@ -2175,17 +2180,7 @@
           {
             "disc": "run",
             "label": "Oceanside Turkey Trot 5K",
-            "note": "race · Thanksgiving morning (Thu Nov 26) · run controlled, not all-out · bike and brick below: shorten or move to Fri if legs are flat"
-          },
-          {
-            "disc": "bike",
-            "label": "Outdoor ride 75 min + brick",
-            "note": "intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · hill work moved to Sat · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
-          },
-          {
-            "disc": "brick",
-            "label": "Brick run 25 min",
-            "note": "continuous · 4 x 2 min at 8:45/mi, 2 min easy between"
+            "note": "race · Thanksgiving morning (Thu Nov 26) · run controlled, not all-out · no other training this day"
           }
         ]
       },
