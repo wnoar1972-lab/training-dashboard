@@ -3595,6 +3595,689 @@
           }
         ]
       }
+    },
+    "2027-04-05": {
+      "1": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "recovery after Oceanside · off feet"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 30 min",
+            "note": "recovery · easy, conversational, no intensity"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Easy swim 1,500yd",
+            "note": "recovery · easy, technique focus"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy spin 45 min",
+            "note": "recovery · zone 1–2 · HR under 130 · on the trainer for watts (Ruvy) only if easy"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Easy ride 60 min",
+            "note": "recovery · outdoors if possible · easy spin"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Easy run 30 min",
+            "note": "recovery · easy, continuous · Hawaii build starts tomorrow"
+          }
+        ]
+      }
+    },
+    "2027-04-12": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "main set 8 x 100 strong, 20 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 6 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "main set 4 x 200 steady, 20 s rest"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "intensity: 3 x 10 min at 85–90% FTP (~190–200 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 25 min",
+            "note": "continuous · 4 x 2 min at 8:45/mi, 2 min easy between"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 90 min",
+            "note": "nutrition practice · outdoor · include 2 x 4 min climbs at controlled effort, easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 8mi",
+            "note": "continuous, easy · chews every 20 min, practice race fueling"
+          }
+        ]
+      }
+    },
+    "2027-04-19": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "main set 10 x 100 threshold, 15 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 6 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "main set 5 x 200 steady, 15 s rest"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "intensity: 3 x 12 min at 88–93% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 30 min",
+            "note": "continuous · last 15 min at 8:40/mi, rest easy"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 100 min",
+            "note": "nutrition practice · outdoor · include 2 x 6 min at race effort, easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 10mi",
+            "note": "continuous · last 2 mi at 8:45/mi · chews every 20 min, practice race fueling"
+          }
+        ]
+      }
+    },
+    "2027-04-26": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "main set 6 x 300 race effort, 20 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 6 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "main set 3 x 500 steady + 4 x 50 fast"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 80 min + brick",
+            "note": "intensity: 2 x 20 min sweet spot 88–93% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 35 min",
+            "note": "continuous · 4 x 3 min at 8:35/mi, 2 min easy between"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 2h 30min",
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at controlled effort · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "continuous · last 3 mi at 8:35/mi · chews every 20 min, practice race fueling"
+          }
+        ]
+      }
+    },
+    "2027-05-03": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "main set 8 x 100 steady, 15 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 4 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "main set 4 x 200 steady, 20 s rest"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 75 min + brick",
+            "note": "intensity: 3 x 8 min at 85–90% FTP, 5 min easy between · step-back week · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 25 min",
+            "note": "continuous · 2 x 5 min at 8:45/mi, rest easy"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 2h",
+            "note": "nutrition practice · outdoor · easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 9mi",
+            "note": "continuous, easy · chews every 20 min"
+          }
+        ]
+      }
+    },
+    "2027-05-10": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "main set 5 x 300 race effort, 15 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 6 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "main set 3 x 500 steady + 4 x 50 fast"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 80 min + brick",
+            "note": "intensity: 3 x 15 min at 88–93% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 40 min",
+            "note": "continuous · last 20 min at 8:35/mi, rest easy"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 2h 45min",
+            "note": "nutrition practice · outdoor · include 3 x 4 min climbs at race effort, easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 13mi",
+            "note": "continuous · last 3 mi at 8:35/mi · chews every 20 min, practice race fueling"
+          }
+        ]
+      }
+    },
+    "2027-05-17": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,800yd",
+            "note": "main set 4 x 400 race effort, 20 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 6 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,600yd",
+            "note": "main set 4 x 200 steady, 15 s rest"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 80 min + brick",
+            "note": "intensity: 2 x 25 min at 85–90% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 35 min",
+            "note": "continuous · last 15 min at 8:35/mi, rest easy"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 2h 30min",
+            "note": "nutrition practice · outdoor · include 2 x 6 min at race effort, easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 12mi",
+            "note": "continuous · last 2 mi at 8:35/mi · chews every 20 min, practice race fueling"
+          }
+        ]
+      }
+    },
+    "2027-05-24": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 2,000yd",
+            "note": "main set 6 x 100 race pace, 20 s rest"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "continuous, conversational · 4 x 20 s strides at end · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,800yd",
+            "note": "main set 4 x 100 race pace, 20 s rest"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor ride 60 min + brick",
+            "note": "intensity: 2 x 10 min at 95–100% FTP, 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          },
+          {
+            "disc": "brick",
+            "label": "Brick run 20 min",
+            "note": "continuous · 3 x 2 min at 8:35/mi, 2 min easy between"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Rest",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "bike",
+            "label": "Outdoor long ride 90 min",
+            "note": "taper · outdoor · easy spin down · heat: hydrate 600–750 ml/hr with electrolytes, ride outdoors midday when possible"
+          }
+        ]
+      },
+      "0": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Long run 8mi",
+            "note": "continuous, easy · 4 x 20 s strides at end"
+          }
+        ]
+      }
+    },
+    "2027-05-31": {
+      "1": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,500yd",
+            "note": "easy · race-pace 4 x 50 at end"
+          }
+        ]
+      },
+      "2": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "run",
+            "label": "Run Club",
+            "note": "easy 20 min · 4 x 20 s strides · fixed Tuesday evening slot"
+          }
+        ]
+      },
+      "3": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "swim",
+            "label": "Pool swim 1,000yd",
+            "note": "easy · 4 x 50 race pace"
+          }
+        ]
+      },
+      "4": {
+        "rest": false,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "RACE DAY — IRONMAN 70.3 Hawaii 🏁",
+            "note": "race day Thu Jun 3 · race plan to be built · confirm race date and weekday"
+          }
+        ]
+      },
+      "5": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Recovery",
+            "note": "off feet"
+          }
+        ]
+      },
+      "6": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Recovery",
+            "note": "off feet · celebrate"
+          }
+        ]
+      },
+      "0": {
+        "rest": true,
+        "planned": [
+          {
+            "disc": "rest",
+            "label": "Recovery",
+            "note": "easy walk, hydrate"
+          }
+        ]
+      }
     }
   }
 }

@@ -135,7 +135,7 @@ If you want to force an update anytime:
 - Run target: **8:33/mi continuous** (1:52 run), no walk breaks
 - Overall goal: **Sub-5:45**
 
-**Next race — IRONMAN 70.3 Hawaii** · June 3, 2027 · training block not built yet
+**Next race — IRONMAN 70.3 Hawaii** · June 3, 2027 · training block built (Apr 5 to Jun 3); race plan to follow
 
 **Completed — IM California 140.6** · Sacramento, CA · October 18, 2026 · Result: **12:54:45**
 
