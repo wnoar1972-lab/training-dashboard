@@ -2417,6 +2417,11 @@
             "disc": "swim",
             "label": "Open water swim 1,500yd",
             "note": "wetsuit · first ocean swim of the build · easy, sight every 10 strokes · swim with a buddy and buoy · stop if numb"
+          },
+          {
+            "disc": "swim",
+            "label": "T1 drill: 3 reps",
+            "note": "exit the water, wetsuit off, run to the bike, mount · target T1 under 5:00 (2026 was 6:35) · do after the main set"
           }
         ]
       },
@@ -3110,6 +3115,11 @@
             "disc": "swim",
             "label": "Open water swim 2,000yd",
             "note": "race-distance swim · wetsuit · sight every 10 strokes, hold race effort through the middle · swim with a buddy and buoy"
+          },
+          {
+            "disc": "swim",
+            "label": "T1 drill: 3 reps",
+            "note": "exit the water, wetsuit off, run to the bike, mount · target T1 under 5:00 (2026 was 6:35) · do after the main set"
           }
         ]
       },
@@ -3567,6 +3577,11 @@
             "disc": "swim",
             "label": "Practice swim 500yd + athlete check-in",
             "note": "course preview, bib pickup, transition walk-through"
+          },
+          {
+            "disc": "swim",
+            "label": "T1 drill: 3 reps",
+            "note": "exit the water, wetsuit off, run to the bike, mount · target T1 under 5:00 (2026 was 6:35) · do after the main set"
           }
         ]
       },
