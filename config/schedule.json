@@ -2163,14 +2163,9 @@
         "rest": false,
         "planned": [
           {
-            "disc": "swim",
-            "label": "Pool swim 2,400yd",
-            "note": "main set 4 x 200 steady, 20 s rest"
-          },
-          {
             "disc": "bike",
-            "label": "Outdoor ride 75 min",
-            "note": "moved from Thu (Thanksgiving) · intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between · on the trainer for watts (Ruvy); outdoors, use HR and RPE"
+            "label": "Indoor ride on ROUVY 60 min",
+            "note": "shortened for Thanksgiving week · indoor on ROUVY, watts from the trainer · intensity: 3 x 8 min at 85–90% FTP (~190–200 W), 5 min easy between"
           }
         ]
       },
@@ -2185,12 +2180,12 @@
         ]
       },
       "5": {
-        "rest": true,
+        "rest": false,
         "planned": [
           {
-            "disc": "rest",
-            "label": "Rest",
-            "note": "off feet"
+            "disc": "swim",
+            "label": "Pool swim 2,400yd",
+            "note": "moved from Wed · main set 4 x 200 steady, 20 s rest"
           }
         ]
       },
