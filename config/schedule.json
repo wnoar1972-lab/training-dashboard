@@ -7,7 +7,7 @@
         {
           "disc": "run",
           "label": "Long run",
-          "note": "walk/run 9/1 · progressive build"
+          "note": "continuous · progressive build"
         }
       ]
     },
@@ -22,7 +22,7 @@
         {
           "disc": "run",
           "label": "Easy run 3–4mi",
-          "note": "walk/run 9/1"
+          "note": "continuous, conversational"
         }
       ]
     },
@@ -32,7 +32,7 @@
         {
           "disc": "run",
           "label": "Run Club",
-          "note": "walk/run protocol · fixed Tuesday evening slot"
+          "note": "continuous, conversational · fixed Tuesday evening slot"
         }
       ]
     },
@@ -57,7 +57,7 @@
         {
           "disc": "brick",
           "label": "Brick run 25–45 min",
-          "note": "walk/run 9/1 · 11:00/mi"
+          "note": "continuous · easy pace"
         }
       ]
     },
@@ -2132,8 +2132,8 @@
         "planned": [
           {
             "disc": "run",
-            "label": "Easy walk/run 30 min",
-            "note": "walk/run 9/1, easy"
+            "label": "Easy run 30 min",
+            "note": "easy, continuous"
           }
         ]
       }
@@ -2172,6 +2172,11 @@
       "4": {
         "rest": false,
         "planned": [
+          {
+            "disc": "run",
+            "label": "Oceanside Turkey Trot 5K",
+            "note": "race · Thanksgiving morning (Thu Nov 26) · run controlled, not all-out · bike and brick below: shorten or move to Fri if legs are flat"
+          },
           {
             "disc": "bike",
             "label": "Outdoor ride 75 min + brick",
@@ -3134,7 +3139,7 @@
           {
             "disc": "run",
             "label": "Long run 13mi",
-            "note": "continuous · all 13 mi at 8:45/mi (race simulation) · fallback: if you fade past 9:15/mi, take 1-min walks every 9 min and log it · chews every 20 min, practice race fueling"
+            "note": "continuous · all 13 mi at 8:45/mi (race simulation) · fallback: if you fade past 9:15/mi, hold form and fuel; a 10–20 s walk at an aid station is fine, not planned · chews every 20 min, practice race fueling"
           }
         ]
       }
