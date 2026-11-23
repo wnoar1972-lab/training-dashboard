@@ -1779,7 +1779,9 @@ function buildDashboard(){
   ['sc-phase'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = getWeekPhase(curWeekNum); });
   ['sc-phaseSub'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = 'Week '+curWeekNum+' · '+weekDateRangeLabel(curWeekNum); });
   ['t-np'].forEach(id=>{ var el=document.getElementById(id); if(el) el.textContent = (summaryData&&summaryData.overall&&summaryData.overall.avgBikeNP>0) ? summaryData.overall.avgBikeNP+'w' : 'N/A'; });
-  var actualTSSToDate = Math.round((overall.totalSwimTSS||0) + (overall.totalBikeTSS||0) + (overall.totalRunTSS||0));
+  // Count only activities inside the build window, so actual and expected cover the same period.
+  var bsDay = buildStart.getFullYear()+'-'+String(buildStart.getMonth()+1).padStart(2,'0')+'-'+String(buildStart.getDate()).padStart(2,'0');
+  var actualTSSToDate = Math.round(activitiesData.filter(function(a){ return a.date>=bsDay; }).reduce(function(s,a){ return s+(a.tss||0); },0));
   // Full weeks completed count in full; the CURRENT week is only partially
   // elapsed, so counting its full target as already "expected" on day 1
   // of a 7-day week overstates what should be done by now (e.g. expecting
