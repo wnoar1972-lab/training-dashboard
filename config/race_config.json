@@ -161,5 +161,12 @@
       }
     ],
     "headwind_note": "Last 5-10 miles (about miles 46-56) are flat to slightly downhill and exposed to brutal headwinds. Grade will not slow you there; wind will. Set effort by watts (FTP 221 reference) for that stretch, not by speed. Expect speed to drop and do not chase it into the wind."
-  }
+  },
+  "upcoming_races": [
+    {
+      "name": "IRONMAN 70.3 Hawaii",
+      "date": "2027-06-03",
+      "status": "next race after Oceanside; training block not built yet"
+    }
+  ]
 }
