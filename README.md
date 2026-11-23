@@ -1,4 +1,4 @@
-# 🏊 IM California — Auto Dashboard
+# 🏊 Oceanside 70.3 — Auto Dashboard
 
 Your training dashboard — auto-updated daily from Garmin Connect via GitHub Actions.
 
@@ -130,9 +130,11 @@ If you want to force an update anytime:
 
 ## 🏁 Race Info
 
-**Active build — IM California 140.6** · Sacramento, CA · October 18, 2026
-- Bike NP target: **TBD** (pending professional bike fit)
-- Run pace target: **10:50–11:30/mi**, walk/run 9:1
-- Overall goal: **Sub-13:00**
+**Active race — IRONMAN 70.3 Oceanside** · Oceanside, CA · April 3, 2027
+- Bike target: **19.0 mph** (~2:57), controlled by speed and HR (no road power meter)
+- Run target: **8:33/mi continuous** (1:52 run), no walk breaks
+- Overall goal: **Sub-5:45**
+
+**Completed — IM California 140.6** · Sacramento, CA · October 18, 2026 · Result: **12:54:45**
 
 **Completed — IM 70.3 Oregon** · Salem, OR · July 20, 2026 · Result: **5:39:04** (18:24 PR)
