@@ -15,7 +15,7 @@
   },
   "target_splits": {
     "swim": "0:45 (ocean)",
-    "transitions": "11:00 combined (2026 Oceanside T1+T2 was 11:11)",
+    "transitions": "11:00 combined (2026 Oceanside T1 6:35 + T2 4:48 = 11:23, from Strava start times that reconcile to the 5:57:28 finish)",
     "bike": "2:57 (~19.0 mph, matches 2025 Oceanside bike 2:56:54) -- 2026 bike was 3:01:26",
     "run": "1:52 (8:33/mi continuous, no walks) -- 2026 run was 1:59:35 at 9:09/mi continuous"
   },
