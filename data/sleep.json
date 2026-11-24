@@ -1,46 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "score": 55,
-    "total": 6.7,
-    "deep": 58,
-    "rem": 28,
-    "spo2": 94.0,
-    "rhr": 55,
-    "stress": 20.0,
-    "contributors": {
-      "totalDuration": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "stress": {
-        "value": null,
-        "rating": "Fair"
-      },
-      "awakeCount": {
-        "value": null,
-        "rating": "Poor"
-      },
-      "remPercentage": {
-        "value": 7,
-        "rating": "Poor"
-      },
-      "restlessness": {
-        "value": null,
-        "rating": "Poor"
-      },
-      "lightPercentage": {
-        "value": 79,
-        "rating": "Fair"
-      },
-      "deepPercentage": {
-        "value": 14,
-        "rating": "Fair"
-      }
-    },
-    "quality": "Poor"
-  },
-  {
     "date": "2026-09-25",
     "score": 94,
     "total": 9.0,
