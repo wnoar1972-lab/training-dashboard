@@ -2,8 +2,17 @@ name: Update Dashboard Daily
 
 on:
   schedule:
-    - cron: '0 15 * * *'
+    # Three syncs a day, staggered so one missed slot does not leave the dashboard stale all day.
+    # UTC times; Pacific is 6:00, 12:00 and 18:00 during standard time (PST, UTC-8).
+    # In daylight time (PDT, from March) they run an hour later locally.
+    - cron: '0 14 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
+  # Pushing a change to this file runs a sync. Used because manual dispatch needs repo admin rights.
+  push:
+    paths:
+      - '.github/workflows/update.yml'
 
 jobs:
   update-dashboard:
