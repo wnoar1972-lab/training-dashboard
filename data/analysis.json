@@ -2,41 +2,39 @@
   "date": "November 24, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Monday's pool swim hit the 2,400yd target exactly with the prescribed 8x100 strong-effort main set. HR at 112 and TSS of 20 show controlled effort appropriate for the first full training week. The session executed as written and contributes cleanly to the week's progression.",
-  "todayRecommendation": "Today's 35-minute easy run is scheduled with 6x20s strides at the end. Keep it conversational pace throughout the main portion, finish with the strides to activate turnover. This is a straightforward execution day before tomorrow's ROUVY FTP interval session.",
-  "weekProgress": "Week 2 of 20 sits at 20 of 340 TSS (6% complete) with 5 days remaining. This is normal early-week positioning -- the long ride Saturday (105min) and long run Sunday (7mi) will deliver the bulk of weekly load. No sessions have been skipped; the schedule is tracking as designed.",
-  "keyInsight": "Sleep score has recovered to 79 after two nights in the 46-65 range, but the 7-day average of 66/100 is still the limiting factor flagged by readiness -- prioritize sleep hygiene through this Thanksgiving week.",
-  "alerts": [
-    "7-day avg sleep score 66/100 -- readiness engine flags recovery at 78/100, the week's largest limiter",
-    "Thursday Turkey Trot 5K is a controlled effort, not all-out race -- stay disciplined to protect weekend volume"
-  ],
+  "yesterdayAnalysis": "Monday's pool swim hit the 2,400yd target with the 8x100 strong-effort set executed as scheduled. Heart rate 112 avg is appropriate for a swim session with interval structure. TSS 20 matches the expected load for this distance and intensity pattern.",
+  "todayRecommendation": "Today's 35-minute easy run is scheduled and not yet logged. Keep it conversational pace throughout the main portion, then finish with the 6x20s strides as prescribed. This is a pure aerobic maintenance session in a Thanksgiving-shortened week -- no need to push the pace.",
+  "weekProgress": "Week 2 of 20 shows 20 of 340 TSS (6% complete) with 5 days remaining including today. This is exactly on schedule -- the week is intentionally front-loaded light with Monday's swim, and the bulk of TSS comes from Saturday's 105min ride, Sunday's 7mi run, and Thursday's Turkey Trot 5K race. No sessions have been skipped.",
+  "keyInsight": "Sleep quality rebounded sharply to 83/100 last night after two poor nights (46, 65), with strong REM recovery (95min) -- this sets you up well for today's easy run and the Turkey Trot race Thursday.",
+  "alerts": [],
   "positives": [
-    "Monday's swim executed exactly as written -- 2,400yd with prescribed main set",
-    "Friday's run on Nov 22 was 4.0mi in 34min at HR 145, slightly ahead of the 30min easy target and showing good pace control",
-    "Sleep rebounded to 79/100 last night after two poor nights -- trend is improving"
+    "Swim execution Monday was precise: 2,400yd target met, 8x100 strong-effort set completed as scheduled",
+    "Sleep score jumped to 83/100 last night with 8.9h duration and 95min REM after two rough nights",
+    "Week 2 pacing is disciplined: easy sessions staying easy, with the race effort saved for Thursday's Turkey Trot"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 8,
   "trainingLoadStatus": "Fresh",
   "evidence": [
-    "Readiness engine: overall 96/100, recovery 78/100 (7-day sleep avg 65/100)",
-    "Week 2 TSS: 20 of 340 (6%), 5 days remaining",
-    "Last 7 nights sleep scores: avg 66/100, last night 79/100",
-    "Yesterday's swim: 2,400yd, TSS 20, HR 112"
+    "Readiness engine overall 96/100 (Strong)",
+    "Garmin sleep 7-day avg 68/100, last night 83/100",
+    "Week TSS 20 of 340 target from CURRENT TRAINING STATUS",
+    "YESTERDAY'S WORKOUT: 2,400yd swim, TSS 20, HR 112",
+    "TODAY'S ACTIVITY LOG SO FAR: empty (session not yet done)"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Strong activity and sleep data for the past 7 days, and readiness metrics are current, but this is only the second week of the build -- longer-term load response and hip symptom tracking under progressive volume are not yet established."
+    "level": "high",
+    "reason": "Complete data for yesterday's swim, full sleep history, clear week schedule with no missing sessions, and readiness engine showing strong scores across all disciplines (swim 98/100, bike 100/100, run 100/100)."
   },
   "athlete_context_considered": [
-    "Week 2 of 20-week Oceanside 70.3 build (Apr 3, 2027)",
-    "Hip history (Perthes, right) -- watching for symptom associations with run load progression",
-    "Walk/run protocol: continuous running from Dec 7 build forward (not yet reached)",
-    "Bike fit completed after IM Oregon to address position-related pain"
+    "Week 2 of 20 build, early base phase",
+    "Thanksgiving-shortened week (Wednesday ride reduced to 60min, Thursday is Turkey Trot race)",
+    "Hip history: easy run days monitored for progressive load",
+    "Walk/run protocol: continuous running from Dec 7 build start"
   ],
   "race_implications": [
-    "Early-build sleep deficits (7-day avg 66/100) need correction now -- cumulative fatigue later in the build will compound if sleep doesn't improve",
-    "Swim execution is clean and on target -- this is the kind of consistency that will deliver the 0:45 ocean swim target",
-    "Turkey Trot controlled effort on Thursday is a good race-simulation opportunity, but overpacing it will blow up the weekend's key volume"
+    "Early-build consistency is holding: swim volume on target, run staying easy as prescribed, setting the foundation for the 130-day Oceanside build",
+    "Sleep rebound to 83/100 supports race readiness for Thursday's Turkey Trot controlled effort",
+    "Bike TSS tracking 63% above 28-day expected (readiness engine: 284 vs ~174) indicates strong aerobic base heading into tomorrow's ROUVY intervals"
   ],
   "recommended_adjustments": [],
   "generatedAt": "2026-11-24",
