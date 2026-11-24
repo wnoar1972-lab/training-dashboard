@@ -1,52 +1,52 @@
 {
-  "date": "November 22, 2026",
-  "overallStatus": "Recovery Mode",
-  "statusColor": "blue",
-  "yesterdayAnalysis": "Yesterday's easy 76-minute Rouvy ride delivered exactly what was scheduled after returning from Cabo -- 35 TSS at 110 avg HR and 15.1mph is appropriately easy, well under race pace (19.0mph target), and shows good pacing discipline. The duration exceeded the scheduled 45 minutes slightly, but intensity stayed controlled and recovery-focused.",
-  "todayRecommendation": "Today's planned 30-minute easy walk/run (9/1 protocol) closes out the Cabo week. Keep it genuinely easy -- this is about routine and movement, not training stimulus. The structured 20-week build begins tomorrow (Nov 23), so use today to prepare mentally and logistically for the shift back to full training blocks.",
-  "weekProgress": "Week 1 of 20 sits at 122 of 100 target TSS (122% complete). This is the Cabo trip week with minimal scheduled load -- the two runs logged in Indio (Nov 16-17) plus yesterday's easy bike covered the week's intent to log whatever you did while traveling. Volume is appropriately low by design.",
-  "keyInsight": "Sleep quality is the primary limiter heading into the structured build -- 7-day average of 64/100 with three nights scoring below 52 will undercut adaptation once training load ramps up starting this week.",
+  "date": "November 23, 2026",
+  "overallStatus": "On Track",
+  "statusColor": "green",
+  "yesterdayAnalysis": "Yesterday's 4.0mi run in 34min (8:30/mi pace) was 4 minutes longer than the scheduled 30min easy run, executed at appropriate easy HR (145 avg). Pace is right at your Oceanside 70.3 run target of 8:33/mi, which is good control for what was prescribed as an easy session. Volume compliance is clean coming off the Cabo week.",
+  "todayRecommendation": "Today's 2,400yd pool swim is complete -- 45min duration with 112 avg HR matches the prescribed session (8 x 100 strong effort, 20s rest). Recovery focus now: you've got an easy run tomorrow (35min + strides), then Wednesday's ROUVY interval session (3 x 8min at 85-90% FTP). Sleep quality last night was your best of the week at 79/100; protect that trend heading into the holiday week.",
+  "weekProgress": "Week 2 of 20: 20 of 340 TSS complete (6%). This is normal for Monday evening in a week that back-loads TSS to the Turkey Trot (Thu), long ride (Sat 105min), and long run (Sun 7mi). No sessions skipped; pacing is on schedule.",
+  "keyInsight": "Sleep score averaged 68/100 over 7 days with two nights scoring 46/100 (Nov 18, Nov 22) -- REM was extremely low both nights (30-31min vs. 100+ on good nights), which is your primary recovery limiter heading into a build.",
   "alerts": [
-    "Sleep score averaged 64/100 over 7 days -- three nights (Nov 16, 18, 22) scored 52 or below, compromising recovery capacity",
-    "Last night (Nov 22) scored 46/100 with only 31 min REM and 7.3h duration -- address sleep environment and routine before tomorrow's build start",
-    "No swim activity logged in the last 7 days -- first scheduled swim of the build will require deliberate execution after the layoff"
+    "Sleep: Two nights in the last week scored 46/100 with REM under 32min -- recovery quality is inconsistent despite adequate duration (7+ hours)",
+    "Recovery readiness score is 78/100 (lowest discipline) driven entirely by the 7-day sleep average of 64/100 cited in the engine"
   ],
   "positives": [
-    "Bike pacing discipline was excellent yesterday -- 15.1mph on an easy ride stayed well below the 19.0mph race target, showing restraint",
-    "Week 1 TSS (122) exceeded the minimal 100 target despite being a travel/recovery week, demonstrating consistency even off-structure",
-    "Resting heart rate remains stable at 51-55 bpm across the week, indicating baseline cardiovascular fitness is holding"
+    "Swim completed today exactly as prescribed: 2,400yd in 45min at controlled HR (112 avg), main set executed",
+    "Yesterday's run pace (8:30/mi) is race-target pace (8:33/mi) on an easy day -- pacing control is disciplined",
+    "Bike readiness is 100/100 with 284 TSS in last 28 days vs. expected ~161 -- aerobic base is strong entering Week 2"
   ],
-  "recoveryScore": 5,
-  "trainingLoadStatus": "Fresh",
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine overall 93/100, recovery limiter 78/100",
-    "7-day sleep avg 64/100 from Garmin",
-    "Week 1 TSS 122 of 100 (122%) from intervals.icu",
-    "Yesterday's bike: 35 TSS, 110 HR, 15.1mph avg, 76min duration",
-    "Last 7 days: 3 activities (2 runs Nov 16-17, 1 bike Nov 21)"
+    "Readiness engine: overall 96/100, bike 100/100, run 100/100, recovery 78/100",
+    "Garmin sleep scores (7-day avg 68/100, two nights at 46/100)",
+    "TODAY'S ACTIVITY LOG: Pool Swim 2,400yd, 45min, TSS 20, HR 112",
+    "YESTERDAY'S WORKOUT: 4.0mi run in 34min, HR 145, TSS 39 vs scheduled 30min easy",
+    "Week TSS: 20 of 340 (6%) per CURRENT TRAINING STATUS"
   ],
   "confidence": {
     "level": "moderate",
-    "reason": "One week of post-travel data is visible, but HRV is not tracked and nutrition/hydration logs are absent, limiting insight into deeper recovery state as the structured build begins tomorrow."
+    "reason": "Sleep data is complete and consistent with Garmin device tracking; training load data is current through today's completed swim; confidence is limited by lack of HRV tracking and no nutrition/hydration logs to cross-check recovery quality beyond sleep architecture."
   },
   "athlete_context_considered": [
-    "Week 1 Cabo trip context -- low volume by design, not a deficit",
-    "Structured build starts Nov 23 (tomorrow), so today is the final recovery day",
-    "Walk/run protocol (9/1) applies to today's easy run per build plan",
-    "Sleep quality directly impacts recovery capacity (age 54, 132 days to Oceanside)"
+    "Hip history (Perthes, right hip) -- watching back-to-back run days (yesterday/tomorrow both runs)",
+    "Active race target: Oceanside 70.3 on 2027-04-03, 131 days out, sub-5:45 goal",
+    "Walk/run protocol: continuous running from Dec 7 build, no scheduled walks",
+    "Bike pacing discipline: 19.0mph target for flat course -- holding back is correct strategy",
+    "Post-vacation re-entry: Cabo trip Nov 16-22, Week 2 is first full structured week"
   ],
   "race_implications": [
-    "Sleep deficit heading into the build will limit adaptation to increased load -- the first 2-3 weeks are critical for establishing routine and recovery patterns",
-    "Swim gap of 7+ days means the first pool session will require conservative pacing to re-establish feel and avoid shoulder strain",
-    "Fresh training load status and controlled easy-week execution set a clean baseline for the 20-week progression to Oceanside sub-5:45"
+    "Sleep inconsistency (two 46/100 nights in 7 days) will limit adaptation if it continues through the 20-week build -- address now before volume climbs",
+    "Run pacing at 8:30/mi on easy days shows you can hold race pace (8:33/mi target) comfortably -- the speed is there, durability is the remaining question",
+    "Bike base (284 TSS last 28 days) is well ahead of schedule, giving margin to absorb the Turkey Trot race effort Thursday without compromising Saturday's long ride"
   ],
   "recommended_adjustments": [
-    "Prioritize sleep duration (8+ hours) and sleep hygiene starting tonight -- address room temp, light, and pre-bed routine to lift scores above 70 consistently",
-    "Execute today's 30min walk/run at genuine easy effort (9/1 protocol) -- this is not a fitness session, it's a routine anchor before the build begins",
-    "Review the Week 2 schedule tonight and prep logistics (pool access, gear, nutrition) so Monday's first structured session executes cleanly"
+    "Prioritize consistent sleep hygiene through Thanksgiving week: the two 46-score nights both showed REM under 32min, suggesting sleep disruption or late-night stress -- target 8+ hours with minimal alcohol/late meals",
+    "Track hip/back symptoms explicitly on back-to-back run days (yesterday, today's swim, tomorrow's run) -- no pain flagged yet, but this is exactly the load pattern your profile warns about",
+    "Turkey Trot Thursday: run controlled, not all-out per the schedule -- treat it as a tempo/race-pace effort (8:00-8:15/mi range), not a PR attempt, to protect Saturday's 105min ride and Sunday's 7mi long run"
   ],
-  "generatedAt": "2026-11-22",
-  "daysToRace": 132,
-  "currentWeek": 1,
-  "weekPhase": "Maintenance"
+  "generatedAt": "2026-11-23",
+  "daysToRace": 131,
+  "currentWeek": 2,
+  "weekPhase": "Base"
 }

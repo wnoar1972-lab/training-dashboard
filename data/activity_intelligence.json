@@ -799,5 +799,23 @@
     "headline": "Virtual Wye Valley ride showcases wildly variable terrain with pace swings from 1:40 to 8:03 per mile",
     "analysis": "This 19.26-mile ROUVY session through Wye Valley featured dramatic elevation changes reflected in your mile splits\u2014flying at 1:40/mi on mile 4's descent but grinding at 8:03/mi through mile 17's climb. Your heart rate told the climbing story too, peaking at 151 bpm while averaging 110 bpm across the ride, with the final three miles (17-19) pushing you into the 128-133 bpm range. At 68 RPM average cadence, you were muscling through resistance rather than spinning, fitting the hilly virtual route profile.",
     "relative_effort": 32.0
+  },
+  {
+    "strava_id": "21089889828",
+    "date": "2026-11-22",
+    "disc": "run",
+    "title": "Afternoon Run",
+    "headline": "A tale of two halves: solid early pace crumbled in mile 4",
+    "analysis": "You kicked off with a steady first two miles around 9:16-9:38 pace, then crushed mile 3 at 8:28\u2014your fastest split and 52 seconds quicker than your 30-day average of 9:20. But mile 4 tells a different story at 14:43 pace with your highest heart rate of 152 bpm, suggesting something disrupted the effort. That 94 suffer score and average HR of 147 show you put in real work despite the fourth mile struggle.",
+    "relative_effort": 94.0
+  },
+  {
+    "strava_id": "21095706273",
+    "date": "2026-11-23",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 2400-yard session holding steady effort in the water",
+    "analysis": "You knocked out 2400 yards in 45.8 minutes at a controlled average heart rate of 109.6 bpm, keeping things comfortably aerobic with a max of just 128. Your stroke rate of 23 strokes per minute suggests good rhythm throughout. With a suffer score of 37, this was a productive endurance builder that should complement your harder sessions nicely.",
+    "relative_effort": 37.0
   }
 ]
