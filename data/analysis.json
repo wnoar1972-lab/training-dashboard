@@ -1,43 +1,50 @@
 {
-  "date": "November 24, 2026",
+  "date": "November 25, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Monday's pool swim hit the 2,400yd target exactly with the prescribed 8x100 strong-effort main set. HR 112 avg is appropriate for a swim session with structured intervals. TSS 20 is light, consistent with early-week loading and a shortened Thanksgiving week -- this is a swim workout, not a bike session, so the lower TSS is expected and not a concern.",
-  "todayRecommendation": "Today's 35min easy run with 6x20s strides is the scheduled session -- execute it conversational pace, keep it truly easy given Thursday's Turkey Trot 5K race. The strides are neuromuscular prep for race turnover; keep them controlled, not aggressive.",
-  "weekProgress": "Week 2 of 20: TSS is 20 of 340 target (6% complete) with 5 days remaining. This is normal early-week loading -- the week is back-loaded toward Saturday's 105min ride and Sunday's 7mi run. Not behind; Thursday's race, Saturday's long ride, and Sunday's long run will carry the volume.",
-  "keyInsight": "Sleep score rebounded to 83 last night (8.9h, strong REM/deep split) after two poor nights (46 and 65) -- that recovery timing is good heading into Thursday's race effort.",
-  "alerts": [],
-  "positives": [
-    "Monday's swim executed exactly as prescribed: 2,400yd with 8x100 intervals completed",
-    "Sleep score 83 last night with 8.9h duration and 95min REM -- best night of the week",
-    "Week 2 schedule is appropriately conservative for Thanksgiving week (shortened Wed ride, race Thu, volume deferred to weekend)"
+  "yesterdayAnalysis": "Tuesday's 35-minute easy run executed exactly as scheduled at 3.5 miles with appropriate HR at 145. The continuous conversational pace matches the protocol, and the TSS of 39 is appropriate for an easy aerobic session. This marks solid consistency early in Week 2 after the Cabo return.",
+  "todayRecommendation": "Complete today's 60-minute ROUVY ride with 3 x 8-minute intervals at 85-90% FTP (190-200W). This is a shortened session for Thanksgiving week, so focus on hitting the interval power targets cleanly rather than extending duration. Tomorrow is the Turkey Trot 5K \u2014 this is the last workout before that race effort.",
+  "weekProgress": "Week 2 of 20 shows 59 of 340 TSS (17% complete) with 4 days remaining including today. This is normal for a week with back-loaded volume \u2014 the long ride Saturday (105 min) and long run Sunday (7 mi) will add the bulk of remaining TSS. The Turkey Trot Thursday replaces a standard training day, keeping total load appropriate for Thanksgiving week.",
+  "keyInsight": "Sleep quality is the current limiter \u2014 7-day average of 72/100 with two nights (Nov 22 at 46, Nov 21 at 65) significantly below target is dragging recovery capacity during a build week.",
+  "alerts": [
+    "Sleep score 7-day avg is 72/100 \u2014 recovery score of 78/100 reflects this directly",
+    "Nov 22 sleep scored 46/100 with only 31 min REM \u2014 watch for cumulative fatigue impact"
   ],
-  "recoveryScore": 7,
-  "trainingLoadStatus": "Fresh",
+  "positives": [
+    "Training execution is 100% on schedule \u2014 all sessions completed as prescribed with appropriate intensity",
+    "Tuesday's easy run held disciplined conversational pace at HR 145, demonstrating good aerobic control",
+    "Readiness engine shows bike at 100/100 and run at 100/100 \u2014 fitness is tracking well early in the build"
+  ],
+  "recoveryScore": 6,
+  "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine: overall 96/100, recovery 78/100",
-    "Garmin sleep: 7-day avg 68/100, last night 83/100",
-    "Intervals.icu: week TSS 20 of 340 (6%), 5 days remaining",
-    "Monday swim actual vs scheduled: 2,400yd target met exactly"
+    "Readiness engine overall 95/100 (bike 100/100, run 100/100, recovery 78/100)",
+    "Garmin sleep 7-day avg 72/100 with two poor nights",
+    "Week 2 actual vs scheduled sessions from intervals.icu",
+    "Yesterday's run TSS 39, HR 145, 3.5mi in 35min"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Complete data for yesterday's swim, today's planned session, weekly schedule, and 7 nights of sleep with granular metrics (SpO2, RHR, deep/REM). No HRV data yet, but sleep and HR trends are clear."
+    "level": "moderate",
+    "reason": "Three days of complete training data in Week 2 with matching readiness engine metrics provide solid current-state visibility, but sleep disruption pattern (two poor nights in 7) needs another week to assess whether this is travel recovery or a developing trend."
   },
   "athlete_context_considered": [
-    "Hip history: easy run protocol appropriate for early build week",
-    "Walk/run protocol: continuous running from Dec 7 build, no walks scheduled",
-    "Active race: Oceanside 70.3 Apr 3 (130 days), Thursday Turkey Trot 5K as controlled effort",
-    "Thanksgiving week: shortened schedule by design, volume deferred to weekend"
+    "Week 2 of 20-week Oceanside build",
+    "Thanksgiving week schedule with Turkey Trot 5K Thursday",
+    "Continuous run protocol (no walk breaks)",
+    "Hip history \u2014 monitoring back-to-back run load"
   ],
   "race_implications": [
-    "Early-build easy running and strides are appropriate neuromuscular prep for the 1:52 (8:33/mi) continuous run target at Oceanside",
-    "Thursday's 5K at controlled effort (not all-out) is a smart pacing checkpoint without race-week taper interference",
-    "Sleep rebound to 83 last night improves readiness for Thursday's race and weekend volume"
+    "Early-build consistency is excellent \u2014 execution discipline at this stage builds the foundation for race-week reliability",
+    "Sleep quality needs attention now \u2014 chronic under-recovery in base phase will compound by peak weeks and directly threaten the sub-5:45 goal",
+    "Turkey Trot 5K provides early-build race sharpness without disrupting aerobic base development"
   ],
-  "recommended_adjustments": [],
-  "generatedAt": "2026-11-24",
-  "daysToRace": 130,
+  "recommended_adjustments": [
+    "Prioritize 8+ hours sleep with focus on REM quality \u2014 consider earlier bedtime or sleep hygiene changes to address the two poor nights",
+    "Turkey Trot Thursday: run controlled at target 8:00-8:15/mi pace per schedule notes, not all-out \u2014 this is tempo effort practice, not a fitness test",
+    "No adjustments to training volume \u2014 TSS trajectory is appropriate for Week 2 with long weekend sessions still to come"
+  ],
+  "generatedAt": "2026-11-25",
+  "daysToRace": 129,
   "currentWeek": 2,
   "weekPhase": "Base"
 }

@@ -1,14 +1,5 @@
 [
   {
-    "strava_id": "19916852334",
-    "date": "2026-08-26",
-    "disc": "swim",
-    "title": "Evening Swim",
-    "headline": "Steady 1,800-yard swim at 2:02/100yd with controlled aerobic effort",
-    "analysis": "You held 2:02 per 100 yards across 1,800 yards in 36.7 minutes, with heart rate averaging 113 bpm -- comfortably aerobic. Relative effort of 29 shows sustainable, quality volume work.",
-    "relative_effort": 29.0
-  },
-  {
     "strava_id": "19930594979",
     "date": "2026-08-27",
     "disc": "bike",
@@ -799,5 +790,14 @@
     "headline": "Solid 2400-yard session holding steady effort in the water",
     "analysis": "You knocked out 2400 yards in 45.8 minutes at a controlled average heart rate of 109.6 bpm, keeping things comfortably aerobic with a max of just 128. Your stroke rate of 23 strokes per minute suggests good rhythm throughout. With a suffer score of 37, this was a productive endurance builder that should complement your harder sessions nicely.",
     "relative_effort": 37.0
+  },
+  {
+    "strava_id": "21115562547",
+    "date": "2026-11-24",
+    "disc": "run",
+    "title": "Evening Run",
+    "headline": "A steady 3.51-mile effort with consistent splits after a slower opening mile",
+    "analysis": "You started conservatively at 11:09 for mile 1, then settled into a solid rhythm with miles 2 and 3 at 10:02 and 10:07 respectively\u2014both faster than your 30-day average of 9:30/mi. Your heart rate climbed progressively from 142 bpm in mile 1 to 150 bpm over the final 0.51 miles, showing good control throughout the 35.9-minute effort. The run cadence of 82 steps per minute suggests room to increase turnover, which could help you sustain those quicker middle-mile paces more efficiently.",
+    "relative_effort": 89.0
   }
 ]
