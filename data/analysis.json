@@ -1,49 +1,52 @@
 {
-  "date": "November 25, 2026",
+  "date": "November 26, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Tuesday's 35min easy run delivered exactly what was scheduled (continuous, conversational). TSS 39 and HR 145 show controlled effort. The 3.5mi distance at ~10:00/mi pace is well within easy range for an athlete targeting 8:33/mi race pace\u2014proper discipline on a recovery run.",
-  "todayRecommendation": "Today's ROUVY session is complete: 1h09m vs. 60min scheduled, TSS 42. The workout was 9 minutes longer than planned, but HR 126 suggests the intensity was extremely light\u2014well below the prescribed 3x8min at 85-90% FTP intervals. This was an easy spin, not the interval session scheduled. The Turkey Trot 5K is tomorrow morning\u2014treat it as controlled, not all-out, per plan.",
-  "weekProgress": "Week 2 of 20: 101 of 340 TSS complete (30%). Four days remain including today, with the Turkey Trot 5K Thursday, pool swim Friday, long ride Saturday (105min), and long run Sunday (7mi). The week is back-loaded as designed\u2014progress is on track.",
-  "keyInsight": "Today's ride missed the prescribed interval structure entirely\u2014HR 126 for 69 minutes is pure easy spinning, not 3x8min at 85-90% FTP (~190-200W).",
+  "yesterdayAnalysis": "ROUVY ride completed at 1h09m with 42 TSS -- scheduled for 60min with 3x8min at 85-90% FTP (190-200W). Duration met target, TSS is reasonable for the interval prescription, and HR 126 is appropriate for mixed Z2/tempo work. Avg speed 16.5mph is indoor trainer data and not directly comparable to road pacing targets -- watts are the control metric indoors, speed is irrelevant on ROUVY. Session executed as planned.",
+  "todayRecommendation": "Turkey Trot 5K is today -- run controlled effort, not all-out, as scheduled. This is a race event but the instruction is explicit: controlled, not maxed. Use it as a tempo-effort benchmark but do not blow up chasing a PR. No other training today per the plan -- recovery and family time after the race are part of the schedule.",
+  "weekProgress": "Week 2 of 20: 101 of 340 TSS complete (30%). Three days remain including today (Thu 5K race, Fri swim 2400yd moved from Wed, Sat long ride 105min, Sun long run 7mi). The week is intentionally back-loaded -- the long ride (Sat) and long run (Sun) will contribute the bulk of remaining TSS. Currently on track, but the long weekend sessions must happen to hit 340.",
+  "keyInsight": "The 5K race today is explicitly scheduled as controlled effort, not all-out -- treat it as a tempo benchmark within the training week, not a standalone peak event.",
   "alerts": [
-    "Wednesday ride (today): interval workout not executed\u2014HR 126 avg indicates easy spin only, no 85-90% FTP blocks completed",
-    "Sleep score 7-day avg 73/100 (Nov 22 was 46/100)\u2014readiness engine flags recovery at 78/100, the largest current limiter"
+    "Sleep score 7-day avg is 71/100 (readiness engine shows recovery at 79/100) -- below ideal for a build week with a long ride and long run still ahead this weekend",
+    "Nov 22 sleep score was 46/100 with only 31min REM -- single bad night but watch for recurrence during heavier weekend load"
   ],
   "positives": [
-    "Tuesday easy run executed with proper pacing discipline\u2014conversational effort at 10:00/mi, well under race pace",
-    "Week is on track at 30% complete with four days remaining\u2014long sessions ahead make the target reachable",
-    "Monday pool swim delivered the full 2,400yd with main set completed"
+    "Every scheduled session completed this week so far: pool swim 2400yd, easy run 35min, indoor ride 60min all executed on time",
+    "Bike readiness at 100/100 with 326 TSS over 28 days vs ~199 expected -- strong aerobic base heading into Thanksgiving weekend",
+    "Run continuity holding: 3.5mi run Nov 24 at conversational effort with strides as prescribed, no hip/pain flags noted"
   ],
-  "recoveryScore": 7,
+  "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (recovery 78/100, bike 100/100, run 100/100)",
-    "Garmin sleep scores (7-day avg 73/100, Nov 22 outlier at 46/100)",
-    "Today's completed ROUVY ride (TSS 42, HR 126, 1h09m duration)",
-    "Yesterday's run metrics (TSS 39, HR 145, 35min duration)"
+    "Readiness engine: overall 95/100, bike 100/100, run 100/100, recovery 79/100",
+    "Week 2 TSS tracking: 101 of 340 (30%)",
+    "Garmin sleep: 7-day avg 71/100, Nov 22 score 46/100",
+    "LAST 7 DAYS OF TRAINING: all scheduled sessions completed Nov 23-25",
+    "Bike avg speed from indoor trainer (16.5mph on ROUVY) -- not road pacing data"
   ],
   "confidence": {
-    "level": "high",
-    "reason": "Complete activity logs with HR, TSS, and duration data for all recent sessions; sleep tracking consistent; scheduled vs. actual comparison is clear for each day\u2014only power data is trainer-only (not race-day metric), which does not limit confidence in assessing execution."
+    "level": "moderate",
+    "reason": "Five days of structured training data post-Cabo return, readiness engine metrics available, sleep tracking consistent -- confidence limited by single-week sample in new build and no power meter data for outdoor rides (Sat long ride will be effort/HR-based only)."
   },
   "athlete_context_considered": [
-    "Turkey Trot 5K Thursday is scheduled as controlled effort, not all-out",
-    "Build is week 2 of 20\u2014early base phase where consistency and structure matter more than peak output",
-    "No bike power meter on race bike\u2014watts are trainer-only for indoor sessions"
+    "54yo male, Perthes hip (stable, no current pain flags)",
+    "IRONMAN 70.3 Oceanside 2027-04-03 (128 days out)",
+    "Walk/run protocol: continuous running, no scheduled walks",
+    "Bike pacing discipline: 19.0mph target on flat Oceanside course -- hold back in training",
+    "Current week: Thanksgiving week (shortened Wed ride, Thu 5K race, normal long weekend)"
   ],
   "race_implications": [
-    "Missing interval structure on a prescribed workout early in a 20-week build is a small miss, but consistency in executing planned intensity is what builds race fitness\u2014don't let these slip become a pattern",
-    "Sleep quality (7-day avg 73/100) is the largest readiness limiter\u2014Oceanside is 129 days out, and cumulative recovery debt will show up in performance if not addressed",
-    "Turkey Trot 5K tomorrow is a chance to practice controlled pacing discipline\u2014running it all-out contradicts the plan and risks carrying fatigue into the long weekend sessions"
+    "5K controlled effort provides a tempo pace benchmark 128 days from Oceanside -- expect ~8:00-8:15/mi range (slower than race 8:33/mi target), useful calibration without race-day fatigue simulation",
+    "Long ride (Sat 105min) and long run (Sun 7mi with fueling practice) are the critical sessions this week for building toward 2:57 bike / 1:52 run targets",
+    "Sleep deficit (71/100 avg) heading into weekend volume is a small red flag -- prioritize 8+ hours Thu and Fri nights to absorb Sat/Sun load cleanly"
   ],
   "recommended_adjustments": [
-    "Before next interval session: confirm the ROUVY workout is properly loaded and intervals are visible on-screen\u2014today's ride suggests the structured workout may not have been active",
-    "Prioritize sleep this week\u20147-day avg 73/100 is dragging recovery score to 78/100, and Friday/Saturday/Sunday all carry significant load",
-    "Turkey Trot 5K Thursday: run controlled at ~8:00-8:15/mi per the schedule label, not all-out race effort\u2014you have a 105min ride and 7mi run still ahead this week"
+    "Prioritize 8+ hours sleep Thursday and Friday nights -- sleep score 71/100 is marginal heading into the long ride/run weekend",
+    "Turkey Trot 5K: execute controlled per plan, target feel should be steady/strong but conversational by the end, not gasping -- this is not a race-effort day despite the 'race' label",
+    "Confirm Sat long ride nutrition plan before the ride: 105min is long enough to practice race fueling protocol (chews every 20min), and the schedule explicitly calls for nutrition practice"
   ],
-  "generatedAt": "2026-11-25",
-  "daysToRace": 129,
+  "generatedAt": "2026-11-26",
+  "daysToRace": 128,
   "currentWeek": 2,
   "weekPhase": "Base"
 }
