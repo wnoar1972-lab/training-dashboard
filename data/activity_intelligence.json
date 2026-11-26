@@ -799,5 +799,14 @@
     "headline": "Wye Valley's undulating terrain pushed you through a wide pace range from 1:38 to 7:29 per mile while keeping heart rate remarkably steady",
     "analysis": "Your mile splits tell the story of this virtual ride's varied topography, with the fastest segment at 1:38/mi (mile 4) on descents and the slowest at 7:29/mi (mile 17) grinding up climbs. Despite that 5:51/mi pace swing, your heart rate stayed controlled between 107 and 135 bpm, showing solid pacing discipline. That low 55.7 RPM average cadence suggests you were muscling through significant elevation changes rather than spinning freely\u2014consider targeting 75-85 RPM even on climbs to protect those legs for run sessions.",
     "relative_effort": 70.0
+  },
+  {
+    "strava_id": "21135256421",
+    "date": "2026-11-26",
+    "disc": "run",
+    "title": "Morning Run",
+    "headline": "A progressive tempo run that dropped over 3:50 per mile from start to finish",
+    "analysis": "You ran negative splits with serious intent, accelerating from 10:05/mi in mile 1 down to 6:10/mi by mile 3\u2014that's nearly 4 minutes per mile faster and well under your 30-day average of 9:20/mi. Your heart rate climbed from 134 bpm to 150 bpm as you pushed the pace, topping out at 157 bpm. That final mile at 6:10 pace shows you've got another gear when you need it.",
+    "relative_effort": 55.0
   }
 ]

@@ -548,5 +548,16 @@
     "avgHR": 126.0,
     "distance": 31000.2,
     "duration": 4194.0
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Oceanside Running",
+    "type": "Run",
+    "disc": "run",
+    "tss": 24.0,
+    "np": 0,
+    "avgHR": 143.0,
+    "distance": 4579.9,
+    "duration": 1308.0
   }
 ]

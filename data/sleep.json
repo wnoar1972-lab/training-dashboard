@@ -2376,5 +2376,46 @@
       }
     },
     "quality": "Fair"
+  },
+  {
+    "date": "2026-11-26",
+    "score": 73,
+    "total": 6.3,
+    "deep": 57,
+    "rem": 47,
+    "spo2": 92.0,
+    "rhr": 47,
+    "stress": 22.0,
+    "contributors": {
+      "totalDuration": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "stress": {
+        "value": null,
+        "rating": "Fair"
+      },
+      "awakeCount": {
+        "value": null,
+        "rating": "Good"
+      },
+      "remPercentage": {
+        "value": 13,
+        "rating": "Fair"
+      },
+      "restlessness": {
+        "value": null,
+        "rating": "Excellent"
+      },
+      "lightPercentage": {
+        "value": 72,
+        "rating": "Fair"
+      },
+      "deepPercentage": {
+        "value": 15,
+        "rating": "Fair"
+      }
+    },
+    "quality": "Fair"
   }
 ]
