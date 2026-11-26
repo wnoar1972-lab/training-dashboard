@@ -2,46 +2,45 @@
   "date": "November 25, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Tuesday's easy 35-minute run was executed cleanly at 3.5 miles (10:00/mi pace), matching the scheduled duration with conversational heart rate at 145 bpm. The pace is appropriately slower than the race target of 8:33/mi, which is correct for an easy day early in the build. Strides were either done or skipped -- the data doesn't confirm, but the core session was solid.",
-  "todayRecommendation": "Today's 60-minute indoor ride is already complete at 1h09m with 42 TSS. The session ran 9 minutes long, which is fine for a shortened Thanksgiving week session, but the average heart rate of 126 bpm suggests the 3x8min intervals at 85-90% FTP may not have been executed as prescribed -- that intensity should drive HR meaningfully higher. If the intervals were skipped in favor of an easy spin, that's acceptable given the holiday week context, but name it: this was an easy ride, not the planned threshold work. Focus tomorrow on a controlled Turkey Trot 5K effort -- not all-out.",
-  "weekProgress": "Week 2 of 20 is tracking at 101 of 340 TSS (30% complete) with 4 days remaining, including today. This is normal for a week with the long ride (Saturday, 105min) and long run (Sunday, 7mi) still ahead, plus the Turkey Trot 5K on Thursday and a 2,400yd swim Friday. The percentage will climb sharply with the weekend sessions.",
-  "keyInsight": "Sleep quality remains inconsistent -- 7-day average is 73/100 with Friday's 46 score dragging the week down, and the readiness engine flags recovery at 78/100 despite strong swim/bike/run metrics.",
+  "yesterdayAnalysis": "Tuesday's 35min easy run delivered exactly what was scheduled (continuous, conversational). TSS 39 and HR 145 show controlled effort. The 3.5mi distance at ~10:00/mi pace is well within easy range for an athlete targeting 8:33/mi race pace\u2014proper discipline on a recovery run.",
+  "todayRecommendation": "Today's ROUVY session is complete: 1h09m vs. 60min scheduled, TSS 42. The workout was 9 minutes longer than planned, but HR 126 suggests the intensity was extremely light\u2014well below the prescribed 3x8min at 85-90% FTP intervals. This was an easy spin, not the interval session scheduled. The Turkey Trot 5K is tomorrow morning\u2014treat it as controlled, not all-out, per plan.",
+  "weekProgress": "Week 2 of 20: 101 of 340 TSS complete (30%). Four days remain including today, with the Turkey Trot 5K Thursday, pool swim Friday, long ride Saturday (105min), and long run Sunday (7mi). The week is back-loaded as designed\u2014progress is on track.",
+  "keyInsight": "Today's ride missed the prescribed interval structure entirely\u2014HR 126 for 69 minutes is pure easy spinning, not 3x8min at 85-90% FTP (~190-200W).",
   "alerts": [
-    "Today's ride HR (126 avg) is too low for the prescribed 3x8min at 85-90% FTP -- if intervals were skipped, that's fine for Thanksgiving week, but confirm whether threshold work was actually done",
-    "7-day sleep average is 73/100, pulled down by Friday's 46 score (only 31min REM despite 7.3h duration) -- prioritize sleep consistency this week"
+    "Wednesday ride (today): interval workout not executed\u2014HR 126 avg indicates easy spin only, no 85-90% FTP blocks completed",
+    "Sleep score 7-day avg 73/100 (Nov 22 was 46/100)\u2014readiness engine flags recovery at 78/100, the largest current limiter"
   ],
   "positives": [
-    "Monday's 2,400yd swim and Tuesday's easy run both executed to plan with appropriate heart rates and pacing",
-    "Week is on pace for TSS target with the long ride and run still scheduled -- no sessions skipped",
-    "RHR remains stable at 51-55 bpm across the week, indicating good baseline cardiovascular fitness"
+    "Tuesday easy run executed with proper pacing discipline\u2014conversational effort at 10:00/mi, well under race pace",
+    "Week is on track at 30% complete with four days remaining\u2014long sessions ahead make the target reachable",
+    "Monday pool swim delivered the full 2,400yd with main set completed"
   ],
-  "recoveryScore": 6,
+  "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine overall 95/100 (recovery 78/100, bike 100/100, run 100/100, swim 94/100)",
-    "Garmin sleep scores (7-day avg 73/100, Friday 46/100)",
-    "Today's completed ROUVY ride (42 TSS, 1h09m, HR 126)",
-    "Yesterday's run (39 TSS, 35min, HR 145)",
-    "Week TSS 101 of 340 (30%)"
+    "Readiness engine (recovery 78/100, bike 100/100, run 100/100)",
+    "Garmin sleep scores (7-day avg 73/100, Nov 22 outlier at 46/100)",
+    "Today's completed ROUVY ride (TSS 42, HR 126, 1h09m duration)",
+    "Yesterday's run metrics (TSS 39, HR 145, 35min duration)"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Sleep data is complete and shows the recovery limiter clearly, but today's bike session lacks wattage confirmation of whether the prescribed intervals were actually executed -- HR alone suggests they were not, but without power file review that's an inference, not certainty."
+    "level": "high",
+    "reason": "Complete activity logs with HR, TSS, and duration data for all recent sessions; sleep tracking consistent; scheduled vs. actual comparison is clear for each day\u2014only power data is trainer-only (not race-day metric), which does not limit confidence in assessing execution."
   },
   "athlete_context_considered": [
-    "Week 2 of 20 base build after Cabo vacation",
-    "Shortened Thanksgiving week schedule",
-    "Turkey Trot 5K Thursday as a controlled race effort",
-    "No power meter on race bike; watts from trainer only"
+    "Turkey Trot 5K Thursday is scheduled as controlled effort, not all-out",
+    "Build is week 2 of 20\u2014early base phase where consistency and structure matter more than peak output",
+    "No bike power meter on race bike\u2014watts are trainer-only for indoor sessions"
   ],
   "race_implications": [
-    "Recovery score of 78/100 and sleep inconsistency won't derail the build if addressed now, but chronic poor sleep will limit adaptation as volume climbs -- prioritize it before the base phase peaks",
-    "Threshold bike work is part of building the 2:57 bike split at 19mph -- if intervals are being skipped (even for valid reasons like holiday context), that needs to be intentional and tracked, not a pattern"
+    "Missing interval structure on a prescribed workout early in a 20-week build is a small miss, but consistency in executing planned intensity is what builds race fitness\u2014don't let these slip become a pattern",
+    "Sleep quality (7-day avg 73/100) is the largest readiness limiter\u2014Oceanside is 129 days out, and cumulative recovery debt will show up in performance if not addressed",
+    "Turkey Trot 5K tomorrow is a chance to practice controlled pacing discipline\u2014running it all-out contradicts the plan and risks carrying fatigue into the long weekend sessions"
   ],
   "recommended_adjustments": [
-    "Confirm whether today's bike intervals were executed or skipped -- if skipped, label it accurately as an easy spin rather than threshold work completed",
-    "Prioritize sleep duration and consistency this week -- target 7.5-8h nightly to lift the 7-day average back above 75",
-    "Turkey Trot Thursday: run controlled at tempo effort, not all-out race pace -- this is a fun event in a training week, not a priority race"
+    "Before next interval session: confirm the ROUVY workout is properly loaded and intervals are visible on-screen\u2014today's ride suggests the structured workout may not have been active",
+    "Prioritize sleep this week\u20147-day avg 73/100 is dragging recovery score to 78/100, and Friday/Saturday/Sunday all carry significant load",
+    "Turkey Trot 5K Thursday: run controlled at ~8:00-8:15/mi per the schedule label, not all-out race effort\u2014you have a 105min ride and 7mi run still ahead this week"
   ],
   "generatedAt": "2026-11-25",
   "daysToRace": 129,
