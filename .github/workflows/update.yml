@@ -9,7 +9,7 @@ on:
     - cron: '0 20 * * *'
     - cron: '0 2 * * *'
   workflow_dispatch:
-  # Pushing a change to this file runs a sync. Used because manual dispatch needs repo admin rights.
+  # Pushing a change to this file runs a sync. Used because manual dispatch needs repo admin rights (forced sync 2026-11-26).
   push:
     paths:
       - '.github/workflows/update.yml'
