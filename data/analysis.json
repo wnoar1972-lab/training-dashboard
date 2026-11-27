@@ -1,51 +1,50 @@
 {
-  "date": "November 26, 2026",
+  "date": "November 27, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Indoor ride completed at 69 minutes vs 60 scheduled\u2014duration exceeded target by 15%. Average speed 16.5 mph on the trainer; HR 126 avg, TSS 42. The 3\u00d78-minute intervals at 85-90% FTP were scheduled; without power data shown, can't verify interval execution, but duration and TSS suggest the workout was done. Good completion on a holiday-shortened week.",
-  "todayRecommendation": "Turkey Trot 5K is DONE\u20142.8 miles in 21 minutes (7:30/mile pace), HR 143 avg, TSS 24. That's a solid controlled effort, faster than your 70.3 race pace but not redlined. No other training scheduled today. Focus on recovery: hydration, easy movement if any, and sleep tonight. Tomorrow's swim is moved from Wednesday\u2014be ready for 2,400 yards with 4\u00d7200 steady.",
-  "weekProgress": "Week 2 of 20: 125 TSS of 340 target (37% complete) with 3 days remaining including today. The long ride (105 min Saturday) and long run (7 miles Sunday) are still ahead and will carry most of the weekly load. Progression is normal for this point in the week\u2014not behind.",
-  "keyInsight": "The Turkey Trot was run at 7:30/mile pace, well faster than your 8:33/mile race target\u2014controlled means controlled, not a time trial, and you need to protect the long run Sunday.",
+  "yesterdayAnalysis": "Turkey Trot 5K executed as planned at 2.8mi in 21min (7:30/mi pace), controlled effort with HR 143. The run was shorter than a true 5K (3.1mi), but the pace was appropriately controlled\u2014not all-out\u2014matching the session intent. This was the only training for Thanksgiving day as scheduled.",
+  "todayRecommendation": "Complete today's moved pool swim session: 2,400yd with main set 4 x 200 steady, 20s rest. This is a volume-maintenance session; hold steady effort without pushing hard, allowing legs to stay fresh for tomorrow's 105min outdoor ride with climbing work.",
+  "weekProgress": "Week 2 of 20 sits at 125 of 340 target TSS (37% complete) with two days remaining, including today. The long ride (Saturday, ~65-75 TSS) and 7mi long run (Sunday, ~50-55 TSS) will bring the week to target. This back-loaded structure is normal and on pace.",
+  "keyInsight": "Sleep quality remains the primary limiter at 70/100 7-day average\u2014six consecutive nights under 80, with Nov 22 dropping to 46/100\u2014directly impacting the recovery score of 79/100 despite strong training execution.",
   "alerts": [
-    "Turkey Trot run pace 7:30/mi is significantly faster than race target 8:33/mi\u2014watch fatigue impact on Sunday's 7-mile long run",
-    "7-day avg sleep score 71/100 remains below 80; recovery score is the largest limiter per readiness engine"
+    "Sleep score averaging 70/100 for 7 days\u2014consistently below the 80+ threshold needed for full recovery in a build phase",
+    "Nov 22 sleep scored 46/100 (7.3h with only 31min REM)\u2014a significant recovery deficit mid-week"
   ],
   "positives": [
-    "All scheduled sessions this week completed on time with good execution",
-    "Turkey Trot completed at strong pace with HR 143\u2014cardiovascular fitness holding well",
-    "Sleep rebounded to 83/100 on 2026-11-24 (8.9 hours)\u2014shows capacity for quality sleep when duration allows"
+    "All scheduled sessions completed this week with appropriate intensity and HR control",
+    "Turkey Trot run held disciplined pace at 7:30/mi (HR 143)\u2014controlled effort as planned, not an all-out race",
+    "Training adherence is 100% through five sessions this week, including the adjusted Wednesday ride and moved Friday swim"
   ],
   "recoveryScore": 6,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine overall 95/100 (run 100/100, bike 100/100, recovery 79/100)",
-    "7-day avg sleep score 71/100 from Garmin",
-    "Week TSS 125 of 340 (37%) from Intervals.icu",
-    "Turkey Trot actual: 2.8mi in 21min, HR 143, TSS 24",
-    "Yesterday ROUVY ride: 69min, 19.3mi, HR 126, TSS 42"
+    "Readiness engine: overall 94/100, recovery 79/100, run 100/100, bike 100/100, swim 90/100",
+    "Garmin sleep: 7-day avg 70/100, Nov 22 at 46/100",
+    "Week TSS: 125 of 340 (37%) with long ride/run scheduled Sat/Sun",
+    "Turkey Trot: 2.8mi, 21min, HR 143 vs scheduled 5K controlled effort"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Full week of sleep, HR, and TSS data available; readiness engine provides strong multifactor view. Confidence limited by lack of bike power data in completed rides (watts only on trainer, not shown in activity log) and no structured nutrition/subjective feel logs."
+    "level": "high",
+    "reason": "Complete activity logs with HR/TSS/distance/duration data for all sessions, structured sleep tracking across 7 nights, and readiness engine output with discipline-specific scores provide strong evidence. HRV not tracked but sleep data is sufficient for recovery assessment."
   },
   "athlete_context_considered": [
-    "Hip history (Perthes): watch back-to-back run days (Tue/Thu this week)",
-    "Walk/run protocol: continuous running from Dec 7 build, Turkey Trot was continuous",
-    "Race target run pace 8:33/mi\u2014Turkey Trot 7:30/mi is 1:03/mi faster",
-    "Recovery limiter (79/100) and 7-day sleep avg 71/100"
+    "54 years old, TRT (clinician-managed)",
+    "Perthes disease right hip\u2014stable, competing successfully, requires progressive run-load buildup",
+    "Professional bike fit completed after Oregon 70.3 to address back/foot pain",
+    "IRONMAN 70.3 Oceanside 2027-04-03 (127 days out)\u2014base build phase",
+    "Walk/run protocol: continuous running from Dec 7 build forward, no scheduled walks"
   ],
   "race_implications": [
-    "Turkey Trot pace 7:30/mi shows strong speed reserve above race target 8:33/mi, but controlling race-day pace discipline will be critical",
-    "Back-to-back run days (Tue easy 35min, Thu Turkey Trot) with no reported hip/back issues\u2014load tolerance appears stable",
-    "105-minute ride Saturday and 7-mile run Sunday will test recovery from today's faster effort"
+    "Sleep deficit is the current constraint on race readiness\u2014sustained recovery scores below 80/100 will limit adaptation to increasing TSS loads in Weeks 3-8",
+    "Run and bike execution remain strong (both 100/100 readiness)\u2014the aerobic foundation for sub-5:45 Oceanside is building correctly",
+    "Disciplined pacing on the Turkey Trot (7:30/mi controlled vs. all-out) demonstrates race-day discipline needed to hold 8:33/mi target pace without early overreach"
   ],
   "recommended_adjustments": [
-    "Prioritize 7.5-8 hours sleep tonight and Friday night to support weekend long sessions\u2014sleep score is the limiter right now",
-    "Sunday 7-mile long run: hold strictly to easy pace (9:15-9:30/mi range), do not carry Turkey Trot speed into the long run",
-    "Saturday 105-minute ride: hold outdoor pace at or below 19 mph avg\u2014any faster is a pacing-discipline red flag for race readiness"
+    "Prioritize 7.5+ hours sleep on Friday and Saturday nights to support the weekend long ride/run block\u2014back-to-back long sessions require better recovery than the current 70/100 average",
+    "If sleep quality does not improve by Week 3, consider shortening one weekday session (e.g. Tuesday easy run from 35min to 25min) to create a larger recovery window without sacrificing weekend volume"
   ],
-  "generatedAt": "2026-11-26",
-  "daysToRace": 128,
+  "generatedAt": "2026-11-27",
+  "daysToRace": 127,
   "currentWeek": 2,
   "weekPhase": "Base"
 }
