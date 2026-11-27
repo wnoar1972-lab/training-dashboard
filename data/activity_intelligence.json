@@ -799,5 +799,14 @@
     "headline": "A progressive tempo run that dropped over 3:50 per mile from start to finish",
     "analysis": "You ran negative splits with serious intent, accelerating from 10:05/mi in mile 1 down to 6:10/mi by mile 3\u2014that's nearly 4 minutes per mile faster and well under your 30-day average of 9:20/mi. Your heart rate climbed from 134 bpm to 150 bpm as you pushed the pace, topping out at 157 bpm. That final mile at 6:10 pace shows you've got another gear when you need it.",
     "relative_effort": 55.0
+  },
+  {
+    "strava_id": "21145947937",
+    "date": "2026-11-27",
+    "disc": "swim",
+    "title": "Morning Swim",
+    "headline": "Solid 2400-yard session with controlled effort and steady tempo work",
+    "analysis": "You maintained a pace of 1:54 per 100 yards over this 45.6-minute swim, right in line with your 30-day average of 1:53 per 100 yards. Your heart rate averaged 122 bpm with a max of 149, while your stroke rate held steady at 22.8 strokes per minute, showing good technical consistency throughout. The 79 suffer score reflects a meaningful training stimulus without overreaching.",
+    "relative_effort": 79.0
   }
 ]

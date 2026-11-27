@@ -540,7 +540,7 @@
   },
   {
     "date": "2026-11-26",
-    "title": "Oceanside Running",
+    "title": "Oceanside Turkey Trott ",
     "type": "Run",
     "disc": "run",
     "tss": 24.0,
@@ -548,5 +548,16 @@
     "avgHR": 143.0,
     "distance": 4579.9,
     "duration": 1308.0
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Pool Swim",
+    "type": "Swim",
+    "disc": "swim",
+    "tss": 31.0,
+    "np": 0,
+    "avgHR": 125.0,
+    "distance": 2194.6,
+    "duration": 2718.0
   }
 ]
