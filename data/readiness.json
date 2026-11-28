@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "calculation_version": "1.0.0",
   "race_type": "half_distance_triathlon",
   "current_week": 2,
@@ -7,8 +7,8 @@
   "overall_score": 96,
   "overall_status": "Strong",
   "overall_confidence": "moderate",
-  "strongest_positive_factor": "bike (100/100): Volume: 326 TSS in the last 28 days vs. an expected ~211 (blended across each week's own target in that window).",
-  "largest_limiter": "recovery (79/100): 7-day-avg sleep score is 66/100.",
+  "strongest_positive_factor": "bike (100/100): Volume: 282 TSS in the last 28 days vs. an expected ~223 (blended across each week's own target in that window).",
+  "largest_limiter": "recovery (80/100): 7-day-avg sleep score is 67/100.",
   "next_action": "Protect recovery -- keep intensity capped until sleep score and resting HR normalize.",
   "weights_used": {
     "swim": 0.225,
@@ -20,7 +20,7 @@
     "swim": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 91 TSS in the last 28 days vs. an expected ~76 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 91 TSS in the last 28 days vs. an expected ~81 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest swim session is 3801yd (180% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer swim sessions (already on the schedule) will directly raise this score.",
       "trend": "declining",
@@ -32,19 +32,19 @@
     "bike": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 326 TSS in the last 28 days vs. an expected ~211 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 282 TSS in the last 28 days vs. an expected ~223 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest bike session is 112.1mi (200% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer bike sessions (already on the schedule) will directly raise this score.",
-      "trend": "improving",
+      "trend": "declining",
       "evidence_window_days": 28,
-      "sessions_in_window": 7,
+      "sessions_in_window": 6,
       "weeks_observed": 9,
       "confidence": "moderate"
     },
     "run": {
       "score": 100,
       "status": "Strong",
-      "top_factor": "Volume: 363 TSS in the last 28 days vs. an expected ~299 (blended across each week's own target in that window).",
+      "top_factor": "Volume: 363 TSS in the last 28 days vs. an expected ~316 (blended across each week's own target in that window).",
       "top_limiter": "Race-distance exposure: longest run session is 26.2mi (200% of race distance).",
       "how_to_improve": "Race-distance exposure is the limiter, not volume -- training load is solid. Completing your upcoming longer run sessions (already on the schedule) will directly raise this score.",
       "trend": "declining",
@@ -54,14 +54,14 @@
       "confidence": "moderate"
     },
     "recovery": {
-      "score": 79,
-      "status": "Stable",
-      "top_factor": "Resting HR is 54.6 bpm, 0.7 bpm vs. the all-time baseline of 53.9 bpm.",
-      "top_limiter": "7-day-avg sleep score is 66/100.",
+      "score": 80,
+      "status": "Recovered",
+      "top_factor": "Resting HR is 54.6 bpm, 0.8 bpm vs. the all-time baseline of 53.8 bpm.",
+      "top_limiter": "7-day-avg sleep score is 67/100.",
       "how_to_improve": "Sleep quality is the limiter -- prioritize consistent bed/wake times and duration over the next week or two; this responds faster than most training changes.",
       "trend": "declining",
       "evidence_window_days": 28,
-      "nights_in_window": 28,
+      "nights_in_window": 27,
       "confidence": "moderate",
       "note": "HRV, body battery, and training readiness are not yet ingested from Garmin -- recovery score is based on sleep score, resting HR deviation, and SpO2 only."
     }
