@@ -2,49 +2,43 @@
   "date": "November 27, 2026",
   "overallStatus": "On Track",
   "statusColor": "green",
-  "yesterdayAnalysis": "Turkey Trot 5K executed as planned at 2.8mi in 21min (~7:30/mi pace), controlled effort at HR 143. This was appropriately run below threshold as a tempo-pace race within a training week, not an all-out 5K. Distance was slightly short of a full 5K (3.1mi), but the controlled pacing and effort level matched the session intent perfectly.",
-  "todayRecommendation": "Today's swim is complete \u2014 2,400yd in 45min at HR 125, hitting the prescribed distance and main set of 4 x 200. Recovery focus tonight: Saturday's 105min long ride with 3 x 4min climbs and nutrition practice is the week's biggest remaining load. Sleep score improved to 82 last night; prioritize another 8+ hours tonight to stay fresh for tomorrow.",
-  "weekProgress": "Week 2 of 20 sits at 156 of 340 target TSS (46% complete) with 2 days remaining. The long ride Saturday (est. ~90-100 TSS) and 7-mile long run Sunday (est. ~65-75 TSS) will push the week close to or slightly above target \u2014 normal back-loaded distribution for a base-build week with Thursday race insertion.",
-  "keyInsight": "Sleep recovery is the current limiter: 7-day average is 72/100 (readiness engine flags recovery at 79/100), driven by three nights at 65-75 scores and one at 46 \u2014 prioritize 8+ hours tonight and Sunday to support the weekend's long sessions.",
+  "yesterdayAnalysis": "Turkey Trot 5K completed at 2.8mi in 21min (~7:30/mi pace) with HR 143 -- this was run controlled as scheduled, not all-out, and delivered 24 TSS. Pace was appropriately faster than training runs but not a race effort, exactly what was asked for on Thanksgiving morning. Good discipline holding back on what could have been pushed harder.",
+  "todayRecommendation": "Today's 2,400yd pool swim is already complete -- executed as scheduled with 31 TSS and HR 125 over 45min, matching the moved-from-Wednesday slot perfectly. Recovery today should focus on sleep (last night was 82/100, strong rebound from the prior two nights at 73-75) and prep for tomorrow's 105min outdoor long ride with nutrition practice and 3x4min climbs.",
+  "weekProgress": "Week 2 of 20 is tracking at 156 of 340 TSS (46% complete) with two days remaining including today. This percentage is normal for a Friday in a week with the long ride (Sat 105min) and long run (Sun 7mi) still ahead -- those two sessions alone will close the gap if executed as planned.",
+  "keyInsight": "Sleep rebounded sharply to 82/100 last night after two consecutive nights at 73-75, which is critical heading into the weekend's long sessions -- keep prioritizing rest through Sunday.",
   "alerts": [
-    "Sleep average 72/100 over last 7 days \u2014 two big weekend sessions ahead require better rest tonight",
-    "Saturday's long ride includes nutrition practice \u2014 confirm race fueling plan (chews every 20min) is packed and ready"
+    "7-day average sleep score remains 72/100, still below the recovery limiter threshold (79/100) flagged by readiness engine",
+    "Weekend long ride (105min) and long run (7mi) must both execute to hit weekly TSS target -- no room for skips"
   ],
   "positives": [
-    "Turkey Trot pacing discipline was excellent \u2014 controlled 7:30/mi effort vs racing all-out shows race-within-training maturity",
-    "Swim execution has been consistent \u2014 both pool sessions this week hit 2,400yd targets with prescribed main sets completed",
-    "Build is on schedule after Cabo return \u2014 no missed sessions, TSS tracking normally for a back-loaded week"
+    "Turkey Trot controlled at ~7:30/mi pace shows developing speed without overreach -- appropriate effort discipline",
+    "All five scheduled sessions Mon-Fri completed exactly as written, including Wednesday's moved swim slot",
+    "Sleep duration last night (8.6h) was longest of the week and pushed score back above 80"
   ],
   "recoveryScore": 7,
   "trainingLoadStatus": "Optimal",
   "evidence": [
-    "Readiness engine (recovery 79/100, bike 100/100, run 100/100, swim 100/100)",
-    "Garmin sleep scores (7-day avg 72/100, range 46-83)",
-    "Week TSS 156 of 340 target (46% complete, 2 days remaining)",
-    "Turkey Trot actual: 2.8mi in 21min at HR 143",
-    "Today's swim actual: 2,400yd in 45min at HR 125"
+    "Readiness engine (recovery 79/100, bike 100/100, run 100/100)",
+    "Week TSS 156/340 from CURRENT TRAINING STATUS",
+    "Garmin sleep scores (7-day avg 72/100, last night 82/100)",
+    "Actual vs scheduled from LAST 7 DAYS and TODAY'S ACTIVITY LOG"
   ],
   "confidence": {
-    "level": "moderate",
-    "reason": "Sleep data is complete and shows clear recovery pattern; training execution is clean and on-schedule through 5 days; confidence limited by lack of HRV tracking and no race-week comparison data yet in this build cycle."
+    "level": "high",
+    "reason": "Complete activity logs for all five scheduled sessions this week, Garmin sleep data for every night, and readiness engine metrics with moderate confidence -- only limitation is lack of HRV trend data and detailed nutrition logging."
   },
   "athlete_context_considered": [
-    "Age 54, TRT-managed recovery",
-    "Hip history (Perthes) \u2014 monitoring back-to-back run days (Tue/Thu this week, no issues flagged)",
-    "Oceanside 70.3 target (127 days out, Week 2 of 20 base build)",
-    "Run fueling protocol (every 20min) being practiced Sunday",
-    "Professional bike fit completed post-Oregon"
+    "Week 2 of 20 base build after Cabo vacation",
+    "Hip history (Perthes) -- monitoring back-to-back run days (Tue/Thu this week, no issues)",
+    "Walk/run protocol -- all runs continuous as scheduled",
+    "Oceanside 70.3 race target (127 days out)"
   ],
   "race_implications": [
-    "Sleep discipline now sets the foundation for absorbing higher loads in Weeks 10-16 \u2014 recovery score of 72/100 is workable but not optimal for a 20-week build trajectory",
-    "Turkey Trot pacing control (7:30/mi controlled vs 8:33/mi race target) demonstrates the athlete can hold discipline under race stimulus \u2014 critical for avoiding bike overpacing at Oceanside",
-    "Consistent swim execution (2 x 2,400yd on target this week) keeps the 0:45 ocean swim goal realistic if open-water sighting and race-day goggle testing continue"
+    "Controlled Turkey Trot effort demonstrates emerging run speed (7:30/mi) well ahead of race target pace (8:33/mi), suggesting aerobic headroom",
+    "Consistency through five straight sessions in Thanksgiving week shows discipline and routine re-establishment post-vacation",
+    "Sleep management remains the clearest performance lever -- averaging 72/100 leaves adaptation capacity on the table heading into peak weeks"
   ],
-  "recommended_adjustments": [
-    "Target 8+ hours sleep both Friday and Saturday nights to support weekend long sessions and reverse the 72/100 7-day trend",
-    "Saturday ride: confirm nutrition plan is packed (chews every 20min) and treat this as a dress rehearsal for race fueling timing, not just calorie intake",
-    "Sunday long run: watch for any hip or back soreness after Thursday Turkey Trot (2 runs in 3 days) \u2014 if present, note the association in training log but do not alter Sunday distance unless pain is limiting"
-  ],
+  "recommended_adjustments": [],
   "generatedAt": "2026-11-27",
   "daysToRace": 127,
   "currentWeek": 2,
